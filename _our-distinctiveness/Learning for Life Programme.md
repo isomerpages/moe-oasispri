@@ -149,3 +149,19 @@ Over the last 2 years, we have overcome many challenges posed by the pandemic, a
   
 
 This year, we are proud to appoint 115 prefects during our annual Prefects Investiture ceremony. Among them are 10 senior prefects who have been promoted based on continued good performance and dedicated service, 8 Vice-Head prefects who were selected based on exemplary performance, and 3 Head Prefects who were voted in by peers and endorsed by the school staff to lead the prefects according to 3 sub-areas, Safe & Secure@Oasis, Sustainable Oasis & Holistic Wellbeing.
+
+**Head Prefects**
+
+**Sub-area 1** - Rena Soh Yin En <br>
+**Sub-area 2** - Lee Jia Le Ethan <br>
+**Sub-area 3** - Umar Bin Nur Muhammad
+
+  
+
+**Vice-Head Prefects**
+
+**Sub-area 1** - Chen Kian Kyle & Sean Cheng Yue Kai <br>
+**Sub-area 2** - Myiesha Dahlia Binte Hadianto, Isabelle Cheng Si Yan & Ng Sim Wun, Chloe <br>
+**Sub-area 3** - Nur Iman Binte Muhammad Fadhly, Angela Oh Si Jing & Ho Louis
+
+![](/images/LLP7.png)
