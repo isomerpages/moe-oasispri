@@ -54,3 +54,37 @@ Everybody participated in the English Language segment of the ‘End It Well!’
 To end the day, the whole school synergised to clean up their classrooms during ‘Use Your Hands’ segment. Everybody was enthusiastic and looked forward to leave a clean classroom for the next batch. It was truly a day that ended well.
 
 ![](/images/LLP3.png)
+
+### TLiM Celebrations
+
+During TLiM Celebrations, students carried out various activities to consolidate the learning of the 7 Habits in The Leader in Me at the end of the year. TLiM empowers Oasians with leadership and life skills they need to thrive in life.
+
+  
+
+The Primary 1 students practised **Habit 2: Begin with the End in Mind** to string macaroni beads into a bracelet of a desired design. They also practised **Habit 6: Synergize** to solve a puzzle on the iPad with their peers. The Primary 2 students incorporated the 7 Habits to modify a lyric of a song of their choice. In the process of modifying the lyrics, students are also encouraged to demonstrate the 7 Habits.
+
+  
+
+The Primary 3 students were engaged in Comic Strip making to practise **Habit 3: Put First Things First** and **Habit 4: Think Win-Win** as they complete the assigned task. Students were also given a chance to view their peers' masterpieces in a Gallery Walk. The Primary 4 students applied **Habit 5: Seek First to Understand, then to be Understood** and **Habit 6: Synergize** to plan and demonstrate activities to promote an Inclusive Oasis. Students were also given a chance to try out the activities planned by their peers from other classes.
+
+![](/images/LLP4.png)
+
+### Role Specific Training For Tier 2 Student Leaders
+
+It is our belief that every student has the potential to develop leadership skills, and the training of leadership skills should be intentional.  
+
+This year, Student Leadership Committee worked closely with various departments to conduct role specific training once a semester to equip Tier 2 leaders with the necessary skills to carry out their duties.
+
+![](/images/LLP5.png)
+
+### Leadership Training & Changemaker Workshop For Tier 3 Student Leaders
+
+  
+
+To enhance prefects’ leadership competencies, a series of leadership training was provided to help prefects learn critical thinking and problem solving skills.  
+
+  
+
+Changemaker workshops were another important series of training to bring prefects through Design Thinking strategies and scaffolding and facilitating the process of Changemaker projects for the prefects.
+
+![](/images/LLP6.png)
