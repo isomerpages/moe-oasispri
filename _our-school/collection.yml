@@ -2,6 +2,7 @@ collections:
   our-school:
     output: true
     order:
+      - School Crest.md
       - Our Oasians.md
       - School Values.md
       - School Vision, Mission & Motto.md
