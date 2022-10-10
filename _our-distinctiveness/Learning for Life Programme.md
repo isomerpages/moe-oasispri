@@ -165,3 +165,49 @@ This year, we are proud to appoint 115 prefects during our annual Prefects Inves
 **Sub-area 3** - Nur Iman Binte Muhammad Fadhly, Angela Oh Si Jing & Ho Louis
 
 ![](/images/LLP7.png)
+
+### Changemaker Projects
+
+The Changemaker Projects aim to nurture empathetic student leaders, who are confident in leading their schoolmates in a series of impactful actions for a meaningful cause within the school and community.
+
+In 2021, all our prefects underwent a 3 days’ Changemaker workshop during the June holiday. They learnt Design Thinking protocol during the workshop and conceptualised Changemaker projects to create positive changes to the people around them.
+
+![](/images/LLP8.png)
+
+### P3 Prefects Changemaker Project - Love In A Bag
+
+Our P3 prefects decided to do a project to show their appreciation towards their teachers in school. The prefects brainstormed the type of gifts to present to their teachers. After initiating a short survey with teachers to understand their needs, they decided to personalise tote bags to present to the teachers. The prefects felt a sense of achievement and satisfaction as they were able to show appreciation to their teachers through the personalised gifts that they prepared and presented.
+
+![](/images/LLP9.png)
+
+**P4 Prefects Changemaker Project - Teachers’ Day eConcert**
+
+Our P4 prefects exhibited their critical and creative thinking skills as they took charge of the Teachers’ Day Virtual Concert to show gratitude to their teachers. They took ownership to create their e-concert videos collaboratively in their respective teams as they sharpened their leadership skills along the project. They showcased innovative mindsets to present creative performances and activities, especially when they do not have a physical stage to perform on. The project encouraged planning and decision-making as a team. Despite limited resources and time, the P4 prefects were able to put up an amazing e-Concert video successfully to celebrate the joyous day!
+
+![](/images/LLP10.png)
+
+**P5 & P6 Sub-area 1 Prefects Changemaker Project - Fake Or Real**
+
+Technology becomes part of our lives as society progresses and people are exposed to fake news every day. Fake news regarding Covid 19 were being circulated and such circulation affected parents, students and even staff members. This motivates the P5 & P6 Prefects in wanting to help others to learn how to differentiate fake news from real news. The team created a video toolkit with an online game to educate Oasians about fake news. Level competitions were held for P3, P4 and P6 students to challenge schoolmates to design creative taglines, jingles and raps to remind others to guard against fake news. The level competitions received overwhelming responses from students. This project clinched the Silver Award in the National Cyberwelless Advocacy Challenge and the Top 3 Award in the 12th Design For Change Singapore Challenge 2021.
+
+![](/images/LLP11.png)
+
+**P5 & P6 Sub-area 2 Prefects Changemaker Project - Renew, Refresh, Reinvent**
+
+Students of Oasis Primary School noticed that food packaging goes to waste after food is being consumed it is thrown at a rapid speed and this leads to large volume of waste accumulated every day.
+
+Our sub-area 2 prefects decided to create instructional video to teach on how to upcycle, and hold level competitions to motivate their peers to start upcycling.
+
+The team put together a SLS toolkit that consist of various instructional videos to educate Oasians on the impact of food packaging waste on the environment, as well as demonstrate ways on upcycling everyday food packaging waste. This helped students to increase their awareness and encourage positive steps to take in upcycling food packaging. Parents were very supportive of the project and many of them worked together with their children to create upcycled items to participate in the level competition.
+
+This project clinched the Gold Award in the National Youth Upcycling Movement 2021.
+
+![](/images/LLP12.png)
+
+**P5 & P6 Sub-area 3 Prefects Changemaker Project -Secret Mail & A Dose of Laughter**
+
+To encourage school mates to be positive and resilient when they are experiencing new norms during the pandemic, and to help them beat stress, our sub-area 3 prefects came out with the idea of having a secret mail channel for school mates to write about their problems. The prefects also prepared a set of jokes video with their family as "Dose Of Laughters" segment in SLS for all students to view and have their mood lighten during the HBL period.  
+
+This project received special mention during the 12th Design For Change Singapore Challenge 2021.
+
+![](/images/LLP13.png)
