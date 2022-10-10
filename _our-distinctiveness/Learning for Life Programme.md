@@ -14,3 +14,27 @@ Oasis Primary School leverages on ‘Lead with a Heart, Changemakers for The Fut
   
 
 More importantly, the school aims to develop leaders who inspire all to lead with a heart guided by the school values of Respect, Responsibility, Resilience, Integrity, Care and Harmony (R3ICH values). Through the student’s initiated projects and other purposefully designed activities, our students learn to be Active Contributor and Concerned Citizens.
+
+![](/images/LLP.png)
+
+### Start It Right! Programme
+
+Oasians welcomed 2022 with our signature programme, Start It Right! Each programme was designed to meet the needs of each level. The objectives of these programmes were
+
+
+* Self-management
+
+* Student Leadership - The Leader in Me
+
+* Strengthening Teacher-student and Student-student Relationships
+
+* Safe and Conducive Learning Environment
+
+* School Wide Positive Behaviour 
+
+
+The Year Heads gave a Zoom talk for the respective levels where they welcomed the students back to school and set the school’s expectations. Together with their form teachers, the students planned their S.M.A.R.T goals and set targets for their SHINE@Oasis. Besides that, the students also decorated their classrooms together.
+
+  
+
+The students enjoyed the programme tremendously. They looked forward to school and were ready for 2022.
