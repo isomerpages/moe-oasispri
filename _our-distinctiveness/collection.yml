@@ -1,4 +1,5 @@
 collections:
   our-distinctiveness:
     output: true
-    order: []
+    order:
+      - Oasis Learning Experiences.md
