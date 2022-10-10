@@ -2,4 +2,5 @@ collections:
   our-distinctiveness:
     output: true
     order:
+      - Learning for Life Programme.md
       - Oasis Learning Experiences.md
