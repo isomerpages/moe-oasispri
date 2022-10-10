@@ -88,3 +88,64 @@ To enhance prefects’ leadership competencies, a series of leadership training 
 Changemaker workshops were another important series of training to bring prefects through Design Thinking strategies and scaffolding and facilitating the process of Changemaker projects for the prefects.
 
 ![](/images/LLP6.png)
+
+### Achievements
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-h1v5{background-color:#FFF;color:#002D46;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-vd2a{background-color:#FFF;color:#002D46;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-h1v5">Year</th>
+    <th class="tg-h1v5">Event</th>
+    <th class="tg-h1v5">Award</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-vd2a">2021</td>
+    <td class="tg-vd2a">National Cyberwelless Advocacy Challenge</td>
+    <td class="tg-vd2a">Silver Award</td>
+  </tr>
+  <tr>
+    <td class="tg-vd2a">2021</td>
+    <td class="tg-vd2a">12th Design For Change Singapore Challenge 2021<br></td>
+    <td class="tg-vd2a">Top 3 Award</td>
+  </tr>
+  <tr>
+    <td class="tg-vd2a">2021</td>
+    <td class="tg-vd2a">National Youth Upcycling Movement 2021<br></td>
+    <td class="tg-vd2a">Gold Award</td>
+  </tr>
+  <tr>
+    <td class="tg-vd2a">2020</td>
+    <td class="tg-vd2a">11th Design For Change Singapore Challenge (COVID related projects category)<br></td>
+    <td class="tg-vd2a">Special Prize</td>
+  </tr>
+  <tr>
+    <td class="tg-vd2a">2019</td>
+    <td class="tg-vd2a">10th Be The Change Celebration<br></td>
+    <td class="tg-vd2a">Certificate of Participation</td>
+  </tr>
+  <tr>
+    <td class="tg-vd2a">2019</td>
+    <td class="tg-vd2a">LOO (Let’s Observe Ourselves) Award<br></td>
+    <td class="tg-vd2a">Platinum STAR Schools Award</td>
+  </tr>
+</tbody>
+</table>
+
+### Prefects Investiture 2022
+
+Over the last 2 years, we have overcome many challenges posed by the pandemic, and we came out with creative solutions to ensure all teaching and learning experiences were not compromised. Our prefects have also continued to serve the school, and created positive impact to the school community through their Changemaker Projects despite the constraints, living up to the spirit of Lead With A Heart, Changemakers For The Future.
+
+  
+
+This year, we are proud to appoint 115 prefects during our annual Prefects Investiture ceremony. Among them are 10 senior prefects who have been promoted based on continued good performance and dedicated service, 8 Vice-Head prefects who were selected based on exemplary performance, and 3 Head Prefects who were voted in by peers and endorsed by the school staff to lead the prefects according to 3 sub-areas, Safe & Secure@Oasis, Sustainable Oasis & Holistic Wellbeing.
