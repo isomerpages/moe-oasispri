@@ -38,3 +38,19 @@ The Year Heads gave a Zoom talk for the respective levels where they welcomed th
   
 
 The students enjoyed the programme tremendously. They looked forward to school and were ready for 2022.
+
+![](/images/LLP2.png)
+
+### End it Well! Programme
+
+The school was full of bustle and excitement on the second last day of school. All students from the six levels participated in ‘End It Well!’ Programme and tremendously enjoyed themselves. During the ‘Sharpen the Saw’ segment, besides revisiting the 7 Habits, students also relooked at their goals for the year. Some levels set S.M.A.R.T goals while others learn more about the Growth Mindset.  
+
+  
+
+Everybody participated in the English Language segment of the ‘End It Well!’ Programme. The series of activities were planned for all the students to challenge themselves, synergise and collaborate with their peers. The lower primary students were involved in the ‘Stories Come Alive!’ while the middle primary students took part in ‘Wonka’s Mystery Box Challenge’ and ‘Wonder Escape Room (Virtual)’. The upper primary students immersed themselves in the ‘Mad World of Media’.
+
+  
+
+To end the day, the whole school synergised to clean up their classrooms during ‘Use Your Hands’ segment. Everybody was enthusiastic and looked forward to leave a clean classroom for the next batch. It was truly a day that ended well.
+
+![](/images/LLP3.png)
