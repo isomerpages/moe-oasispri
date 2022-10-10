@@ -2,5 +2,6 @@ collections:
   our-distinctiveness:
     output: true
     order:
+      - Place Based Learning.md
       - Learning for Life Programme.md
       - Oasis Learning Experiences.md
