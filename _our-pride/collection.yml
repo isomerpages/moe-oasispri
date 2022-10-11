@@ -2,6 +2,7 @@ collections:
   our-pride:
     output: true
     order:
+      - Students Achievements/Achievements 2019.md
       - Students Achievements/Achievements 2020.md
       - Students Achievements/Achievements 2021.md
       - Students Achievements/Achievements 2022.md
