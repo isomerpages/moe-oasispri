@@ -2,5 +2,6 @@ collections:
   our-pride:
     output: true
     order:
+      - Students Achievements/Achievements 2021.md
       - Students Achievements/Achievements 2022.md
       - Students Achievements/.keep
