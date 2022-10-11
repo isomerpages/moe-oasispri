@@ -2,4 +2,5 @@ collections:
   mk-oasis:
     output: true
     order:
+      - MK Environment.md
       - MK Curriculum.md
