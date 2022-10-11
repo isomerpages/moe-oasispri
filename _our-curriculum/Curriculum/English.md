@@ -45,6 +45,112 @@ Launch of the New Space in the Library
 **Zone B: Terrace Steps**
 
 <img src="/images/ZoneB1.jpg" 
-     style="width:48%" align="left">
+     style="width:49%" align="left">
 <img src="/images/ZoneB2.jpg" 
-     style="width:48%" align="right">
+     style="width:49%" align="right">
+		 
+
+		 
+**Zone C: Learning Islands**
+
+<img src="/images/ZoneC.jpg" 
+     style="width:60%">
+		 
+**Zone D: The Odyssey Of the Mind**
+
+<img src="/images/ZoneD1.jpg" 
+     style="width:50%" align="left">
+<img src="/images/ZoneD2.jpg" 
+     style="width:50%" align="right">
+
+
+
+### Oasis Book Day
+
+
+We are celebrating our Second Oasis Book Day this year. Both the English and Mother Tongue Departments would like to encourage all students to read more storybooks and participate in the various activities specially organized for them.
+
+  
+
+**1) OASIS BOOK DONATION (For All Staff & Students)**  
+
+**When:** T2W5-W8 (18 April to 13 May)  
+
+**What:** Storybooks and magazines (no newspaper or damaged reading materials)
+
+**Target:** 300 books
+
+![](/images/OBD1.jpg)
+
+**2) OASIS BOOK DAY POSTER DESIGN COMPETITION**
+
+  
+
+Samples of winning entries:-
+
+
+<img src="/images/poster%20design.png" 
+     style="width:70%">
+<img src="/images/poster%20design%202.png" 
+     style="width:70%">
+
+### Key Programmes
+
+**Be Engaged About Reading (B.E.A.R) Programme**
+
+  
+
+Students will embark on the B.E.A.R Programme for an entire week each year.
+
+  
+
+The objective of the programme is to deepen students’ appreciation of the language and be interested in reading through the different meaningful activities. Examples of the activities conducted include:
+
+  
+
+*   Recess Activity: Taboo Game
+*   Recess Activity: Toss and Form a Word
+*   Recess Activity: Hot-Seating: ‘Question the Character’
+*   Classroom Activity: Spelling Bee Competition
+*   Classroom Activity: Reading Plan
+
+  
+
+Reading is also promoted through other platforms here at Oasis. New library books are introduced to all students during talks and sharing conducted by teachers and students. Books are recommended to students on a regular basis to inculcate the love for reading.
+
+![](/images/bear%20programme.png)
+
+**Literature Is Alive @ Oasis**
+
+  
+
+Literature holds a prominent role in children's personal development since the reader becomes emotionally attached with the story and this has positive effects not only on the personal growth but also on the whole learning process.
+
+  
+
+Through our Literature programme, students are taught to appreciate and analyse good language use and to be sensitive and empathetic towards others through the stories of the lives of the characters.
+
+  
+
+**A Reader-Centred Approach**
+
+  
+
+Students to be free to deal with their own reactions to the text. The aesthetic response to a literary work is primary and inviolable. There are no right, wrong or definitive interpretations of a text. Each reader brings meaning from the text through his or her unique transaction, because each brings to the process particular experience of life and other texts. (Rosenblatt, 1938)
+
+![](/images/KP2A1.png)
+
+**Book Character Day**
+
+On Book Character Day, students and staff dress up as their favourite characters from books they love. We bring the book that our character is in and we have a parade around the school! From the Rainbow Fish to the Cheshire cat in Alice in Wonderland, students get to share with each other the characters they are dressed up as and are introduced to many more books on this day! It’s a blast! So much fun and creativity to promote the love of reading!
+
+![](/images/BCD.png)
+
+### English Language Teaching Showcase
+
+Our unique English Language Teaching and Learning at Oasis Primary School, particularly our Literature Comes Alive curriculum! Catch a glimpse of our students’ critical and creative thinking at work and their lively appreciation of the programme. Hear our joyful teaching experiences and how our teachers instil the love of reading in our Oasians!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XQvG0BkfiFQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sVPpHI8GNLA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
