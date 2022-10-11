@@ -1,0 +1,4 @@
+collections:
+  mk-oasis:
+    output: true
+    order: []
