@@ -2,6 +2,7 @@ collections:
   our-pride:
     output: true
     order:
+      - Staff Achievements/Achievements 2021.md
       - Staff Achievements/Achievements 2022.md
       - Staff Achievements/Staff Achievements.md
       - Staff Achievements/.keep
