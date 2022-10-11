@@ -46,3 +46,123 @@ description: ""
 
 <img src="/images/hair%20for%20boys.png" 
      style="width:70%">
+		 
+*   Hair must be neatly cropped, combed, short and neat. It should not touch the eyebrows or collar.
+*   The back of the hair must be sloped and squared (no ‘tail’).
+*   Spiky, punky, outlandish or coloured hair is not allowed.
+
+<u>Hair for Girls</u>
+
+<img src="/images/hair%20for%20girls.png" 
+     style="width:70%">
+		 
+*   Short hair should be kept neat. It should not touch the collar.
+*   Shoulder-length or long hair must be neatly tied up into a pony tail or plaited. Only black or dark blue hair band/ ribbon/rubber band/ hair clip is allowed.
+*   Fringe must be short and above the eyebrows. Long fringe must be clipped up neatly.
+*   Spiky, punky, outlandish or coloured hair is not allowed.
+
+  
+
+<u>Fingernails</u>
+
+*   Fingernails must be short, clean and unpainted. No nail polish is allowed.
+
+  
+
+<u>Accessories</u>
+
+*   Only a pair of simple gold or silver ear-studs is allowed.
+*   Friendship bands and rings are not allowed.
+*   No other accessories are allowed.
+
+### Primary 1, Primary 2 and Primary 3
+
+Primary 1 and Primary 2 students are to wear Junior uniform every day, including days with PE lessons. Primary 3 students are to wear Junior uniform every day except for House Practices, PE lessons or Sports CCA.
+
+![](/images/uniform.png)
+
+**PE Attire**
+
+Primary 3 are to wear PE attire for PE lessons, House Practice and Sports CCA.
+
+![](/images/pe%20attire.png)
+
+### Primary 4, Primary 5 and Primary 6
+
+Primary 4 and Primary 5 students are to wear their school uniform on days with no House Practice, CCA and PE lessons.
+
+![](/images/uniform%202.png)
+
+**PE Attire**
+
+![](/images/PE%20attire%202.png)
+
+### Conduct
+
+
+<u>Attendance and Punctuality</u>
+
+*   All students are expected to be punctual for school. They must be seated in the assembly area by 7.30 a.m.
+*   Students will be considered late for school if he/she is not present in the assembly area by 7.35 a.m.
+*   All students must attend school regularly.
+*   Attendance at the Flag Raising and Pledge-Taking Ceremony is compulsory for all students.
+
+  
+
+<u>Assignments</u>
+
+*   Assignments are to be handed in on time.
+
+  
+
+<u>Permission Tags</u>
+
+*   Students are not allowed to leave the classroom without their teacher’s approval.
+*   Permission tags are to be worn when leaving the classroom.
+
+  
+
+<u>School Property</u>
+
+*   Vandalising the school property is a serious offence.
+
+  
+
+<u>Appropriate Conduct</u>
+
+*   Students are expected to develop self-discipline and good manners.
+*   Students are not to leave the school premises during school hours
+*   Students are not allowed to run and shout in the school premises.
+*   Students are not allowed to stay in the classroom during recess unless a teacher is present.
+
+  
+
+*   Students must:
+
+	* Queue up in an orderly manner when ordering food.
+	* Return all eating utensils at the designated places.
+	* Consume all food and drinks in the canteen.
+	* Keep the school premises clean.
+	* Walk on the left side.
+	* Walk silently and orderly along the corridor.
+	* Obey and respect all teachers, support staff, class and student leaders, and parents.
+	* Behave well and be courteous in and outside the school premises.
+
+  
+
+Students are not allowed to bring the following items to school:  
+
+* Hand-held games
+* Card games
+* MP3 players
+* Metal rulers
+* Laser pointers
+* Sharp-pointed objects
+* Pen-knife
+* Matches/ lighters
+* Mobile phones and electronics gadget that can be used for communication
+* Items that are considered dangerous or inappropriate in school
+
+  
+
+*These will be kept for safekeeping and will only be returned when parents come to school to collect them.
