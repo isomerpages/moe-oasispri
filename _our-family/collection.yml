@@ -2,4 +2,5 @@ collections:
   our-family:
     output: true
     order:
+      - Teaching Staff.md
       - School Leaders.md
