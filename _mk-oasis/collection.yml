@@ -2,6 +2,7 @@ collections:
   mk-oasis:
     output: true
     order:
+      - MK Virtual Open House.md
       - MK Forms.md
       - Parents' Accolades.md
       - Contact MK@Oasis.md
