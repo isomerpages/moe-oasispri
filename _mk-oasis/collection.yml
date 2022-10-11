@@ -1,4 +1,5 @@
 collections:
   mk-oasis:
     output: true
-    order: []
+    order:
+      - MK Curriculum.md
