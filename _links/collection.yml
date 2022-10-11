@@ -2,7 +2,7 @@ collections:
   links:
     output: true
     order:
-      - Useful Links.md
       - Links.md
       - 2022 Virtual Open House.md
       - 2022 P1 Cohort Orientation.md
+      - Useful Links.md
