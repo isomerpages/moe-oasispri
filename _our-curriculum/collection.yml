@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Curriculum/Information & Communication Technology.md
       - Curriculum/Character & Citizenship Education.md
       - Curriculum/Aesthetics.md
       - Curriculum/Science.md
