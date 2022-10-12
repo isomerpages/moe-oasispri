@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Visual & Performing Arts/Contemporary Dance.md
       - Visual & Performing Arts/Drama.md
       - Visual & Performing Arts/Guitar Club.md
       - Visual & Performing Arts/.keep
