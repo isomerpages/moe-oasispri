@@ -2,5 +2,6 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Curriculum/Mathematics.md
       - Curriculum/English.md
       - Curriculum/.keep
