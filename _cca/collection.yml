@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Clubs & Societies/Language & Cultural Club.md
       - Clubs & Societies/Media Club.md
       - Clubs & Societies/ICT Club.md
       - Clubs & Societies/Green Makers.md
