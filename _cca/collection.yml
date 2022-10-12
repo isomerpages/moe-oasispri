@@ -2,7 +2,7 @@ collections:
   cca:
     output: true
     order:
-      - Clubs/Clubs.md
+      - Clubs/Clubs & Societies.md
       - Clubs/.keep
       - Co Curricular Activities.md
       - Achievements.md
