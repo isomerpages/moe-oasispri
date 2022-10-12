@@ -128,10 +128,3 @@ Discover the joy of learning the Mother Tongue language and culture at Oasis Pri
 </table>
 
 
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
