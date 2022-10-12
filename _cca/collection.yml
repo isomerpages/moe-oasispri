@@ -2,9 +2,9 @@ collections:
   cca:
     output: true
     order:
-      - Clubs/Green Makers.md
-      - Clubs/Clubs & Societies.md
-      - Clubs/.keep
+      - Clubs & Societies/Green Makers.md
+      - Clubs & Societies/Clubs & Societies.md
+      - Clubs & Societies/.keep
       - Co Curricular Activities.md
       - Achievements.md
       - CCA Schedule.md
