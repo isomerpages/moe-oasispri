@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Uniformed Group/.keep
       - Visual & Performing Arts/Visual & Performing Arts.md
       - Visual & Performing Arts/Visual Arts.md
       - Visual & Performing Arts/Guzheng.md
