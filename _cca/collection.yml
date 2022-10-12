@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Visual & Performing Arts/Visual Arts.md
       - Visual & Performing Arts/Guzheng.md
       - Visual & Performing Arts/Contemporary Dance.md
       - Visual & Performing Arts/Drama.md
