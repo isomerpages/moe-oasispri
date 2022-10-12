@@ -2,5 +2,6 @@ collections:
   cca:
     output: true
     order:
+      - CCA Schedule.md
       - Achievements.md
       - Co Curricular Activities.md
