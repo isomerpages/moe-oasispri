@@ -93,3 +93,151 @@ To further strengthen the advocacy on caring for the environment and harmony in 
 Our P6 students had the opportunity to reach out to residents of Peacehaven Nursing Home.  Through the VIA, they learnt to be grateful for what they have. The objective of the VIA is for students to put together a ‘Blessing’ care package for the residents. In 2021, they prepared 450 care packages of food items. They contributed food items as well. They designed and wrote well wishes on cards which were given in each care package. The students found the project meaningful and engaging.
 
 ![](/images/p6%20via.png)
+
+**Social Studies in Oasis**
+
+Social Studies (SS) in Oasis Primary seeks to develop students as informed, concerned and participative citizens, competent in decision-making with an impassioned spirit to contribute responsibly to the society and world we live in. This is aligned to the Singapore SS Curriculum.
+
+  
+
+Our students’ learning is based on three broad clusters, as reflected in the SS syllabus:
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-h1v5{background-color:#FFF;color:#002D46;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-vd2a{background-color:#FFF;color:#002D46;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-h1v5">Title</th>
+    <th class="tg-h1v5">Cluster of Study</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-vd2a">Primary 1 and 2</td>
+    <td class="tg-vd2a">Discovering Self and Immediate Environment</td>
+  </tr>
+  <tr>
+    <td class="tg-vd2a">Primary 3 and 4</td>
+    <td class="tg-vd2a">Understanding Singapore in the Past and Present</td>
+  </tr>
+  <tr>
+    <td class="tg-vd2a">Primary 5 and 6<br></td>
+    <td class="tg-vd2a">Appreciating Singapore, the Region and the World We Live In<br></td>
+  </tr>
+</tbody>
+</table>
+
+**NE Bulletin Discussion Lessons**
+
+In addition to the formal SS curriculum, Oasians take part in classroom discussions about contemporary issues through NE Bulletin Discussion Lessons. These lessons are conducted with the aim of getting students to be more informed citizens who are aware of what is happening around them. Oasians also participate in classroom discussions where they share their thoughts, ideas and beliefs about the contemporary issues raised.
+
+  
+
+**Place-based Learning**
+
+Place-based Learning is also part of the SS curriculum in Oasis Primary School. Primary 3 and 4 students will visit Storey 3 “Our Heritage Trail” mural walls to learn more about Singapore’s past and how our founding fathers have contributed to the independence of Singapore.
+
+  
+
+In 2022, Place-based Learning for SS will be introduced to Primary 6 students. Students will visit Storey 5 “Oasis Global Explorer” mural wall to learn more about the sustainable goals of the United Nations through a gamified experience. The experience supports the teaching and learning of SS lessons, focusing on the theme of ‘Sustainability’. It is aligned with the third cluster of study in SS, ‘Appreciating Singapore, the Region and the World We Live in”, where students learn about the diverse and global physical environment in the world they live in.
+
+![](/images/PBL2.png)
+
+**Commemorating Total Defence Day**
+
+  
+
+Schools commemorate Total Defence Day on 15 February annually to mark Singapore’s fall to the Japanese in 1942. Total Defence Day serves to remind our students that Singapore is defensible and we must defend Singapore ourselves. Total Defence has guided us through many difficult times, most recently, through our nation’s fight against COVID-19.  
+
+  
+
+The theme of the Total Defence campaign 2022 is "Together We Keep Singapore Strong" focuses on the many ways we can put Total Defence into action and relate military defence to real life situations. It highlights the importance in rallying Singaporeans together to overcome crises.
+
+![](/images/tdd1.png)
+![](/images/tdd2.png)
+
+**International Friendship Day**  
+
+  
+
+The theme for International Friendship Day this year is ‘Singapore in Asia. Through this theme, our students recognised the importance of connectedness within Asia, therefore nurturing and inculcating among the students the spirit of friendship and collaboration with their peers.  
+
+In line with Cambodia’s chairmanship 2022, students learnt the Cambodian cultural practices and mode of transportation. Our teachers also shared about their overseas experiences within Asia. This provided a good opportunity for students to be acquainted with the diverse and interesting cultures and traditions of Asia.
+
+![](/images/IFD.png)
+
+**Racial Harmony Day**
+
+The theme for Racial Harmony Day 2021 was “Common Spaces, Connected Communities”. Here at Oasis, we commemorated the event with a series of engaging activities. Teachers and students came dressed in colourful, vibrant ethnic costumes that showcased the multiculturalism we share here in Singapore.
+
+During the assembly talk, students learnt that shared spaces help connect all of us. These common spaces also allow different ethnicities to learn more about each other in areas such as food, religion and arts. Students also participated collectively in creating a collage that displayed their understanding of the theme and their desire to commit to building a more caring, cohesive and resilient nation.
+
+![](/images/rhd.png)
+
+**National Day Celebrations**
+
+In view of the COVID-19 situation, Oasians commemorates National Day in a special way. The Observance Ceremony took on a special significance as students reflected on how far Singapore has come in our fight against COVID-19. The theme “Together, Our Singapore Spirit” celebrates Singaporeans’ unity and can-do spirit that has kept our country strong amid the pandemic.
+
+  
+
+The ceremony began with the raising of the National flag and a 'Recollections' segment, where students reflected on past and present challenges faced by our country and how each of us has a part to play in building a stronger Singapore. This was followed by a celebration segment “Our Colourful Food Culture through P2 Art Showcase & Classroom Engagement Activity”. Students also watched a play about embracing our differences and participated in the National Day Quiz on Singapore. We ended the celebration on a high note with the NDP 2021 theme song and some old favourites such as “Count On Me, Singapore”, “We Are Singapore” and “Home” that all Singaporeans are familiar with. These songs resonated with our students because they reflect the changes of the nation and sentiment of the people.
+
+![](/images/ndp.png)
+
+**Cyber Wellness**
+
+Cyber Wellness Programme aims to educate stakeholders with digital literacy. Oasis Cyber Wellness framework is Assess, Champion and Empower. We assess students’ online habits and experiences through survey. The team champions cyber wellness messages to students, staff and parents through various platforms such as Student Learning Spaces, Class Dojo and school’s TV Broadcast. Cyber Wellness programme aims to empower students, staff and parents to promote positive cyber culture in school as well as at home.
+
+![](/images/cyber%20wellness.png)
+
+**Conducive Classroom Award**
+
+In partnership with the school cleaning vendor, the cleaners would visit the classes to affirm the cleanliness of each class by stamping stars on the class cleanliness chart displayed outside every classroom. At the end of each term, the Gold, Silver or Bronze Award will be presented to classes based on the number of stamps they have accumulated in each term.
+
+From the above programme, the school wishes to inculcate care and responsibility in Oasians where they take ownership their classrooms’ conducive environment.
+
+The “Use Your Hands Campaign” is also carried out at the end of each semester before the students go for their mid-year and end-of-year vacations. This is to instill in Oasians a sense of responsibility and pride in their learning environment.
+
+![](/images/conducive%20classroom%20award.png)
+
+**Model Students for Term 1 & Term 2, 2022**
+
+The Model Student award is a termly award to recognise students’ effort in living up to the school value & the 7 habits. Every teacher provides the input in nominating students who deserve the award. In Term 1, we have the model student for the school value of Responsibility and Habit 1: Be Proactive and Habit 2: Begin with the End in Mind. In Term 2, we have the model student for the school value of Respect and Integrity with Habit 3: Put First Things First and Habit 4: Think Win-Win.
+
+![](/images/T12022_R.jpg)
+![](/images/T22022_I.jpg)
+![](/images/T22022_R.jpg)
+
+**SHINE@Oasis**
+
+SHINE@Oasis provides a holistic assessment of the students with input from teachers, self, peer and parents. It uses actionable statements to encourage all students to live up to the school values and the 7 Habits. The assessment is done in the SHINE@Oasis booklet at the end of each term with a focus on specific value -Responsibility in Term 1, Integrity & Respect in Term 2, Care & Harmony in Term 3 and Resilience in Term 4.
+
+![](/images/Shine.jpg)
+
+**Student Well-Being Committee**  
+
+Student Well-Being’s motto is ‘Always Here For You’. The committee is committed to promote student’s well-being in a caring and enabling environment. To facilitate these, the following are done to:
+
+- Empower students to be a Peer Support Leader (PSL) through missions of Peer Bonding, Peer Influencing and Peer Helping;
+
+- Engage school staff through acquisition of Positive Teacher-Student Relationship skills and
+
+- Educate the staff and stakeholders on the cyber wellness issues.
+
+![](/images/student%20well-being%20commitee.png)
+
+### Peer Support Leaders Training
+
+Strong peer support relationships help to create a caring and enabling environment where each child feels safe, respected and accepted. To champion this effort, a group of students are appointed as Peer Support Leaders. The Peer Support Leaders go through training with prosocial skills so that they can support their peers through peer bonding, peer helping and peer influencing.
+
+With the tagline, “Always Here For You”, our Peer Support Leaders navigate their role actively through completion of tasks in their mission cards.
+
+![](/images/cce.png)
+![](/images/cce2.png)
