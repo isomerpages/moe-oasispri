@@ -67,3 +67,71 @@ Discover the joy of learning the Mother Tongue language and culture at Oasis Pri
 <iframe width="560" height="315" src="https://www.youtube.com/embed/43iaTLKazbQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PRdvKKg_XMk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Achievements
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-67ya{background-color:#FFF;color:#002D46;text-align:left;vertical-align:middle}
+.tg .tg-dzgf{background-color:#FFF;color:#002D46;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-7rn4{background-color:#FFF;color:#002D46;text-align:center;vertical-align:middle}
+.tg .tg-ilyo{background-color:#FFF;color:#002D46;text-align:center;vertical-align:top}
+.tg .tg-vd2a{background-color:#FFF;color:#002D46;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-dzgf">Year<br></th>
+    <th class="tg-dzgf">Event<br></th>
+    <th class="tg-dzgf">Award<br></th>
+    <th class="tg-dzgf">Recipients<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-7rn4" rowspan="7">2020<br></td>
+    <td class="tg-67ya" colspan="2">Good-In-Progress in Chinese Language by Chinese Language and Culture Fund (CLCF)<br></td>
+    <td class="tg-ilyo"><img src="/images/Benedict%20Teh%203I.jpg" alt="Benedict Teh 3I.jpeg" width="170" height="226"><br><span style="background-color:initial">Benedict Teh Ngien Jie (3 Integrity)</span><br><br><img src="/images/Teo%20Thoai%20Ky%204Resilience.jpg" alt="Teo Thoai Ky 4Resilience.jpg" width="170" height="226"><br><span style="background-color:initial">Teo Thoai Ky (4 Resilience)</span><br><br><img src="/images/Lin%20Yuan%20Hao%205H.jpg" alt="Lin Yuan Hao 5H.jpeg" width="170" height="350"><br><span style="background-color:initial">Lin Yuan Hao (5 Harmony)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-67ya" rowspan="4">3rd Text Recital Competition for Primary &amp; Secondary Schools<br></td>
+    <td class="tg-7rn4">Bronze<br></td>
+    <td class="tg-ilyo"><img src="/images/Bei%20Junyu_2H_Bronze.jpg" alt="Bei Junyu_2H_Bronze.jpg" width="170" height="226"><br><span style="background-color:initial">Bei Junyu (2 Harmony)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-7rn4">Silver<br></td>
+    <td class="tg-ilyo"><img src="/images/Lei%20Ren%20Xuan%203D-RS%20Silver.jpg" alt="Lei Ren Xuan 3D-RS Silver.jpeg" width="170" height="226"><br><span style="background-color:initial">Lei Ren Xuan (3 Diligence)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-7rn4">Silver<br></td>
+    <td class="tg-vd2a"><img src="/images/Tan%20Rouyi%204H_%20Silver.jpg" alt="Tan Rouyi 4H_ Silver.jpg" width="269" height="130"><br><span style="background-color:initial">Tan Rou Yi (4 Harmony)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-7rn4">Gold &amp; Champion<br></td>
+    <td class="tg-vd2a"><img src="/images/Wu%20Yuqi%204C%20_Gold%20Champion.jpg" alt="Wu Yuqi 4C _Gold +Champion.jpg" width="269" height="130"><br><span style="background-color:initial">Wu Yuqi, Yuki (4 Care)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-67ya">6th Annual Singapore Chinese Moo-O Awards<br></td>
+    <td class="tg-7rn4">Merit (Team)<br></td>
+    <td class="tg-ilyo"><img src="/images/Jiang%20YiXuan_2RP.jpg" alt="Jiang YiXuan_2RP.jpg" width="170" height="226"><br><span style="background-color:initial">Jiang Yixuan (2 Respect)</span><br><br><img src="/images/Xavier%20Ng%20Shao%20Ze_2L.jpg" alt="Xavier Ng Shao Ze_2L.jpg" width="170" height="226"><br><span style="background-color:initial">Ng Shao Ze Xavier (2 Loyalty)</span><br><br><img src="/images/Bei%20Junyu_2H_Bronze.jpg" alt="Bei Junyu_2H.jpg" width="170" height="226"><br><span style="background-color:initial">Bei Junyu (2 Harmony)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-67ya">“2020, Our Story of the Battling the Pandemic” National Writing Competition<br></td>
+    <td class="tg-7rn4">Merit<br></td>
+    <td class="tg-ilyo"><img src="/images/Ke%20Zhiru.jpg" alt="Ke Zhiru.jpeg" width="321" height="234"><br><br>Ke Zhiru (5 Harmony)</td>
+  </tr>
+</tbody>
+</table>
+
+
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
