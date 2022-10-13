@@ -2,6 +2,7 @@ collections:
   our-family:
     output: true
     order:
+      - Parent Support Group/PSG Logo and Identity.md
       - Parent Support Group/Parent Support Group.md
       - Parent Support Group/.keep
       - Student Care Centre.md
