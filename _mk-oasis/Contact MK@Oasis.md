@@ -3,6 +3,8 @@ title: Contact MK@Oasis
 permalink: /mk-at-oasis/contact-mk-at-oasis/
 description: ""
 ---
+<iframe loading="lazy" allowfullscreen="" style="border:0;" height="450" width="500" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.6191870009225!2d103.90877821461417!3d1.404771498975483!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da15fedda64d61%3A0x609377487266e96a!2sOasis%20Primary%20School!5e0!3m2!1sen!2ssg!4v1665634879662!5m2!1sen!2ssg"></iframe>
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -17,7 +19,7 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-c0oc" colspan="2"><span style="background-color:#22A114">MOE Kindergarten @ Oasis</span></th>
+    <th colspan="2" class="tg-c0oc"><span style="background-color:#22A114">MOE Kindergarten @ Oasis</span></th>
   </tr>
 </thead>
 <tbody>
@@ -50,7 +52,7 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-jurv" colspan="2"><span style="color:#FBFFFA;background-color:#22A114">KCare</span></th>
+    <th colspan="2" class="tg-jurv"><span style="color:#FBFFFA;background-color:#22A114">KCare</span></th>
   </tr>
 </thead>
 <tbody>
