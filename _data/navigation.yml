@@ -2,8 +2,6 @@ logo: /images/isomer-logo.svg
 links:
   - title: Our School
     collection: our-school
-  - title: Our Distinctiveness
-    collection: our-distinctiveness
   - title: Our Curriculum
     url: /our-curriculum/curriculum/english-language/
     sublinks:
@@ -17,3 +15,16 @@ links:
     collection: links
   - title: MK@Oasis
     collection: mk-oasis
+  - title: "Our Distinctiveness "
+    url: a/our-distinctiveness/oasis-learning-experiences//permalink
+    sublinks:
+      - title: Oasis Learning Experiences
+        url: /our-distinctiveness/oasis-learning-experiences/
+      - title: Learning for Life Programme
+        url: /our-distinctiveness/learning-for-life-programme/
+      - title: Place Based Learning
+        url: /our-distinctiveness/place-based-learning/
+      - title: Sustainable Singapore Movement
+        url: /our-distinctiveness/sustainable-singapore-movement/
+      - title: Our Pride
+        url: /our-distinctiveness/our-pride/students-achievements/achievements-2022/
