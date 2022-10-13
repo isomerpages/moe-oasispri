@@ -4,31 +4,35 @@ permalink: /our-family/parents/parents-voices/
 description: ""
 third_nav_title: Parents
 ---
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ilyo{background-color:#FFF;color:#002D46;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <td class="tg-ilyo"><img src="/images/01%20Salinah.jpg" alt="01 Salinah.jpg" width="264" height="208"><br><span style="font-weight:bold;color:#002D46">Salinah Binte Kasmadi</span><br><span style="background-color:initial">We are glad that we have chosen Oasis Primary School for our kids. </span><br><span style="background-color:initial">The introduction of their school values &amp; 7 Habits is a great way of building a strong foundation for our children. </span><br><span style="background-color:initial">Keep up the good work in preparing my kids and others for their future.</span></td>
-    <td class="tg-ilyo"><img src="/images/02%20Anna%20Koh.jpg" alt="02 Anna Koh.jpg" width="255" height="208"><br><span style="font-weight:bold;color:#002D46">Koh Shiang Phing, Anna</span><br><span style="background-color:initial">Initially, I thought that Oasis Pri Sch is just a neighbourhood school but I start to realize it is more than that. </span><br><span style="background-color:initial">I am a PV so I am able to have opportunities to work with teachers and the school. </span><br><span style="background-color:initial">I discovered their passion, care, thoughtfulness, and hard work to help every child. </span><br><span style="background-color:initial">All my 3 children are very happy with the school. </span><br><span style="background-color:initial">They love all their teachers and are always looking forward to go back to school after the holidays. </span><br><span style="background-color:initial">Thumbs up for Oasis Pri Sch!</span></td>
-    <td class="tg-ilyo"><img src="/images/07%20Susan%20Ng.jpg" alt="07 Susan Ng.jpeg" width="237" height="208"><br><span style="font-weight:bold;color:#002D46">Susan Ng Siew Gek</span><br><span style="background-color:initial">Both my boys enjoy school and had wonderful teachers who have been caring and loving throughout their school journey. </span><br><span style="background-color:initial">My boys, who are in P6 and P4 this year, are excited to learn more as their teachers use fun and motivational teaching methods. </span><br><span style="background-color:initial">I am always happy when they come home sharing what they have learnt in school. </span><br><span style="background-color:initial">Thank you Oasis Primary School for nurturing and developing both my boys during their formative primary school years.</span></td>
-  </tr>
-</thead>
-</table>
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ilyo{background-color:#FFF;color:#002D46;text-align:center;vertical-align:top}
-</style>
+<figure>
+<img src="/images/01%20Salinah.jpg" 
+     style="width:50%">
+<figcaption> <strong> Salinah Binte Kasmadi</strong> </figcaption>
+</figure>
+<p>We are glad that we have chosen Oasis Primary School for our kids.The introduction of their school values & 7 Habits is a great way of building a strong foundation for our children.  Keep up the good work in preparing my kids and others for their future.</p>
+		 
+<figure>
+<img src="/images/02%20Anna%20Koh.jpg" 
+     style="width:50%">
+<figcaption> <strong> Koh Shiang Phing, Anna</strong> </figcaption>
+</figure>
+<p>Initially, I thought that Oasis Pri Sch is just a neighbourhood school but I start to realize it is more than that.I am a PV so I am able to have opportunities to work with teachers and the school. I discovered their passion, care, thoughtfulness, and hard work to help every child.  
+All my 3 children are very happy with the school.They love all their teachers and are always looking forward to go back to school after the holidays.Thumbs up for Oasis Pri Sch!</p>
+
+<figure>
+<img src="/images/07%20Susan%20Ng.jpg" 
+     style="width:50%">
+<figcaption> <strong> Susan Ng Siew Gek</strong> </figcaption>
+</figure>
+<p>Both my boys enjoy school and had wonderful teachers who have been caring and loving throughout their school journey.My boys, who are in P6 and P4 this year, are excited to learn more as their teachers use fun and motivational teaching methods.I am always happy when they come home sharing what they have learnt in school.Thank you Oasis Primary School for nurturing and developing both my boys during their formative primary school years.</p>
+
+
+
+
+   
+
+    
+    
 <table class="tg">
 <thead>
   <tr>
