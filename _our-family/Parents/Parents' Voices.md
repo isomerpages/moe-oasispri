@@ -4,6 +4,10 @@ permalink: /our-family/parents/parents-voices/
 description: ""
 third_nav_title: Parents
 ---
+![](/images/01%20Salinah.jpg)
+![](/images/02%20Anna%20Koh.jpg)
+![](/images/03%20Rebekah.jpg)
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
