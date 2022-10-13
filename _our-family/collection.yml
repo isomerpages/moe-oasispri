@@ -2,6 +2,7 @@ collections:
   our-family:
     output: true
     order:
+      - Parent Support Group/FAQs.md
       - Parent Support Group/Join Us.md
       - Parent Support Group/What We Do.md
       - Parent Support Group/PSG Family.md
