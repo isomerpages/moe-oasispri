@@ -4,4 +4,7 @@ permalink: /our-curriculum/co-curricular-activities/uniformed-groups/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-![](/images/scouts.png)
+
+<a href="https://staging.d6400o65xh90r.amplifyapp.com/our-curriculum/co-curricular-activities/uniformed-groups/scouts/">
+<img src="/images/scouts.png" alt="scouts" style="width:50%">
+</a>
