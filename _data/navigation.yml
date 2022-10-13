@@ -4,3 +4,10 @@ links:
     collection: our-school
   - title: Our Distinctiveness
     collection: our-distinctiveness
+  - title: Our Curriculum
+    url: /our-curriculum/curriculum/english-language/
+    sublinks:
+      - title: Curriculum
+        url: /our-curriculum/curriculum/english-language/
+      - title: Co-Curriculum Activities
+        url: /our-curriculum/co-curricular-activities/
