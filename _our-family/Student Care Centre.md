@@ -56,3 +56,24 @@ Students look forward to outdoor time every afternoon. Students get to relax and
      style="width:75%">
 <img src="/images/student%20care%20centre%203-1.png" 
      style="width:85%">
+		 
+4.  **DIY Christmas Card Making**
+
+This was part of our holiday programme where our students created their own Christmas cards. They exhibited their creativity and made some fantastic cards.
+
+<img src="/images/student%20care%20centre%204.png" 
+     style="width:75%">
+		 
+5.  **Thematic Learning**
+
+This school holiday season, we are encouraging the children to showcase their talents through craft work. We explored “Flowers" as our theme for the holiday week. The children were enthusiastic and shared their knowledge on the different flowers of the season. They learnt about the different types of flowers and the different regions flowers grow in. We consolidated our learning with a craft activity. The students had a fun time designing, tracing, and cutting colour papers to create a beautiful flower.
+
+<img src="/images/student%20care%20centre%205.png" 
+     style="width:75%">
+
+6.  **Craft Making Workshop**
+
+During the December holidays, students were also taught how to create their own flowerpot at our hands-on workshop. This was in line with the theme of Flowers for that very week. This workshop would help to pique the children's interest in flowers by showing them how to construct their very own flower stalks. Students were taught how to use plasticine to create the parts of a flower, rolling the materials into flower buds and using various tools to mould each bud into a flower. Students then placed their flower creations into a flower pot. The instructors encouraged them to decorate the flowerpots with decorum of their own design. Children used the materials to create various sorts of embellishments for their own flowerpots, from commonplace additions such as leaves and rocks to more complex work such as caterpillars circling the flowerpot and butterflies perched on the flowers. The workshop was a great success, as it allowed children to learn about flowers and to hone their arts and craft skills.
+
+<img src="/images/student%20care%20centre%206.png" 
+     style="width:75%">
