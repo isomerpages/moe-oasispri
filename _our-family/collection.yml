@@ -2,14 +2,14 @@ collections:
   our-family:
     output: true
     order:
-      - Parent Support Group/FAQs.md
-      - Parent Support Group/Join Us.md
-      - Parent Support Group/What We Do.md
-      - Parent Support Group/PSG Family.md
-      - Parent Support Group/PSG in Action.md
-      - Parent Support Group/PSG Logo and Identity.md
-      - Parent Support Group/Parent Support Group.md
       - Parent Support Group/.keep
+      - Parent Support Group/Parent Support Group.md
+      - Parent Support Group/PSG Logo and Identity.md
+      - Parent Support Group/PSG in Action.md
+      - Parent Support Group/PSG Family.md
+      - Parent Support Group/What We Do.md
+      - Parent Support Group/Join Us.md
+      - Parent Support Group/FAQs.md
       - Student Care Centre.md
       - Key Personnel.md
       - Executive and Administrative Staff.md
