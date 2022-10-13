@@ -2,19 +2,6 @@ logo: /images/isomer-logo.svg
 links:
   - title: Our School
     collection: our-school
-  - title: Our Curriculum
-    url: /our-curriculum/curriculum/english-language/
-    sublinks:
-      - title: Curriculum
-        url: /our-curriculum/curriculum/english-language/
-      - title: Co-Curriculum Activities
-        url: /our-curriculum/co-curricular-activities/
-  - title: Our Family
-    collection: our-family
-  - title: Links
-    collection: links
-  - title: MK@Oasis
-    collection: mk-oasis
   - title: "Our Distinctiveness "
     url: a/our-distinctiveness/oasis-learning-experiences//permalink
     sublinks:
@@ -28,3 +15,16 @@ links:
         url: /our-distinctiveness/sustainable-singapore-movement/
       - title: Our Pride
         url: /our-distinctiveness/our-pride/students-achievements/achievements-2022/
+  - title: Our Curriculum
+    url: /our-curriculum/curriculum/english-language/
+    sublinks:
+      - title: Curriculum
+        url: /our-curriculum/curriculum/english-language/
+      - title: Co-Curriculum Activities
+        url: /our-curriculum/co-curricular-activities/
+  - title: Our Family
+    collection: our-family
+  - title: Links
+    collection: links
+  - title: MK@Oasis
+    collection: mk-oasis
