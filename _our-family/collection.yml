@@ -2,6 +2,7 @@ collections:
   our-family:
     output: true
     order:
+      - Parent Support Group/What We Do.md
       - Parent Support Group/PSG Family.md
       - Parent Support Group/PSG in Action.md
       - Parent Support Group/PSG Logo and Identity.md
