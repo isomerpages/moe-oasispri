@@ -39,5 +39,3 @@ third_nav_title: Curriculum
 <a href="https://staging.d6400o65xh90r.amplifyapp.com/our-curriculum/curriculum/programme-for-active-learning/">
 <img src="/images/PAL.png" alt="PAL"  style="width:50%">
 </a>
-
-
