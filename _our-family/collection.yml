@@ -2,6 +2,7 @@ collections:
   our-family:
     output: true
     order:
+      - Key Personnel.md
       - Executive and Administrative Staff.md
       - Teaching Staff.md
       - School Leaders.md
