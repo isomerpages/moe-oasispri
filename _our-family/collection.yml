@@ -2,6 +2,7 @@ collections:
   our-family:
     output: true
     order:
+      - Parents/General Information.md
       - Parents/.keep
       - Parent Support Group/.keep
       - Parent Support Group/Parent Support Group.md
