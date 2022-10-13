@@ -34,3 +34,15 @@ We also took part in a community event which aimed to show our appreciation to t
 
 <img src="/images/student%20care%20centre%201.png" 
      style="width:75%">
+		 
+2.  **Seed Kindness Fund (SKF)**
+
+The theme for this year SKF is to appreciate our front line heroes, who has been tirelessly working around the clock to fight against the ongoing pandemic crisis.
+
+The students created a poster using cardboard recyclable materials. They used their creativity to design and wrote their heartfelt appreciation messages to our front line heroes. This project encouraged our children to be kind and considerate, and to heighten public awareness towards such acts of kindness.
+
+<img src="/images/student%20care%20centre%202.png" 
+     style="width:80%">
+<img src="/images/student%20care%20centre%202-1.png" 
+     style="width:90%">
+		 
