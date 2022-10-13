@@ -2,6 +2,7 @@ collections:
   our-family:
     output: true
     order:
+      - Student Care Centre.md
       - Key Personnel.md
       - Executive and Administrative Staff.md
       - Teaching Staff.md
