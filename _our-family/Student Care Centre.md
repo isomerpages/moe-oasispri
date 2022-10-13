@@ -46,3 +46,13 @@ The students created a poster using cardboard recyclable materials. They used th
 <img src="/images/student%20care%20centre%202-1.png" 
      style="width:90%">
 		 
+
+3.  **Outdoor Time**
+
+
+Students look forward to outdoor time every afternoon. Students get to relax and spend some quality time playing with their friends. The students played their favourite games such as ‘What time is it Mr Wolf?’, ‘Catching’, or ‘Ice and Water’. Students also played team sports like Basketball and Soccer. Abiding social distancing measure, students played these games in groups of five, observing 2 meters distance apart when in the field or indoor basketball court. Students thoroughly enjoyed themselves sweating it out and laughing it off with their friends.
+
+<img src="/images/student%20care%20centre%203.png" 
+     style="width:75%">
+<img src="/images/student%20care%20centre%203-1.png" 
+     style="width:85%">
