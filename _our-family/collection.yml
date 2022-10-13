@@ -2,8 +2,12 @@ collections:
   our-family:
     output: true
     order:
-      - Parents/General Information.md
+      - Key Personnel.md
+      - Executive and Administrative Staff.md
+      - Teaching Staff.md
+      - School Leaders.md
       - Parents/.keep
+      - Parents/General Information.md
       - Parent Support Group/.keep
       - Parent Support Group/Parent Support Group.md
       - Parent Support Group/PSG Logo and Identity.md
@@ -13,7 +17,3 @@ collections:
       - Parent Support Group/Join Us.md
       - Parent Support Group/FAQs.md
       - Student Care Centre.md
-      - Key Personnel.md
-      - Executive and Administrative Staff.md
-      - Teaching Staff.md
-      - School Leaders.md
