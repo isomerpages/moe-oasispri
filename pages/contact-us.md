@@ -8,21 +8,13 @@ locations:
       - "71  "
       - Edgefield Plains
       - Singapore 828716
-    operating_hours:
-      - days: Sat
-        time: 8.30am - 12.00pm
-        description: ""
+    operating_hours: []
     maps_link: ""
     title: General Office
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
-    title: General Enquiries & Feedback
-  - content:
-      - phone: ""
-      - email: careers@abc.gov.sg
-      - other: ""
-    title: Careers
+      - phone: +65 6320 9855
+      - email: oasis_ps@moe.edu.sg
+      - other: "Fax : 6320 9856"
+    title: "General Enquiries "
 ---
