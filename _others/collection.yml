@@ -2,7 +2,6 @@ collections:
   others:
     output: true
     order:
-      - Photo Gallery.md
       - Forms & Guides/.keep
       - Forms & Guides/Application Forms.md
       - Forms & Guides/Consent for Photography & Videos.md
