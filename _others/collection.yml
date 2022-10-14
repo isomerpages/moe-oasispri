@@ -2,6 +2,7 @@ collections:
   others:
     output: true
     order:
+      - Photo Gallery/2021.md
       - Photo Gallery/Consent for Photography & Videos.md
       - Photo Gallery/2022.md
       - Photo Gallery/.keep
