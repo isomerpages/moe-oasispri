@@ -2,11 +2,11 @@ collections:
   others:
     output: true
     order:
-      - Forms & Guides/Student Learning Space (SLS).md
-      - Forms & Guides/Parents Gateway.md
-      - Forms & Guides/Consent for Photography & Videos.md
-      - Forms & Guides/Application Forms.md
       - Forms & Guides/.keep
+      - Forms & Guides/Application Forms.md
+      - Forms & Guides/Consent for Photography & Videos.md
+      - Forms & Guides/Parents Gateway.md
+      - Forms & Guides/Student Learning Space (SLS).md
       - School Life/.keep
       - School Life/Assessment Information.md
       - School Life/School Terms & Holidays.md
