@@ -41,4 +41,3 @@ The Singapore Student Learning Space (SLS) is accessible through the internet br
 (1) [Getting Started with Singapore Student Learning Space (SLS) - Primary 1 Onboarding Guide](/files/P1%20SLS%20Onboarding%20Guide.pdf)
 
 (2) [Guide to SLS Account Management: Self-help for Password Reset](/files/Self-help%20Password%20Reset%20Guide%20for%20Students.pdf)
-
