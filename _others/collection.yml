@@ -2,6 +2,7 @@ collections:
   others:
     output: true
     order:
+      - School Life/Sexuality Education.md
       - School Life/School Bookshop & Uniform.md
       - School Life/School Bus Service.md
       - School Life/School Hours & Operations.md
