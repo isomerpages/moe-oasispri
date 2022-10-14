@@ -8,7 +8,7 @@ notification: Here's a notification bar you can use!
 sections:
   - hero:
       title: Oasis Primary School
-      background: /images/hero-banner.png
+      background: /images/hero banner.gif
       button: Contact Us
       url: /contact-us/
       key_highlights:
