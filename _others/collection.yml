@@ -2,6 +2,7 @@ collections:
   others:
     output: true
     order:
+      - Forms & Guides/Application Forms.md
       - Forms & Guides/.keep
       - School Life/.keep
       - School Life/Assessment Information.md
