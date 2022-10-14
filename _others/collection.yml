@@ -2,10 +2,10 @@ collections:
   others:
     output: true
     order:
+      - Photo Gallery/.keep
+      - Photo Gallery/2022.md
       - Photo Gallery/2021.md
       - Photo Gallery/Consent for Photography & Videos.md
-      - Photo Gallery/2022.md
-      - Photo Gallery/.keep
       - Forms & Guides/.keep
       - Forms & Guides/Application Forms.md
       - Forms & Guides/Consent for Photography & Videos.md
