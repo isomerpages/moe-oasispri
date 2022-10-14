@@ -2,13 +2,13 @@ collections:
   others:
     output: true
     order:
-      - School Life/Sexuality Education.md
-      - School Life/School Bookshop & Uniform.md
-      - School Life/School Bus Service.md
-      - School Life/School Hours & Operations.md
-      - School Life/School Terms & Holidays.md
-      - School Life/Assessment Information.md
       - School Life/.keep
+      - School Life/Assessment Information.md
+      - School Life/School Terms & Holidays.md
+      - School Life/School Hours & Operations.md
+      - School Life/School Bus Service.md
+      - School Life/School Bookshop & Uniform.md
+      - School Life/Sexuality Education.md
       - Highlights/.keep
       - Highlights/Outstanding Youth in Education Award.md
       - Highlights/Chinese New Year 2022.md
