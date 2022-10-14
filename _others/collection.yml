@@ -2,4 +2,5 @@ collections:
   others:
     output: true
     order:
+      - Highlights/Outstanding Youth in Education Award.md
       - Highlights/.keep
