@@ -2,6 +2,6 @@ collections:
   others:
     output: true
     order:
-      - Highlights/Chinese New Year 2022.md
-      - Highlights/Outstanding Youth in Education Award.md
       - Highlights/.keep
+      - Highlights/Outstanding Youth in Education Award.md
+      - Highlights/Chinese New Year 2022.md
