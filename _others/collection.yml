@@ -2,6 +2,7 @@ collections:
   others:
     output: true
     order:
+      - Info Hub/.keep
       - Highlights/.keep
       - Highlights/Outstanding Youth in Education Award.md
       - Highlights/Chinese New Year 2022.md
