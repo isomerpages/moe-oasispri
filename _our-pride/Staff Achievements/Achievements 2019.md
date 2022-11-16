@@ -10,8 +10,10 @@ The Commendation Medal is awarded to a person who has distinguished himself thro
 
 The Long Service Medal is awarded to a person who is of irreproachable character and whom the President is satisfied has completed at least 25 years service in the service of the Government.
 
-<b><center>The Commendation Medal</b><br>
-Ms Tan Li Na</center>
+<b><center>The Commendation Medal</center></b>
 
-<b><center>The Long Service Medal</b><br>
-Mrs Ong – Chew Lu See</center>
+<center>Ms Tan Li Na</center>
+
+<b><center>The Long Service Medal</center></b>
+
+<center>Mrs Ong – Chew Lu See</center>
