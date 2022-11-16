@@ -6,7 +6,7 @@ third_nav_title: Curriculum
 ---
 <img src="/images/PAL.jpg" 
      style="width:70%">
-<center><b>All Around Us</center></b>
+<center><b>All Around Us</b></center>
 
 ### Department Goals
 
