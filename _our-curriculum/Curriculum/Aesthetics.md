@@ -4,10 +4,9 @@ permalink: /our-curriculum/curriculum/aesthetics/
 description: ""
 third_nav_title: Curriculum
 ---
-
 <img src="/images/Aesthetics.jpg" 
      style="width:70%">
-<center><b>Thinking artists confident in creating and expressing meaningful works</center></b>
+<center><b>Thinking artists confident in creating and expressing meaningful works</b></center>
 
 ### Goal of Oasis Arts Education
 
@@ -127,7 +126,6 @@ The following broadly categorises the arts programmes offered to support our stu
 
 **The Art Curriculum**
 
-  
 
 In line with MOE’s standards, the Art Education @Oasis aims to:
 
