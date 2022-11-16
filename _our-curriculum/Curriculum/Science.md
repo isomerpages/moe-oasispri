@@ -7,7 +7,7 @@ third_nav_title: Curriculum
 <img src="/images/Science.jpg" 
      style="width:70%">
 		 
-<center><b>Inquisitive and scientifically literate citizens</center></b>
+<center><b>Inquisitive and scientifically literate citizens</b></center>
 
 ### Department Goals
 
