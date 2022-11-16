@@ -10,20 +10,20 @@ The Commendation Medal is awarded to a person who has distinguished himself thro
 
 The Long Service Medal is awarded to a person who is of irreproachable character and whom the President is satisfied has completed at least 25 years service in the service of the Government.
 
-<b><center>The Commendation Medal</b><br>
+<b><center>The Commendation Medal<br></b>
 Ms Lee Kai Sin</center>
 
-<b><center>The Long Service Medal</b><br>
+<b><center>The Long Service Medal<br></b>
 Mrs Lee Shi Lin</center>
 
 ### MOE Service Excellence Award (MSEA)
 
 The MOE Service Excellence Award (MSEA) is a MOE-wide Award to encourage all MOE staff to continually and consistently serve both internal and external customers with excellent service.
 
-<b><center>Gold Award</b><br>
+<b><center>Gold Award<br></b>
 Salwah binte Abdul Rahman Lajam</center>
 
-<b><center>Silver Award</b><br>
+<b><center>Silver Award<br></b>
 Fong Zhen Hsiung Pierre <br>
 Sharon Teo Jia Mei <br>
 Asher Mey See <br>
