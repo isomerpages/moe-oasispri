@@ -44,7 +44,7 @@ The students created a poster using cardboard recyclable materials. They used th
 <img src="/images/student%20care%20centre%202.png" 
      style="width:80%">
 <img src="/images/student%20care%20centre%202-1.png" 
-     style="width:90%">
+     style="width:80%">
 		 
 
 3.  **Outdoor Time**
@@ -54,6 +54,7 @@ Students look forward to outdoor time every afternoon. Students get to relax and
 
 <img src="/images/student%20care%20centre%203.png" 
      style="width:75%">
+		 
 <img src="/images/student%20care%20centre%203-1.png" 
      style="width:85%">
 		 
@@ -77,4 +78,3 @@ During the December holidays, students were also taught how to create their own 
 
 <img src="/images/student%20care%20centre%207.png" 
      style="width:75%">
-		 
