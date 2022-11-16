@@ -22,5 +22,6 @@ Moving forward in these extraordinary times, I would like to seize the creative 
 
 The Long Service Medal is awarded to a person who is of irreproachable character and whom the President is satisfied has completed at least 25 years service in the service of the Government.
 
-<b><center>The Long Service Medal</b><br>
-Mdm Valiamay d/o Sathiah</center>
+<b><center>The Long Service Medal</center></b>
+
+<center>Mdm Valiamay d/o Sathiah</center>
