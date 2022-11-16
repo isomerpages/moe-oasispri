@@ -7,7 +7,7 @@ third_nav_title: Curriculum
 <img src="/images/PE.jpg" 
      style="width:70%">
 		 
-<center><b>Fitness is not a destination, it is a way of life.</center></b>
+<center><b>Fitness is not a destination, it is a way of life.</b></center>
 
 ### Department Goals
 Enrich students with physical skills, health practices and values to enjoy and appreciate the benefits of living a physically active and healthy life
