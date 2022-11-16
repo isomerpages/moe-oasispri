@@ -7,7 +7,7 @@ third_nav_title: Curriculum
 <img src="/images/ICT.jpg" 
      style="width:70%">
 
-<center><b>A community of self-directed learners and future-ready, responsible digital citizens</center></b>
+<center><b>A community of self-directed learners and future-ready, responsible digital citizens</b></center>
 
 ### Department Goals
 
