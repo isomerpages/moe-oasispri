@@ -75,5 +75,6 @@ This school holiday season, we are encouraging the children to showcase their ta
 
 During the December holidays, students were also taught how to create their own flowerpot at our hands-on workshop. This was in line with the theme of Flowers for that very week. This workshop would help to pique the children's interest in flowers by showing them how to construct their very own flower stalks. Students were taught how to use plasticine to create the parts of a flower, rolling the materials into flower buds and using various tools to mould each bud into a flower. Students then placed their flower creations into a flower pot. The instructors encouraged them to decorate the flowerpots with decorum of their own design. Children used the materials to create various sorts of embellishments for their own flowerpots, from commonplace additions such as leaves and rocks to more complex work such as caterpillars circling the flowerpot and butterflies perched on the flowers. The workshop was a great success, as it allowed children to learn about flowers and to hone their arts and craft skills.
 
-<img src="/images/student%20care%20centre%206.png" 
+<img src="/images/student%20care%20centre%207.png" 
      style="width:75%">
+		 
