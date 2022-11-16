@@ -6,7 +6,7 @@ third_nav_title: Curriculum
 ---
 <img src="/images/CCE.jpg" 
      style="width:70%">
-<center><b>SHINE Oasians: Serve with a Heart and Inspire Everyone through words and actions</center></b>
+<center><b>SHINE Oasians: Serve with a Heart and Inspire Everyone through words and actions</b></center>
 
 ### Department Goals
 Nurture our students to be good individuals and contributing citizens of Singapore through the teaching of values and the 7 habits of The Leader in Me programme, as well as developing of socio-emotional competencies.
