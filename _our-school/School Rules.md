@@ -160,7 +160,7 @@ Students are not allowed to bring the following items to school:
 * Sharp-pointed objects
 * Pen-knife
 * Matches/ lighters
-* Mobile phones and electronics gadget that can be used for communication
+* Mobile phones and electronics gadget that can be used for communication*
 * Items that are considered dangerous or inappropriate in school
 
   
