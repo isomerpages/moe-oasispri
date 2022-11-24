@@ -54,6 +54,8 @@ Math Around Us uses the Place-based Learning approach to provide students with o
 
 **Strengthening Mathematical Learning through Integration of Literature Experiences (SMILE)**
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8w5NKNMEHKQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 SMILE is a literature-based approach to develop strong conceptual understanding, reasoning and communication in Mathematics. Through authentic contexts and stories, students make meaning of mathematical contexts, deepen their conceptual understanding as well as reason and communicate during the lessons. When mathematical concepts are presented in the form of stories using pictures and familiar language, they enable our students to grasp mathematical ideas and concepts easily. The stories also serve as contexts for discussion of mathematics and catalysts for our students to make connections to applications in the real world. Such stories also serve as vehicles for authentic problem solving.
 
 ![](/images/SMILE.png)
