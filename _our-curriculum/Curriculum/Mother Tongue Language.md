@@ -50,6 +50,14 @@ The Chinese Language department started our own Oasian Junior Journalist Program
 
 **Mother Tongue Fortnight Programme**  
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ruY\_Q-i54ZQ" title="YouTube  
+video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;  
+gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8FdV9nXok1c" title="YouTube  
+video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;  
+gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Mother Tongue Language Fortnight programme aims to create an immersive environment for learning and appreciating Mother Tongue Languages and Cultures. Held over in Term 2 Week 3 and 4 this year, students were exposed to a wide variety of rich cultural activities during these two eventful weeks to deepen students' understanding of their cultural roots and promote the learning of Mother Tongue Language in a fun and engaging way!
 
 **Primary 2 Mother Tongue Language (MTL) Speech and Drama Programme**  
@@ -126,5 +134,3 @@ Discover the joy of learning the Mother Tongue language and culture at Oasis Pri
   </tr>
 </tbody>
 </table>
-
-
