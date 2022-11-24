@@ -8,6 +8,7 @@ third_nav_title: Curriculum
      style="width:60%">
 <center><b>Nurturing confident and self-regulated problem solvers</b></center>
 
+
 ### Department Goals
 
 Develop able, confident and self-regulated problem solvers with a passion for Mathematics and critical thinking.
@@ -40,6 +41,8 @@ To nurture confident problem solvers, more customised programmes are done during
 ![](/images/maths2.png)
 
 Mathematics is taught via Concrete\_Pictorial\_Abstract (CPA) approach where students are engaged in different learning experiences with the use of manipulatives to understand different concepts. After this, the students move on to pictorial and/or abstract to develop strong foundation and ensure early success.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O3UdraytU5U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Key Programmes
 
