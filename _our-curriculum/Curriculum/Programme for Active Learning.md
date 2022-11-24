@@ -29,4 +29,4 @@ PAL@Oasis comprises 4 learning domains - Sports and Games (S&G), Outdoor Educati
 
 ### Photos
 
-Check out PAL@Oasis journey [here].
+Check out PAL@Oasis journey [here](/files/PAL%20Photo%20Jouney_Update%202019.pdf)
