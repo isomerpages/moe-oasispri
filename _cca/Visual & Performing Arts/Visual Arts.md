@@ -14,3 +14,5 @@ Oasis Art Club allows students to create art by exploring different media such a
      style="width:80%">
 <img src="/images/visual%20arts%202.png" 
      style="width:80%">
+		 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiNM1iITXbM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
