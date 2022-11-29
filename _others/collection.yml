@@ -2,6 +2,7 @@ collections:
   others:
     output: true
     order:
+      - Highlights/Highlights.md
       - Highlights/Awards Day 2022.md
       - Highlights/.keep
       - Highlights/Outstanding Youth in Education Award.md
