@@ -50,13 +50,13 @@ The Chinese Language department started our own Oasian Junior Journalist Program
 
 **Mother Tongue Fortnight Programme**  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ruY\_Q-i54ZQ" title="YouTube  
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/ruY\_Q-i54ZQ" title="YouTube  
 video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;  
 gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8FdV9nXok1c" title="YouTube  
 video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;  
-gyroscope; picture-in-picture" allowfullscreen></iframe>
+gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 Mother Tongue Language Fortnight programme aims to create an immersive environment for learning and appreciating Mother Tongue Languages and Cultures. Held over in Term 2 Week 3 and 4 this year, students were exposed to a wide variety of rich cultural activities during these two eventful weeks to deepen students' understanding of their cultural roots and promote the learning of Mother Tongue Language in a fun and engaging way!
 
@@ -70,11 +70,11 @@ Speech and Drama Enrichment programme aims to cultivate student’s interest in 
 
 Discover the joy of learning the Mother Tongue language and culture at Oasis Primary School. Our students will share with you their fun and enriching literacy experience. They will also present programmes that develop them to become confident communicators who appreciate the beauty of their language and culture.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WZprtgKPdLE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/WZprtgKPdLE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/43iaTLKazbQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PRdvKKg_XMk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PRdvKKg_XMk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 ### Achievements
 
