@@ -70,6 +70,9 @@ IDEAL leverages on the Flipped Learning pedagogical approach in which direct ins
 
 Click on the slide show below to view samples of the lesson packages for different levels.
 
+
+
+
 ![](/images/IDEAL.png)
 
 ### E2K Mathematics Programme
