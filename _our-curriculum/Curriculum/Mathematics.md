@@ -68,7 +68,6 @@ IDEAL leverages on the Flipped Learning pedagogical approach in which direct ins
 
 Click on the slide to view samples of the lesson packages for different levels.
 
-<iframe allowfullscreen="true" height="749" width="1280" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQCan1K3yoT7RbHGTy27O44Jgs26ewe_-AS8dY3W2-aeqYiqxFgp1k4vcb28UiE0g/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 
 ![](/images/IDEAL.png)
