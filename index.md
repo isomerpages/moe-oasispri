@@ -4,7 +4,7 @@ title: Oasis Primary School
 description: Brief site description here
 image: /images/Oasis.jpeg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
       title: Oasis Primary School
