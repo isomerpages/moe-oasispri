@@ -4,7 +4,7 @@ permalink: /our-curriculum/curriculum/mathematics/
 description: ""
 third_nav_title: Curriculum
 ---
-<img style="width:60%" src="/images/Maths.jpg">
+<img src="/images/Maths.jpg" style="width:60%">
 <center><b>Nurturing confident and self-regulated problem solvers</b></center>
 
 
@@ -14,7 +14,7 @@ Develop able, confident and self-regulated problem solvers with a passion for Ma
 
 ### Our Approach
 
-<img style="width:90%" src="/images/maths.png">
+<img src="/images/maths.png" style="width:90%">
 		 
 **Engagement,&nbsp;Mastery,&nbsp;Analysis &amp;&nbsp;Application (EMAA@Oasis)**
 
@@ -40,7 +40,7 @@ To nurture confident problem solvers, more customised programmes are done during
 
 Mathematics is taught via Concrete\_Pictorial\_Abstract (CPA) approach where students are engaged in different learning experiences with the use of manipulatives to understand different concepts. After this, the students move on to pictorial and/or abstract to develop strong foundation and ensure early success.
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/O3UdraytU5U" height="315" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O3UdraytU5U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ### Key Programmes
 
@@ -52,7 +52,7 @@ Math Around Us uses the Place-based Learning approach to provide students with o
 
 **Strengthening Mathematical Learning through Integration of Literature Experiences (SMILE)**
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/8w5NKNMEHKQ" height="315" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8w5NKNMEHKQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 SMILE is a literature-based approach to develop strong conceptual understanding, reasoning and communication in Mathematics. Through authentic contexts and stories, students make meaning of mathematical contexts, deepen their conceptual understanding as well as reason and communicate during the lessons. When mathematical concepts are presented in the form of stories using pictures and familiar language, they enable our students to grasp mathematical ideas and concepts easily. The stories also serve as contexts for discussion of mathematics and catalysts for our students to make connections to applications in the real world. Such stories also serve as vehicles for authentic problem solving.
 
@@ -68,7 +68,7 @@ IDEAL leverages on the Flipped Learning pedagogical approach in which direct ins
 
 Click on the slide to view samples of the lesson packages for different levels.
 
-
+<iframe allowfullscreen="true" height="749" width="1280" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQCan1K3yoT7RbHGTy27O44Jgs26ewe_-AS8dY3W2-aeqYiqxFgp1k4vcb28UiE0g/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 ![](/images/IDEAL.png)
 
@@ -98,7 +98,7 @@ The Math Olympiad Programme is an enrichment programme for selected Primary 4 to
 <table class="tg">
 <thead>
   <tr>
-    <th colspan="2" class="tg-baqh"><span style="font-weight:bold">Primary Mathematics Project Competition 2022</span><br><span style="font-weight:bold;font-style:normal">(Primary 4 Poster Category)</span></th>
+    <th class="tg-baqh" colspan="2"><span style="font-weight:bold">Primary Mathematics Project Competition 2022</span><br><span style="font-weight:bold;font-style:normal">(Primary 4 Poster Category)</span></th>
   </tr>
 </thead>
 <tbody>
@@ -129,7 +129,7 @@ The Math Olympiad Programme is an enrichment programme for selected Primary 4 to
 <table class="tg">
 <thead>
   <tr>
-    <th colspan="2" class="tg-c3ow"><span style="font-weight:bold">National Mathematical Olympiad of Singapore 2022</span></th>
+    <th class="tg-c3ow" colspan="2"><span style="font-weight:bold">National Mathematical Olympiad of Singapore 2022</span></th>
   </tr>
 </thead>
 <tbody>
@@ -196,7 +196,7 @@ The Math Olympiad Programme is an enrichment programme for selected Primary 4 to
 <table class="tg">
 <thead>
   <tr>
-    <th colspan="2" class="tg-baqh"><span style="font-weight:bold">Singapore Mathematical Olympiad for Primary Schools 2022</span></th>
+    <th class="tg-baqh" colspan="2"><span style="font-weight:bold">Singapore Mathematical Olympiad for Primary Schools 2022</span></th>
   </tr>
 </thead>
 <tbody>
@@ -209,21 +209,21 @@ The Math Olympiad Programme is an enrichment programme for selected Primary 4 to
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Srivastava Rishabh</span></td>
   </tr>
   <tr>
-    <td colspan="2" class="tg-baqh"><span style="font-weight:bold">Raffles Institution Primary Mathematics World Contest 2022</span></td>
+    <td class="tg-baqh" colspan="2"><span style="font-weight:bold">Raffles Institution Primary Mathematics World Contest 2022</span></td>
   </tr>
   <tr>
     <td class="tg-0lax">Certificate of Merit</td>
     <td class="tg-0lax">Brayden Lai Zhixuan</td>
   </tr>
   <tr>
-    <td colspan="2" class="tg-baqh"><span style="font-weight:bold">Singapore Mathematical Olympiad for Primary Schools 2021</span></td>
+    <td class="tg-baqh" colspan="2"><span style="font-weight:bold">Singapore Mathematical Olympiad for Primary Schools 2021</span></td>
   </tr>
   <tr>
     <td class="tg-0lax">Bronze Award</td>
     <td class="tg-0lax">Chan Heng Li</td>
   </tr>
   <tr>
-    <td colspan="2" class="tg-baqh"><span style="font-weight:bold">National Mathematical Olympiad of Singapore 2021</span></td>
+    <td class="tg-baqh" colspan="2"><span style="font-weight:bold">National Mathematical Olympiad of Singapore 2021</span></td>
   </tr>
   <tr>
     <td class="tg-0lax">Bronze Award</td>
