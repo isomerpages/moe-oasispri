@@ -2,7 +2,7 @@
 title: Privacy Statement
 permalink: /privacy/
 ---
-### **Privacy Policy**
+### Privacy Policy
 
 1\. Thank you for visiting Oasis Primary School official website. By accessing and using this Web Site, you shall be deemed to have accepted to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this Web Site.
 
@@ -42,7 +42,8 @@ permalink: /privacy/
 
 11\. Hyperlinks to other web sites are provided as a convenience. In no circumstances shall Oasis Primary School be considered to be associated or affiliated with any trade or service marks, logos, insignia or other devices used or appearing on web sites to which this Web Site is linked.
 
-12\. Except as set forth below, caching and links to, and the framing of this Web Site or any of the Contents are prohibited.  
+12\. Except as set forth below, caching and links to, and the framing of this Web Site or any of the Contents are prohibited. 
+
 13\. You must secure permission from Oasis Primary School prior to hyperlinking to, or framing, this Web Site or any of the Contents, or engaging in similar activities. Oasis Primary School reserves the right to impose conditions when permitting any hyperlinking to, or framing of this Web Site or any of the Contents.
 
 14\. Your linking to, or framing any part of this Web Site or its Contents constitute acceptance of these Terms of Use. This is deemed to be the case even after the posting of any changes or modifications to these Terms of Use. If you do not accept these Terms of Use, you must discontinue linking to, or framing of this Web Site or any of the Contents.
@@ -59,25 +60,14 @@ permalink: /privacy/
 
 ### Privacy Statement
 
-  
 1\. This is a Oasis Primary School website. Thank you for examining our privacy statement.
-
-  
 
 2\. If you are only browsing this website, we do not capture data that allows us to identify you individually.
 
-  
-
 3\. If you choose to make an application or send us an e-mail for which you provide us with personally identifiable data, we may share necessary data with other Government agencies, so as to serve you in a most efficient and effective way, unless such sharing is prohibited by legislation. We will NOT share your personal data with non-Government entities, except where such entities have been authorized to carry out specific Government services.
-
-  
 
 4\. For your convenience, we may also display to you data you had previously supplied us or other Government agencies. This will speed up the transaction and save you the trouble of repeating previous submissions. Should the data be out-of-date, please supply us the latest data. We will retain your personal data only as necessary for the effective delivery of public services to you.
 
-  
-
 5\. To safeguard your personal data, all electronic storage and transmission of personal data are secured with appropriate security technologies.
-
-  
 
 6\. This site may contain links to non-Government sites whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other websites and encourage you to consult the privacy notices of those sites.
