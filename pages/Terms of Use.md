@@ -7,17 +7,13 @@ Thank you for visiting the website of Oasis Primary School. By accessing and/or 
 
 **General**
 
-<div align="justify">
-1. The Terms of Use may be changed from time to time. Changes will be updated on this page and your use of this website after such changes have been made will constitute your agreement to the modified Terms of Use.
-</div>
+1\. The Terms of Use may be changed from time to time. Changes will be updated on this page and your use of this website after such changes have been made will constitute your agreement to the modified Terms of Use.
 
 **Proprietary Rights**
 
 2\. This website is maintained by Oasis Primary School.
 
-<div align="justify">
-3. The information, records and functions of this website, including the information and software programmes (hereinafter referred to as “the Contents”), are protected by copyright, trademark and other forms of proprietary rights. All rights, titles and interests in the Contents are owned by, licensed to or controlled by Oasis Primary School.
-</div>
+3\. The information, records and functions of this website, including the information and software programmes (hereinafter referred to as “the Contents”), are protected by copyright, trademark and other forms of proprietary rights. All rights, titles and interests in the Contents are owned by, licensed to or controlled by Oasis Primary School.
 
 **Privacy Policy**
 
