@@ -6,7 +6,6 @@ third_nav_title: Parents
 ---
 ### General Information
 
-
 1.  **What are the office hours for the General Office?**
 
 <style type="text/css">
@@ -68,9 +67,6 @@ third_nav_title: Parents
 3. **What time should my child report to school for his/her lessons?**
     
 All students should report to school by 7.30 a.m. for flag raising ceremony.
-    
-
-  
 
 4. **What are the recess timings for the different levels?**
 
@@ -145,7 +141,6 @@ For further information, please visit [https://www.moe.gov.sg/education/financi
 		
 ### School Admissions / Transfers
 
-
 12. **How can I register my child for the Primary One Registration Exercise in the school?**
     
 The Primary One Registration Exercise is an exercise for a child to register for a Primary One place in a mainstream school. It is tentatively conducted between July and August each year. You can register your child for the Primary One Registration Exercise only during the period of exercise and the phase that you are eligible for registration. Please refer to the MOE website for information on the registration phases and procedures.
@@ -200,9 +195,6 @@ Yes, YMCA is the appointed school-based Student Care Centre for the school. To f
 </table>
 
 The centre may close on certain dates. Please contact the operator at 6509 9557 / 9637 6416 to confirm.
-    
-
-  
 
 18. **What are the components of the after-school programme?**
     
