@@ -45,11 +45,9 @@ Launch of the New Space in the Library
 **Zone B: Terrace Steps**
 
 <img src="/images/ZoneB1.jpg" 
-     style="width:49%" align="left">
+     style="width:50%" align="left">
 <img src="/images/ZoneB2.jpg" 
-     style="width:49%" align="right">
-		 
-
+     style="width:50%" align="right">
 		 
 **Zone C: Learning Islands**
 
@@ -58,11 +56,11 @@ Launch of the New Space in the Library
 		 
 **Zone D: The Odyssey Of the Mind**
 
-<img src="/images/ZoneD1.jpg" 
+<img src="/images/ZoneD1.jpg"
      style="width:50%" align="left">
-<img src="/images/ZoneD2.jpg" 
+<img src="/images/ZoneD2.jpg"
      style="width:50%">
-		 
+
 ### Oasis Book Day
 
 We are celebrating our Second Oasis Book Day this year. Both the English and Mother Tongue Departments would like to encourage all students to read more storybooks and participate in the various activities specially organized for them.
