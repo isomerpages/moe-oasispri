@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Curriculum
 ---
 <img src="/images/Aesthetics.jpg" 
-     style="width:70%">
+     style="width:100%">
 <center><b>Thinking artists confident in creating and expressing meaningful works</b></center>
 
 ### Goal of Oasis Arts Education
@@ -18,19 +18,13 @@ Develop artistically literate students who participate actively and purposefully
 
 To be able to express one’s own ideas creatively and confidently through an artistic work and respond to artistic works by analysing and interpreting artistic intents of others
 
-  
-
 **The arts as social and cultural connectors**
 
 To relate the arts to daily living and see connectedness between the arts and other fields of knowledge
 
-  
-
 **The arts as creative and intellectual engagement**
 
 To participate in creative work and discourse as creators, performers and audience members and develop personal creative & intellectual capacity.
-
-  
 
 **The arts as developing leadership and impacting the community**
 
@@ -39,8 +33,6 @@ To be able to initiate, connect and serve in communities within and beyond schoo
 ![](/images/purpose.png)
 
 **1.HOLISTIC ARTS APPROACH THROUGH CCC**
-
-  
 
 Pursue a holistic learning approach that incorporates 3 artistic processes in all arts programmes – namely, Connecting, Creating & Communicating.
 
@@ -67,8 +59,6 @@ Pursue a holistic learning approach that incorporates 3 artistic processes in al
 **2.ARTS EDUCATION TALENT PROGRESSION**
 
 Adopt a whole-school Arts Education approach in Visual Art, Music, Dance & Drama, through curricular, co-curricular and special programmes. Below is the Arts Education Talent Progression to provide arts opportunities for all and for some developing passion and mastery in an arts domain.
-
-  
 
 **Stage 1: Developing Awareness**
 
@@ -190,11 +180,7 @@ c.    Provide the basis to develop an informed and life-long involvement in m
 
 Music lessons @Oasis studies music and its cultural contexts in different time and location, gives students the tools to access music technically and intuitively, and play several instruments. The 3 artistic processes – Connecting, Creating and Communicating – undergird the classroom pedagogy. Students are _connecting_ by analyzing meaning and relating musical ideas to its context, _creating_ by imagining and developing new musical ideas, and _communicating_ by presenting their musical ideas through in-progress performances.
 
-  
-
 To help our students make more sensitive connections between Music and their daily living, an interdisciplinary approach has also been incorporated into the curriculum. Information and Communication Technology (ICT) has been infused in the teaching pedagogy not only for students to develop self-directedness in their learning, but also skillful users of technology tools in Music-making.
-
-  
 
 **Curriculum Module Highlights**
 
