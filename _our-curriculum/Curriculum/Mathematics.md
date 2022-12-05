@@ -4,7 +4,7 @@ permalink: /our-curriculum/curriculum/mathematics/
 description: ""
 third_nav_title: Curriculum
 ---
-<img style="width:60%" src="/images/Maths.jpg">
+<img style="width:100%" src="/images/Maths.jpg">
 <center><b>Nurturing confident and self-regulated problem solvers</b></center>
 
 
