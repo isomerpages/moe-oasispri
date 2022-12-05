@@ -6,10 +6,10 @@ third_nav_title: Parent Support Group
 ---
 **1.  How do I sign up for PSG?**
 
-You can drop us an email to [oasis.psgroup@gmail.com](mailto:oasis.psgroup@gmail.com), use this link ([http://bit.ly/NewPVWeb](http://bit.ly/NewPVWeb)), or scan the QR code  to register your interest as a Parent Volunteer.
+You can drop us an email to [oasis.psgroup@gmail.com](mailto:oasis.psgroup@gmail.com), use this link ([http://bit.ly/NewPVWeb](http://bit.ly/NewPVWeb)), or scan the QR code to register your interest as a Parent Volunteer.
 
 <img src="/images/scan%20me%20parent.png" 
-     style="width:20%">
+     style="width:50%">
 		 
 **2.  What is required to be part of the PSG?**
 
