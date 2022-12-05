@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Curriculum
 ---
 <img src="/images/English.jpg" 
-     style="width:70%">
+     style="width:100%">
 		 
 <center><b>Eloquent and effective communicators in a media-rich environment</b></center>
 
@@ -28,14 +28,14 @@ Teachers will help students achieve effective use of English through exposing st
 
 
 <img src="/images/english1.png" 
-     style="width:70%">
+     style="width:100%">
 		 
 ### What's New?
 
 Launch of the New Space in the Library
 
 <img src="/images/NewSpace.jpg" 
-     style="width:40%">
+     style="width:50%">
 
 **Zone A: Happy Pods**
 
@@ -62,44 +62,29 @@ Launch of the New Space in the Library
      style="width:50%">
 
 ### Oasis Book Day
-
 We are celebrating our Second Oasis Book Day this year. Both the English and Mother Tongue Departments would like to encourage all students to read more storybooks and participate in the various activities specially organized for them.
 
 **1) OASIS BOOK DONATION (For All Staff & Students)**  
-
 **When:** T2W5-W8 (18 April to 13 May)  
-
-**What:** Storybooks and magazines (no newspaper or damaged reading materials)
-
+**What:** Storybooks and magazines (no newspaper or damaged reading materials)<br>
 **Target:** 300 books
 
 ![](/images/OBD1.jpg)
 
 **2) OASIS BOOK DAY POSTER DESIGN COMPETITION**
 
-  
-
 Samples of winning entries:-
-
-
 <img src="/images/poster%20design.png" 
-     style="width:70%">
+     style="width:100%">
 <img src="/images/poster%20design%202.png" 
-     style="width:70%">
+     style="width:100%">
 
 ### Key Programmes
-
 **Be Engaged About Reading (B.E.A.R) Programme**
-
-  
 
 Students will embark on the B.E.A.R Programme for an entire week each year.
 
-  
-
 The objective of the programme is to deepen students’ appreciation of the language and be interested in reading through the different meaningful activities. Examples of the activities conducted include:
-
-  
 
 *   Recess Activity: Taboo Game
 *   Recess Activity: Toss and Form a Word
@@ -107,27 +92,17 @@ The objective of the programme is to deepen students’ appreciation of the lang
 *   Classroom Activity: Spelling Bee Competition
 *   Classroom Activity: Reading Plan
 
-  
-
 Reading is also promoted through other platforms here at Oasis. New library books are introduced to all students during talks and sharing conducted by teachers and students. Books are recommended to students on a regular basis to inculcate the love for reading.
 
 ![](/images/bear%20programme.png)
 
 **Literature Is Alive @ Oasis**
 
-  
-
 Literature holds a prominent role in children's personal development since the reader becomes emotionally attached with the story and this has positive effects not only on the personal growth but also on the whole learning process.
-
-  
 
 Through our Literature programme, students are taught to appreciate and analyse good language use and to be sensitive and empathetic towards others through the stories of the lives of the characters.
 
-  
-
 **A Reader-Centred Approach**
-
-  
 
 Students to be free to deal with their own reactions to the text. The aesthetic response to a literary work is primary and inviolable. There are no right, wrong or definitive interpretations of a text. Each reader brings meaning from the text through his or her unique transaction, because each brings to the process particular experience of life and other texts. (Rosenblatt, 1938)
 
