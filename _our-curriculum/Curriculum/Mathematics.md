@@ -14,7 +14,7 @@ Develop able, confident and self-regulated problem solvers with a passion for Ma
 
 ### Our Approach
 
-<img style="width:90%" src="/images/maths.png">
+<img style="width:100%" src="/images/maths.png">
 		 
 **Engagement,&nbsp;Mastery,&nbsp;Analysis &amp;&nbsp;Application (EMAA@Oasis)**
 
@@ -22,15 +22,9 @@ Develop able, confident and self-regulated problem solvers with a passion for Ma
 
 Mathematics is taught via a 3-stage approach, EMMA@Oasis to ensure strong foundation, early success, bite-sized achievement and steady progress.
 
-  
-
 During Engagement, our students are taught through experiential learning such as CPA approach, Learning Experiences, Literature Experiences and Assembly Talks to ensure early success.
 
-  
-
 During the Mastery phase, customised curriculum and differentiated instructions are done to ensure steady progress in our students’ learning via meaningful and deliberate practices.
-
-  
 
 To nurture confident problem solvers, more customised programmes are done during the Analysis and Application phase to ensure transference of learning to problem solving as well as to challenge our students to greater heights. Pedagogies such as Information and Communication Technology (ICT), Collaborative Learning (COL), Self-directed Learning (SDL), Experiential, Interdisciplinary and Place-based Learning are weaved into these 3 phases.
 
@@ -60,14 +54,9 @@ SMILE is a literature-based approach to develop strong conceptual understanding,
 
 **Inverted classroom for Deep Autonomous Learning (IDEAL)**  
 
-  
-
 IDEAL leverages on the Flipped Learning pedagogical approach in which direct instruction and self-directed learning is done remotely via ICT at home. After this, the students are guided to reason, communicate, analyse and apply concepts through collaborative learning in class.
 
-  
-
 Click on the slide to view samples of the lesson packages for different levels.
-
 <iframe allowfullscreen="true" height="389" width="640" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQCan1K3yoT7RbHGTy27O44Jgs26ewe_-AS8dY3W2-aeqYiqxFgp1k4vcb28UiE0g/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 ![](/images/IDEAL.png)
