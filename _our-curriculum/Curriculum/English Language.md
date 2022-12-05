@@ -4,7 +4,6 @@ permalink: /our-curriculum/curriculum/english-language/
 description: ""
 third_nav_title: Curriculum
 ---
-
 <img src="/images/English.jpg" 
      style="width:70%">
 		 
@@ -62,16 +61,11 @@ Launch of the New Space in the Library
 <img src="/images/ZoneD1.jpg" 
      style="width:50%" align="left">
 <img src="/images/ZoneD2.jpg" 
-     style="width:50%" align="right">
-
-
-
+     style="width:50%">
+		 
 ### Oasis Book Day
 
-
 We are celebrating our Second Oasis Book Day this year. Both the English and Mother Tongue Departments would like to encourage all students to read more storybooks and participate in the various activities specially organized for them.
-
-  
 
 **1) OASIS BOOK DONATION (For All Staff & Students)**  
 
@@ -154,4 +148,3 @@ Our unique English Language Teaching and Learning at Oasis Primary School, part
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XQvG0BkfiFQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sVPpHI8GNLA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
