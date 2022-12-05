@@ -4,9 +4,6 @@ permalink: /our-distinctiveness/our-pride/students-achievements/achievements-202
 description: ""
 third_nav_title: Students Achievements
 ---
-### PSLE Results Release 2021
-
-
 ### Achievements 2021
 
 <style type="text/css">
