@@ -7,7 +7,7 @@ third_nav_title: Parent Support Group
 ### PSG Logo
 
 <img src="/images/logo.jpg" 
-     style="width:80%">
+     style="width:100%">
 		 
 ### Identity (PSG Outfit) 
 
