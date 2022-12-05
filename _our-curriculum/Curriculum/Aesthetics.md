@@ -65,21 +65,21 @@ Adopt a whole-school Arts Education approach in Visual Art, Music, Dance & Drama
 Students to become aware of the range of cultural and contemporary arts that are relevant to the diversity of our local and global cultures.
 
 <img src="/images/stage1.png" 
-     style="width:30%">
+     style="width:40%">
 		 
 **Stage 2: Developing Foundation**
 
 Students to learn and explore in more than 1 art forms to create, study and relate to context of art works and show developing creative works to friends.
 
 <img src="/images/stage2.png" 
-     style="width:30%">
+     style="width:40%">
 
 **Stage 3: Developing Mastery**
 
 Students to apply artistic tools and technique learnt in at least one art form to create, articulate connection of works to its context, and communicate and realise artistic ideas in a curated showcase.
 
 <img src="/images/stage3.png" 
-     style="width:30%">
+     style="width:40%">
 		 
 The following broadly categorises the arts programmes offered to support our students in their arts education development:
 
