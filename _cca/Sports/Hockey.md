@@ -9,8 +9,8 @@ third_nav_title: Sports
 Oasis Hockey CCA provides students opportunities for character and leadership development, while inculcating social and co-operative skills. Students learn through working together as a team, taking on personal and collective challenges, towards individual growth in virtues like teamwork, discipline and responsibility. We hope to develop students with grit and resilience, and who are respectful towards all.
 
 <img src="/images/hockey1.png" 
-     style="width:80%">
+     style="width:100%">
 <img src="/images/hockey2.png" 
-     style="width:80%">
+     style="width:100%">
 		 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5YCAaTFEaPk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
