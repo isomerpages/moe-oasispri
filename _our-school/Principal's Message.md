@@ -3,7 +3,6 @@ title: Principal's Message
 permalink: /our-school/principals-message/
 description: ""
 ---
-  
 We started the school in 2016 with 210 students and 18 Education Officers. Since then, we have grown from strength to strength and despite being one of the younger schools in the Punggol area, we are encouraged by the public’s confidence in us, especially during the annual P1 Registration exercise.
 
   
@@ -29,7 +28,7 @@ The mediocre teacher tells. The good teacher explains. The superior teacher demo
 
 I take this opportunity to thank our stakeholders who have played and will continue to play significant roles in the education journey of our Oasians. We are heartened and honoured to work alongside our supportive parents and the team of parents in the school’s Parent Support Group. All your kind words of affirmation will continue to motivate us to give our best. With many hands on deck, we will continue to collaborate closely and help our Oasians discover the joy of learning, pursue and sustain their passions. As a collective, I am confident that we will continue to grow together, towards tomorrow.
 
-  
 
-Mrs Ong-Chew Lu See <br>
-Principal
+
+**Mrs Ong-Chew Lu See <br>
+Principal**
