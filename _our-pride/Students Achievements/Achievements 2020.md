@@ -26,7 +26,7 @@ third_nav_title: Students Achievements
   <tr>
     <td class="tg-67ya">Chinese Language</td>
     <td class="tg-vd2a"><span style="background-color:initial">3rd Text Recital Competition</span><br><span style="background-color:initial">for Primary &amp; Secondary Schools</span><br><br><br><span style="background-color:initial">The Chinese Language Moo-O Awards 2020</span><br><br><span style="background-color:initial"> “2020, Our Story of the Battling the Pandemic” National Writing Competition</span></td>
-    <td class="tg-vd2a"><span style="background-color:initial">Individual Award – Gold (1)        </span><br><span style="background-color:initial">                              Silver (1)                        </span><br><span style="background-color:initial">                         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bronze (2)</span><br><br><span style="background-color:initial">Merit Award (1)    </span><br><br><span style="background-color:initial">Merit Award (1)</span></td>
+    <td class="tg-vd2a"><span style="background-color:initial">Individual Award – Gold (1)        </span><br><span style="background-color:initial">                              Silver (1)                        </span><br><span style="background-color:initial">                         Bronze (2)</span><br><br><span style="background-color:initial">Merit Award (1)    </span><br><br><span style="background-color:initial">Merit Award (1)</span></td>
   </tr>
   <tr>
     <td class="tg-vd2a">Student Leadership<br></td>
