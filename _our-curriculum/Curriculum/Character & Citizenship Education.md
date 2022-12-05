@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Curriculum
 ---
 <img src="/images/CCE.jpg" 
-     style="width:70%">
+     style="width:100%">
 <center><b>SHINE Oasians: Serve with a Heart and Inspire Everyone through words and actions</b></center>
 
 ### Department Goals
@@ -17,13 +17,9 @@ Nurture our students to be good individuals and contributing citizens of Singapo
 
 The CCE department customize and deliver the different components in CCE (comprise of CCE lessons, Form Teacher Guidance Period, school-based CCE and CCE Guidance Module) to provide the knowledge, skills, values and attitudes to be taught to our students. Oasians are also encouraged to put values into practice within the context of real-life situations in the family, school, community, nation and the world through their values-in-action projects.
 
-  
-
 **Citizenship Education**
 
 Citizenship education nurtures our Oasians to develop disposition towards national cohesion, cultivate the instinct for survival as a nation and instill in them, confidence in Singapore’s future. On top of social studies lessons, citizenship education is also conducted through the commemorative events, termly discussion on NE bulletin news as well as learning journeys.
-
-  
 
 **Student Leadership**
 
@@ -40,8 +36,6 @@ The student leadership development programme aims to nurture our Oasians to be a
 **P1 VIA - Be Gracious@Recess**
 
 The P1 VIA, Be Gracious@Recess aims to imbue good habits and table etiquette in the canteen. Students observe personal hygiene by first washing their hands before taking their meals. They return the cutlery, followed by wipe down of the table after eating. Then they sanitise their hands and put on their mask.
-
-  
 
 Two Gracious Ambassadors are appointed from each P1 class to remind their classmates to be Gracious@Recess. Students are encouraged to be responsible in keeping their tables and floor clean.  A panel of teachers comprising of the Year Head, SH/ Character Development, SH/NESS and teacher-in-charge of P1 VIA will assess the cleanliness of the tables and the floor assigned to each class. Certificates for gold or silver awards are issued to reaffirm the students’ effort of BE Gracious@Recess.
 
@@ -65,12 +59,9 @@ In Term 2, the P3 students wrote a “Hello” note to inquire of the P1 student
 
 **P4 VIA - The Friendship Project**
   
-
 This is the fourth year we are collaborating with Pathlight School for ‘The Friendship Project’. The objective of this VIA is for students to be able to empathise and show care for others.
 
 ![](/images/P4%20VIA.png)
-
-  
 
 In collaboration with the English Department, Oasis students learnt what autism is during their ‘P4 Literature is Alive’, an Applied Learning Programme (ALP). Then they learnt what a pen pal is and how to correspond with them in writing. Finally, a zoom session was arranged for the pen pals to meet and interact with one another.
 
@@ -78,11 +69,7 @@ In collaboration with the English Department, Oasis students learnt what autism 
 
 In partnership with English Department and Applied Learning Programme (ALP), P5 students attended more than six lessons on Media Literacy.
 
-  
-
 Through place-based learning, they also visited the Sustainable Singapore Wall at level 5 in the school where they learned about the environmental measures that Singapore has carried out.
-
-  
 
 To further strengthen the advocacy on caring for the environment and harmony in nature, the P5 designed and created posters with green messages. Physical posters and e-posters are showcased in P1 and P2 classes, in the foyer and on school-wide broadcasting platforms.
 
@@ -97,8 +84,6 @@ Our P6 students had the opportunity to reach out to residents of Peacehaven Nurs
 **Social Studies in Oasis**
 
 Social Studies (SS) in Oasis Primary seeks to develop students as informed, concerned and participative citizens, competent in decision-making with an impassioned spirit to contribute responsibly to the society and world we live in. This is aligned to the Singapore SS Curriculum.
-
-  
 
 Our students’ learning is based on three broad clusters, as reflected in the SS syllabus:
 
@@ -138,13 +123,9 @@ Our students’ learning is based on three broad clusters, as reflected in the S
 
 In addition to the formal SS curriculum, Oasians take part in classroom discussions about contemporary issues through NE Bulletin Discussion Lessons. These lessons are conducted with the aim of getting students to be more informed citizens who are aware of what is happening around them. Oasians also participate in classroom discussions where they share their thoughts, ideas and beliefs about the contemporary issues raised.
 
-  
-
 **Place-based Learning**
 
 Place-based Learning is also part of the SS curriculum in Oasis Primary School. Primary 3 and 4 students will visit Storey 3 “Our Heritage Trail” mural walls to learn more about Singapore’s past and how our founding fathers have contributed to the independence of Singapore.
-
-  
 
 In 2022, Place-based Learning for SS will be introduced to Primary 6 students. Students will visit Storey 5 “Oasis Global Explorer” mural wall to learn more about the sustainable goals of the United Nations through a gamified experience. The experience supports the teaching and learning of SS lessons, focusing on the theme of ‘Sustainability’. It is aligned with the third cluster of study in SS, ‘Appreciating Singapore, the Region and the World We Live in”, where students learn about the diverse and global physical environment in the world they live in.
 
@@ -152,11 +133,7 @@ In 2022, Place-based Learning for SS will be introduced to Primary 6 students. S
 
 **Commemorating Total Defence Day**
 
-  
-
 Schools commemorate Total Defence Day on 15 February annually to mark Singapore’s fall to the Japanese in 1942. Total Defence Day serves to remind our students that Singapore is defensible and we must defend Singapore ourselves. Total Defence has guided us through many difficult times, most recently, through our nation’s fight against COVID-19.  
-
-  
 
 The theme of the Total Defence campaign 2022 is "Together We Keep Singapore Strong" focuses on the many ways we can put Total Defence into action and relate military defence to real life situations. It highlights the importance in rallying Singaporeans together to overcome crises.
 
@@ -164,8 +141,6 @@ The theme of the Total Defence campaign 2022 is "Together We Keep Singapore Stro
 ![](/images/tdd2.png)
 
 **International Friendship Day**  
-
-  
 
 The theme for International Friendship Day this year is ‘Singapore in Asia. Through this theme, our students recognised the importance of connectedness within Asia, therefore nurturing and inculcating among the students the spirit of friendship and collaboration with their peers.  
 
@@ -184,8 +159,6 @@ During the assembly talk, students learnt that shared spaces help connect all of
 **National Day Celebrations**
 
 In view of the COVID-19 situation, Oasians commemorates National Day in a special way. The Observance Ceremony took on a special significance as students reflected on how far Singapore has come in our fight against COVID-19. The theme “Together, Our Singapore Spirit” celebrates Singaporeans’ unity and can-do spirit that has kept our country strong amid the pandemic.
-
-  
 
 The ceremony began with the raising of the National flag and a 'Recollections' segment, where students reflected on past and present challenges faced by our country and how each of us has a part to play in building a stronger Singapore. This was followed by a celebration segment “Our Colourful Food Culture through P2 Art Showcase & Classroom Engagement Activity”. Students also watched a play about embracing our differences and participated in the National Day Quiz on Singapore. We ended the celebration on a high note with the NDP 2021 theme song and some old favourites such as “Count On Me, Singapore”, “We Are Singapore” and “Home” that all Singaporeans are familiar with. These songs resonated with our students because they reflect the changes of the nation and sentiment of the people.
 
