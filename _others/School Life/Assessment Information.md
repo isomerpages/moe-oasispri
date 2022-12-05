@@ -110,7 +110,7 @@ third_nav_title: School Life
   </tr>
 </tbody>
 </table>
-Valid Reason such as MC
+*VR = Valid Reason such as MC*
 
 ***Case 2: Students who miss Science or Mathematics papers***
 
