@@ -85,6 +85,7 @@ description: ""
 </tbody>
 </table>
 
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -191,10 +192,7 @@ description: ""
 </tbody>
 </table>
 
-Note:  
-
+**Note:**  
 *Only Badminton, Hockey, Contemporary Dance and Guzheng will have a second session on Friday throughout the year to prepare the students potentially going for National School Games or Singapore Youth Festival Arts Presentation.
-
-  
 
 ** Guitar Club and Art Club will only have a second session on Friday in the lead-up months to Singapore Youth Festival Arts Presentation.
