@@ -16,7 +16,6 @@ Fax: 6474 4037
 
 ## School Bookshop
 #### The Continental Book Centre
-
   
 Blk 1013, Geylang East Ave 3, #02-154, Singapore 389728. <br>
 Tel: 6247 8482 <br>
