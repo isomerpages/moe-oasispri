@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Curriculum
 ---
 <img src="/images/PE.jpg" 
-     style="width:70%">
+     style="width100%">
 		 
 <center><b>Fitness is not a destination, it is a way of life.</b></center>
 
@@ -40,15 +40,11 @@ To provide opportunities for every student to develop the skills and attitudes t
 
 **Guided by Inclusion:** Every student is able to develop the knowledge, skills and attitudes to live healthily.
 
-  
-
 **Guided by Quality delivery:** Trained teachers teach holistic health effectively.
 
 ![](/images/PE.png)
 
 **Talent Development**
-
-  
 
 **Stage 1: Developing Awareness for an active lifestyle**
 
@@ -109,7 +105,6 @@ Students apply sport-specific skills and mental strength in intra and/or inter s
   </tr>
 </tbody>
 </table>
-
 
 **Technology-Enabled**
 
