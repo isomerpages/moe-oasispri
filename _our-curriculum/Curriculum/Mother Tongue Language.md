@@ -74,9 +74,9 @@ Discover the joy of learning the Mother Tongue language and culture at Oasis Pri
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:15px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:15px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-67ya{background-color:#FFF;color:#002D46;text-align:left;vertical-align:middle}
 .tg .tg-dzgf{background-color:#FFF;color:#002D46;font-weight:bold;text-align:center;vertical-align:top}
