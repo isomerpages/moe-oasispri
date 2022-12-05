@@ -7,10 +7,7 @@ description: ""
 
 2.  Students who are Singapore citizens must sing the National Anthem and take the Pledge. Students will take the Pledge with the right fist placed over the heart.
 
-
 3.  Students are to be clean shaven, and no wearing of beards and moustache.
-
-  
 
 4.  All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.
 
@@ -22,13 +19,9 @@ description: ""
 
 *   Students are only allowed to put on the PE attire on days when they have PE lessons, PAL lessons, CCAs, learning journeys or enrichment programmes. 2. Student’s Name Tag
 
-  
-
 <u>Students’ Name Tag</u>
 
 *   The student’s name tag must be sewn on securely above the school crest.
-
-  
 
 <u>Shoes and Socks</u>
 
@@ -40,12 +33,10 @@ description: ""
 
 *   Hair should be kept neat and simply styled.
 
-  
-
 <u>Hair for Boys</u>
 
 <img src="/images/hair%20for%20boys.png" 
-     style="width:70%">
+     style="width:100%">
 		 
 *   Hair must be neatly cropped, combed, short and neat. It should not touch the eyebrows or collar.
 *   The back of the hair must be sloped and squared (no ‘tail’).
@@ -54,20 +45,16 @@ description: ""
 <u>Hair for Girls</u>
 
 <img src="/images/hair%20for%20girls.png" 
-     style="width:70%">
+     style="width:100%">
 		 
 *   Short hair should be kept neat. It should not touch the collar.
 *   Shoulder-length or long hair must be neatly tied up into a pony tail or plaited. Only black or dark blue hair band/ ribbon/rubber band/ hair clip is allowed.
 *   Fringe must be short and above the eyebrows. Long fringe must be clipped up neatly.
 *   Spiky, punky, outlandish or coloured hair is not allowed.
 
-  
-
 <u>Fingernails</u>
 
 *   Fingernails must be short, clean and unpainted. No nail polish is allowed.
-
-  
 
 <u>Accessories</u>
 
@@ -99,7 +86,6 @@ Primary 4 and Primary 5 students are to wear their school uniform on days with n
 
 ### Conduct
 
-
 <u>Attendance and Punctuality</u>
 
 *   All students are expected to be punctual for school. They must be seated in the assembly area by 7.30 a.m.
@@ -107,26 +93,18 @@ Primary 4 and Primary 5 students are to wear their school uniform on days with n
 *   All students must attend school regularly.
 *   Attendance at the Flag Raising and Pledge-Taking Ceremony is compulsory for all students.
 
-  
-
 <u>Assignments</u>
 
 *   Assignments are to be handed in on time.
-
-  
 
 <u>Permission Tags</u>
 
 *   Students are not allowed to leave the classroom without their teacher’s approval.
 *   Permission tags are to be worn when leaving the classroom.
 
-  
-
 <u>School Property</u>
 
 *   Vandalising the school property is a serious offence.
-
-  
 
 <u>Appropriate Conduct</u>
 
@@ -134,11 +112,7 @@ Primary 4 and Primary 5 students are to wear their school uniform on days with n
 *   Students are not to leave the school premises during school hours
 *   Students are not allowed to run and shout in the school premises.
 *   Students are not allowed to stay in the classroom during recess unless a teacher is present.
-
-  
-
 *   Students must:
-
 	* Queue up in an orderly manner when ordering food.
 	* Return all eating utensils at the designated places.
 	* Consume all food and drinks in the canteen.
@@ -148,10 +122,7 @@ Primary 4 and Primary 5 students are to wear their school uniform on days with n
 	* Obey and respect all teachers, support staff, class and student leaders, and parents.
 	* Behave well and be courteous in and outside the school premises.
 
-  
-
 Students are not allowed to bring the following items to school:  
-
 * Hand-held games
 * Card games
 * MP3 players
@@ -162,7 +133,5 @@ Students are not allowed to bring the following items to school:
 * Matches/ lighters
 * Mobile phones and electronics gadget that can be used for communication*
 * Items that are considered dangerous or inappropriate in school
-
-  
 
 *These will be kept for safekeeping and will only be returned when parents come to school to collect them.
