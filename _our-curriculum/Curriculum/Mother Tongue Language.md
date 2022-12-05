@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Curriculum
 ---
 <img src="/images/MTL.jpg" 
-     style="width:70%">
+     style="width:100%">
 <center><b>Confident & eloquent speakers in the Mother Tongue Language</b></center>
 
 ### Department Goals
@@ -17,8 +17,6 @@ third_nav_title: Curriculum
 ### Our Approach
 
 The MTL department key approach to make learning MTL fun & applicable to real-life is through the application of E3 pedagogical approach which are mainly Engagement, Experiential & Empowerment to better support the students’ learning in MTL.
-
-  
 
 **Engagement** is an important learning condition for deep and meaningful learning. Through the use of ICT tools, pupils are engaged and actively involved in the learning activities. At the same time, assessment for learning strategies are also incorporated in these learning activities to engage pupils and provide support for their learning.
 
