@@ -5,7 +5,7 @@ permalink: /contact-us/
 agency_name: Oasis Primary School
 locations:
   - address:
-      - 71 Edgefield Plains
+      - 71 Edgefield Plains,
       - Singapore 828716
       - ""
     operating_hours: []
