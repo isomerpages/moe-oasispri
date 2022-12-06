@@ -29,7 +29,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-8wja">Tel:</td>
-    <td class="tg-5env">6282 4864</td>
+    <td class="tg-5env">+65 6282 4864</td>
   </tr>
   <tr>
     <td class="tg-8wja">Email:</td>
@@ -58,7 +58,7 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-8wja">Tel:</td>
-    <td class="tg-5env">6281 0583</td>
+    <td class="tg-5env">+65 6281 0583</td>
   </tr>
 </tbody>
 </table>
