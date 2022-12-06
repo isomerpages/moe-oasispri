@@ -52,7 +52,7 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <th colspan="2" class="tg-jurv"><span style="color:#FBFFFA;background-color:#22A114">KCare</span></th>
+    <th colspan="2" class="tg-jurv"><span style="color:#FBFFFA;background-color:#22A114">Kindergarten Care Centre</span></th>
   </tr>
 </thead>
 <tbody>
