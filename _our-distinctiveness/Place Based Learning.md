@@ -78,4 +78,4 @@ Placed-based Learning is grounded within three phases – school, neighbourhood 
 
 The school believes that a vibrant and conducive environment has a positive impact in our students’ holistic well-being and development. Hence, we take pride and joy in designing the physical learning environment and spaces to facilitate key teaching and learning approaches particularly Place-based Learning.
 
-Click [here](https://www.thinglink.com/scene/1392515910853459969) for Virtual Tour
+Click [here](https://www.thinglink.com/scene/1392515910853459969) for Virtual Tour.
