@@ -4,10 +4,8 @@ permalink: /ops/info-hub/school-life/school-bookshop-n-uniform/
 description: ""
 third_nav_title: School Life
 ---
-Due to the pandemic situation, the supplier will not be able to accept walk-in purchases. Please visit their [website](https://www.khuniform.com/) for more information.
-
 ## School Uniform Supplier
-#### Kah Huat Dress Maker
+#### [Kah Huat Dress Maker](https://www.khuniform.com/)
 Blk 115A, Commonwealth Drive, #04-15/16, Singapore 149596 <br>
 Tel: +65 6479 6811 <br>
 Fax: +65 6474 4037
