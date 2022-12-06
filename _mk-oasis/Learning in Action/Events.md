@@ -31,5 +31,3 @@ K1 Year End Party
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xJEieM2B1-Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 K2 Year End Party
-
-[Click](https://moekoasis.wixsite.com/yec2021) for More...
