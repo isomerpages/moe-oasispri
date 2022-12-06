@@ -107,21 +107,21 @@ All students should report to school by 7.30 a.m. for flag raising ceremony.
 
 5. **Where can I find information on the school bus services for my child?**
     
-Please contact the school’s appointed school bus operator at 6553 3838 or email [admin@btntan.com](mailto:admin@btntan.com) directly to make arrangements for your child’s school bus services.
+Please contact the school’s appointed school bus operator at +65 6553 3838 or email [admin@btntan.com](mailto:admin@btntan.com) directly to make arrangements for your child’s school bus services.
 		
 6. **How can I purchase school uniforms and textbooks for my child?**
     
 You may purchase your child’s school uniforms and textbooks from the school bookshop at the end of the year, between November and December. The school textbook and stationery lists will be given to your child during the last week of school in November. You may make ad-hoc purchases of the textbooks at the school bookshop during the school term between 2pm and 3pm.
     
-For further purchase of the uniforms, you may contact our uniform supplier at 6479681 for further details.
+For further purchase of the uniforms, you may contact our uniform supplier at +65 6479681 for further details.
 
 7. **What are the operating hours of the school dental clinic?**
     
-The school dental services will be available on scheduled dates from 8.00 a.m. to 5.30 p.m. Please contact our dental therapist at 6509 8069 to schedule an appointment.
+The school dental services will be available on scheduled dates from 8.00 a.m. to 5.30 p.m. Please contact our dental therapist at +65 6509 8069 to schedule an appointment.
 		
 8. **How can I make a claim for my child’s accident in the school or during school activities?**
     
-You may approach the General Office for a claim form and submit the necessary supporting documents (e.g. original medical bills, doctor’s medical certification and reports) together with the claim form back to the school. The insurer will liaise with you on matters relating to your child’s accident and claim procedures. If you have any queries on the policy coverage and claim procedures, please call the insurer, NTUC Income, directly at 6332 1133.
+You may approach the General Office for a claim form and submit the necessary supporting documents (e.g. original medical bills, doctor’s medical certification and reports) together with the claim form back to the school. The insurer will liaise with you on matters relating to your child’s accident and claim procedures. If you have any queries on the policy coverage and claim procedures, please call the insurer, NTUC Income, directly at +65 6332 1133.
 		
 9. **How should I inform school if there is a change of home and mailing address?**
     
@@ -167,7 +167,7 @@ Parent volunteers can support the school in various areas such as reading progra
 
 16. **Does the school have a school-based Student Care Centre?**
     
-Yes, YMCA is the appointed school-based Student Care Centre for the school. To find out more about their student care services, please contact YMCA at 6509 9557 / 9637 6416 or drop an email to oascc@ymca.edu.sg to find out more about their after school care services.
+Yes, YMCA is the appointed school-based Student Care Centre for the school. To find out more about their student care services, please contact YMCA at +65 6509 9557 / +65 9637 6416 or drop an email to [oascc@ymca.edu.sg](mailto:oascc@ymca.edu.sg) to find out more about their after school care services.
 
 17. **What are the operating hours for the Student Care Centre?**
 
@@ -194,7 +194,7 @@ Yes, YMCA is the appointed school-based Student Care Centre for the school. To f
 </tbody>
 </table>
 
-The centre may close on certain dates. Please contact the operator at 6509 9557 / 9637 6416 to confirm.
+The centre may close on certain dates. Please contact the operator at +65 6509 9557 / +65 9637 6416 to confirm.
 
 18. **What are the components of the after-school programme?**
     
