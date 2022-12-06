@@ -183,7 +183,7 @@ third_nav_title: School Life
   <tr>
     <td class="tg-67ya">Deepavali<br></td>
     <td class="tg-67ya">Sun 12 Nov*  **(*Mon 13 Nov will be a public holiday)**
-		</span></td>
+	</td>
   </tr>
   <tr>
     <td class="tg-67ya">Christmas Day<br></td>
