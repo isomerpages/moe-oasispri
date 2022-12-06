@@ -106,8 +106,7 @@ third_nav_title: School Life
 <tbody>
   <tr>
     <td class="tg-y0ep">Youth Day<br></td>
-		<td class="tg-y24x"><span style="background-color:initial">Sun 2 Jul*</br>
-			(*Mon 3 Jul will be a scheduled school holiday)</span></td>
+		<td class="tg-y24x"><span style="background-color:initial">Sun 2 Jul* **(*Mon 3 Jul will be a scheduled school holiday)**</span></td>
   </tr>
   <tr>
     <td class="tg-y0ep">Day after National Day<br></td>
