@@ -16,7 +16,7 @@ We place added emphasis on every child’s values and character development beca
 *   Enrichment & Holiday Programmes
 *   Fitness & Outdoor Programmes
 
-To find out more about their student care services, please contact YMCA at 6509 9557 / 9637 6416 or drop an email to [oascc@ymca.edu.sg](mailto:oascc@ymca.edu.sg) to find out more about their after school care services.
+To find out more about their student care services, please contact YMCA at +65 6509 9557 / +65 9637 6416 or drop an email to [oascc@ymca.edu.sg](mailto:oascc@ymca.edu.sg) to find out more about their after school care services.
 
 ### Our Activities
 
@@ -41,7 +41,6 @@ The students created a poster using cardboard recyclable materials. They used th
      style="width:100%">
 		 
  **3. Outdoor Time**
-
 
 Students look forward to outdoor time every afternoon. Students get to relax and spend some quality time playing with their friends. The students played their favourite games such as ‘What time is it Mr Wolf?’, ‘Catching’, or ‘Ice and Water’. Students also played team sports like Basketball and Soccer. Abiding social distancing measure, students played these games in groups of five, observing 2 meters distance apart when in the field or indoor basketball court. Students thoroughly enjoyed themselves sweating it out and laughing it off with their friends.
 
