@@ -29,7 +29,7 @@ Click [here](/files/4%20GIRO_Termination_Form.pdf) to access the Giro Terminat
 
 All students are covered under the GPA Insurance Plan which provides 24-hour worldwide accident coverage while they are at the school premises (including school-based Student Care Centre), in Singapore or elsewhere, participating in school-related activities, including Co-Curricular Activities (CCA) and sports.
 
-For more details on the GPA Plan, please refer to this [link](/files/5A%20GPA%20Plan%20Product%20Fact%20Sheet%20Dec2018.pdf)
+For more details on the GPA Plan, please refer to this [link](/files/5A%20GPA%20Plan%20Product%20Fact%20Sheet%20Dec2018.pdf).
 
 Parents may submit the GPA insurance claim online (eSubmission) or manually (through school).
 
