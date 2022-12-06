@@ -5,8 +5,6 @@ description: ""
 ---
 Place-based Learning is a school-wide pedagogical approach that leverages on the Power of Place to create exploratory, meaningful and immersive learning for the students, anytime and anywhere. It capitalises on the school’s physical structure, community landscapes and together with the affordance of technology; facilitates enriched and collaborative learning for students to make connections within the school community and beyond. It also promotes student agency that engages them with the community through inquiry and authentic learning experiences.
 
-  
-
 Placed-based Learning is grounded within three phases – school, neighbourhood and community.
 
 <style type="text/css">
