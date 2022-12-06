@@ -34,7 +34,7 @@ You may click [here](https://www.moe.gov.sg/education/programmes/social-and-emo
 
 *   The subjects that incorporate topics on sexuality include:
 
-a. Science  <br>
+a. Science <br>
 b. Form Teacher Guidance Period (FTGP) <br>
 c. Character and Citizenship Education (CCE)
 
@@ -183,4 +183,4 @@ Parents may opt their children out of Sexuality Education lessons.
   
 Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. Please click [here](/files/Parent%20Opt%20Out%20Form%20Pri.pdf) to access the opt-out form and submit by 13/01/2022.
   
-Parents can contact the school at oasis_ps@moe.edu.sg or +65 6320 9855 for discussion or to seek clarification about the school’s sexuality education programme.
+Parents can contact the school at [oasis_ps@moe.edu.sg](oasis_ps@moe.edu.sg) or +65 6320 9855 for discussion or to seek clarification about the school’s sexuality education programme.
