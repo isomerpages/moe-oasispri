@@ -15,6 +15,6 @@ contacts:
   - content:
       - phone: +65 6320 9855
       - email: oasis_ps@moe.edu.sg
-      - other: "Fax : +65 6320 9856"
+      - other: "Fax: +65 6320 9856"
     title: General Office
 ---
