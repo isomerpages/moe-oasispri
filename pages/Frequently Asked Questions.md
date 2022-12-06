@@ -3,11 +3,6 @@ title: Frequently Asked Questions
 permalink: /faq/
 description: ""
 ---
-
-
-
-### **FAQ**
-
 **1.  How do I sign up for PSG?**
 
 You can drop us an email to [oasis.psgroup@gmail.com](mailto:oasis.psgroup@gmail.com), use this link ([http://bit.ly/NewPVWeb](http://bit.ly/NewPVWeb)), or scan the QR code  to register your interest as a Parent Volunteer.
