@@ -10,7 +10,7 @@ locations:
       - ""
     operating_hours: []
     maps_link: ""
-    title: General Office
+    title: Oasis Primary School
 contacts:
   - content:
       - phone: +65 6320 9855
