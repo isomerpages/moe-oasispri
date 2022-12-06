@@ -4,7 +4,7 @@ permalink: /ops/info-hub/school-life/school-terms-n-holidays/
 description: ""
 third_nav_title: School Life
 ---
-### School Terms for 2021
+### School Calendar 2023
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -18,33 +18,33 @@ third_nav_title: School Life
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-1wig" colspan="3">Semester 1<br></th>
+    <th class="tg-1wig" colspan="3">Semester I<br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-cly1">Term 1<br></td>
-    <td class="tg-cly1" colspan="2">Monday 4 Jan to Friday 12 March<br></td>
+    <td class="tg-cly1">Term I<br></td>
+    <td class="tg-cly1" colspan="2">Tue 3 Jan to Fri 10 Mar<br></td>
   </tr>
   <tr>
-    <td class="tg-cly1">Term 2<br></td>
-    <td class="tg-cly1" colspan="2">Monday 22 March to Friday 28 May<br></td>
+    <td class="tg-cly1">Term II<br></td>
+    <td class="tg-cly1" colspan="2">Mon 20 Mar to Fri 26 May<br></td>
   </tr>
   <tr>
-    <td class="tg-1wig" colspan="3">Semester 2<br></td>
+    <td class="tg-1wig" colspan="3">Semester II<br></td>
   </tr>
   <tr>
-    <td class="tg-cly1">Term 3<br></td>
-    <td class="tg-cly1" colspan="2">Monday 28 June to Friday 3 September<br></td>
+    <td class="tg-cly1">Term III<br></td>
+    <td class="tg-cly1" colspan="2">Mon 26 Jun to Fri 1 Sep<br></td>
   </tr>
   <tr>
-    <td class="tg-cly1">Term 4<br></td>
-    <td class="tg-cly1" colspan="2">Monday 13 September to *Friday 19 November<br></td>
+    <td class="tg-cly1">Term IV<br></td>
+    <td class="tg-cly1" colspan="2">Mon 11 Sep to Fri 17 Nov<br></td>
   </tr>
 </tbody>
 </table>
 
-### School Holidays for 2021
+### School Vacation 2023
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -58,33 +58,33 @@ third_nav_title: School Life
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-1wig" colspan="2">Semester 1<br></th>
+    <th class="tg-1wig" colspan="2">Semester I<br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-cly1">Between Terms 1 and 2<br></td>
-    <td class="tg-cly1">Saturday 13 March to Sunday 21 March<br></td>
+    <td class="tg-cly1">Between Terms I & II<br></td>
+    <td class="tg-cly1">Sat 11 Mar to Sun 19 Mar<br></td>
   </tr>
   <tr>
-    <td class="tg-cly1">Between Semesters 1 &amp; 2<br></td>
-    <td class="tg-cly1">Saturday 29 May to Sunday 27 June<br></td>
+    <td class="tg-cly1">Between Semesters I & II<br></td>
+    <td class="tg-cly1">Sat 27 May to Sun 25 Jun<br></td>
   </tr>
   <tr>
-    <td class="tg-1wig" colspan="2">Semester 2<br></td>
+    <td class="tg-1wig" colspan="2">Semester II<br></td>
   </tr>
   <tr>
-    <td class="tg-cly1">Between Terms 3 &amp; 4<br></td>
-    <td class="tg-cly1">Saturday 4 September to Sunday 12 September<br></td>
+    <td class="tg-cly1">Between Terms III & IV<br></td>
+    <td class="tg-cly1">Sat 2 Sep to Sun 10 Sep<br></td>
   </tr>
   <tr>
-    <td class="tg-cly1">School Year End<br></td>
-    <td class="tg-cly1">Saturday 20 November to Friday 31 December<br></td>
+    <td class="tg-cly1">At End of School Year<br></td>
+    <td class="tg-cly1">Sat 18 Nov to Sun 31 Dec<br></td>
   </tr>
 </tbody>
 </table>
 
-### Scheduled School Holidays for 2021
+### Scheduled School Holidays for 2023
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
