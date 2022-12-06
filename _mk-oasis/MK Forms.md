@@ -5,9 +5,9 @@ description: ""
 ---
 ##### Click to download:
 
-1) [MK Waiting List Registration Link](https://form.gov.sg/61b6b05c01382d00133ded6d)
+* [MK Waiting List Registration Link](https://form.gov.sg/61b6b05c01382d00133ded6d)
 
-2) [MK Transfer Request Form](/files/MOE%20Kindergarten%20Transfer%20Request%20Form.pdf)
+* [MK Transfer Request Form](/files/MOE%20Kindergarten%20Transfer%20Request%20Form.pdf)
 
 * [MK GIRO Form](/files/GIRO%20form_MKOASIS.pdf)
 
