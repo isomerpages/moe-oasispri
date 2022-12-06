@@ -146,46 +146,49 @@ third_nav_title: School Life
 <tbody>
   <tr>
     <td class="tg-67ya">New Year’s Day<br></td>
-    <td class="tg-67ya">Friday 1 January<br></td>
+    <td class="tg-67ya">Sun 1 Jan*
+		</p>
+			(*Mon 2 Jan will be a public holiday)
   </tr>
   <tr>
     <td class="tg-67ya" rowspan="2">Chinese New Year<br></td>
-    <td class="tg-67ya">Friday 12 February<br></td>
+    <td class="tg-67ya">Sun 22 Jan^</p>Mon 23 Jan
+		<br></td>
   </tr>
   <tr>
-    <td class="tg-vd2a"><span style="background-color:initial">*Saturday 13 February*Monday, 15 Feb, will be a school holiday.</span></td>
+    <td class="tg-vd2a"><span style="background-color:initial">(^Tues 24 Jan will be a public holiday)</span></td>
   </tr>
   <tr>
     <td class="tg-67ya">Good Friday<br></td>
-    <td class="tg-67ya">Friday 2 April<br></td>
+    <td class="tg-67ya">Fri 7 Apr<br></td>
   </tr>
   <tr>
     <td class="tg-67ya">Labour Day<br></td>
-    <td class="tg-vd2a"><span style="background-color:initial">**Saturday 1 May**Monday, 3 May, will be a school holiday.</span></td>
+    <td class="tg-vd2a"><span style="background-color:initial">Mon 1 May.</span></td>
   </tr>
   <tr>
     <td class="tg-67ya">Hari Raya Puasa<br></td>
-    <td class="tg-67ya">Thursday 13 May<br></td>
+    <td class="tg-67ya">Sat 22 Apr~<br></td>
   </tr>
   <tr>
     <td class="tg-67ya">Vesak Day<br></td>
-    <td class="tg-67ya">Wednesday 26 May<br></td>
+    <td class="tg-67ya">Fri 2 Jun<br></td>
   </tr>
   <tr>
     <td class="tg-67ya">Hari Raya Haji<br></td>
-    <td class="tg-67ya">Tuesday 20 July<br></td>
+    <td class="tg-67ya">Thu 29 Jun<br></td>
   </tr>
   <tr>
     <td class="tg-67ya">National Day<br></td>
-    <td class="tg-67ya">Monday 9 August<br></td>
+    <td class="tg-67ya">Wed 9 Aug<br></td>
   </tr>
   <tr>
     <td class="tg-67ya">Deepavali<br></td>
-    <td class="tg-67ya">Thursday 4 November<br></td>
+    <td class="tg-67ya">Sun 12 Nov<br></td>
   </tr>
   <tr>
     <td class="tg-67ya">Christmas Day<br></td>
-    <td class="tg-67ya">Saturday 25 December</td>
+    <td class="tg-67ya">Mon 25 Dec</td>
   </tr>
 </tbody>
 </table>
