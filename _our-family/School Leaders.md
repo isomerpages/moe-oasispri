@@ -7,4 +7,4 @@ description: ""
      style="width:30%">
 		 
 <img src="/images/school%20leaders.png" 
-     style="width:120%">
+     style="width:100%">
