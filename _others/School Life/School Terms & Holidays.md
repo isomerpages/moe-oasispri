@@ -165,7 +165,7 @@ third_nav_title: School Life
   <tr>
     <td class="tg-67ya">Hari Raya Puasa<br></td>
 	<td class="tg-vd2a"><span style="background-color:initial">Sat 22 Apr^ </p>
-			(^Mon 24 Apr will be a school holiday and a designated day off-in-lieu, schools are closed including the General Office, Student Care Centre/Kindergarten Care (KCare) Centres)
+			(^Mon 24 Apr will be a school holiday and a designated day off-in-lieu, schools are closed including the General Office, Student Care Centre / Kindergarten Care (KCare) Centres)
 			</span></td>
   </tr>
   <tr>
