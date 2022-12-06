@@ -106,7 +106,7 @@ third_nav_title: School Life
 <tbody>
   <tr>
     <td class="tg-y0ep">Youth Day<br></td>
-		<td class="tg-y24x"><span style="background-color:initial">Sun 2 Jul*  **(*Mon 3 Jul will be a scheduled school holiday)**</span></td>
+		<td class="tg-y24x"><span style="background-color:initial">Sun 2 Jul   [Mon 3 Jul will be a scheduled school holiday]</span></td>
   </tr>
   <tr>
     <td class="tg-y0ep">Day after National Day<br></td>
@@ -145,15 +145,15 @@ third_nav_title: School Life
 <tbody>
   <tr>
     <td class="tg-67ya">New Year’s Day<br></td>
-    <td class="tg-67ya">Sun 1 Jan~  **(~Mon 2 Jan will be a public holiday)**
+    <td class="tg-67ya">Sun 1 Jan   [Mon 2 Jan will be a public holiday
   </tr>
   <tr>
     <td class="tg-67ya" rowspan="2">Chinese New Year<br></td>
-    <td class="tg-67ya">Sun 22 Jan#, Mon 23 Jan
+    <td class="tg-67ya">Sun 22 Jan, Mon 23 Jan
 		<br></td>
   </tr>
   <tr>
-    <td class="tg-vd2a"><span style="background-color:initial">**(#Tues 24 Jan will be a public holiday)**</span></td>
+    <td class="tg-vd2a"><span style="background-color:initial">   *[Tues 24 Jan will be a public holiday]*</span></td>
   </tr>
   <tr>
     <td class="tg-67ya">Good Friday<br></td>
@@ -161,7 +161,7 @@ third_nav_title: School Life
   </tr>
   <tr>
     <td class="tg-67ya">Hari Raya Puasa<br></td>
-	<td class="tg-vd2a"><span style="background-color:initial">Sat 22 Apr^  **(^Mon 24 Apr will be a school holiday and a designated day off-in-lieu, schools are closed including the General Office, Student Care Centre / Kindergarten Care (KCare) Centres)**
+	<td class="tg-vd2a"><span style="background-color:initial">Sat 22 Apr   [Mon 24 Apr will be a school holiday and a designated day off-in-lieu, schools are closed including the General Office, Student Care Centre / Kindergarten Care (KCare) Centres]
 			</span></td>
   </tr>
   <tr>
@@ -182,7 +182,7 @@ third_nav_title: School Life
   </tr>
   <tr>
     <td class="tg-67ya">Deepavali<br></td>
-    <td class="tg-67ya">Sun 12 Nov*  **(*Mon 13 Nov will be a public holiday)**
+    <td class="tg-67ya">Sun 12 Nov   [Mon 13 Nov will be a public holiday]
 	</td>
   </tr>
   <tr>
