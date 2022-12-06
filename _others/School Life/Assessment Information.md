@@ -42,7 +42,7 @@ third_nav_title: School Life
 
 5.  Students who miss the main written paper of the weighted semestral assessments will not be able to sit for the assessment as there is **no retest** for written papers in the National Examination. The following cases highlight the action to be taken by teachers for students who miss the main written papers:
 
-<u>**Case 1: Students who miss one or more of the language papers with valid reason**</u>
+<u>Case 1: Students who miss one or more of the language papers with valid reason</u>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -111,7 +111,7 @@ third_nav_title: School Life
 </table>
 *VR = Valid Reason such as MC*
 
-<u>**Case 2: Students who miss Science or Mathematics papers**</u>
+<u>Case 2: Students who miss Science or Mathematics papers</u>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
