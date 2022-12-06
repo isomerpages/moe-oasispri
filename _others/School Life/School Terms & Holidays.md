@@ -84,7 +84,7 @@ third_nav_title: School Life
 </tbody>
 </table>
 
-### Scheduled School Holidays for 2023
+### Scheduled School Holidays 2023
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -106,24 +106,25 @@ third_nav_title: School Life
 <tbody>
   <tr>
     <td class="tg-y0ep">Youth Day<br></td>
-    <td class="tg-y24x"><span style="background-color:initial">Sunday 4 July(Monday, 5 Jul 2021 will be a scheduled school holiday)</span></td>
+    <td class="tg-y24x"><span style="background-color:initial">Sun 2 Jul</p>
+			(The following Mon 3 Jul will be a scheduled school holiday)</span></td>
   </tr>
   <tr>
     <td class="tg-y0ep">Day after National Day<br></td>
-    <td class="tg-y0ep">Tuesday 10 August<br></td>
+    <td class="tg-y0ep">Thu 10 Aug<br></td>
   </tr>
   <tr>
     <td class="tg-y0ep">Teachers’ Day<br></td>
-    <td class="tg-y0ep">Friday 3 September<br></td>
+    <td class="tg-y0ep">Fri 1 Sep<br></td>
   </tr>
   <tr>
     <td class="tg-y0ep">Children’s Day<br></td>
-    <td class="tg-y0ep">Friday 8 October<br></td>
+    <td class="tg-y0ep">Fri 6 Oct<br></td>
   </tr>
 </tbody>
 </table>
 
-### Public Holidays for 2021
+### Public Holidays 2023
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
