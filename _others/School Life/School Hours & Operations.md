@@ -33,7 +33,7 @@ third_nav_title: School Life
   </tr>
   <tr>
     <td class="tg-67ya">Friday (CCA)</td>
-    <td class="tg-67ya">3.00 pm to 5.00 pm</td>
+    <td class="tg-67ya">2.00 pm to 4.00 pm</td>
   </tr>
 </tbody>
 </table>
