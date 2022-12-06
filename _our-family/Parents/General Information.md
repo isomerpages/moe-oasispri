@@ -59,7 +59,7 @@ third_nav_title: Parents
   </tr>
   <tr>
     <td class="tg-67ya">Friday (CCA)</td>
-    <td class="tg-67ya">3.00pm – 5.00 p.m.</td>
+    <td class="tg-67ya">2.00 p.m. – 4.00 p.m.</td>
   </tr>
 </tbody>
 </table>
@@ -111,9 +111,9 @@ Please contact the school’s appointed school bus operator at +65 6553 3838 or 
 		
 6. **How can I purchase school uniforms and textbooks for my child?**
     
-You may purchase your child’s school uniforms and textbooks from the school bookshop at the end of the year, between November and December. The school textbook and stationery lists will be given to your child during the last week of school in November. You may make ad-hoc purchases of the textbooks at the school bookshop during the school term between 2pm and 3pm.
+You may purchase your child’s school uniforms and textbooks from the school bookshop at the end of the year, between November and December. The school textbook and stationery lists will be given to your child during the last week of school in November. You may make ad-hoc purchases of the textbooks at the school bookshop during the school term between 2.00 p.m. and 3.00 p.m.
     
-For further purchase of the uniforms, you may contact our uniform supplier at +65 6479681 for further details.
+For further purchase of the uniforms, you may contact our uniform supplier at +65 6479 6811 for further details.
 
 7. **What are the operating hours of the school dental clinic?**
     
