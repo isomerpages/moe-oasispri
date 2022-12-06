@@ -145,7 +145,8 @@ third_nav_title: School Life
 <tbody>
   <tr>
     <td class="tg-67ya">New Year’s Day<br></td>
-    <td class="tg-67ya">Sun 1 Jan   [Mon 2 Jan will be a public holiday
+    <td class="tg-67ya">Sun 1 Jan   [Mon 2 Jan will be a public holiday]
+  </tr>
   <tr>
     <td class="tg-67ya" rowspan="2">Chinese New Year<br></td>
     <td class="tg-67ya">Sun 22 Jan, Mon 23 Jan
