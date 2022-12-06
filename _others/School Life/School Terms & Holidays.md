@@ -194,5 +194,3 @@ third_nav_title: School Life
     <td class="tg-67ya">Christmas Day<br></td>
     <td class="tg-67ya">Mon 25 Dec</td>
   </tr>
-</tbody>
-</table>
