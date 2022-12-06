@@ -4,7 +4,7 @@ permalink: /our-family/school-leaders/
 description: ""
 ---
 <img src="/images/mrs%20ong%20chew%20lu%20see%20with%20quotes.png" 
-     style="width:35%">
+     style="width:30%">
 		 
 <img src="/images/school%20leaders.png" 
      style="width:120%">
