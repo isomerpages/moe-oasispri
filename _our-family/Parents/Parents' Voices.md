@@ -6,14 +6,14 @@ third_nav_title: Parents
 ---
 <figure>
 <img src="/images/01%20Salinah.jpg" 
-     style="width:70%">
+     style="width:100%">
 <figcaption> <strong> Salinah Binte Kasmadi</strong> </figcaption>
 </figure>
 <p>We are glad that we have chosen Oasis Primary School for our kids.The introduction of their school values & 7 Habits is a great way of building a strong foundation for our children.  Keep up the good work in preparing my kids and others for their future.</p>
 		 
 <figure>
 <img src="/images/02%20Anna%20Koh.jpg" 
-     style="width:70%">
+     style="width:100%">
 <figcaption> <strong> Koh Shiang Phing, Anna</strong> </figcaption>
 </figure>
 <p>Initially, I thought that Oasis Pri Sch is just a neighbourhood school but I start to realize it is more than that.I am a PV so I am able to have opportunities to work with teachers and the school. I discovered their passion, care, thoughtfulness, and hard work to help every child.  
@@ -21,14 +21,14 @@ All my 3 children are very happy with the school.They love all their teachers an
 
 <figure>
 <img src="/images/07%20Susan%20Ng.jpg" 
-     style="width:70%">
+     style="width:100%">
 <figcaption> <strong> Susan Ng Siew Gek</strong> </figcaption>
 </figure>
 <p>Both my boys enjoy school and had wonderful teachers who have been caring and loving throughout their school journey.My boys, who are in P6 and P4 this year, are excited to learn more as their teachers use fun and motivational teaching methods.I am always happy when they come home sharing what they have learnt in school.Thank you Oasis Primary School for nurturing and developing both my boys during their formative primary school years.</p>
 
 <figure>
 <img src="/images/04%20Celsa.jpg" 
-     style="width:70%">
+     style="width:100%">
 <figcaption> <strong> Tow Celsa Galvez</strong> </figcaption>
 </figure>
 <p>
@@ -42,13 +42,12 @@ Lastly, I would like to thank and show my deepest appreciation to the Principal 
 
 <figure>
 <img src="/images/03%20Rebekah.jpg" 
-     style="width:70%">
+     style="width:100%">
 <figcaption> <strong> Rebekah Seragih</strong> </figcaption>
 </figure>
 <p>The dedication of the teachers in Oasis Primary School never fails to amaze me. They always go the extra mile to help the students to ensure that they never fall behind in their school works especially during CB and HBL periods.<br>
-
 This year my son will be taking his PSLE and I was pleasantly surprised when his Science teacher, Ms Tan Lina has even created a microsite to consolidate all the learning materials, extra exercises, and videos for the kids in her classes. This takes a lot of effort, time, and most importantly, the dedication, care, and lovingkindness of the teacher to support the students. The other teachers have in one way or another taken the extra efforts in teaching and coaching the students building up their resilience and determination to overcome PSLE challenges.<br>
-	
+
 They have gone the extra miles to communicate with the parents on lessons and class activities. We are very thankful and appreciate these "little gestures" as it might seem but these little gestures have given us the assurance that our son is in the good hands of all the teachers teaching him. We appreciate the teachers of Oasis and their dedication!!</p>
 
 <figure>
