@@ -9,6 +9,7 @@ third_nav_title: School Life
 Blk 115A, Commonwealth Drive, #04-15/16, Singapore 149596 <br>
 Tel: +65 6479 6811 <br>
 Fax: +65 6474 4037 <br>
+Email: [sales@khuniform.com](sales@khuniform.com) <br>
 **_There will be no walk-in sales due to Covid-19._**
 
 ## School Bookshop
