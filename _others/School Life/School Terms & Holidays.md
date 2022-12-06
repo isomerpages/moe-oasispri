@@ -146,29 +146,31 @@ third_nav_title: School Life
 <tbody>
   <tr>
     <td class="tg-67ya">New Year’s Day<br></td>
-    <td class="tg-67ya">Sun 1 Jan*
+    <td class="tg-67ya">Sun 1 Jan~
 		</p>
-			(*Mon 2 Jan will be a public holiday)
+			(~Mon 2 Jan will be a public holiday)
   </tr>
   <tr>
     <td class="tg-67ya" rowspan="2">Chinese New Year<br></td>
-    <td class="tg-67ya">Sun 22 Jan^</p>Mon 23 Jan
+    <td class="tg-67ya">Sun 22 Jan#</p>Mon 23 Jan
 		<br></td>
   </tr>
   <tr>
-    <td class="tg-vd2a"><span style="background-color:initial">(^Tues 24 Jan will be a public holiday)</span></td>
+    <td class="tg-vd2a"><span style="background-color:initial">(#Tues 24 Jan will be a public holiday)</span></td>
   </tr>
   <tr>
     <td class="tg-67ya">Good Friday<br></td>
     <td class="tg-67ya">Fri 7 Apr<br></td>
   </tr>
   <tr>
-    <td class="tg-67ya">Labour Day<br></td>
-    <td class="tg-vd2a"><span style="background-color:initial">Mon 1 May.</span></td>
+    <td class="tg-67ya">Hari Raya Puasa<br></td>
+	<td class="tg-vd2a"><span style="background-color:initial">Sat 22 Apr^ </p>
+			(^Mon 24 Apr will be a school holiday and a designated day off-in-lieu, schools are closed including the General Office, Student Care Centre/Kindergarten Care (KCare) Centres)
+			</span></td>
   </tr>
   <tr>
-    <td class="tg-67ya">Hari Raya Puasa<br></td>
-    <td class="tg-67ya">Sat 22 Apr~<br></td>
+    <td class="tg-67ya">Labour Day<br></td>
+    <td class="tg-67ya">Mon 1 May<br></td>
   </tr>
   <tr>
     <td class="tg-67ya">Vesak Day<br></td>
@@ -184,7 +186,9 @@ third_nav_title: School Life
   </tr>
   <tr>
     <td class="tg-67ya">Deepavali<br></td>
-    <td class="tg-67ya">Sun 12 Nov<br></td>
+    <td class="tg-67ya">Sun 12 Nov* </p>
+		(*Mon 13 Nov will be a public holiday)
+		</span></td>
   </tr>
   <tr>
     <td class="tg-67ya">Christmas Day<br></td>
