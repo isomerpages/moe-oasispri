@@ -15,7 +15,6 @@ Parent Support Group (PSG) @ Oasis plays a significant role in bringing parents 
 
 **Mission:**
 *   To collaborate with the school to support all parents, children and stakeholders of Oasis Primary School through thoughtfully designed activities and programmes. To nurture Oasisans into shining stars.  
-    
 
 **Values:**
 PSG@Oasis is grounded on the four values, which serve as the compass for all our work.
