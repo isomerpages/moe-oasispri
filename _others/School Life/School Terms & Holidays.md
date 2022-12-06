@@ -106,7 +106,7 @@ third_nav_title: School Life
 <tbody>
   <tr>
     <td class="tg-y0ep">Youth Day<br></td>
-    <td class="tg-y24x"><span style="background-color:initial">Sun 2 Jul*</p>
+		<td class="tg-y24x"><span style="background-color:initial">Sun 2 Jul*</br>
 			(*Mon 3 Jul will be a scheduled school holiday)</span></td>
   </tr>
   <tr>
@@ -147,7 +147,7 @@ third_nav_title: School Life
   <tr>
     <td class="tg-67ya">New Year’s Day<br></td>
     <td class="tg-67ya">Sun 1 Jan~
-		</p>
+		</br>
 			(~Mon 2 Jan will be a public holiday)
   </tr>
   <tr>
@@ -164,7 +164,7 @@ third_nav_title: School Life
   </tr>
   <tr>
     <td class="tg-67ya">Hari Raya Puasa<br></td>
-	<td class="tg-vd2a"><span style="background-color:initial">Sat 22 Apr^ </p>
+	<td class="tg-vd2a"><span style="background-color:initial">Sat 22 Apr^ </br>
 			(^Mon 24 Apr will be a school holiday and a designated day off-in-lieu, schools are closed including the General Office, Student Care Centre / Kindergarten Care (KCare) Centres)
 			</span></td>
   </tr>
@@ -186,7 +186,7 @@ third_nav_title: School Life
   </tr>
   <tr>
     <td class="tg-67ya">Deepavali<br></td>
-    <td class="tg-67ya">Sun 12 Nov* </p>
+    <td class="tg-67ya">Sun 12 Nov* </br>
 		(*Mon 13 Nov will be a public holiday)
 		</span></td>
   </tr>
