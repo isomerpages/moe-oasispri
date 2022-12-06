@@ -19,4 +19,4 @@ description: ""
 
 8. [SCMobile](https://scmobile.moe.edu.sg/login)
 
-9. [Student Learning Space (SLS)](https://www.learning.moe.edu.sg/sls/index.html)
+9. [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
