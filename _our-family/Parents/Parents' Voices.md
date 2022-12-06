@@ -40,7 +40,6 @@ I always remind him to do first thing first and work hand in hand with the teach
 
 Lastly, I would like to thank and show my deepest appreciation to the Principal in the school. She is always present in every meeting I attended. Mrs Ong also provided updates on how can parents can partner school so that we can work together in the best interest of our child.</p>
 
-
 <figure>
 <img src="/images/03%20Rebekah.jpg" 
      style="width:50%">
@@ -139,6 +138,3 @@ Overall, I am delighted to have my son studying here and I remain confident that
 Thank you Mdm Poh Eng Hong, his form teacher and to the other subject teachers who have been showing their sincere concerns, patience, giving moral and academic support to my son, Izz Fayyaz.<br>
 
 Each one of you has made a positive difference in my son's life. A true great teacher is hard to find and it takes a big heart to help shape little minds. Lots of love to the well-deserved teachers!</p>
-
-
- 
