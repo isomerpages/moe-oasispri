@@ -15,7 +15,7 @@ P1 e-orientation will be held on 18 October 2022 (Tuesday).
 10 a.m. to 11 a.m. <br>
 2 p.m. to 3 p.m.
 
-For more information, please contact school General Office at 6320 9855.
+For more information, please contact school General Office at +65 6320 9855.
 
 ### Outstanding Youth in Education Award
 
