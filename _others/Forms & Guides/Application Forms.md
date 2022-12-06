@@ -6,7 +6,7 @@ third_nav_title: Forms & Guides
 ---
 ### MOE Financial Assistance Scheme (FAS)
 
-Please visit MOE's official website **[here](https://www.moe.gov.sg/financial-matters/financial-assistance)** for more information. The application form can be downloaded here.
+Please visit MOE's official website [here](https://www.moe.gov.sg/financial-matters/financial-assistance) for more information. The application form can be downloaded here.
 
 [1B MOE-FAS Application Form 2023](/files/1B%20MOE-FAS%20Application%20Form%202023-1.pdf)
 *updated as of 14th October 2022
@@ -19,7 +19,7 @@ For forms and details:  [https://www.imda.gov.sg/neupc](https://www.imda.gov.s
 
 ### Application for GIRO
 
-Please click **[here](https://go.gov.sg/moe-online-giro-form)** to join via FormSG. SingPass login is required.
+Please click [here](https://go.gov.sg/moe-online-giro-form) to join via FormSG. SingPass login is required.
 
 ### Giro Termination Form
 
@@ -41,4 +41,4 @@ For manual submission, the [Claim Form](/files/5B%20Claim%20form%20for%20Group%
 
 For Singapore Citizen/Singapore Permanent Resident pupils who wish to apply for a place in Oasis Primary School, please click here to access the Waiting List Online Application Form.
 
-Please complete the form and hand it to the staff in the General Office. Alternatively, you may email the completed form to us at [oasis_ps@moe.edu.sg](mailto:oasis_ps@moe.edu.sg)
+Please complete the form and hand it to the staff in the General Office. Alternatively, you may email the completed form to us at [oasis_ps@moe.edu.sg](mailto:oasis_ps@moe.edu.sg).
