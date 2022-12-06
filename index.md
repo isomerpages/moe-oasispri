@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: Highlights
           description: ""
-          url: /ops/highlights/outstanding-youth-in-education-award/
+          url: /ops/highlights/
         - title: Info Hub
           description: ""
           url: /ops/info-hub/school-life/assessment-information/
