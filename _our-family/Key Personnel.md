@@ -6,12 +6,12 @@ description: ""
 ### School Staff Developer
 
 <img src="/images/ms%20lee%20kai%20sin%20with%20quotes.png" 
-     style="width:50%">
+     style="width:35%">
 		 
 ### English Language Department
 
 <img src="/images/ms%20tan%20li%20na%20with%20quotes.png" 
-     style="width:50%">
+     style="width:35%">
 		 
 ### Mathematics Department
 
