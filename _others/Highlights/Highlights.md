@@ -10,7 +10,7 @@ The annual Oasis Awards Day was held on 18 November 2022. This yearâ€™s theme, â
 
 ### P1 e-Orientation 2023
 
-P1 e-Orientation will be held on Tues 18 Oct 2022.
+P1 e-Orientation was held on Tues 18 Oct 2022.
 
 10 a.m. to 11 a.m. <br>
 2 p.m. to 3 p.m.
