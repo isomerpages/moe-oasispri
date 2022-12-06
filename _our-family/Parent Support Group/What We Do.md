@@ -18,4 +18,4 @@ The PSG listens to parents’ feedback on school operations, practices and progr
 
 Parents who are actively involved in the PSG can better reach out to other parents and involve them. Over time, more parents can contribute to make the school a conducive learning environment.
 
-See us in actions! Check out some of our activities in School in the photo gallery below.
+See us in actions! Check out some of our activities in School in the photo gallery.
