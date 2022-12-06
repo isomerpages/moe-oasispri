@@ -6,7 +6,6 @@ third_nav_title: School Life
 ---
 ### Assessment Policy
 
-
 **A. Purpose and scope of assessment**
 
 1.  Assessment is the process of collecting, analysing and interpreting information to assist teachers in making decisions about the progress of their students as well as about their teaching.
