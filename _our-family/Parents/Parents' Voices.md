@@ -46,27 +46,28 @@ Lastly, I would like to thank and show my deepest appreciation to the Principal 
 <figcaption> <strong> Rebekah Seragih</strong> </figcaption>
 </figure>
 <p>The dedication of the teachers in Oasis Primary School never fails to amaze me. They always go the extra mile to help the students to ensure that they never fall behind in their school works especially during CB and HBL periods.<br>
+
 This year my son will be taking his PSLE and I was pleasantly surprised when his Science teacher, Ms Tan Lina has even created a microsite to consolidate all the learning materials, extra exercises, and videos for the kids in her classes. This takes a lot of effort, time, and most importantly, the dedication, care, and lovingkindness of the teacher to support the students. The other teachers have in one way or another taken the extra efforts in teaching and coaching the students building up their resilience and determination to overcome PSLE challenges.<br>
 
 They have gone the extra miles to communicate with the parents on lessons and class activities. We are very thankful and appreciate these "little gestures" as it might seem but these little gestures have given us the assurance that our son is in the good hands of all the teachers teaching him. We appreciate the teachers of Oasis and their dedication!!</p>
 
 <figure>
 <img src="/images/06%20Elaine%20Ng.jpg" 
-     style="width:70%">
+     style="width:100%">
 <figcaption> <strong>Elaine Ng</strong> </figcaption>
 </figure>
 <p>My children came home and tried to teach me what they had learnt in the class. It is a joy to see them enjoying their time in school. All the teachers are very friendly and responsive to parents' queries. During the HBL period, it was tough for everyone. A special shoutout to Mrs Nathan as I can feel her additional effort put in in lesson preparations and ensuring students under her charge are able to catch up and coping well.</p>
 
 <figure>
 <img src="/images/05%20Melanie%20Nyam.jpg" 
-     style="width:70%">
+     style="width:100%">
 <figcaption> <strong>Melanie Nyam</strong> </figcaption>
 </figure>
 <p>Aiden has been attending school at the Oasis Primary School for more than 2 years now.He has been very blessed to have wonderful teachers especially his form teacher, Mrs Mey Asher See.When he was on SHN, she compiled his work so that he would be able to catch up on his studies.Going beyond her teaching responsibilities, she almost bought Aiden his favourite chicken rice which he was eyeing during his recess break! Aiden always speaks fondly of all his teachers and had told me that there is no other school he would like to go to than OPS!</p>
 
 <figure>
 <img src="/images/08%20Siti%20Jamburi.jpg" 
-     style="width:70%">
+     style="width:100%">
 <figcaption> <strong>Siti Munah Jamburi</strong> </figcaption>
 </figure>
 <p>The teachers are friendly and responsive, and we receive a lot information either through the Parents Gateway or Student Handbook. The collaboration between teachers and parents is strong and we are updated regularly, especially those in the Parent Support Group (PSG). I am glad to volunteer in the PSG and i look forward to be involved again when the opportunity arises!</p>
@@ -84,7 +85,7 @@ Looking forward to many more fruitful years at Oasis Primary School.</p>
    
 <figure>
 <img src="/images/10%20Eileen%20Tay.jpg" 
-     style="width:70%">
+     style="width:100%">
 <figcaption> <strong>Eileen Tay</strong> </figcaption>
 </figure>
 <p>What clearly distinguishes OPS from many other schools I have interacted with as an educator is its people. The staff morale is strong and that makes the place feel like one big family.<br>
@@ -95,8 +96,8 @@ This is the reason why my daughter has adjusted so well to life in school even t
     
 <figure>
 <img src="/images/11%20Amy%20Hoi.jpg" 
-     style="width:70%">
-<figcaption> <strong>Hoi Yun Ying Amyi</strong> </figcaption>
+     style="width:100%">
+<figcaption> <strong>Hoi Yun Ying Amy</strong> </figcaption>
 </figure>
 <p>As a preschooler, Evan was a non-expressive introvert who commented very little about how his school day used to be.<br>
 	
@@ -106,29 +107,18 @@ Apart from the well structured curriculum that lets him transit from Preschool t
 
 <figure>
 <img src="/images/12%20Debashis%20Ghosh.jpg" 
-     style="width:70%">
+     style="width:100%">
 <figcaption> <strong>Debashis Aloknath Ghosh</strong> </figcaption>
 </figure>
-<p>My son started his primary education in Oasis Primary school in 2019.  
-He adjusted well to his classmates and he took a fond liking to his teachers.  <br>
-	
-The teachers have been extremely attentive to the needs of the children under their tutelage. Now in his 3rd year in OPS, my son enjoys attending school each day.  <br>
-	
-I find that he is able to understand and enjoy subjects like English and Mathematics by following the instructions of his teachers in school and revising what he has learnt at home.The school premises are clean.  <br>
-  
+<p>My son started his primary education in Oasis Primary school in 2019. He adjusted well to his classmates and he took a fond liking to his teachers. The teachers have been extremely attentive to the needs of the children under their tutelage. Now in his 3rd year in OPS, my son enjoys attending school each day. I find that he is able to understand and enjoy subjects like English and Mathematics by following the instructions of his teachers in school and revising what he has learnt at home.The school premises are clean.  <br>
+
 The form teacher and other subject teachers update my child's learning progress to me frequently.  <br>
-	
+
 Overall, I am delighted to have my son studying here and I remain confident that this is the right place for his schooling at a young and impressionable age.</p>
-
-
-   style="background-color:initial">The school premises are clean.</span><br><br><span style="background-color:initial">The form teacher and other subject teachers update my child's learning progress to me frequently.</span><br><br><span style="background-color:initial">Overall, I am delighted to have my son studying here and I remain confident that this is the right place for his schooling at a young and impressionable age.</span></td>
-  </tr>
-</thead>
-</table>
 
 <figure>
 <img src="/images/13%20Siti%20Fadhilah.jpg" 
-     style="width:70%">
+     style="width:100%">
 <figcaption> <strong>Siti Fadhilah</strong> </figcaption>
 </figure>
 <p>We are glad to have chosen Oasis Primary School for our son.<br>
