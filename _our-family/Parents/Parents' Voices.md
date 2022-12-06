@@ -77,7 +77,7 @@ They have gone the extra miles to communicate with the parents on lessons and cl
      style="width:70%">
 <figcaption> <strong>Lew Pei Lin</strong> </figcaption>
 </figure>
-<p>Dear School Management Team and Teachers, we are very blessed that Si En enrolled into a school that focuses on charcter building and at the same time nurturing in her a keen-to-learn attitude.<br>
+<p>Dear School Management Team and Teachers, we are very blessed that Si En enrolled into a school that focuses on character building and at the same time nurturing in her a keen-to-learn attitude.<br>
 	
 The sunshine environment in Oasis Primary really helps to boost my child to strive for her best in many ways. In her two years in school, we had observed her growth and we are especially grateful to Miss Chew of 2019/2020 (P1 and 2Harmony) for her love and patience for the children. She helped to build a good foundation on them.<br>
 
