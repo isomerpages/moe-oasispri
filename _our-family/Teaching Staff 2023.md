@@ -179,38 +179,38 @@ description: ""
   </tr>
   <tr>
     <td class="tg-7vye">3 Care<br></td>
-    <td class="tg-7vye">Mrs Ann Tan<br></td>
-    <td class="tg-7vye">Mdm Margaret Lee</td>
+    <td class="tg-7vye"><br></td>
+    <td class="tg-7vye"></td>
   </tr>
   <tr>
     <td class="tg-0ynh">3 Harmony<br></td>
-    <td class="tg-0ynh">Ms Ho Wan Yu<br></td>
-    <td class="tg-0ynh">Mdm Hafizah</td>
+    <td class="tg-0ynh"><br></td>
+    <td class="tg-0ynh"></td>
   </tr>
   <tr>
     <td class="tg-7vye">3 Integrity<br></td>
-    <td class="tg-7vye">Ms Yusneeta</td>
-    <td class="tg-7vye">Ms Sophie</td>
+    <td class="tg-7vye"></td>
+    <td class="tg-7vye"></td>
   </tr>
   <tr>
     <td class="tg-0ynh">3 Loyalty<br></td>
-    <td class="tg-0ynh">Ms  Vongsuvanish Si Xu<span style="color:#002D46;background-color:#F1F6E4"> </span><br></td>
-    <td class="tg-0ynh">Mrs Cassie Ngain / Mr Fahmy</td>
+    <td class="tg-0ynh"><span style="color:#002D46;background-color:#F1F6E4"> </span><br></td>
+    <td class="tg-0ynh"> / </td>
   </tr>
   <tr>
     <td class="tg-7vye">3 Diligence<br></td>
-    <td class="tg-7vye">Ms Nirmawati</td>
-    <td class="tg-7vye">Ms Maalini</td>
+    <td class="tg-7vye"></td>
+    <td class="tg-7vye"></td>
   </tr>
   <tr>
     <td class="tg-0ynh">3 Resilience<br></td>
-    <td class="tg-0ynh">Mdm Maziyah </td>
-    <td class="tg-0ynh">Mdm Soh Hoon Suu <br></td>
+    <td class="tg-0ynh"> </td>
+    <td class="tg-0ynh"> <br></td>
   </tr>
   <tr>
     <td class="tg-7vye">3 Empathy<br></td>
-    <td class="tg-7vye">Mrs Wang Hui Shan<br></td>
-    <td class="tg-7vye">Mdm Danz Tan</td>
+    <td class="tg-7vye"><br></td>
+    <td class="tg-7vye"></td>
   </tr>
 </tbody>
 </table>
