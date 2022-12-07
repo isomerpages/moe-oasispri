@@ -101,7 +101,7 @@ Students apply sport-specific skills and mental strength in intra and/or inter s
     <td class="tg-0lax">- CCA (Sports) school representation at<br>National School Games (NSG)<br>- CCA (Sports) school representation at<br>Zone and Cluster events</td>
   </tr>
   <tr>
-    <td class="tg-0lax" colspan="2">- Level camps (P4 R3OAC, P5 Camp Inspire)<br>- Cohort sports events (Oasis Blaza &amp; Lower Primary Sports Challenge)</td>
+    <td class="tg-0lax" colspan="2">- Level camps (P4 R3OAC, P5 Camp Inspire)<br>- Cohort sports events (Oasis Blaze &amp; Lower Primary Sports Challenge)</td>
   </tr>
 </tbody>
 </table>
