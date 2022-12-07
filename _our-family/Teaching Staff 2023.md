@@ -243,43 +243,43 @@ description: ""
   </tr>
   <tr>
     <td class="tg-7vye">4 Care<br></td>
-    <td class="tg-7vye">Mdm Jaslyn Seah</td>
-    <td class="tg-7vye">Mdm Sally Tan</td>
+    <td class="tg-7vye"></td>
+    <td class="tg-7vye"></td>
   </tr>
   <tr>
     <td class="tg-0ynh">4 Harmony<br></td>
-    <td class="tg-0ynh">Mdm Norizah Akib<br></td>
-    <td class="tg-0ynh">Mr Lin Furong</td>
+    <td class="tg-0ynh"><br></td>
+    <td class="tg-0ynh"></td>
   </tr>
   <tr>
     <td class="tg-7vye">4 Integrity<br></td>
-    <td class="tg-7vye">Mr Aizad</td>
-    <td class="tg-7vye">Mrs Anastasia Chan</td>
+    <td class="tg-7vye"></td>
+    <td class="tg-7vye"></td>
   </tr>
   <tr>
     <td class="tg-0ynh">4 Loyalty<br></td>
-    <td class="tg-0ynh">Ms Liyana<br></td>
-    <td class="tg-0ynh">Ms Celeste Yap<br></td>
+    <td class="tg-0ynh"><br></td>
+    <td class="tg-0ynh"><br></td>
   </tr>
   <tr>
     <td class="tg-7vye">4 Diligence<br></td>
-    <td class="tg-7vye">Ms Lau Ying Ying</td>
-    <td class="tg-7vye">Mr Christopher Cheng</td>
+    <td class="tg-7vye"></td>
+    <td class="tg-7vye"></td>
   </tr>
   <tr>
     <td class="tg-0ynh">4 Resilience<br></td>
-    <td class="tg-0ynh">Ms Nursyaza</td>
-    <td class="tg-0ynh">Mdm Christine Huang Rui<br></td>
+    <td class="tg-0ynh"></td>
+    <td class="tg-0ynh"><br></td>
   </tr>
   <tr>
     <td class="tg-7vye">4 Empathy<br></td>
-    <td class="tg-7vye">Mrs Lau Peixia<br></td>
-    <td class="tg-7vye">Mdm Nurul Atika</td>
+    <td class="tg-7vye"><br></td>
+    <td class="tg-7vye"></td>
   </tr>
   <tr>
     <td class="tg-0ynh"> 4 Noble</td>
-    <td class="tg-0ynh">Mr Jonathan Boey </td>
-    <td class="tg-0ynh">Ms Tay Xiulan </td>
+    <td class="tg-0ynh"> </td>
+    <td class="tg-0ynh"> </td>
   </tr>
 </tbody>
 </table>
