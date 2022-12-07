@@ -9,6 +9,76 @@ description: ""
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0jnx{background-color:#ffc600;text-align:center;vertical-align:top}
+.tg .tg-3uba{background-color:#FFC600;color:#002D46;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-7vye{background-color:#FFF8F7;color:#002D46;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-0ynh{background-color:#F1F6E4;color:#002D46;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0jnx" colspan="3"><span style="font-weight:bold">Primary 4</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-3uba" colspan="3"><span style="font-weight:bold;color:#002D46;background-color:#FFC600">Year Head: Mrs Munirah Eszham</span><br><span style="font-weight:bold;color:#002D46;background-color:#FFC600">Assistant Year Head: Mr Vaahid</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-3uba"><span style="font-weight:bold;color:#002D46;background-color:#FFC600">Class</span></td>
+    <td class="tg-3uba"><span style="font-weight:bold;color:#002D46;background-color:#FFC600">Form Teacher 1</span></td>
+    <td class="tg-3uba"><span style="font-weight:bold;color:#002D46;background-color:#FFC600">Form Teacher 2</span></td>
+  </tr>
+  <tr>
+    <td class="tg-7vye">4 Care<br></td>
+    <td class="tg-7vye">Mdm Jaslyn Seah</td>
+    <td class="tg-7vye">Mdm Sally Tan</td>
+  </tr>
+  <tr>
+    <td class="tg-0ynh">4 Harmony<br></td>
+    <td class="tg-0ynh">Mdm Norizah Akib<br></td>
+    <td class="tg-0ynh">Mr Lin Furong</td>
+  </tr>
+  <tr>
+    <td class="tg-7vye">4 Integrity<br></td>
+    <td class="tg-7vye">Mr Aizad</td>
+    <td class="tg-7vye">Mrs Anastasia Chan</td>
+  </tr>
+  <tr>
+    <td class="tg-0ynh">4 Loyalty<br></td>
+    <td class="tg-0ynh">Ms Liyana<br></td>
+    <td class="tg-0ynh">Ms Celeste Yap<br></td>
+  </tr>
+  <tr>
+    <td class="tg-7vye">4 Diligence<br></td>
+    <td class="tg-7vye">Ms Lau Ying Ying</td>
+    <td class="tg-7vye">Mr Christopher Cheng</td>
+  </tr>
+  <tr>
+    <td class="tg-0ynh">4 Resilience<br></td>
+    <td class="tg-0ynh">Ms Nursyaza</td>
+    <td class="tg-0ynh">Mdm Christine Huang Rui<br></td>
+  </tr>
+  <tr>
+    <td class="tg-7vye">4 Empathy<br></td>
+    <td class="tg-7vye">Mrs Lau Peixia<br></td>
+    <td class="tg-7vye">Mdm Nurul Atika</td>
+  </tr>
+  <tr>
+    <td class="tg-0ynh"> 4 Noble</td>
+    <td class="tg-0ynh">Mr Jonathan Boey </td>
+    <td class="tg-0ynh">Ms Tay Xiulan </td>
+  </tr>
+</tbody>
+</table>
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-d6ov{background-color:#FFC600;border-color:inherit;color:#002D46;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-31py{background-color:#F1F6E4;border-color:inherit;color:#002D46;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-0jnx{background-color:#ffc600;text-align:center;vertical-align:top}
