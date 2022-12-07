@@ -65,9 +65,9 @@ description: ""
     <td class="tg-7vye"></td>
   </tr>
   <tr>
-    <td class="tg-0ynh">1 Empathy</td>
-    <td class="tg-0ynh"></td>
-    <td class="tg-0ynh"></td>
+    <td class="tg-0ynh"> 1 Empathy</td>
+    <td class="tg-0ynh"> <br></td>
+    <td class="tg-0ynh"> </td>
 	</tr>
   <tr>
     <td class="tg-7vye">1 Noble<br></td>
@@ -83,144 +83,70 @@ description: ""
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-d6ov{background-color:#FFC600;border-color:inherit;color:#002D46;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-31py{background-color:#F1F6E4;border-color:inherit;color:#002D46;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-0jnx{background-color:#ffc600;text-align:center;vertical-align:top}
-.tg .tg-q4r5{background-color:#FFF8F7;border-color:inherit;color:#002D46;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-3uba{background-color:#FFC600;color:#002D46;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-7vye{background-color:#FFF8F7;color:#002D46;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-0ynh{background-color:#F1F6E4;color:#002D46;font-weight:bold;text-align:center;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-0jnx" colspan="3"><span style="font-weight:bold">Primary 1</span></th>
+    <th class="tg-0jnx" colspan="3"><span style="font-weight:bold">Primary 2</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-d6ov" colspan="3"><span style="font-weight:bold;color:#002D46;background-color:#FFC600">Year Head: Mrs Mey See</span><br><span style="font-weight:bold;color:#002D46;background-color:#FFC600">Assistant Year Head: Mrs Joelle Pek</span><br></td>
+    <td class="tg-3uba" colspan="3"><span style="font-weight:bold;color:#002D46;background-color:#FFC600">Year Head: Mrs Mey See</span><br><span style="font-weight:bold;color:#002D46;background-color:#FFC600">Assistant Year Head: Mrs Joelle Pek</span><br></td>
   </tr>
   <tr>
-    <td class="tg-d6ov"><span style="font-weight:bold;color:#002D46;background-color:#FFC600">Class</span></td>
-    <td class="tg-d6ov"><span style="font-weight:bold;color:#002D46;background-color:#FFC600">Form Teacher 1</span></td>
-    <td class="tg-d6ov"><span style="font-weight:bold;color:#002D46;background-color:#FFC600">Form Teacher 2</span></td>
+    <td class="tg-3uba"><span style="font-weight:bold;color:#002D46;background-color:#FFC600">Class</span></td>
+    <td class="tg-3uba"><span style="font-weight:bold;color:#002D46;background-color:#FFC600">Form Teacher 1</span></td>
+    <td class="tg-3uba"><span style="font-weight:bold;color:#002D46;background-color:#FFC600">Form Teacher 2</span></td>
   </tr>
   <tr>
-    <td class="tg-q4r5">1 Care</td>
-    <td class="tg-q4r5"></td>
-    <td class="tg-q4r5"></td>
+    <td class="tg-7vye">2 Care<br></td>
+    <td class="tg-7vye"></td>
+    <td class="tg-7vye"></td>
   </tr>
   <tr>
-    <td class="tg-31py">1 Harmony<br></td>
-    <td class="tg-31py"></td>
-    <td class="tg-31py"></td>
+    <td class="tg-0ynh">2 Harmony<br></td>
+    <td class="tg-0ynh"><br></td>
+    <td class="tg-0ynh"></td>
   </tr>
   <tr>
-    <td class="tg-q4r5">1 Integrity</td>
-    <td class="tg-q4r5"></td>
-    <td class="tg-q4r5"></td>
+    <td class="tg-7vye">2 Integrity<br></td>
+    <td class="tg-7vye"></td>
+    <td class="tg-7vye"></td>
   </tr>
   <tr>
-    <td class="tg-31py">1 Loyalty</td>
-    <td class="tg-31py"></td>
-    <td class="tg-31py"></td>
+    <td class="tg-0ynh">2 Loyalty<br></td>
+    <td class="tg-0ynh"><br></td>
+    <td class="tg-0ynh"><br></td>
   </tr>
   <tr>
-    <td class="tg-q4r5">1 Diligence</td>
-    <td class="tg-q4r5"></td>
-    <td class="tg-q4r5"></td>
+    <td class="tg-7vye">2 Diligence<br></td>
+    <td class="tg-7vye"></td>
+    <td class="tg-7vye"></td>
   </tr>
   <tr>
-    <td class="tg-31py">1 Resilience</td>
-    <td class="tg-31py"></td>
-    <td class="tg-31py"></td>
+    <td class="tg-0ynh">2 Resilience<br></td>
+    <td class="tg-0ynh"></td>
+    <td class="tg-0ynh"><br></td>
   </tr>
   <tr>
-    <td class="tg-q4r5">1 Respect</td>
-    <td class="tg-q4r5"></td>
-    <td class="tg-q4r5"></td>
+    <td class="tg-7vye">2 Respect<br></td>
+    <td class="tg-7vye"><br></td>
+    <td class="tg-7vye"></td>
   </tr>
   <tr>
-    <td class="tg-31py">1 Empathy</td>
-    <td class="tg-31py"></td>
-    <td class="tg-31py"></td>
-  </tr>
+    <td class="tg-0ynh"> 2 Empathy</td>
+    <td class="tg-0ynh"> <br></td>
+    <td class="tg-0ynh"> </td>
+	</tr>
   <tr>
-    <td class="tg-q4r5">1 Noble</td>
-    <td class="tg-q4r5"></td>
-    <td class="tg-q4r5"></td>
-  </tr>
-</tbody>
-</table>
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-d6ov{background-color:#FFC600;border-color:inherit;color:#002D46;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-31py{background-color:#F1F6E4;border-color:inherit;color:#002D46;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-prhm{background-color:#ffc600;border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-q4r5{background-color:#FFF8F7;border-color:inherit;color:#002D46;font-weight:bold;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-prhm" colspan="3"><span style="font-weight:bold">Primary 2</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-d6ov" colspan="3"><span style="font-weight:bold;color:#002D46;background-color:#FFC600">Year Head: Mrs Mey See</span><br><span style="font-weight:bold;color:#002D46;background-color:#FFC600">Assistant Year Head: Mrs Joelle Pek</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-d6ov"><span style="font-weight:bold;color:#002D46;background-color:#FFC600">Class</span></td>
-    <td class="tg-d6ov"><span style="font-weight:bold;color:#002D46;background-color:#FFC600">Form Teacher 1</span></td>
-    <td class="tg-d6ov"><span style="font-weight:bold;color:#002D46;background-color:#FFC600">Form Teacher 2</span></td>
-  </tr>
-  <tr>
-    <td class="tg-q4r5">2 Care<br></td>
-    <td class="tg-q4r5">Mr David Lye<br></td>
-    <td class="tg-q4r5">Mdm Pang Ming Ing</td>
-  </tr>
-  <tr>
-    <td class="tg-31py">2 Harmony<br></td>
-    <td class="tg-31py">Mr Lim Yen Teng<br></td>
-    <td class="tg-31py">Mrs Joelle Pek</td>
-  </tr>
-  <tr>
-    <td class="tg-q4r5">2 Integrity<br></td>
-    <td class="tg-q4r5">Ms Phoebe Tan</td>
-    <td class="tg-q4r5">Mdm Ng Tze Ling<br></td>
-  </tr>
-  <tr>
-    <td class="tg-31py">2 Loyalty<br></td>
-    <td class="tg-31py">Mrs Ng Wei Wei<br></td>
-    <td class="tg-31py">Mdm Chen Rongli<br></td>
-  </tr>
-  <tr>
-    <td class="tg-q4r5">2 Diligence<br></td>
-    <td class="tg-q4r5">Ms Susanne Lim</td>
-    <td class="tg-q4r5">Mdm Wang Yuwei</td>
-  </tr>
-  <tr>
-    <td class="tg-31py">2 Resilience<br></td>
-    <td class="tg-31py">Ms Beryl Ng</td>
-    <td class="tg-31py">Mr Chong Jun Wei<br></td>
-  </tr>
-  <tr>
-    <td class="tg-q4r5">2 Respect<br></td>
-    <td class="tg-q4r5">Ms Teo Mei Geok</td>
-    <td class="tg-q4r5">Ms Siti Nabilah</td>
-  </tr>
-  <tr>
-    <td class="tg-31py">2 Empathy<br></td>
-    <td class="tg-31py">Ms Joyce Chew<br></td>
-    <td class="tg-31py">Ms Nur Faizah</td>
-  </tr>
-  <tr>
-    <td class="tg-q4r5">2 Noble<br></td>
-    <td class="tg-q4r5">Mdm Helen Lee<br></td>
-    <td class="tg-q4r5">Ms Yan Xiaojing</td>
+    <td class="tg-7vye">2 Noble<br></td>
+    <td class="tg-7vye"><br></td>
+    <td class="tg-7vye"></td>
   </tr>
 </tbody>
 </table>
