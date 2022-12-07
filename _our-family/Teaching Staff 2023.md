@@ -328,7 +328,7 @@ description: ""
   <tr>
     <td class="tg-0ynh">5 Loyalty<br></td>
     <td class="tg-0ynh"><span style="color:#002D46;background-color:#F1F6E4"> </span><br></td>
-    <td class="tg-0ynh"></td>
+    <td class="tg-0ynh"> / </td>
   </tr>
   <tr>
     <td class="tg-7vye">5 Diligence<br></td>
