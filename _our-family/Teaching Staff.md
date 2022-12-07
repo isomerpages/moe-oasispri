@@ -61,7 +61,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-q4r5">1 Respect</td>
-    <td class="tg-q4r5"> <span style="background-color:#F1F6E4"> </span></td>
+    <td class="tg-q4r5"></td>
     <td class="tg-q4r5"></td>
   </tr>
   <tr>
@@ -406,9 +406,9 @@ description: ""
     <td class="tg-0ynh">Mrs Melissa Wee<br></td>
   </tr>
   <tr>
-    <td class="tg-7vye"> 6 Empathy</td>
-    <td class="tg-sbgr"><span style="color:#002D46;background-color:#FFF8F7"> </span>Mr Shazwan</td>
-    <td class="tg-7vye"> Ms Lee Kai Sin</td>
+    <td class="tg-7vye">6 Empathy</td>
+    <td class="tg-7vye">Mr Shazwan</td>
+    <td class="tg-7vye">Ms Lee Kai Sin</td>
   </tr>
 </tbody>
 </table>
