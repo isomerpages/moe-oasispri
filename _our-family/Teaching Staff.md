@@ -426,7 +426,7 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-baqh" colspan="3"><span style="font-weight:bold">Student Support</span></th>
+    <th class="tg-0jnx" colspan="3"><span style="font-weight:bold">Student Support</span></th>
   </tr>
 </thead>
 <tbody>
