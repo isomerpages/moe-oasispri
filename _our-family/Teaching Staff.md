@@ -331,7 +331,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-31py">5 Loyalty<br></td>
-    <td class="tg-31py">Mr Chan Yong Yan<br></td>
+		<td class="tg-31py">Mr Chan Yong Yan<span style="color:#002D46;background-color:#F1F6E4"> </span><br></td>
     <td class="tg-31py">Mdm Ho Huan Xin / Ms Nurulelma<br></td>
   </tr>
   <tr>
