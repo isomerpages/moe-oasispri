@@ -27,7 +27,7 @@ The student leadership development programme aims to nurture our Oasians to be a
 
 1.  Self-leadership
 2.  Team-leadership
-3.  Change-Leadership
+3.  Change-leadership
 
 ### Key Programmes
 
