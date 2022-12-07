@@ -377,38 +377,38 @@ description: ""
   </tr>
   <tr>
     <td class="tg-7vye">6 Care<br></td>
-    <td class="tg-7vye">Mr Elwirandi Tan</td>
-    <td class="tg-7vye">Ms Yim Wai Peng</td>
+    <td class="tg-7vye"></td>
+    <td class="tg-7vye"></td>
   </tr>
   <tr>
     <td class="tg-0ynh">6 Harmony<br></td>
-    <td class="tg-0ynh">Ms Tan Soo Cheng<br></td>
-    <td class="tg-0ynh">Ms Tan Li Na</td>
+    <td class="tg-0ynh"><br></td>
+    <td class="tg-0ynh"></td>
   </tr>
   <tr>
     <td class="tg-7vye">6 Integrity<br></td>
-    <td class="tg-7vye">Mdm Roziana </td>
-    <td class="tg-7vye">Mr Farhan</td>
+    <td class="tg-7vye"> </td>
+    <td class="tg-7vye"></td>
   </tr>
   <tr>
     <td class="tg-0ynh">6 Loyalty<br></td>
-    <td class="tg-0ynh">Ms Catherine Huang<br></td>
-    <td class="tg-0ynh">Mr Pierre Fong<br></td>
+    <td class="tg-0ynh"><br></td>
+    <td class="tg-0ynh"><br></td>
   </tr>
   <tr>
     <td class="tg-7vye">6 Diligence<br></td>
-    <td class="tg-7vye">Ms Lim Zi Xiu</td>
-    <td class="tg-7vye">Ms Tay Bee Li</td>
+    <td class="tg-7vye"></td>
+    <td class="tg-7vye"></td>
   </tr>
   <tr>
     <td class="tg-0ynh">6 Resilience<br></td>
-    <td class="tg-0ynh">Mrs Tan - Koh Peck Lian</td>
-    <td class="tg-0ynh">Mrs Melissa Wee<br></td>
+    <td class="tg-0ynh"></td>
+    <td class="tg-0ynh"><br></td>
   </tr>
   <tr>
     <td class="tg-7vye">6 Empathy</td>
-    <td class="tg-7vye">Mr Shazwan</td>
-    <td class="tg-7vye">Ms Lee Kai Sin</td>
+    <td class="tg-7vye"></td>
+    <td class="tg-7vye"></td>
   </tr>
 </tbody>
 </table>
