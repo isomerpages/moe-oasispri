@@ -31,48 +31,48 @@ description: ""
   </tr>
   <tr>
     <td class="tg-q4r5">1 Care</td>
-    <td class="tg-q4r5">Mdm Goh So Fang</td>
-    <td class="tg-q4r5">Mdm Florence Ngu</td>
+    <td class="tg-q4r5"></td>
+    <td class="tg-q4r5"></td>
   </tr>
   <tr>
     <td class="tg-31py">1 Harmony<br></td>
-    <td class="tg-31py">Mrs Caroline Tay</td>
-    <td class="tg-31py">Ms Stacey Koh</td>
+    <td class="tg-31py"></td>
+    <td class="tg-31py"></td>
   </tr>
   <tr>
     <td class="tg-q4r5">1 Integrity</td>
-    <td class="tg-q4r5">Mrs Gena Ang</td>
-    <td class="tg-q4r5">Mdm Wang Yanhua</td>
+    <td class="tg-q4r5"></td>
+    <td class="tg-q4r5"></td>
   </tr>
   <tr>
     <td class="tg-31py">1 Loyalty</td>
-    <td class="tg-31py">Mdm Nur Afiqa</td>
-    <td class="tg-31py">Mdm Evon Tan</td>
+    <td class="tg-31py"></td>
+    <td class="tg-31py"></td>
   </tr>
   <tr>
     <td class="tg-q4r5">1 Diligence</td>
-    <td class="tg-q4r5">Ms Najma Begum</td>
-    <td class="tg-q4r5">Mdm Ahadrina Binte Supri</td>
+    <td class="tg-q4r5"></td>
+    <td class="tg-q4r5"></td>
   </tr>
   <tr>
     <td class="tg-31py">1 Resilience</td>
-    <td class="tg-31py">Mdm Judy Tng</td>
-    <td class="tg-31py">Ms Sindy Lai</td>
+    <td class="tg-31py"></td>
+    <td class="tg-31py"></td>
   </tr>
   <tr>
     <td class="tg-q4r5">1 Respect</td>
-    <td class="tg-q4r5">Mdm <span style="background-color:#F1F6E4">Wilsa Dewi </span></td>
-    <td class="tg-q4r5">Mdm Nurmah</td>
+    <td class="tg-q4r5"> <span style="background-color:#F1F6E4"> </span></td>
+    <td class="tg-q4r5"></td>
   </tr>
   <tr>
     <td class="tg-31py">1 Empathy</td>
-    <td class="tg-31py">Ms Chia Wanyi</td>
-    <td class="tg-31py">Mrs Ang - Wei Yueshan</td>
+    <td class="tg-31py"></td>
+    <td class="tg-31py"></td>
   </tr>
   <tr>
     <td class="tg-q4r5">1 Noble</td>
-    <td class="tg-q4r5">Mrs Buvaneswary</td>
-    <td class="tg-q4r5">Mdm Cheng Yingying</td>
+    <td class="tg-q4r5"></td>
+    <td class="tg-q4r5"></td>
   </tr>
 </tbody>
 </table>
