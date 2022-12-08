@@ -3,7 +3,7 @@ title: Teaching Staff
 permalink: /our-family/teaching-staff/
 description: ""
 ---
-##### Teaching Staff
+### Teaching Staff
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -424,7 +424,7 @@ description: ""
 </tbody>
 </table>
 
-##### Student Support
+### Student Support
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
