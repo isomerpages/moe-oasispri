@@ -122,7 +122,7 @@ In 2020, Project Zero is conceived to be an important aspect of the PE curriculu
 
 Oasis Blaze is a culmination of forging strong friendships and building character over sports, games and the arts. The Houses of Oasis – Emerald, Ruby, Sapphire and Topaz are represented by students from Primary 3 to Primary 5 yearly in a friendly battle of game skills and cheers in which students are judged by their performance as a House rather than as individuals.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HygajZsvldo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GydcS8_mG1g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Outdoor Education**
 
