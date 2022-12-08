@@ -445,8 +445,8 @@ description: ""
     <td class="tg-0ynh">Ms Yayah<br></td>
   </tr>
   <tr>
-    <td class="tg-7vye"><span style="font-weight:normal">Senior Special Educational Needs (SEN) Officer<br></td>
-    <td class="tg-7vye"><span style="font-weight:normal">Special Educational Needs (SEN) Officer<br></td>
+    <td class="tg-7vye"><span style="font-weight:normal">Senior Special Educational Needs (SEN) Officer<br>
+    <td class="tg-7vye"><span style="font-weight:normal">Special Educational Needs (SEN) Officer<br>
     <td class="tg-7vye"><span style="font-weight:normal">School Counsellor</td>
   </tr>
 </tbody>
