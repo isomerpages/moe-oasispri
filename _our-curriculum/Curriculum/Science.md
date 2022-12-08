@@ -83,7 +83,7 @@ Students take a hands-on approach to learn how they can turn daily kitchen was
 
 ### Joy of Learning Science
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/se0SjqM3Y84" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JhKmgh99Ekg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Achievements
 **School**  
