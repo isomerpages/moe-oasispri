@@ -3,7 +3,6 @@ title: Teaching Staff
 permalink: /our-family/teaching-staff/
 description: ""
 ---
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -448,7 +447,4 @@ description: ""
   <tr>
     <td class="tg-7vye"><span style="font-weight:normal">Senior Special Educational Needs (SEN) Officer<br>
     <td class="tg-7vye"><span style="font-weight:normal">Special Educational Needs (SEN) Officer<br>
-    <td class="tg-7vye"><span style="font-weight:normal">School Counsellor</td>
-  </tr>
-</tbody>
-</table>
+    <td class="tg-7vye"><span style="font-weight:normal">School Counsellor
