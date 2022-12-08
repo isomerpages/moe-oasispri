@@ -3,7 +3,7 @@ title: Terms of Use
 permalink: /terms-of-use/
 description: ""
 ---
-Thank you for visiting the website of Oasis Primary School. By accessing and/or making use of the contents in this website, you shall be deemed to have accepted the Terms of Use. If you do not agree to the Terms of Use, please do not access this website.
+Thank you for visiting Oasis Primary School website. By accessing and/or making use of the contents in this website, you shall be deemed to have accepted the Terms of Use. If you do not agree to the Terms of Use, please do not access this website.
 
 **General**
 
