@@ -422,36 +422,8 @@ description: ""
 </tbody>
 </table>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-baqh{text-align:center;vertical-align:top}
-.tg .tg-0ynh{background-color:#F1F6E4;color:#002D46;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-7vye{background-color:#FFF8F7;color:#002D46;font-weight:;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-0jnx" colspan="3"><span style="font-weight:bold">Student Support</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0ynh">Mdm Salwah</td>
-    <td class="tg-0ynh">Mdm Wanis</td>
-    <td class="tg-0ynh">Ms Yayah<br></td>
-  </tr>
-  <tr>
-    <td class="tg-7vye"><span style="font-weight:normal">Senior Special Educational Needs (SEN) Officer<br>
-    <td class="tg-7vye"><span style="font-weight:normal">Special Educational Needs (SEN) Officer<br>
-    <td class="tg-7vye"><span style="font-weight:normal">School Counsellor
-			  </tr>
-</tbody>
-</table>
-			
+#### Student Support
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
