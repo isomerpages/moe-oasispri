@@ -20,10 +20,7 @@ To fuel a spirit of curiosity in our students to help them grow and become scien
 		 
 Aligned to MOE’s direction, our Science curriculum seeks to enable students to see Science as meaningful and useful. Through the curriculum, the spirit of scientific inquiry will be inculcated. The conduct of inquiry will be founded on these three integral domains of (a) Knowledge, Understanding and Application, (b) Skills and Processes and (c) Ethics and Attitudes, which are essential to the practice of science. Students will explore issues and questions that are related to the roles played by science in daily life, society and the environment.
 
-  
-
 Teaching and learning of science through inquiry approach. Our teachers make use of multiple representations as visual stimuli to engage students in activities and processes to study the natural and physical world around them. To provide support for the students with the literacy demands of their science lessons, teachers adopt a three-stage framework: Observe, Link and Connect.
-
 
 <img src="/images/key%20programmes.png" 
      style="width:100%">
@@ -35,7 +32,6 @@ Teaching and learning of science through inquiry approach. Our teachers make use
 In line with our Unique Oasis Learning Experiences on Discovery, the I.C.E. @ Recess provides a platform for students to discover Science through inquiry-based and student-centred learning. Through explorations and experiments, students extend their understanding of science around them in their daily life. They also develop confidence communicating their ideas with others.
 
 I.C.E. @ Recess is also a platform for students to develop their facilitation and leadership skills.
-
 
 <img src="/images/ICE.png" 
      style="width:100%">
@@ -83,7 +79,7 @@ Students take a hands-on approach to learn how they can turn daily kitchen was
 
 ### Joy of Learning Science
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JhKmgh99Ekg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Watch on YouTube](https://www.youtube.com/watch?v=JhKmgh99Ekg)
 
 ### Achievements
 **School**  
