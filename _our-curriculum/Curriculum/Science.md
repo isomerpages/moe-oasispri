@@ -79,7 +79,7 @@ Students take a hands-on approach to learn how they can turn daily kitchen was
 
 ### Joy of Learning Science
 
-[Watch on YouTube](https://www.youtube.com/watch?v=JhKmgh99Ekg)
+[Joy of Learning Science](https://www.youtube.com/watch?v=JhKmgh99Ekg)
 
 ### Achievements
 **School**  
