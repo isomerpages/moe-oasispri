@@ -15,7 +15,3 @@ Even though COVID posed restrictions and disallowed live performances and mass g
 
 1. [Comptemporary Dance 1](https://www.youtube.com/watch?v=UVauR49LLTg)
 2. [Comptemporary Dance 2](https://www.youtube.com/watch?v=afu31cRSxps)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UVauR49LLTg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/afu31cRSxps" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
