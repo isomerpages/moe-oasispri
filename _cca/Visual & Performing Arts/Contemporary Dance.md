@@ -11,7 +11,7 @@ Experts and researchers have claimed that dancing makes you smart! The Oasis Con
 ![](/images/dance.png)
 ![](/images/dance2.png)
 
-Even though COVID posed restrictions and disallowed live performances and mass gatherings, dance CCA lessons went on virtually. The following is a virtual dance performance by our dance students:
+Even though COVID posed restrictions and disallowed live performances and mass gatherings, dance CCA lessons went on virtually. The following are virtual dance performances by our dance students:
 
 1. [Comptemporary Dance 1](https://www.youtube.com/embed/UVauR49LLTg)
 2. [Comptemporary Dance 2](https://www.youtube.com/embed/afu31cRSxps)
