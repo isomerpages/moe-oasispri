@@ -4,7 +4,7 @@ permalink: /ops/info-hub/school-life/school-hours-n-operations/
 description: ""
 third_nav_title: School Life
 ---
-### School Hours
+### School Hours 2023
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -24,16 +24,16 @@ third_nav_title: School Life
 </thead>
 <tbody>
   <tr>
-    <td class="tg-67ya">Mondays to Fridays<br></td>
-    <td class="tg-67ya">7.30 a.m. to 1.30 p.m.<br></td>
+    <td class="tg-67ya">Monday, Tuesday, Thursday, Friday<br></td>
+    <td class="tg-67ya">7.30 a.m. - 1.30 p.m.<br></td>
   </tr>
   <tr>
     <td class="tg-67ya">Tuesday (CCA)<br></td>
-    <td class="tg-67ya">2.00 p.m. to 4.00 p.m.<br></td>
+    <td class="tg-67ya">2.00 p.m. - 4.00 p.m.<br></td>
   </tr>
   <tr>
     <td class="tg-67ya">Friday (CCA)</td>
-    <td class="tg-67ya">2.00 p.m. to 4.00 p.m.</td>
+    <td class="tg-67ya">2.00 p.m. - 4.00 p.m.</td>
   </tr>
 </tbody>
 </table>
