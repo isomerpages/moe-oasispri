@@ -118,7 +118,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-dv6r">Receptionist</td>
-    <td class="tg-j74v">Mdm Stella Wu</td>
+    <td class="tg-j74v">-</td>
   </tr>
 </tbody>
 </table>
