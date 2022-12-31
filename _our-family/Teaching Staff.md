@@ -136,12 +136,12 @@ description: ""
     <td class="tg-7vye"></td>
   </tr>
   <tr>
-    <td class="tg-0ynh">2 Resilience</td>
+    <td class="tg-0ynh">2 Respect</td>
     <td class="tg-0ynh"> <br></td>
     <td class="tg-0ynh"> </td>
 	</tr>
   <tr>
-    <td class="tg-7vye">2 Respect<br></td>
+    <td class="tg-7vye">2 Resilience<br></td>
     <td class="tg-7vye"><br></td>
     <td class="tg-7vye"></td>
   </tr>
