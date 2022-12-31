@@ -79,23 +79,23 @@ description: ""
   <tr>
 		<tr>
     <td class="tg-dv6r">Teacher</td>
-    <td class="tg-j74v">--<span style="background-color:#F1F6E4"></td>
+    <td class="tg-j74v">Ms Soh En Qi Annestha<span style="background-color:#F1F6E4"></td>
   </tr>
 	<tr>
     <td class="tg-8com">Teacher</td>
-    <td class="tg-1d14">--<span style="background-color:#F1F6E4"></td>
+    <td class="tg-1d14">Ms Song Lili<span style="background-color:#F1F6E4"></td>
   </tr>
 	<tr>
     <td class="tg-dv6r">Teacher</td>
-    <td class="tg-j74v">--<span style="background-color:#F1F6E4"></td>
+    <td class="tg-j74v">Ms Suhailah Fauzi Abdat<span style="background-color:#F1F6E4"></td>
   </tr>
 	<tr>
     <td class="tg-8com">Teacher</td>
-    <td class="tg-1d14">--<span style="background-color:#F1F6E4"></td>
+    <td class="tg-1d14">Ms Tan Li Fang<span style="background-color:#F1F6E4"></td>
   </tr>
 	<tr>
     <td class="tg-dv6r">Teacher</td>
-    <td class="tg-j74v">--<span style="background-color:#F1F6E4"></td>
+    <td class="tg-j74v">Ms Tan Shuying Diane<span style="background-color:#F1F6E4"></td>
   </tr>
 	  <td class="tg-8com">Operations Support Officer<br></td>
     <td class="tg-1d14">Mdm Loe Kwee Lan</td>
