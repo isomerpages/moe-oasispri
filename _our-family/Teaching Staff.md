@@ -37,9 +37,19 @@ description: ""
     <td class="tg-7vye"></td>
   </tr>
   <tr>
-    <td class="tg-0ynh">1 Harmony<br></td>
+    <td class="tg-0ynh">1 Diligence<br></td>
     <td class="tg-0ynh"><br></td>
     <td class="tg-0ynh"></td>
+  </tr>
+  <tr>
+    <td class="tg-7vye">1 Empathy<br></td>
+    <td class="tg-7vye"></td>
+    <td class="tg-7vye"></td>
+  </tr>
+  <tr>
+    <td class="tg-0ynh">1 Harmony<br></td>
+    <td class="tg-0ynh"><br></td>
+    <td class="tg-0ynh"><br></td>
   </tr>
   <tr>
     <td class="tg-7vye">1 Integrity<br></td>
@@ -48,26 +58,16 @@ description: ""
   </tr>
   <tr>
     <td class="tg-0ynh">1 Loyalty<br></td>
-    <td class="tg-0ynh"><br></td>
-    <td class="tg-0ynh"><br></td>
-  </tr>
-  <tr>
-    <td class="tg-7vye">1 Diligence<br></td>
-    <td class="tg-7vye"></td>
-    <td class="tg-7vye"></td>
-  </tr>
-  <tr>
-    <td class="tg-0ynh">1 Resilience<br></td>
     <td class="tg-0ynh"></td>
     <td class="tg-0ynh"><br></td>
   </tr>
   <tr>
-    <td class="tg-7vye">1 Empathy<br></td>
+    <td class="tg-7vye">1 Noble<br></td>
     <td class="tg-7vye"><br></td>
     <td class="tg-7vye"></td>
   </tr>
   <tr>
-    <td class="tg-0ynh"> 1 Noble</td>
+    <td class="tg-0ynh"> 1 Resilience</td>
     <td class="tg-0ynh"> <br></td>
     <td class="tg-0ynh"> </td>
 	</tr>
