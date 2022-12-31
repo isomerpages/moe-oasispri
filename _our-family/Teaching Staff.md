@@ -102,48 +102,48 @@ description: ""
   </tr>
   <tr>
     <td class="tg-7vye">2 Care<br></td>
-    <td class="tg-7vye"></td>
-    <td class="tg-7vye"></td>
+    <td class="tg-7vye">Beryl Ng</td>
+    <td class="tg-7vye">Florence Ngu</td>
   </tr>
   <tr>
     <td class="tg-0ynh">2 Diligence<br></td>
-    <td class="tg-0ynh"><br></td>
-    <td class="tg-0ynh"></td>
+    <td class="tg-0ynh">Najma<br></td>
+    <td class="tg-0ynh">Tay Xiulan, Wang Yuwei</td>
   </tr>
   <tr>
     <td class="tg-7vye">2 Empathy<br></td>
-    <td class="tg-7vye"></td>
-    <td class="tg-7vye"></td>
+    <td class="tg-7vye">Chia Wanyi</td>
+    <td class="tg-7vye">Ng Tze Ling</td>
   </tr>
   <tr>
     <td class="tg-0ynh">2 Harmony<br></td>
-    <td class="tg-0ynh"><br></td>
-    <td class="tg-0ynh"><br></td>
+    <td class="tg-0ynh">Caroline Soh<br></td>
+    <td class="tg-0ynh">Chen Rongli<br></td>
   </tr>
   <tr>
     <td class="tg-7vye">2 Integrity<br></td>
-    <td class="tg-7vye"></td>
-    <td class="tg-7vye"></td>
+    <td class="tg-7vye">Gena Wong</td>
+    <td class="tg-7vye">Wang Yanhua</td>
   </tr>
   <tr>
     <td class="tg-0ynh">2 Loyalty<br></td>
-    <td class="tg-0ynh"></td>
-    <td class="tg-0ynh"><br></td>
+    <td class="tg-0ynh">Nur Afiqa</td>
+    <td class="tg-0ynh">Rosenna Seah<br></td>
   </tr>
   <tr>
     <td class="tg-7vye">2 Noble<br></td>
-    <td class="tg-7vye"><br></td>
-    <td class="tg-7vye"></td>
+    <td class="tg-7vye">Buvaneswary<br></td>
+    <td class="tg-7vye">Celeste Yap</td>
   </tr>
   <tr>
     <td class="tg-0ynh">2 Respect</td>
-    <td class="tg-0ynh"> <br></td>
-    <td class="tg-0ynh"> </td>
+    <td class="tg-0ynh">Wilsa Dewi<br></td>
+    <td class="tg-0ynh">Nurmah</td>
 	</tr>
   <tr>
     <td class="tg-7vye">2 Resilience<br></td>
-    <td class="tg-7vye"><br></td>
-    <td class="tg-7vye"></td>
+    <td class="tg-7vye">Judy Tng<br></td>
+    <td class="tg-7vye">Maalini</td>
   </tr>
 </tbody>
 </table>
