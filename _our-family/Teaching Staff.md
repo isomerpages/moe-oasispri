@@ -71,12 +71,7 @@ description: ""
     <td class="tg-0ynh"> <br></td>
     <td class="tg-0ynh"> </td>
 	</tr>
-  <tr>
-    <td class="tg-7vye"><br></td>
-    <td class="tg-7vye"><br></td>
-    <td class="tg-7vye"></td>
-  </tr>
-</tbody>
+  </tbody>
 </table>
 
 <style type="text/css">
