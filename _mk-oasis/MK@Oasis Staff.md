@@ -74,7 +74,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-8com">Teacher</td>
-    <td class="tg-1d14">MsSiti Nurarffah Binte Mohd Razali<span style="background-color:#F1F6E4"> </span>Chuan</td>
+    <td class="tg-1d14">Ms Siti Nurarffah Binte Mohd Razali<span style="background-color:#F1F6E4"></td>
   </tr>
   <tr>
     <td class="tg-dv6r">Operations Support Officer<br></td>
