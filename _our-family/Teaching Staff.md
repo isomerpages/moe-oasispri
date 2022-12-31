@@ -180,9 +180,19 @@ description: ""
     <td class="tg-7vye"></td>
   </tr>
   <tr>
-    <td class="tg-0ynh">3 Harmony<br></td>
+    <td class="tg-0ynh">3 Diligence<br></td>
     <td class="tg-0ynh"><br></td>
     <td class="tg-0ynh"></td>
+  </tr>
+  <tr>
+    <td class="tg-7vye">3 Empathy<br></td>
+    <td class="tg-7vye"></td>
+    <td class="tg-7vye"></td>
+  </tr>
+  <tr>
+    <td class="tg-0ynh">3 Harmony<br></td>
+    <td class="tg-0ynh"><br></td>
+    <td class="tg-0ynh"><br></td>
   </tr>
   <tr>
     <td class="tg-7vye">3 Integrity<br></td>
@@ -191,31 +201,11 @@ description: ""
   </tr>
   <tr>
     <td class="tg-0ynh">3 Loyalty<br></td>
-    <td class="tg-0ynh"><br></td>
-    <td class="tg-0ynh"><br></td>
-  </tr>
-  <tr>
-    <td class="tg-7vye">3 Diligence<br></td>
-    <td class="tg-7vye"></td>
-    <td class="tg-7vye"></td>
-  </tr>
-  <tr>
-    <td class="tg-0ynh">3 Resilience<br></td>
     <td class="tg-0ynh"></td>
     <td class="tg-0ynh"><br></td>
   </tr>
   <tr>
-    <td class="tg-7vye">3 Respect<br></td>
-    <td class="tg-7vye"><br></td>
-    <td class="tg-7vye"></td>
-  </tr>
-  <tr>
-    <td class="tg-0ynh"> 3 Empathy</td>
-    <td class="tg-0ynh"> <br></td>
-    <td class="tg-0ynh"> </td>
-	</tr>
-  <tr>
-    <td class="tg-7vye">3 Noble<br></td>
+    <td class="tg-7vye">3 Resilience<br></td>
     <td class="tg-7vye"><br></td>
     <td class="tg-7vye"></td>
   </tr>
@@ -245,8 +235,8 @@ description: ""
   </tr>
   <tr>
     <td class="tg-3uba"><span style="font-weight:bold;color:#002D46;background-color:#FFC600">Class</span></td>
-    <td class="tg-3uba"><span style="font-weight:bold;color:#002D46;background-color:#FFC600">Form Teacher 1</span></td>
-    <td class="tg-3uba"><span style="font-weight:bold;color:#002D46;background-color:#FFC600">Form Teacher 2</span></td>
+    <td class="tg-3uba"><span style="font-weight:bold;color:#002D46;background-color:#FFC600">Form Teacher</span></td>
+    <td class="tg-3uba"><span style="font-weight:bold;color:#002D46;background-color:#FFC600">Co-Form Teacher(s)</span></td>
   </tr>
   <tr>
     <td class="tg-7vye">4 Care<br></td>
@@ -309,8 +299,8 @@ description: ""
   </tr>
   <tr>
     <td class="tg-3uba"><span style="font-weight:bold;color:#002D46;background-color:#FFC600">Class</span></td>
-    <td class="tg-3uba"><span style="font-weight:bold;color:#002D46;background-color:#FFC600">Form Teacher 1</span></td>
-    <td class="tg-3uba"><span style="font-weight:bold;color:#002D46;background-color:#FFC600">Form Teacher 2</span></td>
+    <td class="tg-3uba"><span style="font-weight:bold;color:#002D46;background-color:#FFC600">Form Teacher</span></td>
+    <td class="tg-3uba"><span style="font-weight:bold;color:#002D46;background-color:#FFC600">Co-Form Teacher(s)</span></td>
   </tr>
   <tr>
     <td class="tg-7vye">5 Care<br></td>
@@ -378,8 +368,8 @@ description: ""
   </tr>
   <tr>
     <td class="tg-3uba"><span style="font-weight:bold;color:#002D46;background-color:#FFC600">Class</span></td>
-    <td class="tg-3uba"><span style="font-weight:bold;color:#002D46;background-color:#FFC600">Form Teacher 1</span></td>
-    <td class="tg-3uba"><span style="font-weight:bold;color:#002D46;background-color:#FFC600">Form Teacher 2</span></td>
+    <td class="tg-3uba"><span style="font-weight:bold;color:#002D46;background-color:#FFC600">Form Teacher</span></td>
+    <td class="tg-3uba"><span style="font-weight:bold;color:#002D46;background-color:#FFC600">Co-Form Teacher(s)</span></td>
   </tr>
   <tr>
     <td class="tg-7vye">6 Care<br></td>
