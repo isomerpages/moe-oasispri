@@ -20,7 +20,7 @@ description: ""
 <thead>
   <tr>
     <th class="tg-dv6r">Centre Head</th>
-    <th class="tg-j74v">Ms Chun Pin Chin</th>
+    <th class="tg-j74v">Ms Chua Pin Chin</th>
   </tr>
 </thead>
 <tbody>
