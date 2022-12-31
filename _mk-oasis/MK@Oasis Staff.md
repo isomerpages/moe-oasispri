@@ -77,8 +77,28 @@ description: ""
     <td class="tg-1d14">Ms Siti Nurarffah Binte Mohd Razali<span style="background-color:#F1F6E4"></td>
   </tr>
   <tr>
-    <td class="tg-dv6r">Operations Support Officer<br></td>
-    <td class="tg-j74v">Mdm Loe Kwee Lan</td>
+		<tr>
+    <td class="tg-dv6r">Teacher</td>
+    <td class="tg-j74v">--<span style="background-color:#F1F6E4"></td>
+  </tr>
+	<tr>
+    <td class="tg-8com">Teacher</td>
+    <td class="tg-1d14">--<span style="background-color:#F1F6E4"></td>
+  </tr>
+	<tr>
+    <td class="tg-dv6r">Teacher</td>
+    <td class="tg-j74v">--<span style="background-color:#F1F6E4"></td>
+  </tr>
+	<tr>
+    <td class="tg-8com">Teacher</td>
+    <td class="tg-1d14">--<span style="background-color:#F1F6E4"></td>
+  </tr>
+	<tr>
+    <td class="tg-dv6r">Teacher</td>
+    <td class="tg-j74v">--<span style="background-color:#F1F6E4"></td>
+  </tr>
+	  <td class="tg-8com">Operations Support Officer<br></td>
+    <td class="tg-1d14">Mdm Loe Kwee Lan</td>
   </tr>
 </tbody>
 </table>
