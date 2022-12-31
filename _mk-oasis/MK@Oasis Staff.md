@@ -30,7 +30,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-dv6r">Teacher</td>
-    <td class="tg-j74v">Ms Amanda Poh</td>
+    <td class="tg-j74v">Ms Amanda Poh Hui En</td>
   </tr>
   <tr>
     <td class="tg-8com">Teacher</td>
