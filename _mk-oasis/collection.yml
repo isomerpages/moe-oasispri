@@ -2,6 +2,7 @@ collections:
   mk-oasis:
     output: true
     order:
+      - MK@Oasis Staff.md
       - MK Curriculum.md
       - MK Environment.md
       - Learning in Action/.keep
