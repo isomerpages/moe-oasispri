@@ -102,48 +102,48 @@ description: ""
   </tr>
   <tr>
     <td class="tg-7vye">2 Care<br></td>
-    <td class="tg-7vye">Beryl Ng</td>
-    <td class="tg-7vye">Florence Ngu</td>
+    <td class="tg-7vye"><span style="font-weight:normal">Beryl Ng</td>
+    <td class="tg-7vye"><span style="font-weight:normal">Florence Ngu</td>
   </tr>
   <tr>
     <td class="tg-0ynh">2 Diligence<br></td>
-    <td class="tg-0ynh">Najma<br></td>
-    <td class="tg-0ynh">Tay Xiulan, Wang Yuwei</td>
+    <td class="tg-0ynh"><span style="font-weight:normal">Najma<br></td>
+    <td class="tg-0ynh"><span style="font-weight:normal">Tay Xiulan, Wang Yuwei</td>
   </tr>
   <tr>
     <td class="tg-7vye">2 Empathy<br></td>
-    <td class="tg-7vye">Chia Wanyi</td>
-    <td class="tg-7vye">Ng Tze Ling</td>
+    <td class="tg-7vye"><span style="font-weight:normal">Chia Wanyi</td>
+    <td class="tg-7vye"><span style="font-weight:normal">Ng Tze Ling</td>
   </tr>
   <tr>
     <td class="tg-0ynh">2 Harmony<br></td>
-    <td class="tg-0ynh">Caroline Soh<br></td>
-    <td class="tg-0ynh">Chen Rongli<br></td>
+    <td class="tg-0ynh"><span style="font-weight:normal">Caroline Soh<br></td>
+    <td class="tg-0ynh"><span style="font-weight:normal">Chen Rongli<br></td>
   </tr>
   <tr>
     <td class="tg-7vye">2 Integrity<br></td>
-    <td class="tg-7vye">Gena Wong</td>
-    <td class="tg-7vye">Wang Yanhua</td>
+    <td class="tg-7vye"><span style="font-weight:normal">Gena Wong</td>
+    <td class="tg-7vye"><span style="font-weight:normal">Wang Yanhua</td>
   </tr>
   <tr>
     <td class="tg-0ynh">2 Loyalty<br></td>
-    <td class="tg-0ynh">Nur Afiqa</td>
-    <td class="tg-0ynh">Rosenna Seah<br></td>
+    <td class="tg-0ynh"><span style="font-weight:normal">Nur Afiqa</td>
+    <td class="tg-0ynh"><span style="font-weight:normal">Rosenna Seah<br></td>
   </tr>
   <tr>
     <td class="tg-7vye">2 Noble<br></td>
-    <td class="tg-7vye">Buvaneswary<br></td>
-    <td class="tg-7vye">Celeste Yap</td>
+    <td class="tg-7vye"><span style="font-weight:normal">Buvaneswary<br></td>
+    <td class="tg-7vye"><span style="font-weight:normal">Celeste Yap</td>
   </tr>
   <tr>
     <td class="tg-0ynh">2 Respect</td>
-    <td class="tg-0ynh">Wilsa Dewi<br></td>
-    <td class="tg-0ynh">Nurmah</td>
+    <td class="tg-0ynh"><span style="font-weight:normal">Wilsa Dewi<br></td>
+    <td class="tg-0ynh"><span style="font-weight:normal">Nurmah</td>
 	</tr>
   <tr>
     <td class="tg-7vye">2 Resilience<br></td>
-    <td class="tg-7vye">Judy Tng<br></td>
-    <td class="tg-7vye">Maalini</td>
+    <td class="tg-7vye"><span style="font-weight:normal">Judy Tng<br></td>
+    <td class="tg-7vye"><span style="font-weight:normal">Maalini</td>
   </tr>
 </tbody>
 </table>
@@ -176,38 +176,38 @@ description: ""
   </tr>
   <tr>
     <td class="tg-7vye">3 Care<br></td>
-    <td class="tg-7vye">Phoebe Tan</td>
-    <td class="tg-7vye">Tay Bee Li</td>
+    <td class="tg-7vye"><span style="font-weight:normal">Phoebe Tan</td>
+    <td class="tg-7vye"><span style="font-weight:normal">Tay Bee Li</td>
   </tr>
   <tr>
     <td class="tg-0ynh">3 Diligence<br></td>
-    <td class="tg-0ynh">Goh Wan Yu<br></td>
-    <td class="tg-0ynh">Joelle Kwa</td>
+    <td class="tg-0ynh"><span style="font-weight:normal">Goh Wan Yu<br></td>
+    <td class="tg-0ynh"><span style="font-weight:normal">Joelle Kwa</td>
   </tr>
   <tr>
     <td class="tg-7vye">3 Empathy<br></td>
-    <td class="tg-7vye">Ann Lee</td>
-    <td class="tg-7vye">Effendi</td>
+    <td class="tg-7vye"><span style="font-weight:normal">Ann Lee</td>
+    <td class="tg-7vye"><span style="font-weight:normal">Effendi</td>
   </tr>
   <tr>
     <td class="tg-0ynh">3 Harmony<br></td>
-    <td class="tg-0ynh">Norizah<br></td>
-    <td class="tg-0ynh">Helen Lee<br></td>
+    <td class="tg-0ynh"><span style="font-weight:normal">Norizah<br></td>
+    <td class="tg-0ynh"><span style="font-weight:normal">Helen Lee<br></td>
   </tr>
   <tr>
     <td class="tg-7vye">3 Integrity<br></td>
-    <td class="tg-7vye">Nursyaza</td>
-    <td class="tg-7vye">Pang Ming Ing</td>
+    <td class="tg-7vye"><span style="font-weight:normal">Nursyaza</td>
+    <td class="tg-7vye"><span style="font-weight:normal">Pang Ming Ing</td>
   </tr>
   <tr>
     <td class="tg-0ynh">3 Loyalty<br></td>
-    <td class="tg-0ynh">Ho Wan Yu</td>
-    <td class="tg-0ynh">Yeung Yuk<br></td>
+    <td class="tg-0ynh"><span style="font-weight:normal">Ho Wan Yu</td>
+    <td class="tg-0ynh"><span style="font-weight:normal">Yeung Yuk<br></td>
   </tr>
   <tr>
     <td class="tg-7vye">3 Resilience<br></td>
-    <td class="tg-7vye">Lim Yen Teng<br></td>
-    <td class="tg-7vye">Lyvia Soh</td>
+    <td class="tg-7vye"><span style="font-weight:normal">Lim Yen Teng<br></td>
+    <td class="tg-7vye"><span style="font-weight:normal">Lyvia Soh</td>
   </tr>
 </tbody>
 </table>
