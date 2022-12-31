@@ -373,38 +373,38 @@ description: ""
   </tr>
   <tr>
     <td class="tg-7vye">6 Care<br></td>
-    <td class="tg-7vye">Yap Shu Hui<br></td>
-    <td class="tg-7vye">Christopher Cheng, Lee Kai Sin</td>
+    <td class="tg-7vye"><span style="font-weight:normal">Yap Shu Hui<br></td>
+    <td class="tg-7vye"><span style="font-weight:normal">Christopher Cheng, Lee Kai Sin</td>
   </tr>
   <tr>
     <td class="tg-0ynh">6 Diligence<br></td>
-    <td class="tg-0ynh">Alan Tai<br></td>
-    <td class="tg-0ynh">Hamzah</td>
+    <td class="tg-0ynh"><span style="font-weight:normal">Alan Tai<br></td>
+    <td class="tg-0ynh"><span style="font-weight:normal">Hamzah</td>
   </tr>
   <tr>
     <td class="tg-7vye">6 Empathy<br></td>
-    <td class="tg-7vye">Elwirandi Tan</td>
-    <td class="tg-7vye">Nur Faizah, Jonathan Boey</td>
+    <td class="tg-7vye"><span style="font-weight:normal">Elwirandi Tan</td>
+    <td class="tg-7vye"><span style="font-weight:normal">Nur Faizah, Jonathan Boey</td>
   </tr>
   <tr>
     <td class="tg-0ynh">6 Harmony<br></td>
-    <td class="tg-0ynh">Desmond Lim<span style="color:#002D46;background-color:#F1F6E4"> </span><br></td>
-    <td class="tg-0ynh"> Melissa Chin</td>
+    <td class="tg-0ynh"><span style="font-weight:normal">Desmond Lim<span style="color:#002D46;background-color:#F1F6E4"> </span><br></td>
+    <td class="tg-0ynh"><span style="font-weight:normal">Melissa Chin</td>
   </tr>
   <tr>
     <td class="tg-7vye">6 Integrity<br></td>
-    <td class="tg-7vye">Norhazlinda</td>
-    <td class="tg-7vye">Alan Mui</td>
+    <td class="tg-7vye"><span style="font-weight:normal">Norhazlinda</td>
+    <td class="tg-7vye"><span style="font-weight:normal">Alan Mui</td>
   </tr>
   <tr>
     <td class="tg-0ynh">6 Loyalty<br></td>
-    <td class="tg-0ynh">Chan Yong Yan</td>
-    <td class="tg-0ynh">Ho Huan Xin<br></td>
+    <td class="tg-0ynh"><span style="font-weight:normal">Chan Yong Yan</td>
+    <td class="tg-0ynh"><span style="font-weight:normal">Ho Huan Xin<br></td>
   </tr>
   <tr>
     <td class="tg-7vye">6 Resilience<br></td>
-    <td class="tg-7vye">Yeo Yungsen<br></td>
-    <td class="tg-7vye">Yim Wai Peng</td>
+    <td class="tg-7vye"><span style="font-weight:normal">Yeo Yungsen<br></td>
+    <td class="tg-7vye"><span style="font-weight:normal">Yim Wai Peng</td>
   </tr>
 </tbody>
 </table>
