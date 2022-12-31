@@ -28,8 +28,8 @@ description: ""
   </tr>
   <tr>
     <td class="tg-3uba"><span style="font-weight:bold;color:#002D46;background-color:#FFC600">Class</span></td>
-    <td class="tg-3uba"><span style="font-weight:bold;color:#002D46;background-color:#FFC600">Form Teacher 1</span></td>
-    <td class="tg-3uba"><span style="font-weight:bold;color:#002D46;background-color:#FFC600">Form Teacher 2</span></td>
+    <td class="tg-3uba"><span style="font-weight:bold;color:#002D46;background-color:#FFC600">Form Teacher</span></td>
+    <td class="tg-3uba"><span style="font-weight:bold;color:#002D46;background-color:#FFC600">Co-Form Teacher(s)</span></td>
   </tr>
   <tr>
     <td class="tg-7vye">1 Care<br></td>
@@ -97,8 +97,8 @@ description: ""
   </tr>
   <tr>
     <td class="tg-3uba"><span style="font-weight:bold;color:#002D46;background-color:#FFC600">Class</span></td>
-    <td class="tg-3uba"><span style="font-weight:bold;color:#002D46;background-color:#FFC600">Form Teacher 1</span></td>
-    <td class="tg-3uba"><span style="font-weight:bold;color:#002D46;background-color:#FFC600">Form Teacher 2</span></td>
+    <td class="tg-3uba"><span style="font-weight:bold;color:#002D46;background-color:#FFC600">Form Teacher</span></td>
+    <td class="tg-3uba"><span style="font-weight:bold;color:#002D46;background-color:#FFC600">Co-Form Teacher(s)</span></td>
   </tr>
   <tr>
     <td class="tg-7vye">2 Care<br></td>
