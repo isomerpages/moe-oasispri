@@ -62,17 +62,17 @@ description: ""
     <td class="tg-0ynh"><br></td>
   </tr>
   <tr>
-    <td class="tg-7vye"><br></td>
+    <td class="tg-7vye">1 Empathy<br></td>
     <td class="tg-7vye"><br></td>
     <td class="tg-7vye"></td>
   </tr>
   <tr>
-    <td class="tg-0ynh"> 1 Empathy</td>
+    <td class="tg-0ynh"> 1 Noble</td>
     <td class="tg-0ynh"> <br></td>
     <td class="tg-0ynh"> </td>
 	</tr>
   <tr>
-    <td class="tg-7vye">1 Noble<br></td>
+    <td class="tg-7vye"><br></td>
     <td class="tg-7vye"><br></td>
     <td class="tg-7vye"></td>
   </tr>
