@@ -240,38 +240,38 @@ description: ""
   </tr>
   <tr>
     <td class="tg-7vye">4 Care<br></td>
-    <td class="tg-7vye"><br></td>
-    <td class="tg-7vye"></td>
+    <td class="tg-7vye"><span style="font-weight:normal">Mohd Faris<br></td>
+    <td class="tg-7vye"><span style="font-weight:normal">Margaret Lee</td>
   </tr>
   <tr>
-    <td class="tg-0ynh">4 Harmony<br></td>
-    <td class="tg-0ynh"><br></td>
-    <td class="tg-0ynh"></td>
-  </tr>
-  <tr>
-    <td class="tg-7vye">4 Integrity<br></td>
-    <td class="tg-7vye"></td>
-    <td class="tg-7vye"></td>
-  </tr>
-  <tr>
-    <td class="tg-0ynh">4 Loyalty<br></td>
-    <td class="tg-0ynh"><span style="color:#002D46;background-color:#F1F6E4"> </span><br></td>
-    <td class="tg-0ynh"> / </td>
-  </tr>
-  <tr>
-    <td class="tg-7vye">4 Diligence<br></td>
-    <td class="tg-7vye"></td>
-    <td class="tg-7vye"></td>
-  </tr>
-  <tr>
-    <td class="tg-0ynh">4 Resilience<br></td>
-    <td class="tg-0ynh"> </td>
-    <td class="tg-0ynh"> <br></td>
+    <td class="tg-0ynh">4 Diligence<br></td>
+    <td class="tg-0ynh"><span style="font-weight:normal">Nur Liyana<br></td>
+    <td class="tg-0ynh"><span style="font-weight:normal">Huang Rui</td>
   </tr>
   <tr>
     <td class="tg-7vye">4 Empathy<br></td>
-    <td class="tg-7vye"><br></td>
-    <td class="tg-7vye"></td>
+    <td class="tg-7vye"><span style="font-weight:normal">Lau Ying Ying</td>
+    <td class="tg-7vye"><span style="font-weight:normal">Siti Nabilah</td>
+  </tr>
+  <tr>
+    <td class="tg-0ynh">4 Harmony<br></td>
+    <td class="tg-0ynh"><span style="font-weight:normal">Nirmawati<span style="color:#002D46;background-color:#F1F6E4"> </span><br></td>
+    <td class="tg-0ynh"><span style="font-weight:normal">Hafizah, Ong Wei Peng </td>
+  </tr>
+  <tr>
+    <td class="tg-7vye">4 Integrity<br></td>
+    <td class="tg-7vye"><span style="font-weight:normal">Yusneeta</td>
+    <td class="tg-7vye"><span style="font-weight:normal">Nurul Atika</td>
+  </tr>
+  <tr>
+    <td class="tg-0ynh">4 Loyalty<br></td>
+    <td class="tg-0ynh"><span style="font-weight:normal">Sixu</td>
+    <td class="tg-0ynh"><span style="font-weight:normal">Wei Yueshan<br></td>
+  </tr>
+  <tr>
+    <td class="tg-7vye">4 Resilience<br></td>
+    <td class="tg-7vye"><span style="font-weight:normal">Maziyah<br></td>
+    <td class="tg-7vye"><span style="font-weight:normal">Vaahidalisha</td>
   </tr>
 </tbody>
 </table>
