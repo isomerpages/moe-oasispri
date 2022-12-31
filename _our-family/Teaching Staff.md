@@ -33,43 +33,43 @@ description: ""
   </tr>
   <tr>
     <td class="tg-7vye">1 Care<br></td>
-    <td class="tg-7vye"></td>
-    <td class="tg-7vye"></td>
+    <td class="tg-7vye">Joyce Chew</td>
+    <td class="tg-7vye">Ahadrina</td>
   </tr>
   <tr>
     <td class="tg-0ynh">1 Diligence<br></td>
-    <td class="tg-0ynh"><br></td>
-    <td class="tg-0ynh"></td>
+    <td class="tg-0ynh">Cassandra Goh<br></td>
+    <td class="tg-0ynh">Cheng Yingying</td>
   </tr>
   <tr>
     <td class="tg-7vye">1 Empathy<br></td>
-    <td class="tg-7vye"></td>
-    <td class="tg-7vye"></td>
+    <td class="tg-7vye">Lee Peixia</td>
+    <td class="tg-7vye">Zahidah</td>
   </tr>
   <tr>
     <td class="tg-0ynh">1 Harmony<br></td>
-    <td class="tg-0ynh"><br></td>
-    <td class="tg-0ynh"><br></td>
+    <td class="tg-0ynh">Sophie<br></td>
+    <td class="tg-0ynh">Stacey Koh<br></td>
   </tr>
   <tr>
     <td class="tg-7vye">1 Integrity<br></td>
-    <td class="tg-7vye"></td>
-    <td class="tg-7vye"></td>
+    <td class="tg-7vye">Susanne Lim</td>
+    <td class="tg-7vye">Evon Tan</td>
   </tr>
   <tr>
     <td class="tg-0ynh">1 Loyalty<br></td>
-    <td class="tg-0ynh"></td>
-    <td class="tg-0ynh"><br></td>
+    <td class="tg-0ynh">Feng Wei Wei</td>
+    <td class="tg-0ynh">Safeenah<br></td>
   </tr>
   <tr>
     <td class="tg-7vye">1 Noble<br></td>
-    <td class="tg-7vye"><br></td>
-    <td class="tg-7vye"></td>
+    <td class="tg-7vye">Sindy Lai<br></td>
+    <td class="tg-7vye">Teo Mei Geok</td>
   </tr>
   <tr>
-    <td class="tg-0ynh"> 1 Resilience</td>
-    <td class="tg-0ynh"> <br></td>
-    <td class="tg-0ynh"> </td>
+    <td class="tg-0ynh">1 Resilience</td>
+    <td class="tg-0ynh">Jaslyn Seah<br></td>
+    <td class="tg-0ynh">Anastasia Koh</td>
 	</tr>
   </tbody>
 </table>
