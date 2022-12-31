@@ -176,38 +176,38 @@ description: ""
   </tr>
   <tr>
     <td class="tg-7vye">3 Care<br></td>
-    <td class="tg-7vye"></td>
-    <td class="tg-7vye"></td>
+    <td class="tg-7vye">Phoebe Tan</td>
+    <td class="tg-7vye">Tay Bee Li</td>
   </tr>
   <tr>
     <td class="tg-0ynh">3 Diligence<br></td>
-    <td class="tg-0ynh"><br></td>
-    <td class="tg-0ynh"></td>
+    <td class="tg-0ynh">Goh Wan Yu<br></td>
+    <td class="tg-0ynh">Joelle Kwa</td>
   </tr>
   <tr>
     <td class="tg-7vye">3 Empathy<br></td>
-    <td class="tg-7vye"></td>
-    <td class="tg-7vye"></td>
+    <td class="tg-7vye">Ann Lee</td>
+    <td class="tg-7vye">Effendi</td>
   </tr>
   <tr>
     <td class="tg-0ynh">3 Harmony<br></td>
-    <td class="tg-0ynh"><br></td>
-    <td class="tg-0ynh"><br></td>
+    <td class="tg-0ynh">Norizah<br></td>
+    <td class="tg-0ynh">Helen Lee<br></td>
   </tr>
   <tr>
     <td class="tg-7vye">3 Integrity<br></td>
-    <td class="tg-7vye"></td>
-    <td class="tg-7vye"></td>
+    <td class="tg-7vye">Nursyaza</td>
+    <td class="tg-7vye">Pang Ming Ing</td>
   </tr>
   <tr>
     <td class="tg-0ynh">3 Loyalty<br></td>
-    <td class="tg-0ynh"></td>
-    <td class="tg-0ynh"><br></td>
+    <td class="tg-0ynh">Ho Wan Yu</td>
+    <td class="tg-0ynh">Yeung Yuk<br></td>
   </tr>
   <tr>
     <td class="tg-7vye">3 Resilience<br></td>
-    <td class="tg-7vye"><br></td>
-    <td class="tg-7vye"></td>
+    <td class="tg-7vye">Lim Yen Teng<br></td>
+    <td class="tg-7vye">Lyvia Soh</td>
   </tr>
 </tbody>
 </table>
