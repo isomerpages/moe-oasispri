@@ -304,43 +304,43 @@ description: ""
   </tr>
   <tr>
     <td class="tg-7vye">5 Care<br></td>
-    <td class="tg-7vye"></td>
-    <td class="tg-7vye"></td>
+    <td class="tg-7vye">Tan Soo Cheng</td>
+    <td class="tg-7vye">Nor Aisah, Pierre Fong</td>
   </tr>
   <tr>
-    <td class="tg-0ynh">5 Harmony<br></td>
-    <td class="tg-0ynh"><br></td>
-    <td class="tg-0ynh"></td>
-  </tr>
-  <tr>
-    <td class="tg-7vye">5 Integrity<br></td>
-    <td class="tg-7vye"></td>
-    <td class="tg-7vye"></td>
-  </tr>
-  <tr>
-    <td class="tg-0ynh">5 Loyalty<br></td>
-    <td class="tg-0ynh"><br></td>
-    <td class="tg-0ynh"><br></td>
-  </tr>
-  <tr>
-    <td class="tg-7vye">5 Diligence<br></td>
-    <td class="tg-7vye"></td>
-    <td class="tg-7vye"></td>
-  </tr>
-  <tr>
-    <td class="tg-0ynh">5 Resilience<br></td>
-    <td class="tg-0ynh"></td>
-    <td class="tg-0ynh"><br></td>
+    <td class="tg-0ynh">5 Diligence<br></td>
+    <td class="tg-0ynh">Razia Sulthana<br></td>
+    <td class="tg-0ynh">Lin Furong</td>
   </tr>
   <tr>
     <td class="tg-7vye">5 Empathy<br></td>
-    <td class="tg-7vye"><br></td>
-    <td class="tg-7vye"></td>
+    <td class="tg-7vye">Roziana</td>
+    <td class="tg-7vye">Yan Xiaojing</td>
   </tr>
   <tr>
-    <td class="tg-0ynh"> 5 Noble</td>
-    <td class="tg-0ynh"> </td>
-    <td class="tg-0ynh"> </td>
+    <td class="tg-0ynh">5 Harmony<br></td>
+    <td class="tg-0ynh">Catherine Huang<br></td>
+    <td class="tg-0ynh">Munirah<br></td>
+  </tr>
+  <tr>
+    <td class="tg-7vye">5 Integrity<br></td>
+    <td class="tg-7vye">Lee Hui Shan</td>
+    <td class="tg-7vye">Teo Si Hui</td>
+  </tr>
+  <tr>
+    <td class="tg-0ynh">5 Loyalty<br></td>
+    <td class="tg-0ynh">Safiah Arshad</td>
+    <td class="tg-0ynh">Ismail Fahmy, Ken Chong<br></td>
+  </tr>
+  <tr>
+    <td class="tg-7vye">5 Noble<br></td>
+    <td class="tg-7vye">Mohd Aizad<br></td>
+    <td class="tg-7vye">Shazwan</td>
+  </tr>
+  <tr>
+    <td class="tg-0ynh">5 Resilience</td>
+    <td class="tg-0ynh">Koh Peck Lian</td>
+    <td class="tg-0ynh">Mohd Farhan</td>
   </tr>
 </tbody>
 </table>
