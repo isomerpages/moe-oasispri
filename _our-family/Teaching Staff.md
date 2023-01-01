@@ -102,48 +102,49 @@ description: ""
   </tr>
   <tr>
     <td class="tg-7vye">2 Care<br></td>
-    <td class="tg-7vye"><span style="font-weight:normal">Beryl Ng</td>
-    <td class="tg-7vye"><span style="font-weight:normal">Florence Ngu</td>
+    <td class="tg-7vye">Beryl Ng</td>
+    <td class="tg-7vye">Florence Ngu</td>
   </tr>
   <tr>
     <td class="tg-0ynh">2 Diligence<br></td>
-    <td class="tg-0ynh"><span style="font-weight:normal">Najma<br></td>
-    <td class="tg-0ynh"><span style="font-weight:normal">Tay Xiulan, Wang Yuwei</td>
+    <td class="tg-0ynh">Ms Najma<br></td>
+    <td class="tg-0ynh">Ms Tay Xiulan,
+			Ms Wang Yuwei</td>
   </tr>
   <tr>
     <td class="tg-7vye">2 Empathy<br></td>
-    <td class="tg-7vye"><span style="font-weight:normal">Chia Wanyi</td>
-    <td class="tg-7vye"><span style="font-weight:normal">Ng Tze Ling</td>
+    <td class="tg-7vye">Ms Chia Wanyi</td>
+    <td class="tg-7vye">Ms Ng Tze Ling</td>
   </tr>
   <tr>
     <td class="tg-0ynh">2 Harmony<br></td>
-    <td class="tg-0ynh"><span style="font-weight:normal">Caroline Soh<br></td>
-    <td class="tg-0ynh"><span style="font-weight:normal">Chen Rongli<br></td>
+    <td class="tg-0ynh">Ms Caroline Soh<br></td>
+    <td class="tg-0ynh">Ms Chen Rongli<br></td>
   </tr>
   <tr>
     <td class="tg-7vye">2 Integrity<br></td>
-    <td class="tg-7vye"><span style="font-weight:normal">Gena Wong</td>
-    <td class="tg-7vye"><span style="font-weight:normal">Wang Yanhua</td>
+    <td class="tg-7vye">Ms Gena Wong</td>
+    <td class="tg-7vye">Ms Wang Yanhua</td>
   </tr>
   <tr>
     <td class="tg-0ynh">2 Loyalty<br></td>
-    <td class="tg-0ynh"><span style="font-weight:normal">Nur Afiqa</td>
-    <td class="tg-0ynh"><span style="font-weight:normal">Rosenna Seah<br></td>
+    <td class="tg-0ynh">Ms Nur Afiqa</td>
+    <td class="tg-0ynh">Ms Rosenna Seah<br></td>
   </tr>
   <tr>
     <td class="tg-7vye">2 Noble<br></td>
-    <td class="tg-7vye"><span style="font-weight:normal">Buvaneswary<br></td>
-    <td class="tg-7vye"><span style="font-weight:normal">Celeste Yap</td>
+    <td class="tg-7vye">Ms Buvaneswary<br></td>
+    <td class="tg-7vye">Ms Celeste Yap</td>
   </tr>
   <tr>
     <td class="tg-0ynh">2 Respect</td>
-    <td class="tg-0ynh"><span style="font-weight:normal">Wilsa Dewi<br></td>
-    <td class="tg-0ynh"><span style="font-weight:normal">Nurmah</td>
+    <td class="tg-0ynh">Ms Wilsa Dewi<br></td>
+    <td class="tg-0ynh">Ms Nurmah</td>
 	</tr>
   <tr>
     <td class="tg-7vye">2 Resilience<br></td>
-    <td class="tg-7vye"><span style="font-weight:normal">Judy Tng<br></td>
-    <td class="tg-7vye"><span style="font-weight:normal">Maalini</td>
+    <td class="tg-7vye">Ms Judy Tng<br></td>
+    <td class="tg-7vye">Ms Maalini</td>
   </tr>
 </tbody>
 </table>
