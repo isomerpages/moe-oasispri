@@ -388,7 +388,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-0ynh">6 Harmony<br></td>
-    <td class="tg-0ynh">Desmond Lim<span style="color:#002D46;background-color:#F1F6E4"> </span><br></td>
+    <td class="tg-0ynh">Desmond Lim</td>
     <td class="tg-0ynh">Melissa Chin</td>
   </tr>
   <tr>
