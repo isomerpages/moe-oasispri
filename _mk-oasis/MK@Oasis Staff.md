@@ -97,7 +97,7 @@ description: ""
     <td class="tg-dv6r">Teacher</td>
     <td class="tg-j74v">Ms Tan Shuying Diane</td>
   </tr>
-	  <td class="tg-8com">Operations Support Officer<br></td>
+	  <td class="tg-8com">Operations Support Officer</td>
     <td class="tg-1d14">Mdm Loe Kwee Lan</td>
   </tr>
 </tbody>
