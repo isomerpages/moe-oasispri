@@ -3,7 +3,7 @@ title: MK@Oasis Staff
 permalink: /mk-oasis/permalink/
 description: ""
 ---
-### MK@Oasis Staff
+### MK Staff
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
