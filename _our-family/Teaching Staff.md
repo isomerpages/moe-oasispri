@@ -426,17 +426,17 @@ description: ""
 <thead>
   <tr>
     <th class="tg-dv6r">Senior Special Educational Needs (SEN) Officer</th>
-    <th class="tg-j74v"><span style="font-weight:normal">Mdm Salwah<br></th>
+    <th class="tg-j74v">Mdm Salwah<br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-8com">Special Educational Needs (SEN) Officer<br></td>
-    <td class="tg-1d14"><span style="font-weight:normal">Mdm Wanis<br></td>
+    <td class="tg-1d14">Mdm Wanis<br></td>
   </tr>
   <tr>
     <td class="tg-dv6r">School Counsellor<br></td>
-    <td class="tg-j74v"><span style="font-weight:normal">Ms Yayah<br></td>
+    <td class="tg-j74v">Ms Yayah<br></td>
   </tr>
   <tr>
   </tr>
