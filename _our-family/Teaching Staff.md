@@ -255,8 +255,8 @@ description: ""
   </tr>
   <tr>
     <td class="tg-0ynh">4 Harmony<br></td>
-    <td class="tg-0ynh">Nirmawati<span style="color:#002D46;background-color:#F1F6E4"> </span><br></td>
-    <td class="tg-0ynh">Hafizah, Ong Wei Peng </td>
+    <td class="tg-0ynh">Nirmawati</td>
+    <td class="tg-0ynh">Hafizah, Ong Wei Peng</td>
   </tr>
   <tr>
     <td class="tg-7vye">4 Integrity<br></td>
