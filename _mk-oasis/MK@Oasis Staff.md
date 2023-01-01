@@ -58,7 +58,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-8com">Teacher</td>
-    <td class="tg-1d14">Ms Sabrinah binte Rahim</td>
+    <td class="tg-1d14">Ms Sabrinah Binte Rahim</td>
   </tr>
   <tr>
     <td class="tg-dv6r">Teacher</td>
