@@ -240,38 +240,38 @@ description: ""
   </tr>
   <tr>
     <td class="tg-7vye">4 Care<br></td>
-    <td class="tg-7vye"><span style="font-weight:normal">Mohd Faris<br></td>
-    <td class="tg-7vye"><span style="font-weight:normal">Margaret Lee</td>
+    <td class="tg-7vye">Mohd Faris<br></td>
+    <td class="tg-7vye">Margaret Lee</td>
   </tr>
   <tr>
     <td class="tg-0ynh">4 Diligence<br></td>
-    <td class="tg-0ynh"><span style="font-weight:normal">Nur Liyana<br></td>
-    <td class="tg-0ynh"><span style="font-weight:normal">Huang Rui</td>
+    <td class="tg-0ynh">Nur Liyana<br></td>
+    <td class="tg-0ynh">Huang Rui</td>
   </tr>
   <tr>
     <td class="tg-7vye">4 Empathy<br></td>
-    <td class="tg-7vye"><span style="font-weight:normal">Lau Ying Ying</td>
-    <td class="tg-7vye"><span style="font-weight:normal">Siti Nabilah</td>
+    <td class="tg-7vye">Lau Ying Ying</td>
+    <td class="tg-7vye">Siti Nabilah</td>
   </tr>
   <tr>
     <td class="tg-0ynh">4 Harmony<br></td>
-    <td class="tg-0ynh"><span style="font-weight:normal">Nirmawati<span style="color:#002D46;background-color:#F1F6E4"> </span><br></td>
-    <td class="tg-0ynh"><span style="font-weight:normal">Hafizah, Ong Wei Peng </td>
+    <td class="tg-0ynh">Nirmawati<span style="color:#002D46;background-color:#F1F6E4"> </span><br></td>
+    <td class="tg-0ynh">Hafizah, Ong Wei Peng </td>
   </tr>
   <tr>
     <td class="tg-7vye">4 Integrity<br></td>
-    <td class="tg-7vye"><span style="font-weight:normal">Yusneeta</td>
-    <td class="tg-7vye"><span style="font-weight:normal">Nurul Atika</td>
+    <td class="tg-7vye">Yusneeta</td>
+    <td class="tg-7vye">Nurul Atika</td>
   </tr>
   <tr>
     <td class="tg-0ynh">4 Loyalty<br></td>
-    <td class="tg-0ynh"><span style="font-weight:normal">Sixu</td>
-    <td class="tg-0ynh"><span style="font-weight:normal">Wei Yueshan<br></td>
+    <td class="tg-0ynh">Sixu</td>
+    <td class="tg-0ynh">Wei Yueshan<br></td>
   </tr>
   <tr>
     <td class="tg-7vye">4 Resilience<br></td>
-    <td class="tg-7vye"><span style="font-weight:normal">Maziyah<br></td>
-    <td class="tg-7vye"><span style="font-weight:normal">Vaahidalisha</td>
+    <td class="tg-7vye">Maziyah<br></td>
+    <td class="tg-7vye">Vaahidalisha</td>
   </tr>
 </tbody>
 </table>
