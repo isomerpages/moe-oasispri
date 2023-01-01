@@ -33,8 +33,8 @@ description: ""
   </tr>
   <tr>
     <td class="tg-7vye">1 Care<br></td>
-    <td class="tg-7vye"><span style="font-weight:normal">Joyce Chew</td>
-    <td class="tg-7vye"><span style="font-weight:normal">Ahadrina</td>
+    <td class="tg-7vye">Joyce Chew</td>
+    <td class="tg-7vye">Ahadrina</td>
   </tr>
   <tr>
     <td class="tg-0ynh">1 Diligence<br></td>
