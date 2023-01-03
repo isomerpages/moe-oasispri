@@ -90,20 +90,19 @@ description: ""
     <td class="tg-j74v">Ms Song Lili</td>
   </tr>
 	<tr>
-    <td class="tg-dv6r">Teacher</td>
-    <td class="tg-j74v">Ms Suhailah Fauzi Abdat</td>
-  </tr>
-	<tr>
     <td class="tg-8com">Teacher</td>
-    <td class="tg-1d14">Ms Tan Li Fang Shirleen</td>
+    <td class="tg-1d14">Ms Suhailah Fauzi Abdat</td>
   </tr>
 	<tr>
-    </tr>
+    <td class="tg-dv6r">Teacher</td>
+    <td class="tg-j74v">Ms Tan Li Fang Shirleen</td>
+  </tr>
+	<tr>
 	  <td class="tg-8com">Administrative Executive (MK@Oasis)</td>
     <td class="tg-1d14">Ms Tan Siew Lian</td>
 	</tr>
-	  <td class="tg-8com">Operations Support Officer</td>
-    <td class="tg-1d14">Mdm Chong Lee Fah</td>
+	  <td class="tg-dv6r">Operations Support Officer</td>
+    <td class="tg-j74v">Mdm Chong Lee Fah</td>
 	</tr>
 	  <td class="tg-8com">Operations Support Officer</td>
     <td class="tg-1d14">Mdm Loe Kwee Lan</td>
