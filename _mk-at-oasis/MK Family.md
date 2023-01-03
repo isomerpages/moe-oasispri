@@ -28,7 +28,7 @@ description: ""
     <td class="tg-8com">MK Deputy Centre Head</td>
     <td class="tg-1d14">Ms Tang Wenli</td>
   </tr>
-		<tr>
+	<tr>
     <td class="tg-dv6r">MK Senior Teacher</td>
     <td class="tg-j74v">Ms Sia Hwee Choo</td>
   </tr>
@@ -36,6 +36,7 @@ description: ""
     <td class="tg-8com">MK Senior Teacher</td>
     <td class="tg-1d14">Ms Tan Shuying Diane</td>
   </tr>
+	<tr>
     <td class="tg-dv6r">Teacher</td>
     <td class="tg-j74v">Ms Amanda Poh Hui En</td>
   </tr>
@@ -80,7 +81,6 @@ description: ""
     <td class="tg-j74v">Ms Siti Nurarffah Binte Mohd Razali</td>
   </tr>
   <tr>
-		<tr>
     <td class="tg-8com">Teacher</td>
     <td class="tg-1d14">Ms Soh En Qi Annestha</td>
   </tr>
@@ -100,11 +100,14 @@ description: ""
 	  <td class="tg-8com">Administrative Executive (MK@Oasis)</td>
     <td class="tg-1d14">Ms Tan Siew Lian</td>
 	</tr>
+	<tr>
 	  <td class="tg-dv6r">Operations Support Officer</td>
     <td class="tg-j74v">Mdm Chong Lee Fah</td>
 	</tr>
+	<tr>
 	  <td class="tg-8com">Operations Support Officer</td>
     <td class="tg-1d14">Mdm Loe Kwee Lan</td>
   </tr>
+	<tr>
 </tbody>
 </table>
