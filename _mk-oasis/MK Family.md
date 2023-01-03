@@ -19,13 +19,13 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-dv6r">Centre Head</th>
+    <th class="tg-dv6r">MK Centre Head</th>
     <th class="tg-j74v">Ms Chua Pin Chin</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-8com">Deputy Centre Head</td>
+    <td class="tg-8com">MK Deputy Centre Head</td>
     <td class="tg-1d14">Ms Tang Wenli</td>
   </tr>
   <tr>
@@ -69,7 +69,7 @@ description: ""
     <td class="tg-1d14">Ms Shirajunnisha Khan</td>
   </tr>
   <tr>
-    <td class="tg-dv6r">Teacher</td>
+    <td class="tg-dv6r">MK Senior Teacher</td>
     <td class="tg-j74v">Ms Sia Hwee Choo</td>
   </tr>
   <tr>
@@ -91,10 +91,10 @@ description: ""
   </tr>
 	<tr>
     <td class="tg-8com">Teacher</td>
-    <td class="tg-1d14">Ms Tan Li Fang</td>
+    <td class="tg-1d14">Ms Tan Li Fang Shirleen</td>
   </tr>
 	<tr>
-    <td class="tg-dv6r">Teacher</td>
+    <td class="tg-dv6r">MK Senior Teacher</td>
     <td class="tg-j74v">Ms Tan Shuying Diane</td>
   </tr>
 	  <td class="tg-8com">Operations Support Officer</td>
