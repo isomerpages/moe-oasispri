@@ -88,6 +88,3 @@ third_nav_title: School Life
     <td class="tg-vd2a"><span style="background-color:initial">7.00 a.m. - 7.30 a.m.</span><br><span style="background-color:initial">1.30 p.m. - 1.45 p.m.</span>
 		<td class="tg-vd2a"><span style="background-color:initial">7.00 a.m. - 7.30 a.m.</span><br><span style="background-color:initial">1.00 p.m. - 1.15 p.m.</span>
 		</td>
-  </tr>
-</tbody>
-</table>
