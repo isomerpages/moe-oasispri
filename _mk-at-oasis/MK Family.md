@@ -5,28 +5,6 @@ description: ""
 ---
 ### MK Family
 
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-dv6r{background-color:#F1F6E4;color:#2F5597;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-j74v{background-color:#F1F6E4;color:#002D46;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-8com{background-color:#FFF8F7;color:#2F5597;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-1d14{background-color:#FFF8F7;color:#002D46;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-dv6r">Administration Manager</th>
-    <th class="tg-j74v">Mr Mah Kian Lye</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -41,8 +19,8 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-dv6r">MK Centre Head</td>
-    <th class="tg-j74v">Ms Chua Pin Chin</td>
+    <th class="tg-dv6r">MK Centre Head</th>
+    <th class="tg-j74v">Ms Chua Pin Chin</th>
 </tr>
 	  <tr>
     <td class="tg-8com">MK Deputy Centre Head</td>
