@@ -68,11 +68,13 @@ third_nav_title: School Life
     <td class="tg-67ya">Main Gate @ Edgefield Plains<br></td>
     <td class="tg-vd2a"><span style="background-color:initial">(School Staff &amp; School Buses)</span><br><span style="background-color:initial">6.30 a.m. - 7.30 a.m.</span><br><span style="background-color:initial">8.00 a.m. - 9.00 a.m.</span><br><span style="background-color:initial">11.00 a.m. - 7.00 p.m.</span></td>
     <td class="tg-67ya">N.A.<br></td>
+		<td class="tg-67ya">N.A.<br></td>
   </tr>
   <tr>
     <td class="tg-67ya">Gate 1 @ Edgefield Plains<br></td>
     <td class="tg-67ya">N.A.<br></td>
     <td class="tg-67ya">6.30 a.m. - 7.00 p.m.<br></td>
+		<td class="tg-67ya">6.30 a.m. - 7.00 p.m.<br></td>
   </tr>
   <tr>
     <td class="tg-67ya">Gate 2 @ Edgefield Plains<br></td>
