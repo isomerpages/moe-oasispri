@@ -34,8 +34,8 @@ description: ""
     <td class="tg-j74v">Ms Sia Hwee Choo</td>
   </tr>
 	<tr>
-    <td class="tg-dv6r">MK Senior Teacher</td>
-    <td class="tg-j74v">Ms Tan Shuying Diane</td>
+    <td class="tg-8com">MK Senior Teacher</td>
+    <td class="tg-1d14">Ms Tan Shuying Diane</td>
   </tr>
     <td class="tg-dv6r">Teacher</td>
     <td class="tg-j74v">Ms Amanda Poh Hui En</td>
@@ -77,17 +77,17 @@ description: ""
     <td class="tg-1d14">Ms Shirajunnisha Khan</td>
   </tr>
   <tr>
-    <td class="tg-8com">Teacher</td>
-    <td class="tg-1d14">Ms Siti Nurarffah Binte Mohd Razali</td>
+    <td class="tg-dv6r">Teacher</td>
+    <td class="tg-j74v">Ms Siti Nurarffah Binte Mohd Razali</td>
   </tr>
   <tr>
 		<tr>
-    <td class="tg-dv6r">Teacher</td>
-    <td class="tg-j74v">Ms Soh En Qi Annestha</td>
+    <td class="tg-8com">Teacher</td>
+    <td class="tg-1d14">Ms Soh En Qi Annestha</td>
   </tr>
 	<tr>
-    <td class="tg-8com">Teacher</td>
-    <td class="tg-1d14">Ms Song Lili</td>
+    <td class="tg-dv6r">Teacher</td>
+    <td class="tg-j74v">Ms Song Lili</td>
   </tr>
 	<tr>
     <td class="tg-dv6r">Teacher</td>
