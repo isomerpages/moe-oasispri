@@ -19,8 +19,8 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-dv6r">MK Centre Head</th>
-    <th class="tg-j74v">Ms Chua Pin Chin</th>
+    <th class="tg-dv6r">MK Centre Head</td>
+    <th class="tg-j74v">Ms Chua Pin Chin</td>
 </tr>
 	  <tr>
     <td class="tg-8com">MK Deputy Centre Head</td>
