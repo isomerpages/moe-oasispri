@@ -21,7 +21,8 @@ description: ""
   <tr>
     <th class="tg-dv6r">MK Centre Head</th>
     <th class="tg-j74v">Ms Chua Pin Chin</th>
-</thead>
+</tr>
+	</thead>
 <tbody>
   <tr>
     <td class="tg-8com">MK Deputy Centre Head</td>
