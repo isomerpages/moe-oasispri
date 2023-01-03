@@ -1,5 +1,5 @@
 collections:
-  mkoasis:
+  mk-oasis:
     output: true
     order:
       - MK Family.md
