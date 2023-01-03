@@ -38,7 +38,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-dv6r">Teacher<br></td>
-    <td class="tg-j74v">Ms Iryannie binte Zulkifli<br></td>
+    <td class="tg-j74v">Ms Iryannie Binte Zulkifli<br></td>
   </tr>
   <tr>
     <td class="tg-8com">Teacher</td>
@@ -62,7 +62,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-dv6r">Teacher</td>
-    <td class="tg-j74v">Ms Salina binte Abdul Samat</td>
+    <td class="tg-j74v">Ms Salina Binte Abdul Samat</td>
   </tr>
   <tr>
     <td class="tg-8com">Teacher<br></td>
