@@ -77,8 +77,36 @@ description: ""
     <td class="tg-1d14">Ms Shirajunnisha<span style="background-color:#F1F6E4"> </span>Khan</td>
   </tr>
   <tr>
+    <td class="tg-dv6r">Teacher<br></td>
+    <td class="tg-j74v">Ms Siti Nurarffah Binte Mohd Razali</td>
+	</tr>
+  <tr>
+    <td class="tg-8com">Teacher</td>
+    <td class="tg-1d14">Ms Soh En Qi  Annestha</td>
+  </tr>
+  <tr>
+    <td class="tg-dv6r">Teacher<br></td>
+    <td class="tg-j74v">Ms Song Lili</td>
+	</tr>
+  <tr>
+    <td class="tg-8com">Teacher</td>
+    <td class="tg-1d14">Ms Suhailah Fauzi Abdat</td>
+  </tr>
+  <tr>
+    <td class="tg-dv6r">Teacher<br></td>
+    <td class="tg-j74v">Ms Tan Li Fang Shirleen</td>
+	</tr>
+  <tr>
+    <td class="tg-8com">Administrative Executive (MK@Oasis)</td>
+    <td class="tg-1d14">Ms Tan Siew Lian</td>
+  </tr>
+  <tr>
     <td class="tg-dv6r">Operations Support Officer<br></td>
-    <td class="tg-j74v">Mr Tan Cheng Hoe Robin</td>
+    <td class="tg-j74v">Mdm Chong Lee Fah</td>
+	</tr>
+  <tr>
+    <td class="tg-8com">Operations Support Officer</td>
+    <td class="tg-1d14">Mdm Loe Kwee Lan</td>
   </tr>
 </tbody>
 </table>
