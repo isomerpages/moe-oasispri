@@ -98,10 +98,10 @@ description: ""
     <td class="tg-j74v">Ms Tan Shuying Diane</td>
   </tr>
 	  <td class="tg-8com">Administrative Executive (MK@Oasis)</td>
-    <td class="tg-1d14">Mdm Tan Siew Lian</td>
+    <td class="tg-1d14">Ms Tan Siew Lian</td>
 	</tr>
 	  <td class="tg-8com">Operations Support Officer</td>
-    <td class="tg-1d14">Mdm Loe Kwee Lan</td>
+    <td class="tg-1d14">Mdm Chong Lee Fah</td>
 	</tr>
 	  <td class="tg-8com">Operations Support Officer</td>
     <td class="tg-1d14">Mdm Loe Kwee Lan</td>
