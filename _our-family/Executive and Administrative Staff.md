@@ -34,7 +34,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-8com">Operations Manager</td>
-    <td class="tg-1d14">Mr Muhamad Iskandar bin Sarkawai</td>
+    <td class="tg-1d14">Mr Muhamad Iskandar Bin Sarkawai</td>
   </tr>
   <tr>
     <td class="tg-dv6r">ICT Manager<br></td>
