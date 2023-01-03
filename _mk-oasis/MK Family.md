@@ -102,9 +102,7 @@ description: ""
     <td class="tg-1d14">Ms Tan Li Fang Shirleen</td>
   </tr>
 	<tr>
-    <td class="tg-dv6r">MK Senior Teacher</td>
-    <td class="tg-j74v">Ms Tan Shuying Diane</td>
-  </tr>
+    </tr>
 	  <td class="tg-8com">Administrative Executive (MK@Oasis)</td>
     <td class="tg-1d14">Ms Tan Siew Lian</td>
 	</tr>
