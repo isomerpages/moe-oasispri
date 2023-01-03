@@ -74,12 +74,12 @@ third_nav_title: School Life
   <tr>
     <td class="tg-67ya">Gate 2 @ Edgefield Plains<br></td>
     <td class="tg-67ya">N.A.<br></td>
-    <td class="tg-vd2a"><span style="background-color:initial">7.00 a.m. - 7.30 a.m.</span><br><span style="background-color:initial">1.25 p.m. - 2.00 p.m.</span></td>
+    <td class="tg-vd2a"><span style="background-color:initial">7.00 a.m. - 7.30 a.m.</span><br><span style="background-color:initial">1.30 p.m. - 1.45 p.m.</span></td>
   </tr>
   <tr>
     <td class="tg-67ya">Gate 4 @ Punggol Drive<br></td>
     <td class="tg-67ya">N.A.<br></td>
-    <td class="tg-vd2a"><span style="background-color:initial">7.00 a.m. - 7.30 a.m.</span><br><span style="background-color:initial">1.25 p.m. - 2.00 p.m.</span></td>
+    <td class="tg-vd2a"><span style="background-color:initial">7.00 a.m. - 7.30 a.m.</span><br><span style="background-color:initial">1.30 p.m. - 1.45 p.m.</span></td>
   </tr>
 </tbody>
 </table>
