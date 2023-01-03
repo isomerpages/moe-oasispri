@@ -24,7 +24,7 @@ third_nav_title: School Life
 </thead>
 <tbody>
   <tr>
-    <td class="tg-67ya">Monday, Tuesday, Thursday, Friday<br></td>
+    <td class="tg-67ya">Monday, Tuesday, Thursday & Friday<br></td>
     <td class="tg-67ya">7.30 a.m. - 1.30 p.m.<br></td>
   </tr>
 	<tr>
@@ -32,13 +32,11 @@ third_nav_title: School Life
     <td class="tg-67ya">7.30 a.m. - 1.00 p.m.<br></td>
   </tr>
   <tr>
-    <td class="tg-67ya">Tuesday (CCA)<br></td>
+    <td class="tg-67ya">Tuesday & Friday (CCA)<br></td>
     <td class="tg-67ya">2.00 p.m. - 4.00 p.m.<br></td>
   </tr>
   <tr>
-    <td class="tg-67ya">Friday (CCA)</td>
-    <td class="tg-67ya">2.00 p.m. - 4.00 p.m.</td>
-  </tr>
+    </tr>
 </tbody>
 </table>
 
