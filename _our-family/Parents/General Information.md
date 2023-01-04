@@ -183,13 +183,13 @@ Yes, YMCA is the appointed school-based Student Care Centre for the school. To f
 <thead>
   <tr>
     <th class="tg-67ya">School Term<br></th>
-    <th class="tg-67ya">1.30 p.m. – 7.00 p.m.<br></th>
+    <th class="tg-67ya">1.30 p.m. - 7.00 p.m.<br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-67ya">School Holidays<br></td>
-    <td class="tg-67ya">7.30 a.m. – 7.00 p.m.</td>
+    <td class="tg-67ya">7.30 a.m. - 7.00 p.m.</td>
   </tr>
 </tbody>
 </table>
