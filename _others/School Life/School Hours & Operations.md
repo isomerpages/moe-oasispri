@@ -56,8 +56,8 @@ third_nav_title: School Life
   <tr>
     <th class="tg-h1v5">School Gates<br></th>
     <th class="tg-h1v5">Vehicle Access<br></th>
-		<th class="tg-h1v5">Pedestrian Access (Mon, Tues, Thurs & Fri)<br></th>
-		<th class="tg-h1v5">Pedestrian Access (Wed)<br></th>
+		<th class="tg-h1v5">Pedestrian Access (Monday, Tuesday, Thursday & Friday)<br></th>
+		<th class="tg-h1v5">Pedestrian Access (Wednesday)<br></th>
   </tr>
 </thead>
 <tbody>
