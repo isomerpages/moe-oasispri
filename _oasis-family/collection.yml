@@ -1,5 +1,5 @@
 collections:
-  our-family:
+  oasis-family:
     output: true
     order:
       - School Leaders.md
