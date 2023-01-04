@@ -68,7 +68,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-0ynh">1 Resilience</td>
-    <td class="tg-0ynh">Mrs Jaslyn Seah<br></td>
+    <td class="tg-0ynh">Mrs Jaslyn Heng<br></td>
     <td class="tg-0ynh">Mrs Anastasia Chan</td>
 	</tr>
   </tbody>
