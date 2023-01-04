@@ -4,7 +4,7 @@ permalink: /ops/info-hub/school-life/school-terms-n-holidays/
 description: ""
 third_nav_title: School Life
 ---
-### School Calendar 2023
+### School Calendar
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -44,7 +44,7 @@ third_nav_title: School Life
 </tbody>
 </table>
 
-### School Vacation 2023
+### School Vacation
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -84,7 +84,7 @@ third_nav_title: School Life
 </tbody>
 </table>
 
-### Scheduled School Holidays 2023
+### Scheduled School Holidays
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -123,7 +123,7 @@ third_nav_title: School Life
 </tbody>
 </table>
 
-### Public Holidays 2023
+### Public Holidays
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
