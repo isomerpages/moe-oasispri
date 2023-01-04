@@ -21,13 +21,13 @@ third_nav_title: Parents
 <thead>
   <tr>
     <th class="tg-67ya">School Term<br></th>
-    <th class="tg-vd2a"><span style="background-color:initial">7.00 a.m. – 5.30 p.m. (Monday to Thursday)</span><br><span style="background-color:initial">7.00 a.m. – 5.00 p.m. (Friday)</span></th>
+    <th class="tg-vd2a"><span style="background-color:initial">7.00 a.m. - 5.30 p.m. (Monday to Thursday)</span><br><span style="background-color:initial">7.00 a.m. - 5.00 p.m. (Friday)</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-67ya">School Holidays<br></td>
-    <td class="tg-67ya">8 a.m. – 5 p.m. during weekdays<br></td>
+    <td class="tg-67ya">8 a.m. - 5 p.m. during weekdays<br></td>
   </tr>
   <tr>
     <td class="tg-67ya" colspan="2">General Office is closed on Saturdays, Sundays and Public Holidays.<br></td>
@@ -48,18 +48,18 @@ third_nav_title: Parents
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-67ya">Monday to Friday<br></th>
-    <th class="tg-67ya">7.45 a.m. – 1.30 p.m.<br></th>
+    <th class="tg-67ya">Monday - Friday<br>(except Wednesday)<br></th>
+    <th class="tg-67ya">7.30 a.m. - 1.30 p.m.<br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-67ya">Tuesday (CCA)<br></td>
-    <td class="tg-67ya">2.00 p.m. – 4.00 p.m.<br></td>
+    <td class="tg-67ya">Wednesday<br></td>
+    <td class="tg-67ya">7.30 a.m. - 1.00 p.m.<br></td>
   </tr>
   <tr>
-    <td class="tg-67ya">Friday (CCA)</td>
-    <td class="tg-67ya">2.00 p.m. – 4.00 p.m.</td>
+    <td class="tg-67ya">Tuesday & Friday (CCA)</td>
+    <td class="tg-67ya">2.00 p.m. - 4.00 p.m.</td>
   </tr>
 </tbody>
 </table>
