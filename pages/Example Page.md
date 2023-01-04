@@ -40,10 +40,14 @@ description: ""
   <tr>
     <td class="tg-67ya">Gate 2 @ Edgefield Plains<br></td>
     <td class="tg-67ya">N.A.<br></td>
+		<td class="tg-67ya">7.00 a.m. - 7.30 a.m.<br>1.30 p.m. - 1.45 p.m.<br></td>
+		<td class="tg-67ya">7.00 a.m. - 7.30 a.m.<br>1.00 p.m. - 1.15 p.m.</td>
   </tr>
   <tr>
 		 <td class="tg-67ya">Gate 4 @ Punggol Drive<br></td>
     <td class="tg-67ya">N.A.<br></td>
+		<td class="tg-67ya">7.00 a.m. - 7.30 a.m.<br>1.30 p.m. - 1.45 p.m.<br></td>
+		<td class="tg-67ya">7.00 a.m. - 7.30 a.m.<br>1.00 p.m. - 1.15 p.m. <br></td>
     </tr>
 </tbody>
 </table>
