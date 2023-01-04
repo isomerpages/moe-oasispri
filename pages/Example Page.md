@@ -3,8 +3,7 @@ title: Example Page
 permalink: /Example-Page/
 description: ""
 ---
-
-
+### School Gates Opening Hours
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
