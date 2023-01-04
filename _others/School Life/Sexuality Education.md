@@ -68,16 +68,20 @@ b.       Character and Citizenship Education (CCE)
   <tr>
     <td class="tg-7rn4" rowspan="4">Growing Years<br></td>
     <td class="tg-7rn4">The Changes in Me<br>(60 min)<br></td>
-    <td class="tg-vd2a">know what puberty is<br>identify the physical changes during puberty</td>
-    <td class="tg-7rn4" rowspan="4">Term 1<br>Week 7<br>to<br>Week 10<br></td>
+    <td class="tg-vd2a">This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty.<br><br>
+This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
+		<td class="tg-7rn4">Term 2<br>Week 2<br></td>
   </tr>
   <tr>
     <td class="tg-7rn4">Did You Know?<br>(60 min)<br></td>
-    <td class="tg-vd2a">identify the stresses caused by physical and emotional changes during puberty<br>describe healthy ways to manage the stresses caused by physical and emotional changes during puberty<br>describe the emotions caused by physical changes during puberty<br>recognise that one’s identity does not change even when one’s body is experiencing change due to puberty</td>
+    <td class="tg-vd2a">This lesson focuese on helping students know what pronography is and how it can affect themselves and others. Students will learn about the dangers of being exposted to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy '**Stop-Think-Do**'.<br><br>
+			entify the stresses caused by physical and emotional changes during puberty<br>describe healthy ways to manage the stresses caused by physical and emotional changes during puberty<br>describe the emotions caused by physical changes during puberty<br>recognise that one’s identity does not change even when one’s body is experiencing change due to puberty</td>
+		<td class="tg-7rn4">Term 2<br>Week 4<br></td>
   </tr>
   <tr>
     <td class="tg-7rn4">Keeping Myself Safe<br>(60 min)<br></td>
     <td class="tg-vd2a">identify the stresses caused by physical and emotional changes during puberty<br>describe healthy ways to manage the stresses caused by these physical and emotional changes during puberty<br>describe the emotions caused by physical changes during puberty<br>recognise that one’s identity does not change even when one’s body is experiencing change due to puberty</td>
+		<td class="tg-7rn4">Term 2<br>Week 2<br></td>
   </tr>
   <tr>
     <td class="tg-7rn4">Main Task<br>(30 min)<br></td>
