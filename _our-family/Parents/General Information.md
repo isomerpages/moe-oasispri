@@ -81,26 +81,26 @@ All students should report to school by 7.30 a.m. for flag raising ceremony.
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-67ya">Primary 1<br></th>
-    <th class="tg-67ya">11.00 a.m. – 11.30 a.m.<br></th>
+    <th class="tg-67ya">Primary 1 & Primary 4<br></th>
+    <th class="tg-67ya">9.00 a.m. - 9.30 a.m.<br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-67ya">Primary 2<br></td>
-    <td class="tg-67ya">11.30 a.m. – 12.00 p.m.<br></td>
+    <td class="tg-67ya">Primary 2 & Primary 3<br></td>
+    <td class="tg-67ya">9.30 a.m. - 10.00 a.m.<br></td>
   </tr>
   <tr>
-    <td class="tg-67ya">Primary 3</td>
-    <td class="tg-67ya">9.00 a.m. – 9.30 a.m.</td>
-  </tr>
-  <tr>
-    <td class="tg-67ya">Primary 4</td>
-    <td class="tg-67ya">9.30 a.m. – 10.00 a.m.</td>
-  </tr>
-  <tr>
-    <td class="tg-67ya">Primary 5 &amp; 6</td>
+    <td class="tg-67ya">Primary 6</td>
     <td class="tg-67ya">10.00 a.m. - 10.30 a.m.</td>
+  </tr>
+  <tr>
+    <td class="tg-67ya">Primary 5</td>
+    <td class="tg-67ya">10.30 a.m. - 11.00 a.m.</td>
+  </tr>
+  <tr>
+    <td class="tg-67ya"></td>
+    <td class="tg-67ya"></td>
   </tr>
 </tbody>
 </table>
