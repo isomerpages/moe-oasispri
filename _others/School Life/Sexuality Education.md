@@ -45,6 +45,8 @@ b.       Character and Citizenship Education (CCE)
 ### Sexuality Education Lessons
 **At Oasis Primary School, the following Sexuality Education lessons will be taught in 2023:**
 
+##### **2023 Sexuality Education Lessons in CCE 2021**
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -80,35 +82,11 @@ This lesson is conducted separately for boys and girls in different classrooms, 
   </tr>
   <tr>
     <td class="tg-7rn4">Keeping Myself Safe<br>(60 min)<br></td>
-    <td class="tg-vd2a">identify the stresses caused by physical and emotional changes during puberty<br>describe healthy ways to manage the stresses caused by these physical and emotional changes during puberty<br>describe the emotions caused by physical changes during puberty<br>recognise that one’s identity does not change even when one’s body is experiencing change due to puberty</td>
-		<td class="tg-7rn4">Term 2<br>Week 2<br></td>
+    <td class="tg-vd2a">In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.<br><br>
+This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
+		<td class="tg-7rn4">Term 2<br>Week 5<br></td>
   </tr>
   <tr>
-    <td class="tg-7rn4">Main Task<br>(30 min)<br></td>
-    <td class="tg-vd2a"><span style="background-color:initial">Description of the Main Task:</span><br><span style="background-color:initial">Pupils are to play the role of an Uncle/Aunt Agony to help a peer address his/her experiences during puberty. They will consider the situation from the point of view of the peer and share ways to help him/her cope with the changes he/she is going through.</span></td>
-  </tr>
-  <tr>
-    <td class="tg-7rn4" rowspan="2">How Do I Keep Myself Safe?<br></td>
-    <td class="tg-7rn4">What is Safety?<br>(30 min)<br></td>
-    <td class="tg-vd2a">know what sexual abuse is<br>know that there are laws in Singapore that can protect them from sexual abuse<br>know their rights in keeping themselves safe from sexual abuse</td>
-    <td class="tg-7rn4">Term 3<br>Week 8<br></td>
-  </tr>
-  <tr>
-    <td class="tg-7rn4">Stop It! Run! Tell!<br>(30 min)<br></td>
-    <td class="tg-vd2a">protect themselves by resisting, removing themselves from harm and seeking help from a trusted adult<br>know their responsibilities in minimising the risk of sexual harm</td>
-    <td class="tg-7rn4">Term 3<br>Week 9<br></td>
-  </tr>
-  <tr>
-    <td class="tg-7rn4">Where I Belong<br></td>
-    <td class="tg-7rn4">What Are Families?<br>(30 min)<br></td>
-    <td class="tg-vd2a">know that there are different types of family structures<br>know that every family is unique<br>state that the three basic functions of families are to provide love, protection and guidance<br>identify the right sources of help to turn to when in need</td>
-    <td class="tg-7rn4" rowspan="2">Term 4<br>Week 6<br></td>
-  </tr>
-  <tr>
-    <td class="tg-7rn4">Where I Belong<br></td>
-    <td class="tg-7rn4">What is My Role?<br>(30 min)<br></td>
-    <td class="tg-vd2a">know that gender is about being male or female<br>choose not to stereotype by gender</td>
-  </tr>
 </tbody>
 </table>
 
