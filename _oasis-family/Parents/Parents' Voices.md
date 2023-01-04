@@ -9,7 +9,7 @@ third_nav_title: Parents
      style="width:100%">
 <figcaption> <strong> Salinah Binte Kasmadi</strong> </figcaption>
 </figure>
-<p>We are glad that we have chosen Oasis Primary School for our kids.The introduction of their school values & 7 Habits is a great way of building a strong foundation for our children.  Keep up the good work in preparing my kids and others for their future.</p>
+<p>We are glad that we have chosen Oasis Primary School for our kids. The introduction of their school values & 7 Habits is a great way of building a strong foundation for our children.  Keep up the good work in preparing my kids and others for their future.</p>
 		 
 <figure>
 <img src="/images/02%20Anna%20Koh.jpg" 
@@ -17,14 +17,14 @@ third_nav_title: Parents
 <figcaption> <strong> Koh Shiang Phing, Anna</strong> </figcaption>
 </figure>
 <p>Initially, I thought that Oasis Pri Sch is just a neighbourhood school but I start to realize it is more than that. I am a PV so I am able to have opportunities to work with teachers and the school. I discovered their passion, care, thoughtfulness, and hard work to help every child.  
-All my 3 children are very happy with the school.They love all their teachers and are always looking forward to go back to school after the holidays. Thumbs up for Oasis Pri Sch!</p>
+All my 3 children are very happy with the school. They love all their teachers and are always looking forward to go back to school after the holidays. Thumbs up for Oasis Pri Sch!</p>
 
 <figure>
 <img src="/images/07%20Susan%20Ng.jpg" 
      style="width:100%">
 <figcaption> <strong> Susan Ng Siew Gek</strong> </figcaption>
 </figure>
-<p>Both my boys enjoy school and had wonderful teachers who have been caring and loving throughout their school journey.My boys, who are in P6 and P4 this year, are excited to learn more as their teachers use fun and motivational teaching methods.I am always happy when they come home sharing what they have learnt in school.Thank you Oasis Primary School for nurturing and developing both my boys during their formative primary school years.</p>
+<p>Both my boys enjoy school and had wonderful teachers who have been caring and loving throughout their school journey. My boys, who are in P6 and P4 this year, are excited to learn more as their teachers use fun and motivational teaching methods. I am always happy when they come home sharing what they have learnt in school. Thank you Oasis Primary School for nurturing and developing both my boys during their formative primary school years.</p>
 
 <figure>
 <img src="/images/04%20Celsa.jpg" 
@@ -47,7 +47,7 @@ Lastly, I would like to thank and show my deepest appreciation to the Principal 
 </figure>
 <p>The dedication of the teachers in Oasis Primary School never fails to amaze me. They always go the extra mile to help the students to ensure that they never fall behind in their school works especially during CB and HBL periods.<br>
 
-This year my son will be taking his PSLE and I was pleasantly surprised when his Science teacher, Ms Tan Lina has even created a microsite to consolidate all the learning materials, extra exercises, and videos for the kids in her classes. This takes a lot of effort, time, and most importantly, the dedication, care, and lovingkindness of the teacher to support the students. The other teachers have in one way or another taken the extra efforts in teaching and coaching the students building up their resilience and determination to overcome PSLE challenges.<br>
+This year my son will be taking his PSLE and I was pleasantly surprised when his Science teacher, Ms Tan Li Na has even created a microsite to consolidate all the learning materials, extra exercises, and videos for the kids in her classes. This takes a lot of effort, time, and most importantly, the dedication, care, and loving kindness of the teacher to support the students. The other teachers have in one way or another taken the extra efforts in teaching and coaching the students building up their resilience and determination to overcome PSLE challenges.<br>
 
 They have gone the extra miles to communicate with the parents on lessons and class activities. We are very thankful and appreciate these "little gestures" as it might seem but these little gestures have given us the assurance that our son is in the good hands of all the teachers teaching him. We appreciate the teachers of Oasis and their dedication!!</p>
 
@@ -63,14 +63,14 @@ They have gone the extra miles to communicate with the parents on lessons and cl
      style="width:100%">
 <figcaption> <strong>Melanie Nyam</strong> </figcaption>
 </figure>
-<p>Aiden has been attending school at the Oasis Primary School for more than 2 years now.He has been very blessed to have wonderful teachers especially his form teacher, Mrs Mey Asher See.When he was on SHN, she compiled his work so that he would be able to catch up on his studies.Going beyond her teaching responsibilities, she almost bought Aiden his favourite chicken rice which he was eyeing during his recess break! Aiden always speaks fondly of all his teachers and had told me that there is no other school he would like to go to than OPS!</p>
+<p>Aiden has been attending school at the Oasis Primary School for more than 2 years now. He has been very blessed to have wonderful teachers especially his form teacher, Mrs Mey Asher See.When he was on SHN, she compiled his work so that he would be able to catch up on his studies.Going beyond her teaching responsibilities, she almost bought Aiden his favourite chicken rice which he was eyeing during his recess break! Aiden always speaks fondly of all his teachers and had told me that there is no other school he would like to go to than OPS!</p>
 
 <figure>
 <img src="/images/08%20Siti%20Jamburi.jpg" 
      style="width:100%">
 <figcaption> <strong>Siti Munah Jamburi</strong> </figcaption>
 </figure>
-<p>The teachers are friendly and responsive, and we receive a lot information either through the Parents Gateway or Student Handbook. The collaboration between teachers and parents is strong and we are updated regularly, especially those in the Parent Support Group (PSG). I am glad to volunteer in the PSG and i look forward to be involved again when the opportunity arises!</p>
+<p>The teachers are friendly and responsive, and we receive a lot information either through the Parents Gateway or Student Handbook. The collaboration between teachers and parents is strong and we are updated regularly, especially those in the Parent Support Group (PSG). I am glad to volunteer in the PSG and I look forward to be involved again when the opportunity arises!</p>
 
 <figure>
 <img src="/images/09%20Lew%20Pei%20Lin.jpg" 
@@ -79,7 +79,7 @@ They have gone the extra miles to communicate with the parents on lessons and cl
 </figure>
 <p>Dear School Management Team and Teachers, we are very blessed that Si En enrolled into a school that focuses on character building and at the same time nurturing in her a keen-to-learn attitude.<br>
 	
-The sunshine environment in Oasis Primary really helps to boost my child to strive for her best in many ways. In her two years in school, we had observed her growth and we are especially grateful to Miss Chew of 2019/2020 (P1 and 2Harmony) for her love and patience for the children. She helped to build a good foundation on them.<br>
+The sunshine environment in Oasis Primary really helps to boost my child to strive for her best in many ways. In her two years in school, we had observed her growth and we are especially grateful to Miss Chew of 2019/2020 (P1 and 2 Harmony) for her love and patience for the children. She helped to build a good foundation on them.<br>
 
 Looking forward to many more fruitful years at Oasis Primary School.</p>
    
@@ -110,7 +110,7 @@ Apart from the well structured curriculum that lets him transit from Preschool t
      style="width:100%">
 <figcaption> <strong>Debashis Aloknath Ghosh</strong> </figcaption>
 </figure>
-<p>My son started his primary education in Oasis Primary school in 2019. He adjusted well to his classmates and he took a fond liking to his teachers. The teachers have been extremely attentive to the needs of the children under their tutelage. Now in his 3rd year in OPS, my son enjoys attending school each day. I find that he is able to understand and enjoy subjects like English and Mathematics by following the instructions of his teachers in school and revising what he has learnt at home.The school premises are clean.  <br>
+<p>My son started his primary education in Oasis Primary school in 2019. He adjusted well to his classmates and he took a fond liking to his teachers. The teachers have been extremely attentive to the needs of the children under their tutelage. Now in his 3rd year in OPS, my son enjoys attending school each day. I find that he is able to understand and enjoy subjects like English and Mathematics by following the instructions of his teachers in school and revising what he has learnt at home. The school premises are clean.  <br>
 
 The form teacher and other subject teachers update my child's learning progress to me frequently.  <br>
 
