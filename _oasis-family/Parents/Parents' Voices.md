@@ -17,7 +17,7 @@ third_nav_title: Parents
 <figcaption> <strong> Koh Shiang Phing, Anna</strong> </figcaption>
 </figure>
 <p>Initially, I thought that Oasis Pri Sch is just a neighbourhood school but I start to realize it is more than that. I am a PV so I am able to have opportunities to work with teachers and the school. I discovered their passion, care, thoughtfulness, and hard work to help every child.  
-All my 3 children are very happy with the school.They love all their teachers and are always looking forward to go back to school after the holidays.Thumbs up for Oasis Pri Sch!</p>
+All my 3 children are very happy with the school.They love all their teachers and are always looking forward to go back to school after the holidays. Thumbs up for Oasis Pri Sch!</p>
 
 <figure>
 <img src="/images/07%20Susan%20Ng.jpg" 
