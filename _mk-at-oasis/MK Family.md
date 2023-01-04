@@ -37,63 +37,63 @@ description: ""
     <td class="tg-1d14">Ms Tan Shuying Diane</td>
   </tr>
   <tr>
-    <td class="tg-dv6r">Teacher<br></td>
+    <td class="tg-dv6r">Teacher (EL)<br></td>
     <td class="tg-j74v">Ms Amanda Poh Hui En<br></td>
   </tr>
   <tr>
-    <td class="tg-8com">Teacher</td>
+    <td class="tg-8com">Teacher (CL)</td>
     <td class="tg-1d14">Ms Fang Fang</td>
   </tr>
   <tr>
-    <td class="tg-dv6r">Teacher</td>
+    <td class="tg-dv6r">Teacher (ML)</td>
     <td class="tg-j74v">Ms Iryannie Binte Zulkifli</td>
   </tr>
   <tr>
-    <td class="tg-8com">Teacher<br></td>
+    <td class="tg-8com">Teacher (EL)<br></td>
     <td class="tg-1d14">Ms Lek Sze Hui Davina<br></td>
   </tr>
   <tr>
-    <td class="tg-dv6r">Teacher</td>
+    <td class="tg-dv6r">Teacher (CL)</td>
     <td class="tg-j74v">Ms Meng Xue</td>
   </tr>
   <tr>
-    <td class="tg-8com">Teacher</td>
+    <td class="tg-8com">Teacher (EL)</td>
     <td class="tg-1d14">Ms Nur Syaza Binte Azman</td>
   </tr>
   <tr>
-    <td class="tg-dv6r">Teacher</td>
+    <td class="tg-dv6r">Teacher (CL)</td>
     <td class="tg-j74v">Ms Ong Sze Sze</td>
   </tr>
   <tr>
-    <td class="tg-8com">Teacher<br></td>
+    <td class="tg-8com">Teacher (EL)<br></td>
     <td class="tg-1d14">Ms Sabrinah Binte Rahim</td>
   </tr>
   <tr>
-    <td class="tg-dv6r">Teacher</td>
+    <td class="tg-dv6r">Teacher (ML)</td>
     <td class="tg-j74v">Ms Salina Binte Abdul Samat</td>
   </tr>
   <tr>
-    <td class="tg-8com">Teacher</td>
+    <td class="tg-8com">Teacher (TL)</td>
     <td class="tg-1d14">Ms Shirajunnisha<span style="background-color:#F1F6E4"> </span>Khan</td>
   </tr>
   <tr>
-    <td class="tg-dv6r">Teacher<br></td>
+    <td class="tg-dv6r">Teacher (EL)<br></td>
     <td class="tg-j74v">Ms Siti Nurarffah Binte Mohd Razali</td>
 	</tr>
   <tr>
-    <td class="tg-8com">Teacher</td>
+    <td class="tg-8com">Teacher (EL)</td>
     <td class="tg-1d14">Ms Soh En Qi  Annestha</td>
   </tr>
   <tr>
-    <td class="tg-dv6r">Teacher<br></td>
+    <td class="tg-dv6r">Teacher (CL)<br></td>
     <td class="tg-j74v">Ms Song Lili</td>
 	</tr>
   <tr>
-    <td class="tg-8com">Teacher</td>
+    <td class="tg-8com">Teacher (EL)</td>
     <td class="tg-1d14">Ms Suhailah Fauzi Abdat</td>
   </tr>
   <tr>
-    <td class="tg-dv6r">Teacher<br></td>
+    <td class="tg-dv6r">Teacher (EL)<br></td>
     <td class="tg-j74v">Ms Tan Li Fang Shirleen</td>
 	</tr>
   <tr>
