@@ -99,8 +99,8 @@ All students should report to school by 7.30 a.m. for flag raising ceremony.
     <td class="tg-67ya">10.30 a.m. - 11.00 a.m.</td>
   </tr>
   <tr>
-    <td class="tg-67ya"></td>
-    <td class="tg-67ya"></td>
+    <td class="tg-67ya">Snack Break</td>
+    <td class="tg-67ya">12.00 p.m.</td>
   </tr>
 </tbody>
 </table>
