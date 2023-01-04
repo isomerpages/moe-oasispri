@@ -16,7 +16,7 @@ third_nav_title: School Life
 
 (c) To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of positive mainstream values and attitudes about sexuality.
 
-### The key messages of Sexuality Education are:
+### The Key Messages of Sexuality Education are:
 
 *   Love and respect yourself as you love and respect others;
 
