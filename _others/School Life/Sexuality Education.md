@@ -124,11 +124,9 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 		<td class="tg-7rn4">Term 1<br>Week 5<br></td>
   </tr>
   <tr>
-    <td class="tg-syfz" rowspan="5">Term 1<br>Week 3<br>to<br>Week 5<br></td>
-  </tr>
-  <tr>
-    <td class="tg-syfz">Am I A Good Friend?<br>(30 min)<br></td>
-    <td class="tg-y24x">identify the qualities that they have as a friend<br>recognise the importance of developing in oneself the qualities of a good friend</td>
+    <td class="tg-syfz">Are We More than Friends?<br>Lesson 2<br>(60 min)<br></td>
+    <td class="tg-y24x">In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other.</td>
+		<td class="tg-7rn4">Term 1<br>Week 6<br></td>
   </tr>
   <tr>
     <td class="tg-syfz">What is Love?<br>(30 min)<br></td>
