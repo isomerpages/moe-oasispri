@@ -110,17 +110,20 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-amwm">UNIT<br></th>
-    <th class="tg-amwm">LESSONS / DURATION<br></th>
-    <th class="tg-amwm">Lesson Objectives<br>At the end of the lesson, pupils will be able to:<br></th>
+    <th class="tg-amwm">CCE(FTGP) THEME<br></th>
+    <th class="tg-amwm">LESSON TITLE / DURATION<br></th>
+    <th class="tg-amwm">LESSON OVERVIEW<br></th>
     <th class="tg-amwm">TIME PERIOD<br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-syfz" rowspan="5">Are We More Than Friends?<br></td>
-    <td class="tg-syfz">Who Are My Friends?<br>(30 min)<br></td>
-    <td class="tg-y24x">identify the qualities of a healthy friendship<br>recognise the importance of making wise choices in friendship</td>
+    <td class="tg-syfz" rowspan="5">Growing Years<br></td>
+    <td class="tg-syfz">Are We More than Friends?<br>Lesson 1<br>(60 min)<br></td>
+    <td class="tg-y24x">In this lesson, students will learn to distinguish between the characteristics of love and infatuation and identify the strong emotions that may arise from experiencing the feelings of infatuation. They will recognise that experiencing feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends.<br></td>
+		<td class="tg-7rn4">Term 1<br>Week 5<br></td>
+  </tr>
+  <tr>
     <td class="tg-syfz" rowspan="5">Term 1<br>Week 3<br>to<br>Week 5<br></td>
   </tr>
   <tr>
