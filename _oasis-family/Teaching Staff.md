@@ -388,23 +388,23 @@ description: ""
   </tr>
   <tr>
     <td class="tg-0ynh">6 Harmony<br></td>
-    <td class="tg-0ynh">Desmond Lim</td>
-    <td class="tg-0ynh">Melissa Chin</td>
+    <td class="tg-0ynh">Mr Desmond Lim</td>
+    <td class="tg-0ynh">Mrs Melissa Chin</td>
   </tr>
   <tr>
     <td class="tg-7vye">6 Integrity<br></td>
-    <td class="tg-7vye">Norhazlinda</td>
-    <td class="tg-7vye">Alan Mui</td>
+    <td class="tg-7vye">Mrs Norhazlinda Sham</td>
+    <td class="tg-7vye">Mr Alan Mui</td>
   </tr>
   <tr>
     <td class="tg-0ynh">6 Loyalty<br></td>
-    <td class="tg-0ynh">Chan Yong Yan</td>
-    <td class="tg-0ynh">Ho Huan Xin<br></td>
+    <td class="tg-0ynh">Mr Chan Yongyan</td>
+    <td class="tg-0ynh">Mdm Ho Huan Xin<br></td>
   </tr>
   <tr>
     <td class="tg-7vye">6 Resilience<br></td>
-    <td class="tg-7vye">Yeo Yungsen<br></td>
-    <td class="tg-7vye">Yim Wai Peng</td>
+    <td class="tg-7vye">Mr Yeo Yung Sen<br></td>
+    <td class="tg-7vye">Ms Yim Wai Peng</td>
   </tr>
 </tbody>
 </table>
