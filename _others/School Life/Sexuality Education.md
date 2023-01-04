@@ -44,7 +44,7 @@ b.       Character and Citizenship Education (CCE)
 
 <img src="/images/MOE-Logo.jpg" 
      style="width:30%">
-##### **2023 Sexuality Education Lessons in CCE 2021**<br> **Primary 5**
+##### **2023 Sexuality Education Lessons in CCE 2021**<br>**Primary 5**
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -91,7 +91,10 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 ### Sexuality Education Lessons
 **At Oasis Primary School, the following Sexuality Education lessons will be taught in 2023:**
 
-##### **2023 Sexuality Education Lessons in CCE 2021**
+<img src="/images/MOE-Logo.jpg" 
+     style="width:30%">
+		 
+##### **2023 Sexuality Education Lessons in CCE 2021**<br>**Primary 6**
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
