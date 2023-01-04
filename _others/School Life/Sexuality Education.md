@@ -75,7 +75,7 @@ This lesson is conducted separately for boys and girls in different classrooms, 
   </tr>
   <tr>
     <td class="tg-7rn4">Did You Know?<br>(60 min)<br></td>
-    <td class="tg-vd2a">This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy '**Stop-Think-Do**'.<br><br>
+    <td class="tg-vd2a">This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy '**Stop-Think-Do'.**<br><br>
 This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
 		<td class="tg-7rn4">Term 2<br>Week 4<br></td>
   </tr>
@@ -129,33 +129,12 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 		<td class="tg-7rn4">Term 1<br>Week 6<br></td>
   </tr>
   <tr>
-    <td class="tg-syfz">What is Love?<br>(30 min)<br></td>
-    <td class="tg-y24x">identify the characteristics of love and infatuation<br>distinguish between the characteristics of love versus infatuation<br>identify strong feelings arising from infatuation</td>
-  </tr>
+    <td class="tg-syfz">Did You Know? *<br>(60 min)<br></td>
+    <td class="tg-y24x">This lesson focuses on helping students to know what pornography is and how it can affect themselves and others. Students will learn the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘**Stop-Think-Do'.**<br><br>
+This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
+  <td class="tg-7rn4">Term 1<br>Week 9<br></td>
+	</tr>
   <tr>
-    <td class="tg-syfz">Am I Falling In Love?<br>(30 min)<br></td>
-    <td class="tg-y24x">manage strong feelings arising from infatuation<br>identify ways to manage and cope with teasing from peers</td>
-  </tr>
-  <tr>
-    <td class="tg-syfz">Main Task<br>(30 min)<br></td>
-    <td class="tg-y24x"><span style="background-color:initial">Description of the Main Task:</span><br><span style="background-color:initial">Pupils are to play the role of a game designer who wants to create a board game to help pupils of their age learn more about the Big Idea of Relationships, specifically on family, friendships, love and infatuation. </span><br><span style="background-color:initial">They will consider the issues that their peers would face and craft questions and answers that they believe their peers would benefit most from knowing.</span></td>
-  </tr>
-  <tr>
-    <td class="tg-syfz" rowspan="3">Friends or Foes?<br></td>
-    <td class="tg-syfz">Are You Really My Friend?<br>(30 min)<br></td>
-    <td class="tg-y24x">identify the pros and cons of forming relationships through social networking websites<br>know ways to keep themselves safe when using social networking websites</td>
-    <td class="tg-syfz">Term 2 <br>Week 3<br></td>
-  </tr>
-  <tr>
-    <td class="tg-syfz">Is It All Safe?<br>(30 min)<br></td>
-    <td class="tg-y24x">know that some information (like pornography) received through the Internet may be harmful<br>know ways to keep themselves safe when using social networking websites or the Internet</td>
-    <td class="tg-syfz">Term 2<br>Week 4<br></td>
-  </tr>
-  <tr>
-    <td class="tg-syfz">Main Task<br>(30 min)<br></td>
-    <td class="tg-y24x"><span style="background-color:initial">Description of the Main Task:</span><br><span style="background-color:initial">Pupils are to apply their understanding of Safety in a variety of scenarios where the main character could be in a precarious situation. </span><br><span style="background-color:initial">They will consider the situation from the point of view of the main character, discuss what they think and feel about the situation and what they will do or say to ensure their safety. </span><br><span style="background-color:initial">These scenarios will provide pupils with the opportunity to demonstrate their understanding of Safety and that safety is a right and a responsibility.</span></td>
-    <td class="tg-0lax"></td>
-  </tr>
 </tbody>
 </table>
 
