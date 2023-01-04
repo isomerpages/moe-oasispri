@@ -74,8 +74,8 @@ This lesson is conducted separately for boys and girls in different classrooms, 
   </tr>
   <tr>
     <td class="tg-7rn4">Did You Know?<br>(60 min)<br></td>
-    <td class="tg-vd2a">This lesson focuese on helping students know what pronography is and how it can affect themselves and others. Students will learn about the dangers of being exposted to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy '**Stop-Think-Do**'.<br><br>
-			entify the stresses caused by physical and emotional changes during puberty<br>describe healthy ways to manage the stresses caused by physical and emotional changes during puberty<br>describe the emotions caused by physical changes during puberty<br>recognise that one’s identity does not change even when one’s body is experiencing change due to puberty</td>
+    <td class="tg-vd2a">This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy '**Stop-Think-Do**'.<br><br>
+This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
 		<td class="tg-7rn4">Term 2<br>Week 4<br></td>
   </tr>
   <tr>
