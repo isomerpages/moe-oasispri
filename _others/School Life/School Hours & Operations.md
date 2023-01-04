@@ -4,7 +4,7 @@ permalink: /ops/info-hub/school-life/school-hours-n-operations/
 description: ""
 third_nav_title: School Life
 ---
-### School Hours 2023
+### School Hours
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
