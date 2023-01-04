@@ -373,18 +373,18 @@ description: ""
   </tr>
   <tr>
     <td class="tg-7vye">6 Care<br></td>
-    <td class="tg-7vye">Yap Shu Hui<br></td>
-    <td class="tg-7vye">Christopher Cheng, Lee Kai Sin</td>
+    <td class="tg-7vye">Mdm Yap Shu Hui<br></td>
+    <td class="tg-7vye">Mr Christopher Cheng<br>Ms Lee Kai Sin</td>
   </tr>
   <tr>
     <td class="tg-0ynh">6 Diligence<br></td>
-    <td class="tg-0ynh">Alan Tai<br></td>
-    <td class="tg-0ynh">Hamzah</td>
+    <td class="tg-0ynh">Mrs Alan Yeo<br></td>
+    <td class="tg-0ynh">Mr Hamzah</td>
   </tr>
   <tr>
     <td class="tg-7vye">6 Empathy<br></td>
-    <td class="tg-7vye">Elwirandi Tan</td>
-    <td class="tg-7vye">Nur Faizah, Jonathan Boey</td>
+    <td class="tg-7vye">Mr Elwirandi Tan</td>
+    <td class="tg-7vye">Mr Jonathan Boey<br>Ms Faizah</td>
   </tr>
   <tr>
     <td class="tg-0ynh">6 Harmony<br></td>
