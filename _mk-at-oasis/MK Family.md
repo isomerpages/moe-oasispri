@@ -12,9 +12,9 @@ description: ""
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-dv6r{background-color:#F1F6E4;color:#2F5597;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-j74v{background-color:#F1F6E4;color:#002D46;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-j74v{background-color:#F1F6E4;color:#002D46;font-weight:normal;text-align:left;vertical-align:top}
 .tg .tg-8com{background-color:#FFF8F7;color:#2F5597;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-1d14{background-color:#FFF8F7;color:#002D46;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-1d14{background-color:#FFF8F7;color:#002D46;font-weight:normal;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
