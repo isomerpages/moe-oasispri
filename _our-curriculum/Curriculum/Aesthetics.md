@@ -32,7 +32,7 @@ To be able to initiate, connect and serve in communities within and beyond schoo
 
 ![](/images/purpose.png)
 
-**1.HOLISTIC ARTS APPROACH THROUGH CCC**
+**1. HOLISTIC ARTS APPROACH THROUGH CCC**
 
 Pursue a holistic learning approach that incorporates 3 artistic processes in all arts programmes – namely, Connecting, Creating & Communicating.
 
@@ -56,7 +56,7 @@ Pursue a holistic learning approach that incorporates 3 artistic processes in al
 </thead>
 </table>
 
-**2.ARTS EDUCATION TALENT PROGRESSION**
+**2. ARTS EDUCATION TALENT PROGRESSION**
 
 Adopt a whole-school Arts Education approach in Visual Art, Music, Dance & Drama, through curricular, co-curricular and special programmes. Below is the Arts Education Talent Progression to provide arts opportunities for all and for some developing passion and mastery in an arts domain.
 
