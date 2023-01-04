@@ -18,12 +18,9 @@ c) To help students develop a moral compass, respect for themselves and for othe
 
 ### 3. The Key Messages of Sexuality Education are:
 
-(a) Love and respect yourself as you love and respect others;
-
-(b) Build positive relationships based on love and respect (which are the foundation for strong families);
-
-(c) Make responsible decisions for yourself, your family and society; and
-
+(a) Love and respect yourself as you love and respect others;<br>
+(b) Build positive relationships based on love and respect (which are the foundation for strong families);<br>
+(c) Make responsible decisions for yourself, your family and society; and<br>
 (d) Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 
 You may click [here](https://go.gov.sg/moe-sexuality-education) for more information on MOE Sexuality Education.
@@ -45,7 +42,9 @@ b.       Character and Citizenship Education (CCE)
 ### Sexuality Education Lessons
 **At Oasis Primary School, the following Sexuality Education lessons will be taught in 2023:**
 
-##### **2023 Sexuality Education Lessons in CCE 2021**
+<img src="/images/MOE-Logo.jpg" 
+     style="width:30%">
+##### **2023 Sexuality Education Lessons in CCE 2021**<br> **Primary 5**
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
