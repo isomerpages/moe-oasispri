@@ -17,24 +17,29 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-h1v5">Day<br></th>
-    <th class="tg-h1v5">Time<br></th>
+    <th class="tg-h1v5">School Gates<br></th>
+    <th class="tg-h1v5">Vehicle Access<br></th>
+		<th class="tg-h1v5">Pedestrian Access (Mon, Tues, Thurs & Fri)<br></th>
+		<th class="tg-h1v5">Pedestrian Access (Wed)<br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-67ya">Monday, Tuesday, Thursday & Friday<br></td>
-    <td class="tg-67ya">7.30 a.m. - 1.30 p.m.<br></td>
+    <td class="tg-67ya">Main Gate @ Edgefield Plains<br></td>
+    <td class="tg-67ya">(School Staff & School Buses)<br>6.30 a.m. - 7.30 a.m.<br>8.00 a.m. - 9.00 a.m.<br> 11.00 a.m. - 7.00 p.m.
+			<br></td>
   </tr>
 	<tr>
-    <td class="tg-67ya">Wednesday<br></td>
-    <td class="tg-67ya">7.30 a.m. - 1.00 p.m.<br></td>
+    <td class="tg-67ya">Gate 1 @ Edgefield Plains<br></td>
+    <td class="tg-67ya">N.A.<br></td>
   </tr>
   <tr>
-    <td class="tg-67ya">Tuesday & Friday (CCA)<br></td>
-    <td class="tg-67ya">2.00 p.m. - 4.00 p.m.<br></td>
+    <td class="tg-67ya">Gate 2 @ Edgefield Plains<br></td>
+    <td class="tg-67ya">N.A.<br></td>
   </tr>
   <tr>
+		 <td class="tg-67ya">Gate 4 @ Punggol Drive<br></td>
+    <td class="tg-67ya">N.A.<br></td>
     </tr>
 </tbody>
 </table>
