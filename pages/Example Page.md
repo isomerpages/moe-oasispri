@@ -34,6 +34,8 @@ description: ""
 	<tr>
     <td class="tg-67ya">Gate 1 @ Edgefield Plains<br></td>
     <td class="tg-67ya">N.A.<br></td>
+		<td class="tg-67ya">6.30 a.m. - 7.00 p.m.<br></td>
+		<td class="tg-67ya">6.30 a.m. - 7.00 p.m.<br></td>
   </tr>
   <tr>
     <td class="tg-67ya">Gate 2 @ Edgefield Plains<br></td>
