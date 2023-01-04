@@ -32,19 +32,18 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more inform
 
 4.       Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.
 
-5.       The subjects that incorporate topics on sexuality include: <br>
-a.       Science <br>
+5.       The subjects that incorporate topics on sexuality include:<br>
+a.       Science<br>
 b.       Character and Citizenship Education (CCE)
 
-### Sexuality Education: “Curious Minds (2nd Edition)” (Primary 5 & 6) Teaching & Learning resource package
+### Sexuality Education Lessons:
 
-The upper primary years mark the onset of puberty.  With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. “Curious Minds” is a response to these challenges.
+6.       The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. Furthermore, our young are also exposed to a wide range of influences that could endanger health and undermine the integrity of the family. Our students require guidance so that they can respond with discernment to the sexual messages in the media and other sources.
 
-The Primary 5 & 6 Sexuality Education Teaching and Learning resource package, “Curious Minds (2nd Edition)”, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate changes, build healthy relationships, especially online relationships, and exercise safety.
+7\.       Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters.
 
-### Growing Years Programme - Primary 5
-
-At Oasis Primary School, the following Sexuality Education lessons will be taught in 2022:
+### Sexuality Education Lessons
+**At Oasis Primary School, the following Sexuality Education lessons will be taught in 2023:**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -59,25 +58,25 @@ At Oasis Primary School, the following Sexuality Education lessons will be taugh
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-dzgf">UNIT<br></th>
-    <th class="tg-dzgf">LESSONS / DURATION<br></th>
-    <th class="tg-dzgf">Lesson Objectives<br>At the end of the lesson, pupils will be able to:<br></th>
+    <th class="tg-dzgf">CCE(FTGP) THEME<br></th>
+    <th class="tg-dzgf">LESSON TITLE / DURATION<br></th>
+    <th class="tg-dzgf">LESSON OVERVIEW<br></th>
     <th class="tg-dzgf">TIME PERIOD<br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-7rn4" rowspan="4">Gosh! I Am Changing<br></td>
-    <td class="tg-7rn4">What Is Happening To Me?<br>(30 min)<br></td>
+    <td class="tg-7rn4" rowspan="4">Growing Years<br></td>
+    <td class="tg-7rn4">The Changes in Me<br>(60 min)<br></td>
     <td class="tg-vd2a">know what puberty is<br>identify the physical changes during puberty</td>
     <td class="tg-7rn4" rowspan="4">Term 1<br>Week 7<br>to<br>Week 10<br></td>
   </tr>
   <tr>
-    <td class="tg-7rn4">What Can I Do?<br>(Part 1)<br>(30 min)<br></td>
+    <td class="tg-7rn4">Did You Know?<br>(60 min)<br></td>
     <td class="tg-vd2a">identify the stresses caused by physical and emotional changes during puberty<br>describe healthy ways to manage the stresses caused by physical and emotional changes during puberty<br>describe the emotions caused by physical changes during puberty<br>recognise that one’s identity does not change even when one’s body is experiencing change due to puberty</td>
   </tr>
   <tr>
-    <td class="tg-7rn4">What Can I Do?<br>(Part 2)<br>(30 min)<br></td>
+    <td class="tg-7rn4">Keeping Myself Safe<br>(60 min)<br></td>
     <td class="tg-vd2a">identify the stresses caused by physical and emotional changes during puberty<br>describe healthy ways to manage the stresses caused by these physical and emotional changes during puberty<br>describe the emotions caused by physical changes during puberty<br>recognise that one’s identity does not change even when one’s body is experiencing change due to puberty</td>
   </tr>
   <tr>
