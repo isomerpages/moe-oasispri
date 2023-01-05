@@ -140,7 +140,7 @@ description: ""
     <td class="tg-ilyo" rowspan="5">Performing Arts (PA)<br>Visual Arts (VA)<br></td>
     <td class="tg-vd2a">Guitar Club **<br></td>
     <td class="tg-vd2a">Ms Sindy Lai<br></td>
-    <td class="tg-vd2a">Mrs Ang Wei Wei</td>
+    <td class="tg-vd2a">Mrs Ng Wei Wei</td>
   </tr>
   <tr>
     <td class="tg-vd2a">Drama<br></td>
