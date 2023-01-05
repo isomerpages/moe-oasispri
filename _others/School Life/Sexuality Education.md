@@ -86,7 +86,7 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 
 ##### PRIMARY 6
 
-<table style="text-align: center; vertical-align:middle;">
+<table style="text-align: center; vertical-align: middle;">
 <thead>
   <tr>
     <th>CCE(FTGP) THEME<br></th>
