@@ -50,7 +50,7 @@ At Oasis Primary School, the following Sexuality Education lessons will be taugh
 
 ##### PRIMARY 5
 
-<table style="text-align: center; vertical-align: middle;">
+<table style="text-align: center;">
 <thead>
  <tr>
     <th>CCE(FTGP) THEME<br></th>
@@ -61,7 +61,7 @@ At Oasis Primary School, the following Sexuality Education lessons will be taugh
 </thead>
 <tbody>
   <tr>
-    <td rowspan="4">Growing Years<br></td>
+    <td rowspan="4" style="vertical-align: middle;">Growing Years<br></td>
     <td>The Changes in Me<br>(60 min)<br></td>
     <td>This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty.<br><br>
 This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
@@ -86,7 +86,7 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 
 ##### PRIMARY 6
 
-<table style="text-align: center; vertical-align: middle;">
+<table style="text-align: center;">
 <thead>
   <tr>
     <th>CCE(FTGP) THEME<br></th>
@@ -97,7 +97,7 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 </thead>
 <tbody>
   <tr>
-    <td rowspan="5">Growing Years<br></td>
+    <td rowspan="5" style="vertical-align: middle;">Growing Years<br></td>
     <td>Are We More than Friends?<br>Lesson 1<br>(60 min)<br></td>
     <td>In this lesson, students will learn to distinguish between the characteristics of love and infatuation and identify the strong emotions that may arise from experiencing the feelings of infatuation. They will recognise that experiencing feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends.<br></td>
 		<td>Term 1<br>Week 5<br></td>
