@@ -10,7 +10,7 @@ description: ""
 		 
 ### English Language Department
 
-<img src="/images/ms%20tan%20li%20na%20with%20quotes.png" 
+<img src="/images/mrs_munirah_eszham_with_quotes.png" 
      style="width:35%">
 		 
 ### Mathematics Department
@@ -40,6 +40,6 @@ description: ""
 ### Student Development Team
 
 <img src="/images/SDT1.jpg" 
-     style="width:100%">
+     style="width:90%">
 <img src="/images/SDT2.jpg" 
-     style="width:100%">
+     style="width:90%">
