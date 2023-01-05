@@ -50,17 +50,6 @@ At Oasis Primary School, the following Sexuality Education lessons will be taugh
 
 ##### PRIMARY 5
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-dzgf{background-color:#FFF;color:#002D46;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-7rn4{background-color:#FFF;color:#002D46;text-align:center;vertical-align:middle}
-.tg .tg-vd2a{background-color:#FFF;color:#002D46;text-align:left;vertical-align:top}
-</style>
-
 <table class="tg">
 <thead>
  <tr>
@@ -97,18 +86,6 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 
 ##### PRIMARY 6
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-syfz{color:#002D46;text-align:center;vertical-align:middle}
-.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-y24x{color:#002D46;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-		
 <table class="tg">
 <thead>
   <tr>
@@ -150,6 +127,5 @@ Information for Parents
 8\. Parents may opt their children out of Sexuality Education lessons.  
 
 9\. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. Please click [here](https://go.gov.sg/optoutsed2023) (https://go.gov.sg/optoutsed2023) to access the opt-out form and submit by **16/01/2023**.
-
 
 10\. Parents can contact the school at [oasis\_ps@moe.edu.sg](mailto:oasis_ps@moe.edu.sg) or +65 6320 9855 for discussion or to seek clarification about the school’s Sexuality Education programme.
