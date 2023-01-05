@@ -17,7 +17,7 @@ description: ""
 
 ![](/images/math%20dept.png)
 
-### Mother Tongue Language Department
+### Mother Tongue Languages Department
 
 ![](/images/mtl%20dept.png)
 
