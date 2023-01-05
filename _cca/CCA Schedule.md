@@ -134,7 +134,7 @@ description: ""
   <tr>
     <td class="tg-vd2a">Wushu<br></td>
     <td class="tg-vd2a">Ms Tay Bee Li<br></td>
-    <td class="tg-vd2a">Ms Evon Tan</td>
+    <td class="tg-vd2a">Mdm Evon Tan</td>
   </tr>
   <tr>
     <td class="tg-ilyo" rowspan="5">Performing Arts (PA)<br>Visual Arts (VA)<br></td>
