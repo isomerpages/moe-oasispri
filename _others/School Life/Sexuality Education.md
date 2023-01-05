@@ -50,7 +50,7 @@ At Oasis Primary School, the following Sexuality Education lessons will be taugh
 
 ##### PRIMARY 5
 
-<table>
+<table style="text-align: center; vertical-align: middle;">
 <thead>
  <tr>
     <th>CCE(FTGP) THEME<br></th>
@@ -71,11 +71,11 @@ This lesson is conducted separately for boys and girls in different classrooms, 
     <td>Did You Know?<br>(60 min)<br></td>
     <td>This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy 'Stop-Think-Do'.<br><br>
 This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
-		<td class="tg-7rn4">Term 2<br>Week 4<br></td>
+		<td>Term 2<br>Week 4<br></td>
   </tr>
   <tr>
-    <td class="tg-7rn4">Keeping Myself Safe<br>(60 min)<br></td>
-    <td class="tg-vd2a">In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.<br><br>
+    <td>Keeping Myself Safe<br>(60 min)<br></td>
+    <td>In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.<br><br>
 This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
 		<td>Term 2<br>Week 5<br></td>
   </tr>
