@@ -103,11 +103,9 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 <table class="tg">
+
+##### **PRIMARY 6**
 <thead>
-  <tr>
-    <th class="tg-amwm"><br><br>PRIMARY 6<br></th>
-  </tr>
-	<thead>
   <tr>
     <th class="tg-amwm">CCE(FTGP) THEME<br></th>
     <th class="tg-amwm">LESSON TITLE / DURATION<br></th>
