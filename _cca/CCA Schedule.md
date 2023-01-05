@@ -169,7 +169,7 @@ description: ""
     <td class="tg-vd2a">Mrs Lau Lee Leng</td>
   </tr>
   <tr>
-    <td class="tg-vd2a">ICT Club<br></td>
+    <td class="tg-vd2a">ICT (Robotics/Coding) Club<br></td>
     <td class="tg-vd2a">Mdm Soh Hoon Suu<br></td>
     <td class="tg-vd2a">Mdm Nur Hafizah</td>
   </tr>
