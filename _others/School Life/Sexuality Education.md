@@ -138,5 +138,3 @@ This lesson is conducted separately for boys and girls in different classrooms, 
   <td class="tg-7rn4">Term 1<br>Week 9<br></td>
 	</tr>
   <tr>
-</tbody>
-</table>
