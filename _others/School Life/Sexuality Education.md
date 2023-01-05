@@ -92,8 +92,6 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 		<td class="tg-7rn4">Term 2<br>Week 5<br></td>
   </tr>
   <tr>
-</tbody>
-</table>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
