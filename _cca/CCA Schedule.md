@@ -114,17 +114,17 @@ description: ""
     <td class="tg-ilyo" rowspan="5">Sports<br></td>
     <td class="tg-vd2a">Badminton *<br></td>
     <td class="tg-vd2a">Mr Hamzah<br></td>
-    <td class="tg-vd2a">Ms Ho Wan Yu<br></td>
+    <td class="tg-vd2a">Ms Stacey Koh<br></td>
   </tr>
   <tr>
     <td class="tg-vd2a">Hockey *<br></td>
     <td class="tg-vd2a">Mr Aizad<br></td>
-    <td class="tg-vd2a">Mr Jonathan</td>
+    <td class="tg-vd2a">Mr Jonathan Boey</td>
   </tr>
   <tr>
     <td class="tg-vd2a">Modular Sports<br></td>
     <td class="tg-vd2a">Mr Effendi<br></td>
-    <td class="tg-vd2a">Mr Yeo Yungsen<br></td>
+    <td class="tg-vd2a">Mr Fahmy<br></td>
   </tr>
   <tr>
     <td class="tg-vd2a">Table Tennis *<br></td>
@@ -140,12 +140,12 @@ description: ""
     <td class="tg-ilyo" rowspan="5">Performing Arts (PA)<br>Visual Arts (VA)<br></td>
     <td class="tg-vd2a">Guitar Club **<br></td>
     <td class="tg-vd2a">Ms Sindy Lai<br></td>
-    <td class="tg-vd2a">Mdm Feng Wei Wei</td>
+    <td class="tg-vd2a">Mrs Ang Wei Wei</td>
   </tr>
   <tr>
     <td class="tg-vd2a">Drama<br></td>
     <td class="tg-vd2a">Ms Syaza<br></td>
-    <td class="tg-vd2a">Ms Nirmawati</td>
+    <td class="tg-vd2a">Mdm Razia</td>
   </tr>
   <tr>
     <td class="tg-vd2a">Contemporary Dance *<br></td>
@@ -155,7 +155,7 @@ description: ""
   <tr>
     <td class="tg-vd2a">Guzheng *<br></td>
     <td class="tg-vd2a">Ms Yan Xiaojing<br></td>
-    <td class="tg-vd2a">Mdm Huang Rui</td>
+    <td class="tg-vd2a">Ms Goh Wan Yu</td>
   </tr>
   <tr>
     <td class="tg-vd2a">Art Club **<br></td>
@@ -165,29 +165,29 @@ description: ""
   <tr>
     <td class="tg-ilyo" rowspan="4">Clubs and Societies<br></td>
     <td class="tg-vd2a">Green Makers<br></td>
-    <td class="tg-vd2a">Mdm Nur Liyana<br></td>
-    <td class="tg-vd2a">Mrs Lau Lee Leng</td>
+    <td class="tg-vd2a">Mdm Liyana<br></td>
+    <td class="tg-vd2a">Mrs Lau Peixia</td>
   </tr>
   <tr>
     <td class="tg-vd2a">ICT (Robotics/Coding) Club<br></td>
-    <td class="tg-vd2a">Mdm Soh Hoon Suu<br></td>
-    <td class="tg-vd2a">Mdm Nur Hafizah</td>
+    <td class="tg-vd2a">Mdm Hafizah<br></td>
+    <td class="tg-vd2a">Mdm Atika</td>
   </tr>
   <tr>
     <td class="tg-vd2a">Media Club<br></td>
-    <td class="tg-vd2a">Ms Sophie<br></td>
-    <td class="tg-vd2a">Ms Caroline Soh</td>
+    <td class="tg-vd2a">Mdm Norizah<br></td>
+    <td class="tg-vd2a">Ms Sophie</td>
   </tr>
   <tr>
     <td class="tg-vd2a">Language &amp; Cultural Club<br></td>
     <td class="tg-vd2a">Mrs Wang Huishan<br></td>
-    <td class="tg-vd2a">Mdm Norizah</td>
+    <td class="tg-vd2a">Mdm Chen Rongli</td>
   </tr>
   <tr>
     <td class="tg-ilyo">Uniformed Group (UG)<br></td>
     <td class="tg-vd2a">Scouts<br></td>
-    <td class="tg-vd2a">Mr Faris<br></td>
-    <td class="tg-vd2a">Ms Faizah</td>
+    <td class="tg-vd2a">Mr Faris Fong<br></td>
+    <td class="tg-vd2a">Mdm Aisah</td>
   </tr>
 </tbody>
 </table>
