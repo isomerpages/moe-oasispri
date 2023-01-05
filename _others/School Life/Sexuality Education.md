@@ -92,6 +92,8 @@ This lesson is conducted separately for boys and girls in different classrooms, 
   </tr>
 </tbody>
 </table>
+<br>
+<img src="/images/MOE-Logo.jpg" style="width:30%">
 
 ##### PRIMARY 6
 
