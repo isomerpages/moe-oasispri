@@ -60,6 +60,7 @@ At Oasis Primary School, the following Sexuality Education lessons will be taugh
 .tg .tg-7rn4{background-color:#FFF;color:#002D46;text-align:center;vertical-align:middle}
 .tg .tg-vd2a{background-color:#FFF;color:#002D46;text-align:left;vertical-align:top}
 </style>
+
 <table class="tg">
 <thead>
  <tr>
@@ -89,7 +90,10 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
 		<td class="tg-7rn4">Term 2<br>Week 5<br></td>
   </tr>
-  <tr>
+</tbody>
+</table>
+
+##### PRIMARY 6
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -102,10 +106,8 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 .tg .tg-y24x{color:#002D46;text-align:left;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
+		
 <table class="tg">
-
-##### PRIMARY 6
-
 <thead>
   <tr>
     <th class="tg-amwm">CCE(FTGP) THEME<br></th>
@@ -132,4 +134,5 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
   <td class="tg-7rn4">Term 1<br>Week 9<br></td>
 	</tr>
-  <tr>
+</tbody>
+</table>
