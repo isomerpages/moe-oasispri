@@ -39,5 +39,5 @@ description: ""
 
 ### Student Development Team
 
-![](/images/student%20development.png)
-![](/images/student%20development%202.png)
+![](/images/SDT1.jpg)
+![](/images/SDT2.jpg)
