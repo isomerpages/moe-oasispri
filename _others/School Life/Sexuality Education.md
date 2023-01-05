@@ -62,11 +62,7 @@ At Oasis Primary School, the following Sexuality Education lessons will be taugh
 </style>
 <table class="tg">
 <thead>
-  <tr>
-    <th class="tg-dzgf"><br></th>   
-  </tr>
-	<thead>
-  <tr>
+ <tr>
     <th class="tg-dzgf">CCE(FTGP) THEME<br></th>
     <th class="tg-dzgf">LESSON TITLE / DURATION<br></th>
     <th class="tg-dzgf">LESSON OVERVIEW<br></th>
