@@ -106,11 +106,15 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-8com">Desktop Engineer<br></td>
-    <td class="tg-1d14">Mr Hazizi<br></td>
+    <td class="tg-1d14">Mr Muhammad Hazizi Bin Abd Hamid<br></td>
   </tr>
   <tr>
     <td class="tg-dv6r">Desktop Engineer<br></td>
-    <td class="tg-j74v">Ms Durga<br></td>
+    <td class="tg-j74v">Ms Durgadevi<br></td>
+  </tr>
+  <tr>
+		<td class="tg-dv6r">Lab Assistant<br></td>
+    <td class="tg-j74v">Ms Iris Lee<br></td>
   </tr>
   <tr>
     <td class="tg-8com">Librarian<br></td>
