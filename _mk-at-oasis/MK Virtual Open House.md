@@ -3,4 +3,4 @@ title: MK Virtual Open House
 permalink: /mk-at-oasis/mk-virtual-open-house/
 description: ""
 ---
-[2022 MKOH Overview Presentation Website](/files/2022%20MKOH%20Overview%20Presentation%20Website.pdf)
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSMj73Yo4e5oBRplzRVFW19KdIJrwu_Vq9a3XstbScwpFMezrqbgFAehIj00DAZsQ/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
