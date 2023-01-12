@@ -2,6 +2,7 @@ collections:
   mk-at-oasis:
     output: true
     order:
+      - MK Open House.md
       - MK Family.md
       - MK Curriculum.md
       - MK Environment.md
@@ -11,6 +12,5 @@ collections:
       - Learning in Action/Everyday Experiences.md
       - Learning in Action/Events.md
       - Parents' Accolades.md
-      - MK Open House.md
       - MK Forms.md
       - Contact MK@Oasis.md
