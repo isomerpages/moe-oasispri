@@ -37,10 +37,3 @@ description: ""
 ### ICT Department
 
 ![](/images/ICT%20dept.png)
-
-### Student Development Team
-
-<img src="/images/SDT1.jpg" 
-     style="width:90%">
-<img src="/images/SDT2.jpg" 
-     style="width:90%">
