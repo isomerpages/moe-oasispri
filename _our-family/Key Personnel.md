@@ -3,12 +3,10 @@ title: Key Personnel
 permalink: /our-family/key-personnel/
 description: ""
 ---
-### Year Heads
-
-<img src="/images/Table_YearHeads.jpg" 
+<img src="/images/Table_SDT.jpg" 
      style="width:100%">
 		 
-<img src="/images/Photo_YearHeads.jpg" 
+<img src="/images/Photo_SDT.jpg" 
      style="width:100%">
  		 
 ### English Language Department
