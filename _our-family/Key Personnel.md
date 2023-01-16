@@ -5,10 +5,10 @@ description: ""
 ---
 ### Year Heads
 
-<img src="/images/Table.jpg" 
+<img src="/images/Table_YearHeads.jpg" 
      style="width:100%">
 		 
-<img src="/images/Quote-Photo.jpg" 
+<img src="/images/Photo_YearHeads.jpg" 
      style="width:100%">
  		 
 ### English Language Department
