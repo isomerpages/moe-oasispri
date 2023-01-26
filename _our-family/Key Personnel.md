@@ -8,4 +8,3 @@ description: ""
 		 
 <img src="/images/Photo_SDT.jpg" 
      style="width:100%">
- 		 
