@@ -20,5 +20,5 @@ More importantly, undergirding all that we do, is to believe that every child ma
 
 In addition to our students, we – staff, parents and stakeholders – are all Oasians too. We are all learners, and we are all leaders. Let us ask ourselves what we can do for our school and one another. How can we work together in close partnership to educate our young ones? Our children are the young ones who will learn and lead, these are the champions and heroes of tomorrow who will grow up to care for others and contribute to our nation building, and these are the boys and girls of Oasis who we love. Therefore, it is up to us – adults – to join our hearts and hold hands to care for and mould their character. We choose to do these things for them, not because we have to, but because we want to. Let us all, as Oasians, have charity for all, cherish this bond we have with one another and strive unto success as a united school. Thank you.
 
-Your partner-in-education,                                                                         
+Your partner-in-education,
 Mr Danny Poh
