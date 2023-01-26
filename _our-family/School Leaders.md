@@ -6,5 +6,5 @@ description: ""
 <img src="/images/SL_Table.jpg" 
      style="width:100%">
 		 
-<img src="/images/SL_Pic_w_Quotes_2.jpg" 
+<img src="/images/SL_Pic.jpg" 
      style="width:100%">
