@@ -3,8 +3,8 @@ title: School Leaders
 permalink: /our-family/school-leaders/
 description: ""
 ---
-<img src="/images/MrDannyPoh_Principal.png" 
-     style="width:32%">
+<img src="/images/SL_Table.jpg" 
+     style="width:100%">
 		 
-<img src="/images/school%20leaders.png" 
+<img src="/images/SL_Pic_w_Quotes_2.jpg" 
      style="width:100%">
