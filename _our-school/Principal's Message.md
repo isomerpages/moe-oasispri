@@ -3,8 +3,14 @@ title: Principal's Message
 permalink: /our-school/principals-message/
 description: ""
 ---
-“If I have to choose one profession in which you give the most for the least, it is probably teaching – if you take it seriously. You have to have the temperament for it to coax, to stimulate, to cajole, to discipline a young mind into good habits. You must have an aptitude.”
+```
+“If I have to choose one profession in which you give the most for the 
+least, it is probably teaching – if you take it seriously. You have to 
+have the temperament for it to coax, to stimulate, to cajole, to 
+discipline a young mind into good habits. You must have an aptitude.”
+
 Mr Lee Kuan Yew (1966)
+```
 
 The quote from our first Prime Minister encourages us, parents and teachers, to work together to nurture “a young mind into good habits”. We intend to do just that in Oasis Primary School. Our school provides a holistic education that supports our children to discover and nurture their strengths and interests. We want to develop our students into Passionate Learners and Caring Leaders by building a community of learners who can inspire self and others to lead with a heart. At the end of six years with us, our students will be able to communicate eloquently, be curious and creative, collaborate effectively and contribute to society.
 
