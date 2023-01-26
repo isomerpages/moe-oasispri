@@ -3,7 +3,7 @@ title: MK Forms
 permalink: /mk-at-oasis/mk-forms/
 description: ""
 ---
-1\) [MK Waiting List Registration Link](https://form.gov.sg/61b6b05c01382d00133ded6d)
+1\) [MK Waiting List Registration Link](https://www.form.gov.sg/63d226b80447a0001149133d)
 
 2\) [MK Transfer Request Form](/files/MOE%20Kindergarten%20Transfer%20Request%20Form.pdf)
 
