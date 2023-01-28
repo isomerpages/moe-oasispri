@@ -72,7 +72,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-7rn4">2022 NATIONAL SCHOOL GAMES<br>(Hockey)</td>
-    <td class="tg-67ya">CERTIFICATE OF RECOGNITION<br>Art work exhibited at SCAPRE ORCHARD</td>
+    <td class="tg-67ya">Senior Boys - National Top 8<br>Junior 2 Boys (P5) - National Tier 1, 1st RU<br>Junior 1 Boys (P4) - National Tier 1, Top 6</td>
   </tr>
   <tr>
     <td class="tg-7rn4">2022 NATIONAL SCHOOL GAMES<br>(Badminton)<br></td>
