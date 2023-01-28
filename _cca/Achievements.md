@@ -98,7 +98,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-7rn4"> 2022 SOTA Temasek Foundation Award For Arts Development</td>
-    <td class="tg-67ya">CERTIFICATE OF RECOGNITION </td>
+    <td class="tg-67ya">Dance<br>Visual Art</td>
 </tr>
   <tr>
     <td class="tg-7rn4"> 2022 National Primary Schools Sport Climbing Championships</td>
