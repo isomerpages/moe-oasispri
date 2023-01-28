@@ -102,7 +102,7 @@ description: ""
 </tr>
   <tr>
     <td class="tg-7rn4"> 2022 National Primary Schools Sport Climbing Championships</td>
-    <td class="tg-67ya">CERTIFICATE OF RECOGNITION </td>
+    <td class="tg-67ya">**Junior (Novice) Girls Boulder Challenge**<br>Gold Achievement Pin<br><br>**Junior (Novice) Boys Boulder Challenge**<br>Gold Achievement Pin<br>Silver Achievement Pin</td>
   </tr>
 </tbody>
 </table>
