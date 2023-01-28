@@ -86,7 +86,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-7rn4">2019 NATIONAL SCHOOL GAMES<br>(Sportsmanship Award)</td>
-    <td class="tg-67ya">2 students won Sportsmanship Awards</td>
+    <td class="tg-67ya">**Badminton**<br>**Table Tennis**<br>**Hockey**<br></td>
   </tr>
   <tr>
     <td class="tg-7rn4">2022 SYF ARTS PRESENTATION<br>(Guzheng)</td>
