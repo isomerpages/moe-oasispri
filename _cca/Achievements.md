@@ -90,11 +90,11 @@ description: ""
   </tr>
   <tr>
     <td class="tg-7rn4">2022 SYF ARTS PRESENTATION<br>(Guzheng)</td>
-    <td class="tg-67ya">Top 6 (Bronze) - Senior Girls</td>
+    <td class="tg-67ya">Participation<br>(No benchmarking and no certification is awarded to all schools in 2022)</td>
   </tr>
   <tr>
     <td class="tg-7rn4"> 2022 ARTS PRESENTATION<br>(Contemporary Dance)</td>
-    <td class="tg-67ya">8 students won Sportsmanship Awards </td>
+    <td class="tg-67ya">Participation<br>(No benchmarking and no certification is awarded to all schools in 2022)</td>
   </tr>
   <tr>
     <td class="tg-7rn4"> 2022 SOTA Temasek Foundation Award For Arts Development</td>
