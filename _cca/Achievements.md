@@ -92,15 +92,15 @@ description: ""
     <td class="tg-67ya">Participation<br>(No benchmarking and no certification is awarded to all schools in 2022)</td>
   </tr>
   <tr>
-    <td class="tg-7rn4"> 2022 ARTS PRESENTATION<br>(Contemporary Dance)</td>
+    <td class="tg-7rn4">2022 ARTS PRESENTATION<br>(Contemporary Dance)</td>
     <td class="tg-67ya">Participation<br>(No benchmarking and no certification is awarded to all schools in 2022)</td>
   </tr>
   <tr>
-    <td class="tg-7rn4"> 2022 SOTA Temasek Foundation Award For Arts Development</td>
+    <td class="tg-7rn4">2022 SOTA Temasek Foundation Award For Arts Development</td>
     <td class="tg-67ya">Dance<br>Visual Art</td>
 </tr>
   <tr>
-    <td class="tg-7rn4"> 2022 National Primary Schools Sport Climbing Championships</td>
+    <td class="tg-7rn4">2022 National Primary Schools Sport Climbing Championships</td>
     <td class="tg-67ya">Junior (Novice) Girls Boulder Challenge<br>Gold Achievement Pin<br><br>Junior (Novice) Boys Boulder Challenge<br>Gold Achievement Pin<br>Silver Achievement Pin</td>
   </tr>
 </tbody>
