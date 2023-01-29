@@ -81,8 +81,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-7rn4">2022 NATIONAL SCHOOL GAMES<br>(Table Tennis) </td>
-    <td class="tg-vd2a"><span style="background-color:initial">Junior Boys Doubles</span><br><span style="background-color:initial">Tier 2 (4th)<br>Tier 4 (2nd)<br><br>Junior Boys Singles<br>Tier 4 (1st)<br><br>Junior Girls Doubles<br>
-			Tier 3 (2nd)<br>Tier 4 (2nd)</span></td>
+    <td class="tg-vd2a"><span style="background-color:initial">Junior Boys Doubles</span><br><span style="background-color:initial">Tier 2 (4th)<br>Tier 4 (2nd)<br><br>Junior Boys Singles<br>Tier 4 (1st)<br><br>Junior Girls Doubles<br>Tier 3 (2nd)<br>Tier 4 (2nd)</span></td>
   </tr>
   <tr>
     <td class="tg-7rn4">2019 NATIONAL SCHOOL GAMES<br>(Sportsmanship Award)</td>
