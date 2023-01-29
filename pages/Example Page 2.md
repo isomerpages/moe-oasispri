@@ -3,7 +3,6 @@ title: Example Page 2
 permalink: /permalink/
 description: ""
 ---
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -44,7 +43,9 @@ description: ""
     <td class="tg-67ya">Certificate of Participation (19)<br><br>Certificate of Participation (23)<br><br>Dance<br>Visual Art<br></td>
   </tr>
   <tr>
-    
-		
-		
-		
+    <td class="tg-67ya">CCA</td>
+    <td class="tg-67ya">2022 NSG Hockey<br>2022 NSG Badminton<br><br>2022 NSG Table Tennis<br>2022 NSG Sportsmanship Award<br><br><br>2022 National Primary Schools Sport Climbing Championships<br></td>
+    <td class="tg-67ya">NSG Senior Boys - National Top 8<br>NSG Junior Boys (P5) - Tier 1 National 1st Runners-Up<br>NSG Junior Boys (P4) - Tier 1 National Top 6<br><br>NSG Junior Girls - Tier 3 (Champion) (East Zone)<br>NSG Junior Girls - Tier 1 (4th) (East Zone)<br><br>NSG Junior Boys Doubles - Tier 2 (4th)<br>NSG Junior Boys Singles - Tier 4 (1st)<br>NSG Junior Boys Doubles - Tier 4 (2nd)<br>NSG Junior Girls Doubles - Tier 3 (2nd)<br>NSG Junior Girls Doubles - Tier 4 (2nd)<br><br>Badminton (4)<br>Table Tennis (4)<br>Hockey (3)<br><br>Junior (Novice) Girls Boulder Challenge<br>Gold Achievement Pin<br><br>Junior (Novice) Boys Boulder Challenge<br>Gold Achievement Pin<br>Silver Achievement Pin<br></td>
+  </tr>
+</tbody>
+</table>
