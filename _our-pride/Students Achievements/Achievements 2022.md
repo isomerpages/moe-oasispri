@@ -45,7 +45,7 @@ third_nav_title: Students Achievements
   </tr>
   <tr>
     <td class="tg-67ya">CCA<br></td>
-    <td class="tg-67ya">2022 NSG Hockey<br><br><br><br><br>2022 NSG Badminton<br><br><br>2022 NSG Table Tennis<br><br><br><br><br><br>2022 NSG Sportsmanship Award<br><br>2022 National Primary Schools Sport Climbing Championships<br></td>
+    <td class="tg-67ya">2022 NSG Hockey<br><br><br><br><br>2022 NSG Badminton<br><br><br>2022 NSG Table Tennis<br><br><br><br>2022 NSG Sportsmanship Award<br><br>2022 National Primary Schools Sport Climbing Championships<br></td>
     <td class="tg-67ya">NSG Senior Boys - National Top 8<br>NSG Junior Boys (P5) - Tier 1 National 1st Runners-Up<br>NSG Junior Boys (P4) - Tier 1 National Top 6<br><br>NSG Junior Girls - Tier 3 (Champion) (East Zone)<br>NSG Junior Girls - Tier 1 (4th) (East Zone)<br><br>NSG Junior Boys Doubles - Tier 2 (4th)<br>NSG Junior Boys Singles - Tier 4 (1st)<br>NSG Junior Boys Doubles - Tier 4 (2nd)<br>NSG Junior Girls Doubles - Tier 3 (2nd)<br>NSG Junior Girls Doubles - Tier 4 (2nd)<br><br>Badminton (4)<br>Table Tennis (4)<br>Hockey (3)<br><br>Junior (Novice) Girls Boulder Challenge<br>Gold Achievement Pin<br><br>Junior (Novice) Boys Boulder Challenge<br>Gold Achievement Pin<br>Silver Achievement Pin<br></td>
   </tr>
 </tbody>
