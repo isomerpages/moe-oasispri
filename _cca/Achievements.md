@@ -58,7 +58,8 @@ description: ""
 </tbody>
 </table>
 
-</style>
+<br>
+
 <table class="tg">
 <thead>
   <tr>
