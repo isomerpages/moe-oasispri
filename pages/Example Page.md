@@ -4,17 +4,6 @@ permalink: /Example-Page/
 description: ""
 ---
 <table class="tg">
-	<thead>
-  <tr>
-    <th class="tg-baqh" colspan="2"><span style="font-weight:bold">CCA Achievements (2022)</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-dzgf">COMPETITION</td>
-    <td class="tg-h1v5">ACHIEVEMENT<br></td>
-  </tr>
-  <tr>
     <td class="tg-7rn4">2022 NATIONAL SCHOOL GAMES<br>(Hockey)</td>
     <td class="tg-67ya">Senior Boys - National Top 8<br>Junior 2 Boys (P5) - National Tier 1, 1st RU<br>Junior 1 Boys (P4) - National Tier 1, Top 6</td>
   </tr>
