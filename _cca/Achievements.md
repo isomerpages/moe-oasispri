@@ -3,7 +3,7 @@ title: Achievements
 permalink: /our-curriculum/co-curricular-activities/achievements/
 description: ""
 ---
-<style type="text/css">
+<style type="text/css; width:100%">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -24,8 +24,8 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-dzgf">COMPETITION</td>
-    <td class="tg-h1v5">ACHIEVEMENT<br></td>
+    <td class="tg-dzgf; width:50%">COMPETITION</td>
+    <td class="tg-h1v5; width:50%">ACHIEVEMENT<br></td>
   </tr>
   <tr>
     <td class="tg-7rn4">2017 SYF Art Exhibition<br>(Art Club)</td>
