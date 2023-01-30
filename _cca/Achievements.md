@@ -60,7 +60,7 @@ description: ""
 
 <br>
 
-<table class="tg">
+<table class="tg" style="width:100%">
 <thead>
   <tr>
     <th class="tg-baqh" colspan="2"><span style="font-weight:bold">CCA Achievements (2022)</span></th>
@@ -68,8 +68,8 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-dzgf">COMPETITION</td>
-    <td class="tg-h1v5">ACHIEVEMENT<br></td>
+    <td class="tg-dzgf" style="width:50%">COMPETITION</td>
+    <td class="tg-h1v5" style="width:50%">ACHIEVEMENT<br></td>
   </tr>
   <tr>
     <td class="tg-7rn4">2022 NATIONAL SCHOOL GAMES<br>(Hockey)</td>
