@@ -12,3 +12,9 @@ discipline a young mind into good habits. You must have an aptitude.”
 <br><br>
 Mr Lee Kuan Yew (1966)<br><br>
 ```
+	
+	
+	<tr>
+    <td class="tg-7rn4">2022 National Primary Schools Sport Climbing Championships</td>
+    <td class="tg-67ya">Junior (Novice) Girls Boulder Challenge<br>Gold Achievement Pin<br><br>Junior (Novice) Boys Boulder Challenge<br>Gold Achievement Pin<br>Silver Achievement Pin</td>
+  </tr>
