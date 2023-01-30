@@ -9,7 +9,7 @@ least, it is probably teaching – if you take it seriously. You have to
 have the temperament for it to coax, to stimulate, to cajole, to 
 discipline a young mind into good habits. You must have an aptitude.”
 <br>
-**Mr Lee Kuan Yew (1966)**
+Mr Lee Kuan Yew (1966)<br>
 
 The quote from our first Prime Minister encourages us, parents and teachers, to work together to nurture “a young mind into good habits”. We intend to do just that in Oasis Primary School. Our school provides a holistic education that supports our children to discover and nurture their strengths and interests. We want to develop our students into Passionate Learners and Caring Leaders by building a community of learners who can inspire self and others to lead with a heart. At the end of six years with us, our students will be able to communicate eloquently, be curious and creative, collaborate effectively and contribute to society.<br><br>
 To nurture holistic learners for the future and achieve the goals above, we have various key distinctive programmes for the young ones. These include our character development programme guided by school values; Oasis learning experiences of Discovery, Imagination and Changemaking; Learning for Life Programme (LLP) ‘Lead with a Heart, Changemakers for the Future’; ALP ‘Nurturing Language Artisans through an Inter-disciplinary Approach’; as well as Place-Based Learning (PBL) to create exploratory, meaningful and immersive learning for the students.<br><br>
