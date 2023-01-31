@@ -1,0 +1,26 @@
+collections:
+  others:
+    output: true
+    order:
+      - Highlights/Highlights.md
+      - Highlights/Awards Day 2022.md
+      - Highlights/.keep
+      - Highlights/Outstanding Youth in Education Award.md
+      - Highlights/Chinese New Year 2022.md
+      - School Life/.keep
+      - School Life/Assessment Information.md
+      - School Life/School Hours & Operations.md
+      - School Life/School Terms & Holidays.md
+      - School Life/School Bus Service.md
+      - School Life/School Bookshop & Uniform.md
+      - School Life/Sexuality Education.md
+      - Forms & Guides/.keep
+      - Forms & Guides/Application Forms.md
+      - Forms & Guides/Consent for Photography & Videos.md
+      - Forms & Guides/Parents Gateway.md
+      - Forms & Guides/Student Learning Space (SLS).md
+      - Photo Gallery/.keep
+      - Photo Gallery/2023.md
+      - Photo Gallery/2022.md
+      - Photo Gallery/2021.md
+      - Photo Gallery/Consent for Photography & Videos.md

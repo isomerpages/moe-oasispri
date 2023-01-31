@@ -1,0 +1,30 @@
+collections:
+  cca:
+    output: true
+    order:
+      - Co Curricular Activities.md
+      - Achievements.md
+      - CCA Schedule.md
+      - Sports/.keep
+      - Sports/Sports.md
+      - Sports/Badminton.md
+      - Sports/Hockey (Boys).md
+      - Sports/Modular Sports.md
+      - Sports/Table Tennis.md
+      - Sports/Wushu.md
+      - Uniformed Groups/.keep
+      - Uniformed Groups/Uniformed Groups.md
+      - Uniformed Groups/Scouts.md
+      - Visual & Performing Arts/.keep
+      - Visual & Performing Arts/Visual & Performing Arts.md
+      - Visual & Performing Arts/Guitar Club.md
+      - Visual & Performing Arts/Drama.md
+      - Visual & Performing Arts/Contemporary Dance.md
+      - Visual & Performing Arts/Guzheng.md
+      - Visual & Performing Arts/Visual Arts.md
+      - Clubs & Societies/.keep
+      - Clubs & Societies/Clubs & Societies.md
+      - Clubs & Societies/Green Makers.md
+      - Clubs & Societies/ICT Club.md
+      - Clubs & Societies/Media Club.md
+      - Clubs & Societies/Language & Cultural Club.md

@@ -1,0 +1,15 @@
+collections:
+  our-curriculum:
+    output: true
+    order:
+      - Curriculum/Curriculum.md
+      - Curriculum/.keep
+      - Curriculum/English Language.md
+      - Curriculum/Mathematics.md
+      - Curriculum/Mother Tongue Languages.md
+      - Curriculum/Science.md
+      - Curriculum/Aesthetics.md
+      - Curriculum/Character & Citizenship Education.md
+      - Curriculum/Information & Communication Technology.md
+      - Curriculum/Physical Education.md
+      - Curriculum/Programme for Active Learning.md

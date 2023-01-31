@@ -1,0 +1,11 @@
+collections:
+  our-school:
+    output: true
+    order:
+      - Principal's Message.md
+      - School Vision, Mission & Motto.md
+      - School Values.md
+      - Our Oasians.md
+      - School Crest.md
+      - School Rules.md
+      - School Song.md
