@@ -75,7 +75,7 @@ third_nav_title: Students Achievements
   </tr>
   <tr>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">2022 National Primary Schools Sport Climbing Championships</span><br><br><br></td>
-    <td class="tg-0lax"><span style="font-weight:700;font-style:normal;text-decoration:underline;color:#000;background-color:transparent">Junior (Novice) Girls Boulder Challenge</span><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Gold Achievement Pin</span><span style="font-weight:700;font-style:normal;text-decoration:underline;color:#000;background-color:transparent">Junior (Novice) Boys Boulder Challenge</span><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Gold Achievement PinSilver Achievement Pin</span></td>
+    <td class="tg-0lax"><span style="font-weight:700;font-style:normal;text-decoration:underline;color:#000;background-color:transparent">Junior (Novice) Girls Boulder Challenge</span><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"><br>Gold Achievement Pin</span><span style="font-weight:700;font-style:normal;text-decoration:underline;color:#000;background-color:transparent"><br>Junior (Novice) Boys Boulder Challenge</span><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"><br>Gold Achievement Pin<br>Silver Achievement Pin</span></td>
   </tr>
 </tbody>
 </table>
