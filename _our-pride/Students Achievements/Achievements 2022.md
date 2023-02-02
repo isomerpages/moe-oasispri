@@ -67,11 +67,11 @@ third_nav_title: Students Achievements
   </tr>
   <tr>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">2022 NSG Table Tennis</span><br><br><br></td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">NSG Junior Girls Doubles - Tier 4 (2nd)</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">NSG Junior Boys Doubles - Tier 2 (4th)NSG Junior Boys Singles - Tier 4 (1st)NSG Junior Boys Doubles - Tier 4 (2nd)NSG Junior Girls Doubles - Tier 3 (2nd)</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">NSG Junior Girls Doubles - Tier 4 (2nd)</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">NSG Junior Boys Doubles - Tier 2 (4th)<br>NSG Junior Boys Singles - Tier 4 (1st)<br>NSG Junior Boys Doubles - Tier 4 (2nd)<br>NSG Junior Girls Doubles - Tier 3 (2nd)</span></td>
   </tr>
   <tr>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">2022 NSG Sportsmanship Award</span><br></td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Badminton (4)Table Tennis (4)Hockey (3)</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Badminton (4)<br>Table Tennis (4)<br>Hockey (3)</span></td>
   </tr>
   <tr>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">2022 National Primary Schools Sport Climbing Championships</span><br><br><br></td>
