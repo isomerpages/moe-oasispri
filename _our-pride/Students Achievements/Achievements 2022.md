@@ -53,8 +53,8 @@ third_nav_title: Students Achievements
   </tr>
   <tr>
     <td class="tg-cly1"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Aesthetics</span></td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">2022 SYF Arts Presentation - Guzheng<br>2022 SYF Arts Presentation - Dance<br>2022 SOTA Temasek Foundation Award For Arts Development</span></td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Certificate of Participation (19)<br>Certificate of Participation (23)<br>Dance<br>Visual Art</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">2022 SYF Arts Presentation - Guzheng<br><br>2022 SYF Arts Presentation - Dance<br><br>2022 SOTA Temasek Foundation Award For Arts Development</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Certificate of Participation (19)<br><br>Certificate of Participation (23)<br><br>Dance<br>Visual Art</span></td>
   </tr>
   <tr>
     <td class="tg-cly1" rowspan="5"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">CCA</span></td>
