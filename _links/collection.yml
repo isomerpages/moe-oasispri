@@ -2,6 +2,5 @@ collections:
   links:
     output: true
     order:
-      - Links.md
       - 2023 P1 eOrientation.md
       - Useful Links.md
