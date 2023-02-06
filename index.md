@@ -19,5 +19,5 @@ sections:
           url: /ops/info-hub/school-life/assessment-information/
         - title: Gallery
           description: ""
-          url: /ops/photo-gallery/2022/
+          url: /ops/photo-gallery/2023/
 ---
