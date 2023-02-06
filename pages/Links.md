@@ -1,6 +1,6 @@
 ---
 title: Links
-permalink: /links/
+permalink: /permalink/
 description: ""
 ---
 <a href="https://sites.google.com/moe.edu.sg/oasisictlesson/lesson-guide/student-resources?authuser=0">

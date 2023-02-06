@@ -1,9 +1,9 @@
 ---
-title: "2022"
-permalink: /ops/photo-gallery/2022/
+title: Archive
+permalink: /permalink/
 description: ""
-third_nav_title: Photo Gallery
 ---
+### 2022
 ### P1 First Day @ Oasis
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQlcOHCOaup4abbSylYeNW7mk9AkXHKYbBEn2j374xJ80cA8iOiWPdNSlWNKQEWdcdixFU1dNbQEvhB/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
@@ -48,3 +48,24 @@ third_nav_title: Photo Gallery
 ### Awards Day 2022
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQfS8QXEIYKd8BFuagA6uDzckkzTU07ao05KsvINsUfDmwk8OAUzrC6FUTcYBhdgx5Dv3O6dPx7W6oO/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+
+### 2021
+### Chinese New Year Celebration
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSgczAm3FxyUz7R6DgSDOMQUrrzyiTJZGunhsmt9HNqgHVLUL67b68AxHxp-drdTPb8WASxLsp5k2rO/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+
+### P1 First Day
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT4RYSxGdDwMEQPbw8iNaW648u8jwwSzSJXRnqOetc9UnnjHVoGsU7M7ROxB2Uvb1pUf5mePJkMT_9C/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+
+### Parent Support Group
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRX9HW6Pyi2swIW2Z4AUPxAhOsw-Pdr13CB9z7_4ztTDT6iXc1Q7ZTIezJyRJSwNqwxYWiIsPy88v5q/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+
+### Sport Carnival 
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRwAqp2tm4xkJl0mWn0LreHaYTEVBLxocNO9DRo-QgqnZ7Ur4qPHj1p3qGqb8f9KhIHZyoAOmr9Ey6A/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+
+### Teachers Day
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQrKpEquMqPJROhb2JkzbfuyZ36uCZ2soZR-mN-z1EJuw7leuNy7pCjbF3I5PvEEYAbEI4i9cm5tiQV/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
