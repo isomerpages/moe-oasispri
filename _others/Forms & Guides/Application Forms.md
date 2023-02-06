@@ -39,6 +39,6 @@ For manual submission, the [Claim Form](/files/5B%20Claim%20form%20for%20Group%
 
 ### Student Wait List
 
-For Singapore Citizen/Singapore Permanent Resident pupils who wish to apply for a place in Oasis Primary School, please click [here](/files/6_Student_Wait_List_Form.pdf) to access the Waiting List Online Application Form.
+For Singapore Citizen/Singapore Permanent Resident pupils who wish to apply for a place in Oasis Primary School, please click [here](/files/Student_Wait_List_Form.pdf) to access the Waiting List Online Application Form.
 
 Please complete the form and hand it to the staff in the General Office. Alternatively, you may email the completed form to us at [oasis_ps@moe.edu.sg](mailto:oasis_ps@moe.edu.sg).
