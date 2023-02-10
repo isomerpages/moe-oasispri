@@ -61,6 +61,35 @@ Launch of the New Space in the Library
 <img src="/images/ZoneD2.jpg"
      style="width:50%">
 
+### P1 Speech and Drama (2022)
+
+**P1 Care**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R3p_bLU6bGI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+**P1 Harmony**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mEAtYXNLIgA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+**P1 Integrity**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uyYrMC9te1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+**P1 Loyalty**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ywklzzT4_qo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+**P1 Diligence**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KfeaISKW7bA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+**P1 Resilience**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eOTC7GxWsDk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+**P1 Empathy**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j4DgRvw1y-g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+**P1 Noble**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AjrZEMCTrLI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+**P1 Respect**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xvCD9eom3lY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### Oasis Book Day
 We are celebrating our Second Oasis Book Day this year. Both the English and Mother Tongue Departments would like to encourage all students to read more storybooks and participate in the various activities specially organized for them.
 
