@@ -75,6 +75,7 @@ Launch of the New Space in the Library
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ywklzzT4_qo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **P1 Diligence**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KfeaISKW7bA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **P1 Resilience**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eOTC7GxWsDk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
