@@ -74,6 +74,7 @@ Launch of the New Space in the Library
 **P1 Diligence**
 
 **P1 Resilience**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eOTC7GxWsDk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **P1 Empathy**
 
