@@ -74,7 +74,6 @@ Launch of the New Space in the Library
 **P1 Diligence**
 
 **P1 Resilience**
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eOTC7GxWsDk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **P1 Empathy**
@@ -82,7 +81,7 @@ Launch of the New Space in the Library
 **P1 Noble**
 
 **P1 Respect**
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xvCD9eom3lY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Oasis Book Day
 We are celebrating our Second Oasis Book Day this year. Both the English and Mother Tongue Departments would like to encourage all students to read more storybooks and participate in the various activities specially organized for them.
