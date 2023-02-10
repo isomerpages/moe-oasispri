@@ -61,6 +61,26 @@ Launch of the New Space in the Library
 <img src="/images/ZoneD2.jpg"
      style="width:50%">
 
+### P1 Speech and Drama (2022)
+P1 Care
+
+P1 Harmony
+
+P1 Integrity
+
+P1 Loyalty
+
+P1 Diligence
+
+P1 Resilience
+
+P1 Empathy
+
+P1 Noble
+
+P1 Respect
+
+
 ### Oasis Book Day
 We are celebrating our Second Oasis Book Day this year. Both the English and Mother Tongue Departments would like to encourage all students to read more storybooks and participate in the various activities specially organized for them.
 
