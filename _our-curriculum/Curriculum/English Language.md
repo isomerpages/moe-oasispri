@@ -62,23 +62,23 @@ Launch of the New Space in the Library
      style="width:50%">
 
 ### P1 Speech and Drama (2022)
-P1 Care
+**P1 Care**
 
-P1 Harmony
+**P1 Harmony**
 
-P1 Integrity
+**P1 Integrity**
 
-P1 Loyalty
+**P1 Loyalty**
 
-P1 Diligence
+**P1 Diligence**
 
-P1 Resilience
+**P1 Resilience**
 
-P1 Empathy
+**P1 Empathy**
 
-P1 Noble
+**P1 Noble**
 
-P1 Respect
+**P1 Respect**
 
 
 ### Oasis Book Day
