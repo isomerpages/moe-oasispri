@@ -30,11 +30,11 @@ description: ""
   </tr>
   <tr>
     <td class="tg-8wja">Tel:</td>
-    <td class="tg-5env">+65 6282 4864</td>
+    <td class="tg-5env">+65 6320 9855</td>
   </tr>
   <tr>
 		<td class="tg-8wja">Fax:</td>
-    <td class="tg-5env">+65 6282 4864</td>
+    <td class="tg-5env">+65 6320 9856</td>
   </tr>
   <tr>
     <td class="tg-8wja">Email:</td>
