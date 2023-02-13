@@ -1,5 +1,5 @@
 collections:
-  links:
+  useful-links:
     output: true
     order:
       - Frequently Asked Questions.md
