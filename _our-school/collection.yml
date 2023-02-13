@@ -2,7 +2,6 @@ collections:
   our-school:
     output: true
     order:
-      - Contact Us.md
       - Principal's Message.md
       - School Vision, Mission & Motto.md
       - School Values.md
@@ -10,3 +9,4 @@ collections:
       - School Crest.md
       - School Rules.md
       - School Song.md
+      - Contact Us.md
