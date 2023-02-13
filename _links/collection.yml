@@ -2,5 +2,5 @@ collections:
   links:
     output: true
     order:
-      - Frequently Asked Questions.md
       - Teachers.md
+      - Frequently Asked Questions.md
