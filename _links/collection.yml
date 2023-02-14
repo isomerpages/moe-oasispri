@@ -2,4 +2,6 @@ collections:
   links:
     output: true
     order:
-      - Useful Links.md
+      - Students.md
+      - Teachers.md
+      - Frequently Asked Questions.md
