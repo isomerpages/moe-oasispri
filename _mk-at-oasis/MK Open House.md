@@ -5,4 +5,5 @@ description: ""
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6CPZOR2bXUU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-[MK Open House Briefing Slides](/files/MK_Open_House_Briefing_Slides.pdf)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yKAmR1N2df0?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
