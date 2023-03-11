@@ -48,7 +48,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-0ynh">1 Harmony<br></td>
-    <td class="tg-0ynh">Ms Sophie<br></td>
+    <td class="tg-0ynh"><br></td>
     <td class="tg-0ynh">Ms Stacey Koh<br></td>
   </tr>
   <tr>
