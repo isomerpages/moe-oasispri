@@ -48,7 +48,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-0ynh">1 Harmony<br></td>
-    <td class="tg-0ynh">Ms Sophie<br></td>
+    <td class="tg-0ynh"><br></td>
     <td class="tg-0ynh">Ms Stacey Koh<br></td>
   </tr>
   <tr>
@@ -132,7 +132,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-7vye">2 Noble<br></td>
-    <td class="tg-7vye">Mrs Nathan<br></td>
+    <td class="tg-7vye"><br></td>
     <td class="tg-7vye">Mdm Celeste Yap</td>
   </tr>
   <tr>

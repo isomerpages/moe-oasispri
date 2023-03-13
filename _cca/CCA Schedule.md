@@ -176,7 +176,7 @@ description: ""
   <tr>
     <td class="tg-vd2a">Media Club<br></td>
     <td class="tg-vd2a">Mdm Norizah<br></td>
-    <td class="tg-vd2a">Ms Sophie</td>
+    <td class="tg-vd2a"></td>
   </tr>
   <tr>
     <td class="tg-vd2a">Language &amp; Cultural Club<br></td>
