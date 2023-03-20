@@ -100,7 +100,7 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-		<br>
+		<br><br>
     <th class="tg-dzgf">Category<br></th>
     <th class="tg-dzgf">CCA<br></th>
     <th class="tg-h1v5">Overall Teachers-In-Charge<br></th>
