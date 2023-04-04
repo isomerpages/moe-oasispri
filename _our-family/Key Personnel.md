@@ -13,7 +13,7 @@ description: ""
 
 <img src="/images/Group3_Pic.jpg" style="width:100%">
 
-<img src="/images/group3a_table.jpg" style="width:100%">
+<img src="/images/group3_table.jpg" style="width:100%">
 
 <img src="/images/Group4_Pic.jpg" style="width:100%">
 
