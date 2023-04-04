@@ -37,7 +37,7 @@ description: ""
     <td class="tg-1d14">Mr Muhamad Iskandar Bin Sarkawai</td>
   </tr>
   <tr>
-    <td class="tg-dv6r">ICT Manager<br></td>
+    <td class="tg-dv6r">Information &amp; Communications Technology Manager<br></td>
     <td class="tg-j74v">Mr Lum Wai Hoong<br></td>
   </tr>
   <tr>
@@ -83,7 +83,7 @@ description: ""
 </tbody>
 </table>
 
-### Support
+### Support Team
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -99,7 +99,7 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-dv6r">ICT Trainer</th>
+    <th class="tg-dv6r">Information &amp; Communications Technology  Trainer</th>
     <th class="tg-j74v">Mr Devetharan<br></th>
   </tr>
 </thead>
@@ -113,7 +113,7 @@ description: ""
     <td class="tg-j74v">Ms Durgadevi<br></td>
   </tr>
   <tr>
-		<td class="tg-dv6r">Lab Assistant<br></td>
+		<td class="tg-dv6r">Science Lab Assistant<br></td>
     <td class="tg-j74v">Ms Iris Lee<br></td>
   </tr>
   <tr>
