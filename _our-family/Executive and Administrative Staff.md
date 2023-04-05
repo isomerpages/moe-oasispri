@@ -41,46 +41,43 @@ description: ""
     <td class="tg-j74v">Mr Lum Wai Hoong<br></td>
   </tr>
   <tr>
-    <td class="tg-8com">Administrative Executive</td>
-    <td class="tg-1d14">Mdm Tan Siew Lian</td>
+    <td class="tg-8com">Corporate Support Officer</td>
+    <td class="tg-1d14">Ms Eveline Goh</td>
   </tr>
   <tr>
     <td class="tg-dv6r">Corporate Support Officer</td>
-    <td class="tg-j74v">Ms Eveline Goh</td>
-  </tr>
-  <tr>
-    <td class="tg-8com">Corporate Support Officer<br></td>
-    <td class="tg-1d14">Mdm Tan Hui Geok<br></td>
-  </tr>
-  <tr>
-    <td class="tg-dv6r">Operations Support Officer</td>
-    <td class="tg-j74v">Mdm Chong Lee Fah</td>
-  </tr>
-  <tr>
-    <td class="tg-8com">Operations Support Officer</td>
-    <td class="tg-1d14">Mdm Lee Chor Yong</td>
-  </tr>
-  <tr>
-    <td class="tg-dv6r">Operations Support Officer</td>
-    <td class="tg-j74v">Mdm Loe Kwee Lan</td>
+    <td class="tg-j74v">Mdm Tan Hui Geok</td>
   </tr>
   <tr>
     <td class="tg-8com">Operations Support Officer<br></td>
-    <td class="tg-1d14">Mr Vincent Neui</td>
+    <td class="tg-1d14">Mdm Chong Lee Fah<br></td>
   </tr>
   <tr>
     <td class="tg-dv6r">Operations Support Officer</td>
-    <td class="tg-j74v">Ms Tan Ching Lean</td>
+    <td class="tg-j74v">Mdm Lee Chor Yong</td>
   </tr>
   <tr>
     <td class="tg-8com">Operations Support Officer</td>
-    <td class="tg-1d14">Mr Tay Beng<span style="background-color:#F1F6E4"> </span>Chuan</td>
+    <td class="tg-1d14">Mdm Loe Kwee Lan</td>
   </tr>
   <tr>
-    <td class="tg-dv6r">Operations Support Officer<br></td>
-    <td class="tg-j74v">Mr Tan Cheng Hoe Robin</td>
+    <td class="tg-dv6r">Operations Support Officer</td>
+    <td class="tg-j74v">Mr Vincent Neui</td>
   </tr>
-</tbody>
+  <tr>
+    <td class="tg-8com">Operations Support Officer<br></td>
+    <td class="tg-1d14">Ms Tan Ching Lean</td>
+  </tr>
+  <tr>
+    <td class="tg-dv6r">Operations Support Officer</td>
+    <td class="tg-j74v">Mr Tay Beng Chuan</td>
+  </tr>
+  <tr>
+    <td class="tg-8com">Operations Support Officer</td>
+    <td class="tg-1d14">Mr Tan Cheng Hoe Robin</td>
+  </tr>
+  <tr>
+</tr></tbody>
 </table>
 
 ### Support Team
@@ -124,5 +121,6 @@ description: ""
     <td class="tg-dv6r">Receptionist</td>
     <td class="tg-j74v">Miss Jacqueline Ng</td>
   </tr>
-</tbody>
+	<tr>
+</tr></tbody>
 </table>
