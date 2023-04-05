@@ -48,8 +48,8 @@ description: ""
   </tr>
   <tr>
     <td class="tg-0ynh">1 Harmony<br></td>
-    <td class="tg-0ynh"><br></td>
-    <td class="tg-0ynh">Ms Stacey Koh<br></td>
+    <td class="tg-0ynh">Ms Tham Hui Xia<br></td>
+    <td class="tg-0ynh">Ms Stacey Koh<br>Ms Kim Hee Eun</td>
   </tr>
   <tr>
     <td class="tg-7vye">1 Integrity<br></td>
@@ -132,7 +132,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-7vye">2 Noble<br></td>
-    <td class="tg-7vye"><br></td>
+    <td class="tg-7vye">Mr Ong Wei Chong<br></td>
     <td class="tg-7vye">Mdm Celeste Yap</td>
   </tr>
   <tr>
@@ -201,7 +201,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-0ynh">3 Loyalty<br></td>
-    <td class="tg-0ynh">Ms Ho Wan Yu</td>
+    <td class="tg-0ynh">Ms Yeo Puay Suan</td>
     <td class="tg-0ynh">Mdm Yeung Yuk<br></td>
   </tr>
   <tr>
