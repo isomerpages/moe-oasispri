@@ -20,21 +20,21 @@ description: ""
 <thead>
   <tr>
     <th class="tg-dv6r">Administration Manager</th>
-    <th class="tg-j74v">Mr Mah Kian Lye</th>
+    <th class="tg-j74v">Ms Ng Pauline</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-8com">Administration Manager</td>
-    <td class="tg-1d14">Ms Pauline Ng</td>
+    <td class="tg-1d14">Mr Mah Kian Lye</td>
   </tr>
   <tr>
     <td class="tg-dv6r">Operations Manager</td>
-    <td class="tg-j74v">Mr James Yeo</td>
+    <td class="tg-j74v">Mr Yeo Hock Kiang</td>
   </tr>
   <tr>
     <td class="tg-8com">Operations Manager</td>
-    <td class="tg-1d14">Mr Muhamad Iskandar Bin Sarkawai</td>
+    <td class="tg-1d14">Mr Muhamad Iskandar bin Sarkawai</td>
   </tr>
   <tr>
     <td class="tg-dv6r">Information &amp; Communications Technology Manager<br></td>
@@ -89,7 +89,7 @@ description: ""
 <thead>
   <tr>
     <th class="tg-dv6r">Information &amp; Communications Technology  Trainer</th>
-    <th class="tg-j74v">Mr Devetharan<br></th>
+    <th class="tg-j74v">Mr Devetharan S/O Sritharan<br></th>
   </tr>
 </thead>
 <tbody>
@@ -99,19 +99,19 @@ description: ""
   </tr>
   <tr>
     <td class="tg-dv6r">Desktop Engineer<br></td>
-    <td class="tg-j74v">Ms Durgadevi<br></td>
+    <td class="tg-j74v">Ms Durgadevi D/O Mogan<br></td>
   </tr>
   <tr>
 		<td class="tg-dv6r">Science Lab Assistant<br></td>
-    <td class="tg-j74v">Ms Iris Lee<br></td>
+    <td class="tg-j74v">Ms Iris Lee Yuet Ngan<br></td>
   </tr>
   <tr>
     <td class="tg-8com">Librarian<br></td>
-    <td class="tg-1d14">Mdm Frannie Chung</td>
+    <td class="tg-1d14">Mdm Frannie Chung Sau Kuen</td>
   </tr>
   <tr>
     <td class="tg-dv6r">Receptionist</td>
-    <td class="tg-j74v">Miss Jacqueline Ng</td>
+    <td class="tg-j74v">Miss Ng Hui Woon Jacqueline</td>
   </tr>
 	<tr>
 </tr></tbody>
