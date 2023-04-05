@@ -20,67 +20,56 @@ description: ""
 <thead>
   <tr>
     <th class="tg-dv6r">Administration Manager</th>
-    <th class="tg-j74v">Mr Mah Kian Lye</th>
+    <th class="tg-j74v">Ms Ng Pauline</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-8com">Administration Manager</td>
-    <td class="tg-1d14">Ms Pauline Ng</td>
+    <td class="tg-1d14">Mr Mah Kian Lye</td>
   </tr>
   <tr>
     <td class="tg-dv6r">Operations Manager</td>
-    <td class="tg-j74v">Mr James Yeo</td>
+    <td class="tg-j74v">Mr Yeo Hock Kiang</td>
   </tr>
   <tr>
     <td class="tg-8com">Operations Manager</td>
-    <td class="tg-1d14">Mr Muhamad Iskandar Bin Sarkawai</td>
+    <td class="tg-1d14">Mr Muhamad Iskandar bin Sarkawai</td>
   </tr>
   <tr>
     <td class="tg-dv6r">Information &amp; Communications Technology Manager<br></td>
     <td class="tg-j74v">Mr Lum Wai Hoong<br></td>
   </tr>
   <tr>
-    <td class="tg-8com">Administrative Executive</td>
-    <td class="tg-1d14">Mdm Tan Siew Lian</td>
+    <td class="tg-8com">Corporate Support Officer</td>
+    <td class="tg-1d14">Mdm Tan Hui Geok</td>
   </tr>
   <tr>
     <td class="tg-dv6r">Corporate Support Officer</td>
-    <td class="tg-j74v">Ms Eveline Goh</td>
-  </tr>
-  <tr>
-    <td class="tg-8com">Corporate Support Officer<br></td>
-    <td class="tg-1d14">Mdm Tan Hui Geok<br></td>
-  </tr>
-  <tr>
-    <td class="tg-dv6r">Operations Support Officer</td>
-    <td class="tg-j74v">Mdm Chong Lee Fah</td>
-  </tr>
-  <tr>
-    <td class="tg-8com">Operations Support Officer</td>
-    <td class="tg-1d14">Mdm Lee Chor Yong</td>
-  </tr>
-  <tr>
-    <td class="tg-dv6r">Operations Support Officer</td>
-    <td class="tg-j74v">Mdm Loe Kwee Lan</td>
+    <td class="tg-j74v">Mdm Goh Lay Hiang Eveline</td>
   </tr>
   <tr>
     <td class="tg-8com">Operations Support Officer<br></td>
-    <td class="tg-1d14">Mr Vincent Neui</td>
+    <td class="tg-1d14">Ms Tan Ching Lean<br></td>
   </tr>
   <tr>
     <td class="tg-dv6r">Operations Support Officer</td>
-    <td class="tg-j74v">Ms Tan Ching Lean</td>
+    <td class="tg-j74v">Mdm Lee Chor Yong</td>
   </tr>
   <tr>
     <td class="tg-8com">Operations Support Officer</td>
-    <td class="tg-1d14">Mr Tay Beng<span style="background-color:#F1F6E4"> </span>Chuan</td>
+    <td class="tg-1d14">Mr Neui Yew Wing Vincent</td>
   </tr>
   <tr>
-    <td class="tg-dv6r">Operations Support Officer<br></td>
-    <td class="tg-j74v">Mr Tan Cheng Hoe Robin</td>
+    <td class="tg-dv6r">Operations Support Officer</td>
+    <td class="tg-j74v">Mr Tay Beng Chuan</td>
   </tr>
-</tbody>
+  <tr>
+    <td class="tg-8com">Operations Support Officer<br></td>
+    <td class="tg-1d14">Mr Tan Cheng Hoe Robin</td>
+  </tr>
+  <tr>
+</tr></tbody>
 </table>
 
 ### Support Team
@@ -100,7 +89,7 @@ description: ""
 <thead>
   <tr>
     <th class="tg-dv6r">Information &amp; Communications Technology  Trainer</th>
-    <th class="tg-j74v">Mr Devetharan<br></th>
+    <th class="tg-j74v">Mr Devetharan S/O Sritharan<br></th>
   </tr>
 </thead>
 <tbody>
@@ -110,19 +99,20 @@ description: ""
   </tr>
   <tr>
     <td class="tg-dv6r">Desktop Engineer<br></td>
-    <td class="tg-j74v">Ms Durgadevi<br></td>
+    <td class="tg-j74v">Ms Durgadevi D/O Mogan<br></td>
   </tr>
   <tr>
 		<td class="tg-dv6r">Science Lab Assistant<br></td>
-    <td class="tg-j74v">Ms Iris Lee<br></td>
+    <td class="tg-j74v">Ms Iris Lee Yuet Ngan<br></td>
   </tr>
   <tr>
     <td class="tg-8com">Librarian<br></td>
-    <td class="tg-1d14">Mdm Frannie Chung</td>
+    <td class="tg-1d14">Mdm Frannie Chung Sau Kuen</td>
   </tr>
   <tr>
     <td class="tg-dv6r">Receptionist</td>
-    <td class="tg-j74v">Miss Jacqueline Ng</td>
+    <td class="tg-j74v">Miss Ng Hui Woon Jacqueline</td>
   </tr>
-</tbody>
+	<tr>
+</tr></tbody>
 </table>

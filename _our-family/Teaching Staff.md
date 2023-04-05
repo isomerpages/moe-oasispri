@@ -48,8 +48,8 @@ description: ""
   </tr>
   <tr>
     <td class="tg-0ynh">1 Harmony<br></td>
-    <td class="tg-0ynh"><br></td>
-    <td class="tg-0ynh">Ms Stacey Koh<br></td>
+    <td class="tg-0ynh">Ms Tham Hui Xia<br></td>
+    <td class="tg-0ynh">Ms Stacey Koh<br>Ms Kim Hee Eun</td>
   </tr>
   <tr>
     <td class="tg-7vye">1 Integrity<br></td>
@@ -71,7 +71,8 @@ description: ""
     <td class="tg-0ynh">Mrs Jaslyn Heng<br></td>
     <td class="tg-0ynh">Mrs Anastasia Chan</td>
 	</tr>
-  </tbody>
+	<tr>
+  </tr></tbody>
 </table>
 
 <style type="text/css">
@@ -132,7 +133,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-7vye">2 Noble<br></td>
-    <td class="tg-7vye"><br></td>
+    <td class="tg-7vye">Mr Ong Wei Chong<br></td>
     <td class="tg-7vye">Mdm Celeste Yap</td>
   </tr>
   <tr>
@@ -145,7 +146,8 @@ description: ""
     <td class="tg-7vye">Mdm Judy Tng<br></td>
     <td class="tg-7vye">Ms Maalini</td>
   </tr>
-</tbody>
+	<tr>
+</tr></tbody>
 </table>
 
 <style type="text/css">
@@ -201,7 +203,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-0ynh">3 Loyalty<br></td>
-    <td class="tg-0ynh">Ms Ho Wan Yu</td>
+    <td class="tg-0ynh">Ms Yeo Puay Suan</td>
     <td class="tg-0ynh">Mdm Yeung Yuk<br></td>
   </tr>
   <tr>
@@ -209,7 +211,8 @@ description: ""
     <td class="tg-7vye">Mr Lim Yen Teng<br></td>
     <td class="tg-7vye">Mdm Lyvia Soh</td>
   </tr>
-</tbody>
+	<tr>
+</tr></tbody>
 </table>
 
 <style type="text/css">
@@ -273,7 +276,8 @@ description: ""
     <td class="tg-7vye">Mdm Maziyah<br></td>
     <td class="tg-7vye">Mr Vaahid</td>
   </tr>
-</tbody>
+	<tr>
+</tr></tbody>
 </table>
 
 <style type="text/css">
@@ -342,7 +346,8 @@ description: ""
     <td class="tg-0ynh">Mrs Tan-Koh Peck Lian</td>
     <td class="tg-0ynh">Mr Farhan</td>
   </tr>
-</tbody>
+	<tr>
+</tr></tbody>
 </table>
 
 <style type="text/css">
@@ -406,7 +411,8 @@ description: ""
     <td class="tg-7vye">Mr Yeo Yung Sen<br></td>
     <td class="tg-7vye">Ms Yim Wai Peng</td>
   </tr>
-</tbody>
+	<tr>
+</tr></tbody>
 </table>
 
 ### Student Support
