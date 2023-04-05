@@ -42,15 +42,15 @@ description: ""
   </tr>
   <tr>
     <td class="tg-8com">Corporate Support Officer</td>
-    <td class="tg-1d14">Ms Eveline Goh</td>
+    <td class="tg-1d14">Mdm Tan Hui Geok</td>
   </tr>
   <tr>
     <td class="tg-dv6r">Corporate Support Officer</td>
-    <td class="tg-j74v">Mdm Tan Hui Geok</td>
+    <td class="tg-j74v">Mdm Goh Lay Hiang Eveline</td>
   </tr>
   <tr>
     <td class="tg-8com">Operations Support Officer<br></td>
-    <td class="tg-1d14">Mdm Chong Lee Fah<br></td>
+    <td class="tg-1d14">Ms Tan Ching Lean<br></td>
   </tr>
   <tr>
     <td class="tg-dv6r">Operations Support Officer</td>
@@ -58,22 +58,14 @@ description: ""
   </tr>
   <tr>
     <td class="tg-8com">Operations Support Officer</td>
-    <td class="tg-1d14">Mdm Loe Kwee Lan</td>
-  </tr>
-  <tr>
-    <td class="tg-dv6r">Operations Support Officer</td>
-    <td class="tg-j74v">Mr Vincent Neui</td>
-  </tr>
-  <tr>
-    <td class="tg-8com">Operations Support Officer<br></td>
-    <td class="tg-1d14">Ms Tan Ching Lean</td>
+    <td class="tg-1d14">Mr Neui Yew Wing Vincent</td>
   </tr>
   <tr>
     <td class="tg-dv6r">Operations Support Officer</td>
     <td class="tg-j74v">Mr Tay Beng Chuan</td>
   </tr>
   <tr>
-    <td class="tg-8com">Operations Support Officer</td>
+    <td class="tg-8com">Operations Support Officer<br></td>
     <td class="tg-1d14">Mr Tan Cheng Hoe Robin</td>
   </tr>
   <tr>
