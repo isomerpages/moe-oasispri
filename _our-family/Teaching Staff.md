@@ -71,7 +71,8 @@ description: ""
     <td class="tg-0ynh">Mrs Jaslyn Heng<br></td>
     <td class="tg-0ynh">Mrs Anastasia Chan</td>
 	</tr>
-  </tbody>
+	<tr>
+  </tr></tbody>
 </table>
 
 <style type="text/css">
@@ -145,7 +146,8 @@ description: ""
     <td class="tg-7vye">Mdm Judy Tng<br></td>
     <td class="tg-7vye">Ms Maalini</td>
   </tr>
-</tbody>
+	<tr>
+</tr></tbody>
 </table>
 
 <style type="text/css">
@@ -209,7 +211,8 @@ description: ""
     <td class="tg-7vye">Mr Lim Yen Teng<br></td>
     <td class="tg-7vye">Mdm Lyvia Soh</td>
   </tr>
-</tbody>
+	<tr>
+</tr></tbody>
 </table>
 
 <style type="text/css">
@@ -273,7 +276,8 @@ description: ""
     <td class="tg-7vye">Mdm Maziyah<br></td>
     <td class="tg-7vye">Mr Vaahid</td>
   </tr>
-</tbody>
+	<tr>
+</tr></tbody>
 </table>
 
 <style type="text/css">
@@ -342,7 +346,8 @@ description: ""
     <td class="tg-0ynh">Mrs Tan-Koh Peck Lian</td>
     <td class="tg-0ynh">Mr Farhan</td>
   </tr>
-</tbody>
+	<tr>
+</tr></tbody>
 </table>
 
 <style type="text/css">
@@ -406,7 +411,8 @@ description: ""
     <td class="tg-7vye">Mr Yeo Yung Sen<br></td>
     <td class="tg-7vye">Ms Yim Wai Peng</td>
   </tr>
-</tbody>
+	<tr>
+</tr></tbody>
 </table>
 
 ### Student Support
