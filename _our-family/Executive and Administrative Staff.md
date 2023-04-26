@@ -102,11 +102,7 @@ description: ""
     <td class="tg-j74v">Ms Durgadevi D/O Mogan<br></td>
   </tr>
   <tr>
-		<td class="tg-dv6r">Science Lab Assistant<br></td>
-    <td class="tg-j74v">Ms Iris Lee Yuet Ngan<br></td>
-  </tr>
-  <tr>
-    <td class="tg-8com">Librarian<br></td>
+	  <td class="tg-8com">Librarian<br></td>
     <td class="tg-1d14">Mdm Frannie Chung Sau Kuen</td>
   </tr>
   <tr>
