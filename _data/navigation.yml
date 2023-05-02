@@ -2,7 +2,7 @@ logo: /images/Oasis.jpeg
 links:
   - title: Our School
     collection: our-school
-  - title: "Our Distinctiveness "
+  - title: Our Distinctiveness
     url: /our-distinctiveness/oasis-learning-experiences/
     sublinks:
       - title: Oasis Learning Experiences
@@ -24,7 +24,7 @@ links:
         url: /our-curriculum/co-curricular-activities/
   - title: Our Family
     collection: our-family
-  - title: Links
-    collection: links
+  - title: Information
+    collection: information
   - title: MK@Oasis
     collection: mk-at-oasis

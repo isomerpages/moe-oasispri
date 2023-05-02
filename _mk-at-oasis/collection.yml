@@ -2,6 +2,7 @@ collections:
   mk-at-oasis:
     output: true
     order:
+      - LIFE@MK.md
       - MK Open House.md
       - MK Family.md
       - MK Curriculum.md
