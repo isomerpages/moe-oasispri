@@ -69,3 +69,7 @@ description: ""
 ### Teachers Day
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQrKpEquMqPJROhb2JkzbfuyZ36uCZ2soZR-mN-z1EJuw7leuNy7pCjbF3I5PvEEYAbEI4i9cm5tiQV/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+
+### Application for eGIRO
+
+Please click&nbsp;[here](https://go.gov.sg/moe-online-giro-form)&nbsp;to join via FormSG.&nbsp;SingPass login is required.
