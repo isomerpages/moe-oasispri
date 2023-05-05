@@ -17,7 +17,7 @@ The NEU PC Plus Programme offers low-income households with student or person wi
 
 For forms and details:  [https://www.digitalaccess.gov.sg](https://www.digitalaccess.gov.sg)
 
-### Application for GIRO
+### Application for eGIRO
 
 Please click [here](https://go.gov.sg/moe-online-giro-form) to join via FormSG. SingPass login is required.
 
