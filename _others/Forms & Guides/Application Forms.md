@@ -15,7 +15,8 @@ Please visit MOE's official website [here](https://www.moe.gov.sg/financial-mat
 
 The NEU PC Plus Programme offers low-income households with student or person with disabilities the opportunity to own a brand new computer at an affordable price.  
 
-For forms and details:  [https://www.imda.gov.sg/neupc](https://www.imda.gov.sg/neupc)
+For forms and details:  [https://www.digitalaccess.gov.sg]
+(https://www.digitalaccess.gov.sg)
 
 ### Application for GIRO
 
