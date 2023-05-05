@@ -15,15 +15,15 @@ Please visit MOE's official website&nbsp;[here](https://www.moe.gov.sg/financial
 
 The NEU PC Plus Programme offers low-income households with student or person with disabilities the opportunity to own a brand new computer at an affordable price.  
 
-For forms and details:&nbsp;&nbsp;[https://www.digitalaccess.gov.sg](https://www.digitalaccess.gov.sg)
+For forms and details, click [here](https://www.digitalaccess.gov.sg).
 
 ### Application for eGIRO
 
-Through Parents Gateway -&gt; Services tab "GIRO setup" or [https://www.moe.gov.sg/financial-matters/fees/egiro](https://www.moe.gov.sg/financial-matters/fees/egiro)
+Through Parents Gateway -&gt; Services tab "GIRO setup" or click [here](https://www.moe.gov.sg/financial-matters/fees/egiro).
 
 For DBS/POSB, OCBC, UOB, BOC, MayBank, HSBC and SCB
 
-For parents who already have GIRO arrangement with MOE for school fees and wish to give consent to use the same GIRO arrangement to pay for the enrichment programme and school charges under School Bill, you may scan the QR code below or click [https://go.gov.sg/moe-giro-option](https://go.gov.sg/moe-giro-option).
+For parents who already have GIRO arrangement with MOE for school fees and wish to give consent to use the same GIRO arrangement to pay for the enrichment programme and school charges under School Bill, you may scan the QR code below or click [here](https://go.gov.sg/moe-giro-option).
 
 <img src="/images/moe_giro_option.jpg" style="width:30%">
 
