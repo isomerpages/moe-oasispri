@@ -19,7 +19,13 @@ For forms and details:  [https://www.digitalaccess.gov.sg](https://www.digital
 
 ### Application for eGIRO
 
-Please click [here](https://go.gov.sg/moe-online-giro-form) to join via FormSG. SingPass login is required.
+Through Parents Gateway -> Services tab "GIRO setup" or [https://www.moe.gov.sg/financial-matters/fees/egiro](https://www.moe.gov.sg/financial-matters/fees/egiro)
+
+For DBS/POSB, OCBC, UOB, BOC, MayBank, HSBC and SCB
+
+For parents who already have GIRO arrangement with MOE for school fees and wish to give consent to use the same GIRO arrangement to pay for the enrichment programme and school charges under School Bill, you may scan the following QR code or click [https://go.gov.sg/moe-giro-option](https://go.gov.sg/moe-giro-option).
+
+Paste QR Code here
 
 ### Giro Termination Form
 
