@@ -25,7 +25,7 @@ For DBS/POSB, OCBC, UOB, BOC, MayBank, HSBC and SCB
 
 For parents who already have GIRO arrangement with MOE for school fees and wish to give consent to use the same GIRO arrangement to pay for the enrichment programme and school charges under School Bill, you may scan the QR code below or click [https://go.gov.sg/moe-giro-option](https://go.gov.sg/moe-giro-option).
 
-<img src="/images/MOE_GIRO_Option" style="width:50%">
+<img src="/images/MOE_GIRO_Option" style="width:25%">
 
 ### Giro Termination Form
 
