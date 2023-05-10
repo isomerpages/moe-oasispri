@@ -6,18 +6,24 @@ third_nav_title: School Life
 ---
 #### School Canteen Advertisement
 
-| Type of Stall | Closing Date | Requirements |
+<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="174" valign="top" style="width:130.7pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="EN-SG">Type of Stall</span></p></td><td width="174" valign="top" style="width:130.7pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="EN-SG">Closing Date</span></p></td><td width="174" valign="top" style="width:130.7pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="EN-SG">Requirement</span></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"><td width="174" valign="top" style="width:130.7pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="EN-SG">Halal Rice</span></p></td><td width="174" valign="top" style="width:130.7pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="EN-SG">19 May 2023</span></p></td><td width="174" valign="top" style="width:130.7pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="EN-SG">Nil</span></p></td></tr></tbody></table>
 
-| -------- | -------- | -------- |
+**Application Procedure**
 
-| Chicken Rice     | 31 May 2023     | Mixed rice is acceptable.    |
+1\. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
 
-| Malay Food Stall | 30 Jun 2023 | Rice or noodle stalls are acceptable.|
-
-| Western Food Stall | 15 Jul 2023 | NIL|
-
-| Japanese Stall (halal/non-halal) and Western Food Stall (halal/non-halal) | 20 Jul 2023 | Schools may include any other requirements for stall applicants, if required, or this column may also be removed if desired.|[\[AK(1\]](#_msocom_1) 
-
-* * *
-
- [\[AK(1\]](#_msoanchor_1)Advertisements. School to update their advertisements
+Application Form
