@@ -54,3 +54,10 @@ Application Form
 \* Healthy and fit to operate the stall. <br>
 \* Must be in personal attendance at the stall during operating hours. <br>
 \* Must always maintain stall cleanliness. <br>
+
+**Applicants should preferably fulfil the following criteria:** <br>
+\* Successful applicant and stall assistant(s) must possess the WSQ Basic Food Hygiene Certificate. <br>
+\* Possess catering experience or experience operating in a school environment. <br>
+\* Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA). <br>
+
+
