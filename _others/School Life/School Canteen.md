@@ -38,4 +38,9 @@ Application Form
 \* Contact No: +65 6320 9855 <br>
 \* Email: ops@schools.gov.sg <br>
 \* Contact Person: Mr. Mah <br>
+       
+**How to get there?** <br>
+\* Nearest MRT: Punggol MRT (NE17) <br>
+\* Nearest LRT: Damai (PE 7) or Oasis (PE 6) - 5 minutes walking distance <br>
+\* Bus number: 50, 666 - 5 minutes walking distance <br>
 
