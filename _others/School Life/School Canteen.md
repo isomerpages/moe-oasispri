@@ -24,7 +24,6 @@ third_nav_title: School Life
 
 **Application Procedure** <br>
 1\. Download and complete the application form. You may also request for a hardcopy from the School’s General Office. <br>
-
 [Application Form](/files/Canteen_Application_Form.pdf)
 
 2\. Attached the following documents together with the application form: <br>
