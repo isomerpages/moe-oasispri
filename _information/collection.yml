@@ -2,7 +2,6 @@ collections:
   information:
     output: true
     order:
-      - School Canteen.md
       - Students.md
       - Teachers.md
       - Frequently Asked Questions.md
