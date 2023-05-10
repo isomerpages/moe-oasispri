@@ -22,7 +22,7 @@ third_nav_title: School Life
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="EN-SG">Nil</span></p></td></tr></tbody></table>
 
-**Application Procedure** <br>
+##### Application Procedure
 1\. Download and complete the application form. You may also request for a hardcopy from the School’s General Office. <br>
 [Application Form](/files/Canteen_Application_Form.pdf)
 
@@ -37,12 +37,12 @@ third_nav_title: School Life
 \* Email: ops@schools.gov.sg <br>
 \* Contact Person: Mr. Mah <br>
        
-**How to get there?** <br>
+##### How to get there?
 \* Nearest MRT: Punggol MRT (NE17) <br>
 \* Nearest LRT: Damai (PE 7) or Oasis (PE 6) - 5 minutes walking distance <br>
 \* Bus number: 50, 666 - 5 minutes walking distance <br>
     
-**Interest applicants must meet the following criteria:** <br>
+##### Interest applicants must meet the following criteria:
 \* Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant. <br>
 \* Able to provide good service and quality food at reasonable prices determined in consultation with the school. <br>
 \* Able to provide a varied and healthy nutritional menu that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools Programme (HMSP)" guidelines
@@ -52,7 +52,7 @@ third_nav_title: School Life
 \* Must be in personal attendance at the stall during operating hours. <br>
 \* Must always maintain stall cleanliness. <br>
 
-**Applicants should preferably fulfil the following criteria:** <br>
+##### Applicants should preferably fulfil the following criteria:
 \* Successful applicant and stall assistant(s) must possess the WSQ Basic Food Hygiene Certificate. <br>
 \* Possess catering experience or experience operating in a school environment. <br>
 \* Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA). <br>
