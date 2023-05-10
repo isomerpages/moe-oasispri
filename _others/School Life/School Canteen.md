@@ -5,7 +5,6 @@ description: ""
 third_nav_title: School Life
 ---
 ### School Canteen Advertisement
-<br>
 <table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="174" valign="top" style="width:130.7pt;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="EN-SG">Type of Stall</span></p></td><td width="174" valign="top" style="width:130.7pt;border:solid windowtext 1.0pt;
@@ -33,7 +32,7 @@ third_nav_title: School Life
 3\. Submit the completed application form and documents by closing date via email OR to the School's General Office. <br>
 \* Address: 71 Edgefield Plains, Singapore 828716 <br>
 \* Contact No: +65 6320 9855 <br>
-\* Email: oasis_ps@moe.edu.sg <br>
+\* Email: [oasis_ps@moe.edu.sg](mailto:oasis_ps@moe.edu.sg) <br>
 \* Contact Person: Mr. Mah <br>
        
 ##### How to get there?
