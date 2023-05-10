@@ -5,8 +5,7 @@ description: ""
 third_nav_title: School Life
 ---
 #### School Canteen Advertisement
-
-
+<br>
 <table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="174" valign="top" style="width:130.7pt;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="EN-SG">Type of Stall</span></p></td><td width="174" valign="top" style="width:130.7pt;border:solid windowtext 1.0pt;
@@ -25,7 +24,8 @@ third_nav_title: School Life
 
 **Application Procedure** <br>
 1\. Download and complete the application form. You may also request for a hardcopy from the School’s General Office. <br>
-Application Form
+
+[Application Form]()
 
 2\. Attached the following documents together with the application form: <br>
 \* Photocopy of the NRIC (front and back) <br>
