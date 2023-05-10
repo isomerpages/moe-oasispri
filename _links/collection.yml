@@ -1,5 +1,5 @@
 collections:
-  information:
+  links:
     output: true
     order:
       - Students.md
