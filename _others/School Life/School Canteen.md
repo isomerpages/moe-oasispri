@@ -44,3 +44,13 @@ Application Form
 \* Nearest LRT: Damai (PE 7) or Oasis (PE 6) - 5 minutes walking distance <br>
 \* Bus number: 50, 666 - 5 minutes walking distance <br>
 
+    
+**Interest applicants must meet the following criteria:** <br>
+\* Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant. <br>
+\* Able to provide good service and quality food at reasonable prices determined in consultation with the school. <br>
+\* Able to provide a varied and healthy nutritional menu that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools Programme (HMSP)" guidelines
+[https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme). <br>
+\* Able to observe a high standard of food and personal hygiene that meets NEA requirements. <br>
+\* Healthy and fit to operate the stall. <br>
+\* Must be in personal attendance at the stall during operating hours. <br>
+\* Must always maintain stall cleanliness. <br>
