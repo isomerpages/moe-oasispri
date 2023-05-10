@@ -28,8 +28,14 @@ third_nav_title: School Life
 
 Application Form
 
-2\. Attached the following documents together with the application form:
-
+2\. Attached the following documents together with the application form: <br>
 \* Photocopy of the NRIC (front and back) <br>
 \* List of proposed menu and pricing for all items <br>
 \* Photocopy of relevant certificates such as Basic Food Hygiene Course, etc <br>
+
+3\. Submit the completed application form and documents by closing date via email OR to the School's General Office. <br>
+\* Address: 71 Edgefield Plains, Singapore 828716 <br>
+\* Contact No: +65 6320 9855 <br>
+\* Email: ops@schools.gov.sg <br>
+\* Contact Person: Mr. Mah <br>
+
