@@ -24,7 +24,7 @@ third_nav_title: School Life
 ##### Application Procedure
 1\. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
 
-[Application Form](/files/Canteen%20Application%20Form.pdf)
+[Application Form](/files/canteen%20application%20form.pdf)
 
 2\. Attached the following documents together with the application form: <br>
 \* Photocopy of the NRIC (front and back) <br>
