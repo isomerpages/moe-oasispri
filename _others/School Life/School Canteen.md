@@ -6,6 +6,7 @@ third_nav_title: School Life
 ---
 #### School Canteen Advertisement
 
+
 <table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="174" valign="top" style="width:130.7pt;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="EN-SG">Type of Stall</span></p></td><td width="174" valign="top" style="width:130.7pt;border:solid windowtext 1.0pt;
@@ -22,10 +23,8 @@ third_nav_title: School Life
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="EN-SG">Nil</span></p></td></tr></tbody></table>
 
-**Application Procedure**
-
-1\. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
-
+**Application Procedure** <br>
+1\. Download and complete the application form. You may also request for a hardcopy from the School’s General Office. <br>
 Application Form
 
 2\. Attached the following documents together with the application form: <br>
@@ -43,7 +42,6 @@ Application Form
 \* Nearest MRT: Punggol MRT (NE17) <br>
 \* Nearest LRT: Damai (PE 7) or Oasis (PE 6) - 5 minutes walking distance <br>
 \* Bus number: 50, 666 - 5 minutes walking distance <br>
-
     
 **Interest applicants must meet the following criteria:** <br>
 \* Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant. <br>
