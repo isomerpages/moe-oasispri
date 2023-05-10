@@ -26,6 +26,10 @@ third_nav_title: School Life
 
 [Application Form](/files/Canteen%Application%Form.pdf)
 
+[1B MOE-FAS Application Form 2023](/files/1B%20MOE-FAS%20Application%20Form%202023-1.pdf)
+*updated as of 14th October 2022
+
+
 2\. Attached the following documents together with the application form: <br>
 \* Photocopy of the NRIC (front and back) <br>
 \* List of proposed menu and pricing for all items <br>
