@@ -19,8 +19,7 @@ description: ""
 <br><br><table class="tg">
 <thead>
   <tr>
-	
-    <th colspan="2" class="tg-c0oc"><span style="background-color:#22A114">Oasis Primary School</span></th>
+	    <th colspan="2" class="tg-c0oc"><span style="background-color:#22A114">Oasis Primary School</span></th>
   </tr>
 </thead>
 <tbody>
