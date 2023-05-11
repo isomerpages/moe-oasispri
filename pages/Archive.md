@@ -73,3 +73,40 @@ description: ""
 ### Application for eGIRO
 
 Please click&nbsp;[here](https://go.gov.sg/moe-online-giro-form)&nbsp;to join via FormSG.&nbsp;SingPass login is required.
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-8wja{background-color:#FBFFFA;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-v9z0{background-color:#FBFFFA;color:#38761D;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-c0oc{background-color:#22A114;color:#ffffff;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-5env{background-color:#FBFFFA;color:#222;text-align:left;vertical-align:top}
+</style>
+<br><br><table class="tg">
+<thead>
+  <tr>
+	    <th colspan="2" class="tg-c0oc"><span style="background-color:#22A114">Oasis Primary School</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-8wja">Address:</td>
+    <td class="tg-5env">71 Edgefield Plains, Singapore 828716</td>
+  </tr>
+  <tr>
+    <td class="tg-8wja">Tel:</td>
+    <td class="tg-5env">+65 6320 9855</td>
+  </tr>
+  <tr>
+		<td class="tg-8wja">Fax:</td>
+    <td class="tg-5env">+65 6320 9856</td>
+  </tr>
+  <tr>
+    <td class="tg-8wja">Email:</td>
+    <td class="tg-v9z0"><a href="mailto:mk_oasis@moe.edu.sg">oasis_ps@moe.edu.sg</a></td>
+  </tr>
+</tbody>
+</table>
