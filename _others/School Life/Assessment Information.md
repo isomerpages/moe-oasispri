@@ -32,15 +32,15 @@ third_nav_title: School Life
 
 **D.  Absence for weighted assessment**
 
-1.  Students who miss a weighted summative assessment through ill-health are required to provide a doctor’s certificate i.e MC confirming this. MC should be obtained from a **medical practitioner approved by MOH only**. “MC” would be entered in the School Cockpit for the absentees.
+1.  Students who miss a weighted summative assessment through ill-health are required to provide a doctor’s certificate i.e MC confirming this. MC should be obtained from a&nbsp;**medical practitioner approved by MOH only**. “MC” would be entered in the School Cockpit for the absentees.
 
 2.  Students who miss a weighted summative assessment for other legitimate reasons would be given a “VR” in the School Cockpit, if the legitimate reason is approved by the Principal.
 
 3.  Students who miss a weighted summative assessment for no valid reason would be given a zero in the School Cockpit System.
 
-4.  Students who miss a non-weighted formative assessment through ill-health or other legitimate reasons will be allowed to sit for the assessment **within two (2) days after each assessment** when they return to school.
+4.  Students who miss a non-weighted formative assessment through ill-health or other legitimate reasons will be allowed to sit for the assessment&nbsp;**within two (2) days after each assessment**&nbsp;when they return to school.
 
-5.  Students who miss the main written paper of the weighted semestral assessments will not be able to sit for the assessment as there is **no retest** for written papers in the National Examination. The following cases highlight the action to be taken by teachers for students who miss the main written papers:
+5.  Students who miss the main written paper of the weighted semestral assessments will not be able to sit for the assessment as there is&nbsp;**no retest**&nbsp;for written papers in the National Examination. The following cases highlight the action to be taken by teachers for students who miss the main written papers:
 
 <u>Case 1: Students who miss one or more of the language papers with valid reason</u>
 
