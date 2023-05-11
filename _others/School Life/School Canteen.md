@@ -45,7 +45,7 @@ third_nav_title: School Life
 3\. Submit the completed application form and documents by closing date via email OR to the School's General Office. <br>
 \* Address: 71 Edgefield Plains, Singapore 828716 <br>
 \* Contact No: +65 6320 9855 <br>
-\* Email: [oasis_ps@moe.edu.sg](mailto:oasis_ps@moe.edu.sg) <br>
+\* Email: [ops.schools.gov.sg](mailto:ops@schools.gov.sg) <br>
 \* Contact Person: Mr. Mah <br>
 
 ##### **How to get there?**
