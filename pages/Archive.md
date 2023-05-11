@@ -106,7 +106,7 @@ Please click&nbsp;[here](https://go.gov.sg/moe-online-giro-form)&nbsp;to join vi
   </tr>
   <tr>
     <td class="tg-8wja">Email:</td>
-    <td class="tg-v9z0"><a href="mailto:mk_oasis@moe.edu.sg">oasis_ps@moe.edu.sg</a></td>
+    <td class="tg-v9z0"><a href="mailto:oasis_ps@moe.edu.sg">oasis_ps@moe.edu.sg</a></td>
   </tr>
 </tbody>
 </table>
