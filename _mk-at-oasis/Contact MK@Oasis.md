@@ -32,7 +32,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-dv6r">Email:<br></td>
-    <td class="tg-j74v"><a href="mailto:mk_oasis_ps@moe.edu.sg">mk_oasis@moe.edu.sg</a></td>
+    <td class="tg-j74v"><a href="mailto:mk_oasis@moe.edu.sg">mk_oasis@moe.edu.sg</a></td>
   </tr>
   <tr>
 </tr></tbody>
