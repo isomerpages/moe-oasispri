@@ -54,7 +54,7 @@ Applicants must be: <br>
 
 ##### **Health and Hygiene Requirements:**
 \* Stallholder and assistant(s) must have completed and passed the Basic Food Hygiene Course (BFHC) conducted by any of the accredited training providers appointed by SkillsFuture Singapore (SSG).&nbsp;<br>
-\* Stallholder must comply with the Healthy Eating in Schools Programme Guidelines [https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme] <br>
+\* Stallholder must comply with the Healthy Eating in Schools Programme Guidelines [https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme) <br>
 \* Successful applicant is required to apply for a food stall licence from Singapore Food Agency (SFA).
 
 \*Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense.\*
