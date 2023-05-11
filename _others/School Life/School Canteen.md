@@ -37,24 +37,24 @@ third_nav_title: School Life
 \* Email: [oasis_ps@moe.edu.sg](mailto:oasis_ps@moe.edu.sg) <br>
 \* Contact Person: Mr. Mah <br>
        
-##### How to get there?
+##### **How to get there?**
 \* Nearest MRT: Punggol MRT (NE17) <br>
 \* Nearest LRT: Damai (PE 7) or Oasis (PE 6) - 5 minutes walking distance <br>
 \* Bus number: 50, 666 - 5 minutes walking distance <br>
     
-##### Interest applicants must meet the following criteria:
-\* Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant. <br>
-\* Able to provide good service and quality food at reasonable prices determined in consultation with the school. <br>
-\* Able to provide a varied and healthy nutritional menu that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools Programme (HMSP)" guidelines
-[https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme). <br>
+##### **Requirements of Applicants**
+Applicants must be: <br>
+\* A Singapore Citizen or Singapore Permanent Resident. <br>
+\* Able to provide a varied and healthy nutritional menu that meets Health Promotion Board requirements. <br>
+\* Able to provide good service and quality food at reasonable prices (to be determined in consultation with the school). <br>
 \* Able to observe a high standard of food and personal hygiene that meets NEA requirements. <br>
-\* Healthy and fit to operate the stall. <br>
 \* Must be in personal attendance at the stall during operating hours. <br>
-\* Must always maintain stall cleanliness. <br>
+\* Must always maintain stall cleanliness.&nbsp;<br>
+\* Other factors for consideration may include catering experience, physical fitness, financial position and proximity of residence to the school. <br>
 
-##### Applicants should preferably fulfil the following criteria:
-\* Successful applicant and stall assistant(s) must possess the WSQ Basic Food Hygiene Certificate. <br>
-\* Possess catering experience or experience operating in a school environment. <br>
-\* Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA). <br>
+##### **Health and Hygiene Requirements:**
+\* Stallholder and assistant(s) must have completed and passed the Basic Food Hygiene Course (BFHC) conducted by any of the accredited training providers appointed by SkillsFuture Singapore (SSG).&nbsp;<br>
+\* Stallholder must comply with the Healthy Eating in Schools Programme Guidelines [https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme] <br>
+\* Successful applicant is required to apply for a food stall licence from Singapore Food Agency (SFA).
 
-\*Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.\*
+\*Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense.\*
