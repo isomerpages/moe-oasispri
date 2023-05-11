@@ -4,7 +4,7 @@ permalink: /others/school-life/permalink/
 description: ""
 third_nav_title: School Life
 ---
-#### **School Canteen Advertisement**
+##### **School Canteen Advertisement**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
