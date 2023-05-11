@@ -36,7 +36,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-8com">Email:<br></td>
-    <td class="tg-1d14">[oasis_ps@moe.edu.sg](oasis_ps@moe.edu.sg)<br></td>
+    <td class="tg-1d14"><a href="mailto:oasis_ps@moe.edu.sg">oasis_ps@moe.edu.sg</a><br></td>
   </tr>
   <tr>
 </tr></tbody>
