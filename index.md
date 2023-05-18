@@ -23,8 +23,9 @@ sections:
           url: /ops/photo-gallery/2023
   - infopic:
       title: Open House
-      description: Scan QR code or click link register
+      description: Scan QR code or click link below to register
       url: https://go.gov.sg/olefiesta2023
       image: /images/e-banner.png
       alt: Image alt text
+      button: Open House Registration
 ---
