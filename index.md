@@ -23,9 +23,8 @@ sections:
           url: /ops/photo-gallery/2023
   - infopic:
       title: Open House
-      description: Come and Join Us At Our Open House!
-      button: Click Here for More Information
-      url: /link-to-sample-page
+      description: Scan QR code or click link register
+      url: https://go.gov.sg/olefiesta2023
       image: /images/e-banner.png
       alt: Image alt text
 ---
