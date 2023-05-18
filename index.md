@@ -22,7 +22,7 @@ sections:
           description: ""
           url: /ops/photo-gallery/2023
   - infopic:
-      title: Ole Fiesta
+      title: Open House
       description: Come and Join Us At Our Open House!
       button: Click Here for More Information
       url: /link-to-sample-page
