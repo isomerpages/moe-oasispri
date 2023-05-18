@@ -4,7 +4,7 @@ title: Oasis Primary School
 description: Brief site description here
 image: /images/Oasis.jpeg
 permalink: /
-notification: Oasis Primary School Open House 2023 - 7 July (Fri), 2.30 pm - 4.30pm
+notification: Oasis Primary School Open House 2023 - 7 July (Fri), 2.30 pm - 4.30 pm
 sections:
   - hero:
       title: Oasis Primary School
