@@ -105,10 +105,6 @@ description: ""
 	  <td class="tg-8com">Librarian<br></td>
     <td class="tg-1d14">Mdm Frannie Chung Sau Kuen</td>
   </tr>
-  <tr>
-    <td class="tg-dv6r"></td>
-    <td class="tg-j74v"></td>
-  </tr>
 	<tr>
 </tr></tbody>
 </table>
