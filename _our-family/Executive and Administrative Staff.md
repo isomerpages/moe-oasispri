@@ -37,7 +37,7 @@ description: ""
     <td class="tg-1d14">Mr Muhamad Iskandar bin Sarkawai</td>
   </tr>
   <tr>
-    <td class="tg-dv6r">Information &amp; Communications Technology Manager<br></td>
+    <td class="tg-dv6r">ICT Manager<br></td>
     <td class="tg-j74v">Mr Lum Wai Hoong<br></td>
   </tr>
   <tr>
@@ -88,7 +88,7 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-dv6r">Information &amp; Communications Technology  Trainer</th>
+    <th class="tg-dv6r">ICT Trainer</th>
     <th class="tg-j74v">Mr Devetharan S/O Sritharan<br></th>
   </tr>
 </thead>
