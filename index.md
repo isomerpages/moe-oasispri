@@ -27,6 +27,7 @@ sections:
       image: /images/e-banner.png
       button: Join us
       subtitle: Oasis Primary School
+      alt: Image alt text
   - infopic:
       title: Open House
       subtitle: Oasis primary school
