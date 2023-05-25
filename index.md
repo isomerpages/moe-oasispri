@@ -32,7 +32,8 @@ sections:
       title: Open House
       subtitle: Oasis primary school
       description: Register below to join us
-      button: Button Text
+      button: join us
       image: /images/e-banner2.png
       alt: Image alt text
+      url: https://go.gov.sg/olefiesta2023
 ---
