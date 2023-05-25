@@ -25,7 +25,6 @@ sections:
       description: Register below to join us
       url: https://go.gov.sg/olefiesta2023
       image: /images/e-banner.png
-      alt: Image alt text
       button: Join us
       subtitle: Oasis Primary School
   - infopic:
@@ -34,6 +33,5 @@ sections:
       description: Register below to join us
       button: join us
       image: /images/e-banner2.png
-      alt: Image alt text
       url: https://go.gov.sg/olefiesta2023
 ---
