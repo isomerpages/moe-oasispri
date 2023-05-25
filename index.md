@@ -34,4 +34,11 @@ sections:
       button: join us
       image: /images/e-banner2.png
       url: https://go.gov.sg/olefiesta2023
+      alt: Image alt text
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
