@@ -22,10 +22,18 @@ sections:
           url: /ops/photo-gallery/2023
   - infopic:
       title: Open House
+      subtitle: Oasis primary school
+      description: Register below to join us
+      button: join us
+      image: /images/e-banner2.png
+      url: https://go.gov.sg/olefiesta2023
+      alt: Image alt text
+  - infopic:
+      title: Open House
       description: Register below to join us
       url: https://go.gov.sg/olefiesta2023
       image: /images/e-banner.png
-      alt: Image alt text
       button: Join us
       subtitle: Oasis Primary School
+      alt: Image alt text
 ---
