@@ -29,9 +29,9 @@ sections:
       button: Join us
       subtitle: Oasis Primary School
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
+      title: Open House
+      subtitle: Oasis primary school
+      description: Register below to join us
       button: Button Text
       image: /images/e-banner2.png
       alt: Image alt text
