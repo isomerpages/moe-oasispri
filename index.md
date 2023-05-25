@@ -28,4 +28,11 @@ sections:
       alt: Image alt text
       button: Join us
       subtitle: Oasis Primary School
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      image: /images/e-banner2.png
+      alt: Image alt text
 ---
