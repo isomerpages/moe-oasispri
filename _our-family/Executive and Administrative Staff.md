@@ -110,5 +110,9 @@ description: ""
     <td class="tg-1d14">Mdm Frannie Chung Sau Kuen</td>
   </tr>
 	<tr>
+		<td class="tg-dv6r">Science Lab Assistant<br></td>
+    <td class="tg-j74v">Mdm </td>
+  </tr>
+	<tr>
 </tr></tbody>
 </table>
