@@ -39,34 +39,38 @@ description: ""
   <tr>
     <td class="tg-dv6r">ICT Manager<br></td>
     <td class="tg-j74v">Mr Lum Wai Hoong<br></td>
-  </tr>
+		</tr>
   <tr>
-    <td class="tg-8com">Corporate Support Officer</td>
-    <td class="tg-1d14">Mdm Tan Hui Geok</td>
+    <td class="tg-8com">Administrative Executive<br></td>
+    <td class="tg-1d14">Mdm Tan Kim Geok<br></td>
   </tr>
   <tr>
     <td class="tg-dv6r">Corporate Support Officer</td>
-    <td class="tg-j74v">Mdm Goh Lay Hiang Eveline</td>
+    <td class="tg-j74v">Mdm Tan Hui Geok</td>
   </tr>
   <tr>
-    <td class="tg-8com">Operations Support Officer<br></td>
-    <td class="tg-1d14">Ms Tan Ching Lean<br></td>
+    <td class="tg-8com">Corporate Support Officer</td>
+    <td class="tg-1d14">Mdm Goh Lay Hiang Eveline</td>
   </tr>
   <tr>
-    <td class="tg-dv6r">Operations Support Officer</td>
-    <td class="tg-j74v">Mdm Lee Chor Yong</td>
+    <td class="tg-dv6r">Operations Support Officer<br></td>
+    <td class="tg-j74v">Ms Tan Ching Lean<br></td>
   </tr>
   <tr>
     <td class="tg-8com">Operations Support Officer</td>
-    <td class="tg-1d14">Mr Neui Yew Wing Vincent</td>
+    <td class="tg-1d14">Mdm Lee Chor Yong</td>
   </tr>
   <tr>
     <td class="tg-dv6r">Operations Support Officer</td>
-    <td class="tg-j74v">Mr Tay Beng Chuan</td>
+    <td class="tg-j74v">Mr Neui Yew Wing Vincent</td>
   </tr>
   <tr>
-    <td class="tg-8com">Operations Support Officer<br></td>
-    <td class="tg-1d14">Mr Tan Cheng Hoe Robin</td>
+    <td class="tg-8com">Operations Support Officer</td>
+    <td class="tg-1d14">Mr Tay Beng Chuan</td>
+  </tr>
+  <tr>
+    <td class="tg-dv6r">Operations Support Officer<br></td>
+    <td class="tg-j74v">Mr Tan Cheng Hoe Robin</td>
   </tr>
   <tr>
 </tr></tbody>
