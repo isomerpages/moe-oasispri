@@ -178,3 +178,11 @@ Please click&nbsp;[here](https://go.gov.sg/moe-online-giro-form)&nbsp;to join vi
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8FdV9nXok1c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 Mother Tongue Language&nbsp;Fortnight programme aims to create an immersive environment for learning and appreciating Mother Tongue Languages and Cultures. Held over in Term 2 Week 3 and 4 this year,&nbsp;students were exposed to a wide variety of rich cultural activities during these two eventful weeks to&nbsp;deepen students' understanding of their cultural roots and promote the learning of Mother Tongue Language in a fun and engaging way!
+
+**Reading-Is-Fun Programme (RIF)**  
+
+To develop our students to be avid readers and cultivate their passion in reading MTL storybooks, we embarked on our “RIF” journey.
+
+In collaboration with the English department, we also plan programmes and activities, such as Oasis Book Day, for students to be immersed in a reading environment. Competitions held during Oasis Book Day were well received by students. Positive reading experiences are provided through book talks and storytelling sessions conducted by the Chinese Language ambassadors. Incentives such as Reading badges are awarded to the avid readers to motivate them to explore in the world of books.
+
+![](/images/RIF.png)
