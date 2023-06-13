@@ -4,7 +4,8 @@ permalink: /our-family/parents/parents-voices/
 description: ""
 third_nav_title: Parents
 ---
-<img src="/images/appreciation1.jpg" style="width:100%"><p></p>
+<img src="/images/appreciation1.jpg" style="width:100%">
+
 <img src="/images/appreciation2.JPG" style="width:100%"><p></p>
 <img src="/images/appreciation3.JPG" style="width:100%"><p></p>
 <img src="/images/appreciation4.JPG" style="width:100%"><p></p>
