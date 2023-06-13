@@ -18,10 +18,11 @@ The Science Curriculum Framework encapsulates the thrust of Science education to
 
 Adopting an inquiry-based approach to learning Science in Oasis, our students have the opportunities to investigate problems and search for possible solutions through asking questions, making observations, hypotheses testing and critical thinking, as well as develop explanations backed by evidence. At the end of their primary education in Oasis, our students will be able to:
 
-
-
-<img src="/images/key%20programmes.png" style="width:100%">
-		 
+* use scientific terms and concepts to understand themselves and the world around them,
+* develop process skills, habits of mind and attitudes necessary for scientific inquiry,
+* use scientific knowledge and methods in making responsible decisions, and
+* appreciate how science influences people and the environment.
+ 
 ### Key Programmes
 
 **I.C.E. @ Recess (Inquiry. Curiosity. Exploration)**
