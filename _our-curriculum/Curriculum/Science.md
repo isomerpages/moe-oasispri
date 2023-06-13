@@ -76,10 +76,3 @@ Students take a hands-on approach to learn how they can turn daily kitchen waste
 ### Joy of Learning Science
 
 [Joy of Learning Science](https://www.youtube.com/watch?v=JhKmgh99Ekg)
-
-### Achievements
-**School**  
-
-Oasis Primary School had attain BCA Green Mark GoldPlus, the highest so far for existing schools for the year 2020. The Building and Construction Authority (BCA) has worked closely with the Ministry of Education (MOE) to develop the new BCA Green Mark for Existing Schools, which places stronger emphasis on raising the awareness amongst students and educating our future generation on the importance of environmental sustainability and conservation.
-
-Therefore, Oasis Primary School’s Green Environmental Committee has an important role in leading by example through immediate action to bring awareness on environmental causes and impact to the Oasis community. With the support of OPS’s school leaders and their recommendation, the committee is committed to bring awareness of the green environmental messages. Now is the moment to act.
