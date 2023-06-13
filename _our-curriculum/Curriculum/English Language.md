@@ -22,11 +22,11 @@ Our vision for the English Department at Oasis Academy is to cultivate a communi
 	 
 ### 2. Our Approach
 
-Here at Oasis, we want to focus on the enjoyment of language as students formally learn the metalanguage and grammatical items associated with texts. There will be systematic and explicit instruction of grammar, with a focus on word, phrase and sentence level grammar before a gradual incorporation of text level grammar.
+Oasis focusses on the enjoyment of language where students formally learn the metalanguage and grammatical items associated with texts. Through a systematic and explicit instruction of grammar and focus on word, phrase and sentence level grammar enables a gradual incorporation of text level grammar.
 
-We also emphasised on learning-focused interaction at class and group levels. Teachers provide opportunities for students to learn and use language appropriately and meaningfully in a wide variety of contexts according to purpose, audience, context and culture.
+Through learning-focused interactions at class and group levels, students learn the appropriate use of language and apply them meaningfully across various settings and contexts including the application of language when interacting for different purposes, to varying audiences and cultures.
 
-Teachers will help students achieve effective use of English through exposing students to information-rich content and texts with increasing sophistication and complexity from multiple print, non-print and digital networked sources thus developing critical literacy skills in our students.
+Facilitation by teachers guide students towards achieving the effective use of English that commensurate with the exposure to content that are rich in information. To aid in the development of students’ critical literacy skills, texts with increasing sophistication and complexity across different digital and traditional medium formats including print and non-print are also utilised.
 
 <img src="/images/english1.png" style="width:100%">
 		 
