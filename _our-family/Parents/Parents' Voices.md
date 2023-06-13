@@ -15,17 +15,15 @@ third_nav_title: Parents
 <img src="/images/appreciation9.JPG" style="width:100%"><p></p>
 <img src="/images/appreciation10.JPG" style="width:100%"><p></p>
 <img src="/images/appreciation11.JPG" style="width:100%"><p></p>
+<img src="/images/appreciation12.jpg" style="width:100%"><p></p>
+<img src="/images/appreciation13.jpg" style="width:100%"><p></p>
+<img src="/images/appreciation14.jpg" style="width:100%"><p></p>
+<img src="/images/appreciation15.jpg" style="width:100%"><p></p>
 
-<img src="/images/appreciation12.JPG" style="width:100%"><p></p>
-<img src="/images/appreciation13.JPG" style="width:100%"><p></p>
-<img src="/images/appreciation14.JPG" style="width:100%"><p></p>
-<img src="/images/appreciation15.JPG" style="width:100%"><p></p>
-
-<p></p>
-
+<figure>
 <img src="/images/01%20Salinah.jpg" style="width:100%">
 <figcaption> <strong> Salinah Binte Kasmadi</strong> </figcaption>
-
+</figure>
 <p>We are glad that we have chosen Oasis Primary School for our kids. The introduction of their school values &amp; 7 Habits is a great way of building a strong foundation for our children.  Keep up the good work in preparing my kids and others for their future.</p>
 		 
 <figure>
