@@ -49,6 +49,11 @@ The Chinese Language department started our own Oasian Junior Journalist Program
 
 ![](/images/journalist%20programme.png)
 
+**Primary 4 Chinese Language Young Journalism Programme**
+
+
+
+
 **2023 Mother Tongue Fortnight Programme**  
 
 Mother Tongue Language&nbsp;Fortnight programme aims to create an exciting and bustling environment for learning and appreciating Mother Tongue Languages and Cultures. Held over in Term 2 Week 4 and 5 this year,&nbsp;students were exposed to a wide variety of rich cultural activities such as traditional game stations, workshops, quizzes, competitions during these two eventful weeks to&nbsp;deepen students’ understanding of their cultural roots and promote the learning of Mother Tongue Language in a fun, authentic and engaging experience!
