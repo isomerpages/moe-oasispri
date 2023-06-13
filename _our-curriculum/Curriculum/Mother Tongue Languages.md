@@ -31,9 +31,12 @@ Pupils are&nbsp;**empowered**&nbsp;to take ownership of their learning and becom
 
 To develop our students to be avid readers and cultivate their passion in reading MTL storybooks, we embarked on our “RIF” journey.
 
-In collaboration with the English department, we also plan programmes and activities, such as Oasis Book Day, for students to be immersed in a reading environment. Competitions held during Oasis Book Day were well received by students. Positive reading experiences are provided through book talks and storytelling sessions conducted by the Chinese Language ambassadors. Incentives such as Reading badges are awarded to the avid readers to motivate them to explore in the world of books.
+Students who are passionate in reading MTL storybooks are selected to be our **Mother Tongue Language Ambassadors (LAs)**. Trainings were provided to equip the LAs with necessary skills to promote reading to their peers in OPS. They participated in different activities such as **Oasis** **Booktopia**, book talks and storytelling sessions to encourage their peers to read more MTL storybooks.
 
-![](/images/RIF.png)
+Students participate in Reading Superman, Reading Bingo and book reviews in the classroom and at home to arouse their interest in reading MTL storybooks. **Reading badges** and small tokens are awarded to the avid readers to motivate students to explore in the world of books. Students also enjoy reading their MTL storybooks during MTL library visits and Morning Assembly on Thursdays and Fridays.
+
+
+
 
 **Samples of Winning Entries for OBD Competitions**
 
