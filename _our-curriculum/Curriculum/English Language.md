@@ -14,11 +14,11 @@ third_nav_title: Curriculum
 
 Our vision for the English Department at Oasis Academy is to cultivate a community of Oasians who possess the values, dispositions, and skills to excel in communication, critical thinking, and creativity. Through our comprehensive English curriculum, we strive to develop students who are:
 
-1. **Empathetic Communicators:** Equipped with active listening skills, our students engage with diverse perspectives, communicate confidently, effectively, and sensitively, and collaborate with others to achieve shared goals. They understand the importance of empathy in fostering meaningful connections and promoting understanding.
+**1. Empathetic Communicators:** Equipped with active listening skills, our students engage with diverse perspectives, communicate confidently, effectively, and sensitively, and collaborate with others to achieve shared goals. They understand the importance of empathy in fostering meaningful connections and promoting understanding.
 
-2. **Discerning Readers:** Our students become discerning readers with broad worldviews. They are well-informed and self-directed in their use of information, allowing them to distinguish fact from falsehood. Through critical thinking and evaluation, they develop the ability to process information critically, making informed judgments and fostering a deeper understanding of the world.
+**2. Discerning Readers:** Our students become discerning readers with broad worldviews. They are well-informed and self-directed in their use of information, allowing them to distinguish fact from falsehood. Through critical thinking and evaluation, they develop the ability to process information critically, making informed judgments and fostering a deeper understanding of the world.
 
-3. **Creative Inquirers:** Our students are encouraged to explore and evaluate real-world issues from multiple perspectives. They have the skills to gather and synthesize information from diverse sources, including print, non-print, and digital media. By nurturing their curiosity and creativity, we empower them to think independently, propose innovative solutions, and engage with complex topics.
+**3. Creative Inquirers:** Our students are encouraged to explore and evaluate real-world issues from multiple perspectives. They have the skills to gather and synthesize information from diverse sources, including print, non-print, and digital media. By nurturing their curiosity and creativity, we empower them to think independently, propose innovative solutions, and engage with complex topics.
 	 
 ### 2. Our Approach
 
