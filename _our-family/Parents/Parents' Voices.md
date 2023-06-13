@@ -16,7 +16,7 @@ third_nav_title: Parents
 <img src="/images/appreciation10.JPG" style="width:100%"><p></p>
 <img src="/images/appreciation11.JPG" style="width:100%"><p></p>
 
-<p></p><figure>
+<figure>
 <img src="/images/01%20Salinah.jpg" style="width:100%">
 <figcaption> <strong> Salinah Binte Kasmadi</strong> </figcaption>
 </figure>
