@@ -32,13 +32,13 @@ Teachers will help students achieve effective use of English through exposing st
 		 
 ### 3. Programme
 
-##### 3.1&nbsp;&nbsp; Lower Primary Speech and Drama Programme
+##### 3.1 Lower Primary Speech and Drama Programme
 
 The Speech and Drama Programme for our lower primary students aims to develop their confidence and the ability to use the English Language fluently in different contexts. Through this fun and engaging programme, students will get the opportunity to learn important life skills such as public speaking and hone their accuracy in speech and pronunciation. They will also enhance their skills in vocal projection, facial expression and stage presence. At the end of the programme, students will get to perform on stage to showcase what they have learned.
 
 ##### 3.2 Middle Primary Literature Programme
 
-The literature programme for our middle primary students aims to foster a love for reading, enhance writing skills, and introduce students to basic literary analysis. Two texts, “Wonder” and “Charlie and the Chocolate Factory” are introduced in primary three and four respectively.&nbsp;
+The literature programme for our middle primary students aims to foster a love for reading, enhance writing skills, and introduce students to basic literary analysis. Two texts, “Wonder” and “Charlie and the Chocolate Factory” are introduced in primary three and four respectively.
 
 Students will have the opportunity to analyse the characters’ development, plot structure, and symbolism present in these texts. They can learn to identify literary devices used by the author, such as metaphors or similes, and discuss how they contribute to the overall meaning of the story. These activities foster critical thinking and help students appreciate the craft of storytelling. Through group discussions, literature circles and debates, they develop empathy and learn to participate with respect, conviction and sensitivity.
 
@@ -47,8 +47,6 @@ Students also get to unleash their creativity through writing activities. For ex
 ##### 3.3 Primary 4 Facts and Fantasy
 
 This programme is a collaboration between the English and Science departments. In groups of three to four, students work together using an online story-creator software called StoryJumper, to create their own digital books. Students get to embark on a learning journey along the Punggol Waterway to observe some animals. Using these observations, students will use their imagination and creativity write a story from the animals’ point of view using the same software. The final product will be printed into a book.
-
-
 
 ### Oasis Book Day
 We are celebrating our Second Oasis Book Day this year. Both the English and Mother Tongue Departments would like to encourage all students to read more storybooks and participate in the various activities specially organized for them.
@@ -107,6 +105,6 @@ Our unique English Language Teaching and Learning&nbsp;at Oasis Primary School, 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XQvG0BkfiFQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-
+<p></p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sVPpHI8GNLA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
