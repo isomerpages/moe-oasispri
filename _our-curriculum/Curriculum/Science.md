@@ -12,7 +12,7 @@ To fuel a spirit of curiosity in our students to help them grow and become scien
 
 ### Our Approach
 
-<img src="/images/sciphoto.png" style="width:50%">
+<img src="/images/sciapproach.png" style="width:50%">
 		 
 Aligned to MOE’s direction, our Science curriculum seeks to enable students to see Science as meaningful and useful. Through the curriculum, the spirit of scientific inquiry will be inculcated. The conduct of inquiry will be founded on these three integral domains of (a) Knowledge, Understanding and Application, (b) Skills and Processes and (c) Ethics and Attitudes, which are essential to the practice of science. Students will explore issues and questions that are related to the roles played by science in daily life, society and the environment.
 
