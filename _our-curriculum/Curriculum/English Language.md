@@ -51,14 +51,14 @@ This programme is a collaboration between the English and Science departments. I
 ### Oasis Book Day
 We are celebrating our Second Oasis Book Day this year. Both the English and Mother Tongue Departments would like to encourage all students to read more storybooks and participate in the various activities specially organized for them.
 
-**1) OASIS BOOK DONATION&nbsp;(For All Staff &amp; Students)**  
+**1) OASIS BOOK DONATION (For All Staff &amp; Students)**  
 **When:**&nbsp;T2W5-W8 (18 April to 13 May)  
 **What:**&nbsp;Storybooks and magazines (no newspaper or damaged reading materials)<br>
 **Target:**&nbsp;300 books
 
 ![](/images/OBD1.jpg)
 
-**2)&nbsp;OASIS BOOK DAY POSTER DESIGN&nbsp;COMPETITION**
+**2) OASIS BOOK DAY POSTER DESIGN COMPETITION**
 
 Samples of winning entries:-
 <img src="/images/poster%20design.png" style="width:100%">
