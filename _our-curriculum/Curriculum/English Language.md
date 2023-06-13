@@ -44,7 +44,9 @@ Students will have the opportunity to analyse the characters’ development, plo
 
 Students also get to unleash their creativity through writing activities. For example, our primary four students write their own version of the story with new characters, describe magical inventions, and imagine different adventures within the chocolate factory. This activity not only enhances their writing skills but also allows them to explore their own ideas and expand their storytelling abilities.
 
+##### 3.3 Primary 4 Facts and Fantasy
 
+This programme is a collaboration between the English and Science departments. In groups of three to four, students work together using an online story-creator software called StoryJumper, to create their own digital books. Students get to embark on a learning journey along the Punggol Waterway to observe some animals. Using these observations, students will use their imagination and creativity write a story from the animals’ point of view using the same software. The final product will be printed into a book.
 
 
 
@@ -104,5 +106,7 @@ On Book Character Day, students and staff dress up as their favourite characters
 Our unique English Language Teaching and Learning&nbsp;at Oasis Primary School, particularly our Literature Comes Alive curriculum! Catch a glimpse of our students’ critical and creative thinking at work and their lively appreciation of the programme. Hear our joyful teaching experiences and how our teachers instil the love of reading in our Oasians!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XQvG0BkfiFQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sVPpHI8GNLA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
