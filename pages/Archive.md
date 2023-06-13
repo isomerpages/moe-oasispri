@@ -186,3 +186,9 @@ To develop our students to be avid readers and cultivate their passion in readin
 In collaboration with the English department, we also plan programmes and activities, such as Oasis Book Day, for students to be immersed in a reading environment. Competitions held during Oasis Book Day were well received by students. Positive reading experiences are provided through book talks and storytelling sessions conducted by the Chinese Language ambassadors. Incentives such as Reading badges are awarded to the avid readers to motivate them to explore in the world of books.
 
 ![](/images/RIF.png)
+
+**Primary 4 Chinese Language Junior Journalist Programme**
+
+The Chinese Language department started our own Oasian Junior Journalist Programme this year. This programme aims to cultivate the selected Primary 4 group of students to&nbsp;develop their observational, writing, photography and&nbsp;presentation&nbsp;skills, and uncover inspiring and interesting school news in the Oasis Community. Do stay tune for our CL Journalists’ upcoming news production!
+
+![](/images/journalist%20programme.png)
