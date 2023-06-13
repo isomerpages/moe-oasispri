@@ -30,58 +30,23 @@ Teachers will help students achieve effective use of English through exposing st
 
 <img src="/images/english1.png" style="width:100%">
 		 
-### What's New?
+### 3. Programme
 
-Launch of the New Space in the Library
+##### 3.1&nbsp;&nbsp; Lower Primary Speech and Drama Programme
 
-<img src="/images/NewSpace.jpg" style="width:50%">
+The Speech and Drama Programme for our lower primary students aims to develop their confidence and the ability to use the English Language fluently in different contexts. Through this fun and engaging programme, students will get the opportunity to learn important life skills such as public speaking and hone their accuracy in speech and pronunciation. They will also enhance their skills in vocal projection, facial expression and stage presence. At the end of the programme, students will get to perform on stage to showcase what they have learned.
 
-**Zone A: Happy Pods**
+##### 3.2 Middle Primary Literature Programme
 
-<img src="/images/ZoneA.jpg" style="width:60%">
+The literature programme for our middle primary students aims to foster a love for reading, enhance writing skills, and introduce students to basic literary analysis. Two texts, “Wonder” and “Charlie and the Chocolate Factory” are introduced in primary three and four respectively.&nbsp;
 
-**Zone B: Terrace Steps**
+Students will have the opportunity to analyse the characters’ development, plot structure, and symbolism present in these texts. They can learn to identify literary devices used by the author, such as metaphors or similes, and discuss how they contribute to the overall meaning of the story. These activities foster critical thinking and help students appreciate the craft of storytelling. Through group discussions, literature circles and debates, they develop empathy and learn to participate with respect, conviction and sensitivity.&nbsp;
 
-<img src="/images/ZoneB1.jpg" style="width:50%" align="left">
-<img src="/images/ZoneB2.jpg" style="width:50%" align="right">
-		 
-**Zone C: Learning Islands**
+Students also get to unleash their creativity through writing activities. For example, our primary four students write their own version of the story with new characters, describe magical inventions, and imagine different adventures within the chocolate factory. This activity not only enhances their writing skills but also allows them to explore their own ideas and expand their storytelling abilities.
 
-<img src="/images/ZoneC.jpg" style="width:60%">
-		 
-**Zone D: The Odyssey Of the Mind**
 
-<img src="/images/ZoneD1.jpg" style="width:50%" align="left">
-<img src="/images/ZoneD2.jpg" style="width:50%">
 
-### P1 Speech and Drama (2022)
 
-**P1 Care**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/R3p_bLU6bGI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
-
-**P1 Harmony**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mEAtYXNLIgA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
-
-**P1 Integrity**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uyYrMC9te1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
-
-**P1 Loyalty**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ywklzzT4_qo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
-
-**P1 Diligence**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KfeaISKW7bA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
-
-**P1 Resilience**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eOTC7GxWsDk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
-
-**P1 Empathy**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j4DgRvw1y-g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
-
-**P1 Noble**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AjrZEMCTrLI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
-
-**P1 Respect**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xvCD9eom3lY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 ### Oasis Book Day
 We are celebrating our Second Oasis Book Day this year. Both the English and Mother Tongue Departments would like to encourage all students to read more storybooks and participate in the various activities specially organized for them.
