@@ -47,6 +47,8 @@ Students participate in Reading Superman, Reading Bingo and book reviews in the 
   
 The Chinese Language department started our own Oasian Young Journalism Programme in 2022. This enrichment programme aims to cultivate the selected Primary 4 group of students to develop their observational, writing, photography and presentation skills, and uncover inspiring and interesting school news in the Oasis Community. Through the programme, young journalists learn how to draft interview questions, acquire the flow on an effective interview, conduct interviews and edit videos. The activities aim to help them learn how to listen, express and organise their thoughts on the go. Our students have become more confident in communication skills through conducting interviews with their peers during Mother Tongue Fortnight in April. They will also have a chance to interview visiting parents during Open House in July, which will encourage the young journalists to better appreciate the relevance of language learning in the real world.Do stay tune for our upcoming news production!
 
+media ....
+
 <img src="/images/yjphoto.JPG" style="width:100%">
 
 **2023 Mother Tongue Fortnight Programme**  
