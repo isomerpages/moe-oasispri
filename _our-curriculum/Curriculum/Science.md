@@ -14,9 +14,11 @@ To fuel a spirit of curiosity in our students to help them grow and become scien
 
 <img src="/images/sciapproach.png" style="width:50%">
 		 
-Aligned to MOE’s direction, our Science curriculum seeks to enable students to see Science as meaningful and useful. Through the curriculum, the spirit of scientific inquiry will be inculcated. The conduct of inquiry will be founded on these three integral domains of (a) Knowledge, Understanding and Application, (b) Skills and Processes and (c) Ethics and Attitudes, which are essential to the practice of science. Students will explore issues and questions that are related to the roles played by science in daily life, society and the environment.
+The Science Curriculum Framework encapsulates the thrust of Science education to provide our students with a strong foundation in Science for life, learning, citizenry, and work. Science for Life and Society in the centre circle captures the essence of the goals of Science education.
 
-Teaching and learning of science through inquiry approach. Our teachers make use of multiple representations as visual stimuli to engage students in activities and processes to study the natural and physical world around them. To provide support for the students with the literacy demands of their science lessons, teachers adopt a three-stage framework: Observe, Link and Connect.
+Adopting an inquiry-based approach to learning Science in Oasis, our students have the opportunities to investigate problems and search for possible solutions through asking questions, making observations, hypotheses testing and critical thinking, as well as develop explanations backed by evidence. At the end of their primary education in Oasis, our students will be able to:
+
+
 
 <img src="/images/key%20programmes.png" style="width:100%">
 		 
