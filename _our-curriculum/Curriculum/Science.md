@@ -65,6 +65,10 @@ As part of the Inter-disciplinary Project, students apply their knowledge of the
 
 **Vermicomposting Enrichment Programme (P4)**
 
+Students explore the Sungei Buloh Wetland Reserve in its most natural form as they experience the theme of interactions in real life (adaptations, population and community). They have the opportunities to identify the adaptations found and observe the various organisms that are interdependent on one another for survival.
+
+<img src="/images/sciphoto4.png" style="width:100%">
+
 Students take a hands-on approach to learn how they can turn daily kitchen waste into organic fertilisers for plants. They are also given some insights on the biology of earthworms and the conditions required to expedite composting.
 
 <img src="/images/science%202.png" style="width:100%">
