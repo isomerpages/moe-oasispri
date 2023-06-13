@@ -22,7 +22,7 @@ Adopting an inquiry-based approach to learning Science in Oasis, our students ha
 * develop process skills, habits of mind and attitudes necessary for scientific inquiry,
 * use scientific knowledge and methods in making responsible decisions, and
 * appreciate how science influences people and the environment.
- 
+
 ### Key Programmes
 
 **I.C.E. @ Recess (Inquiry. Curiosity. Exploration)**
