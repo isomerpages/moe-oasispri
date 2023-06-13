@@ -57,11 +57,11 @@ The murals focus on Singapore’s Sustainable Story, which provide information a
 
 <img src="/images/PBL.png" style="width:100%">
 
-**Toy Project (P3)**
+**Toy Boat Making Project (P3)**
 
-Students apply their knowledge of the properties of different materials to create a toy for themselves. In this project, students learn to choose and use the most appropriate recyclable materials to design and make their toys. Students also learn the value of synergy in working as a team.
+As part of the Inter-disciplinary Project, students apply their knowledge of the properties of different materials to design and create a toy boat. In this project, students learn to choose and use the most appropriate recyclable materials to design and make their toy boats. Students also learn the value of synergy in working together as a team.
 
-<img src="/images/toy%20project.png" style="width:100%">
+<img src="/images/sciphoto3.png" style="width:100%">
 
 **Vermicomposting Enrichment Programme (P4)**
 
