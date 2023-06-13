@@ -11,7 +11,6 @@ third_nav_title: Parents
 <img src="/images/appreciation5.JPG" style="width:100%"><p></p>
 <img src="/images/appreciation6.JPG" style="width:100%"><p></p>
 <img src="/images/appreciation7.JPG" style="width:100%"><p></p>
-
 <img src="/images/appreciation8.JPG" style="width:100%"><p></p>
 <img src="/images/appreciation9.JPG" style="width:100%"><p></p>
 <img src="/images/appreciation10.JPG" style="width:100%"><p></p>
