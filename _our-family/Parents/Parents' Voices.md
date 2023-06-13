@@ -4,11 +4,9 @@ permalink: /our-family/parents/parents-voices/
 description: ""
 third_nav_title: Parents
 ---
-<figure>
 <img src="/images/appreciation1.jpg" style="width:100%">
 
-<figure>
-<img src="/images/appreciation2.png" style="width:100%">
+<img src="/images/appreciation2.j" style="width:100%">
 
 <figure>
 <img src="/images/appreciation3.jpg" style="width:100%">
@@ -24,8 +22,6 @@ third_nav_title: Parents
 
 <figure>
 <img src="/images/appreciation7.jpg" style="width:100%">
-
-
 
 
 <figure>
@@ -136,4 +132,4 @@ Overall, I am delighted to have my son studying here and I remain confident that
 	
 Thank you Mdm Poh Eng Hong, his form teacher and to the other subject teachers who have been showing their sincere concerns, patience, giving moral and academic support to my son, Izz Fayyaz.<br>
 
-Each one of you has made a positive difference in my son's life. A true great teacher is hard to find and it takes a big heart to help shape little minds. Lots of love to the well-deserved teachers!</p></figure></figure></figure></figure></figure></figure></figure>
+Each one of you has made a positive difference in my son's life. A true great teacher is hard to find and it takes a big heart to help shape little minds. Lots of love to the well-deserved teachers!</p></figure></figure></figure></figure></figure>
