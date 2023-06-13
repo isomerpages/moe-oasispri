@@ -35,10 +35,9 @@ Students who are passionate in reading MTL storybooks are selected to be our **M
 
 Students participate in Reading Superman, Reading Bingo and book reviews in the classroom and at home to arouse their interest in reading MTL storybooks. **Reading badges** and small tokens are awarded to the avid readers to motivate students to explore in the world of books. Students also enjoy reading their MTL storybooks during MTL library visits and Morning Assembly on Thursdays and Fridays.
 
-<img src="/images/rifphoto.JPG" style="width:100%">
+<img src="/images/rifphoto1.JPG" style="width:100%">
 
-
-
+<img src="/images/rifphoto2.JPG" style="width:100%">
 
 **Samples of Winning Entries for OBD Competitions**
 
