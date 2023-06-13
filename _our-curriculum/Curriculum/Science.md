@@ -31,7 +31,7 @@ In line with our Unique Oasis Learning Experiences on Discovery, the I.C.E. @ Re
 
 I.C.E. @ Recess is also a platform for students to develop their facilitation and leadership skills.
 
-<img src="/images/ICE.png" style="width:100%">
+<img src="/images/sciphoto2.png" style="width:100%">
 
 **Place-based Learning at Garden Sanctuary**
 
