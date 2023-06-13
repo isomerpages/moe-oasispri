@@ -4,8 +4,8 @@ permalink: /our-family/parents/parents-voices/
 description: ""
 third_nav_title: Parents
 ---
-<img src="/images/appreciation1.jpg" style="width:100%"><p></p>
-<img src="/images/appreciation2.JPG" style="width:100%"><p></p>
+<img src="/images/appreciation1.jpg" style="width:100%"><p>
+<img src="/images/appreciation2.JPG" style="width:100%"></p><p></p>
 <img src="/images/appreciation3.JPG" style="width:100%"><p></p>
 <img src="/images/appreciation4.JPG" style="width:100%"><p></p>
 <img src="/images/appreciation5.JPG" style="width:100%"><p></p>
@@ -13,10 +13,10 @@ third_nav_title: Parents
 <img src="/images/appreciation7.JPG" style="width:100%"><p></p>
 <img src="/images/appreciation8.JPG" style="width:100%"><p></p>
 <img src="/images/appreciation9.JPG" style="width:100%"><p></p>
-<img src="/images/appreciation10.JPG" style="width:100%"><p></p>
-<img src="/images/appreciation11.JPG" style="width:100%"><p></p>
+<img src="/images/appreciation10.JPG" style="width:100%"><p>
+<img src="/images/appreciation11.JPG" style="width:100%"></p><p>
 
-<figure>
+</p><figure>
 <img src="/images/01%20Salinah.jpg" style="width:100%">
 <figcaption> <strong> Salinah Binte Kasmadi</strong> </figcaption>
 </figure>
