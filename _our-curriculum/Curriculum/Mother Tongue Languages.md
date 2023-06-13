@@ -49,6 +49,8 @@ The Chinese Language department started our own Oasian Young Journalism Programm
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/H_a0YTmboPU" height="315" width="560"></iframe>
 
+
+
 <img src="/images/yjphoto.JPG" style="width:100%">
 
 **2023 Mother Tongue Fortnight Programme**  
