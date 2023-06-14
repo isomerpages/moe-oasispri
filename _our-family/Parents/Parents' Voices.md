@@ -23,29 +23,17 @@ third_nav_title: Parents
 <img src="/images/appreciation9.JPG" style="width:100%"><p></p>
 
 <img src="/images/appreciation10.JPG" style="width:100%"><p></p>
-
 <img src="/images/appreciation11.JPG" style="width:100%"><p></p>
-
 <img src="/images/appreciation12.jpg" style="width:100%"><p></p>
-
 <img src="/images/appreciation13.jpg" style="width:100%"><p></p>
-
 <img src="/images/appreciation14.jpg" style="width:100%"><p></p>
-
 <img src="/images/appreciation15.jpg" style="width:100%"><p></p>
-
 <img src="/images/appreciation16.jpg" style="width:100%"><p></p>
-
 <img src="/images/appreciation17.jpg" style="width:100%"><p></p>
-
 <img src="/images/appreciation18.jpg" style="width:100%"><p></p>
-
 <img src="/images/appreciation19.jpg" style="width:100%"><p></p>
-
 <img src="/images/appreciation20.jpg" style="width:100%"><p></p>
-
 <img src="/images/appreciation21.jpg" style="width:100%"><p></p>
-
 <img src="/images/appreciation22.jpg" style="width:100%"><p></p>
 <img src="/images/appreciation23.jpg" style="width:100%"><p></p>
 <img src="/images/appreciation24.jpg" style="width:100%"><p></p>
