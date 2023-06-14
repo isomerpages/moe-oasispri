@@ -10,8 +10,7 @@ Blk 115A, Commonwealth Drive, #02-28, Singapore 149596 <br>
 Tel: +65 6479 6811 <br>
 Fax: +65 6474 4037 <br>
 Email: [sales@khuniform.com](sales@khuniform.com) <br>
-***Uniforms are available for sales through school bookshop during school term time
-**
+**Uniforms are available for sales through school bookshop during school term time**
 
 ## School Bookshop
 #### [The Continental Book Centre](https://thecontinental.sg/)
