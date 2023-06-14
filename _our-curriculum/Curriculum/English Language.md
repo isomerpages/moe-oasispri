@@ -8,57 +8,90 @@ third_nav_title: Curriculum
 		 
 <center><b>Eloquent and effective communicators in a media-rich environment</b></center>
 
-### 1. Department Vision
+### Department Goals
 
-* Communicators, Discerning Readers, and Creative Inquirers
+To develop Oasians to be:
 
-Our vision for the English Department at Oasis Academy is to cultivate a community of Oasians who possess the values, dispositions, and skills to excel in communication, critical thinking, and creativity. Through our comprehensive English curriculum, we strive to develop students who are:
+*   **Empathetic communicators**&nbsp;who possess the values, dispositions and skills to listen actively to different perspectives, communicate confidently, effectively and sensitively while collaborating with others to work towards shared goals.
+*   **Discerning readers**&nbsp;who possess broad worldviews by staying well informed and self-directed in the use of information, and are able to distinguish fact from falsehood by processing and evaluating information critically.
+*   **Creative inquirers**&nbsp;who explore and evaluate real-world issues and multiple perspectives as well as gather and synthesize information from diverse print, non-print and digital sources.
+		 
+### Our Approach
 
-**1. Empathetic Communicators:** Equipped with active listening skills, our students engage with diverse perspectives, communicate confidently, effectively, and sensitively, and collaborate with others to achieve shared goals. They understand the importance of empathy in fostering meaningful connections and promoting understanding.
+Here at Oasis, we want to focus on the enjoyment of language as students formally learn the metalanguage and grammatical items associated with texts. There will be systematic and explicit instruction of grammar, with a focus on word, phrase and sentence level grammar before a gradual incorporation of text level grammar.
 
-**2. Discerning Readers:** Our students become discerning readers with broad worldviews. They are well-informed and self-directed in their use of information, allowing them to distinguish fact from falsehood. Through critical thinking and evaluation, they develop the ability to process information critically, making informed judgments and fostering a deeper understanding of the world.
 
-**3. Creative Inquirers:** Our students are encouraged to explore and evaluate real-world issues from multiple perspectives. They have the skills to gather and synthesize information from diverse sources, including print, non-print, and digital media. By nurturing their curiosity and creativity, we empower them to think independently, propose innovative solutions, and engage with complex topics.
-	 
-### 2. Our Approach
+We also emphasised on learning-focused interaction at class and group levels. Teachers provide opportunities for students to learn and use language appropriately and meaningfully in a wide variety of contexts according to purpose, audience, context and culture.
 
-Oasis focusses on the enjoyment of language where students formally learn the metalanguage and grammatical items associated with texts. Through a systematic and explicit instruction of grammar and focus on word, phrase and sentence level grammar enables a gradual incorporation of text level grammar.
+Teachers will help students achieve effective use of English through exposing students to information-rich content and texts with increasing sophistication and complexity from multiple print, non-print and digital networked sources thus developing critical literacy skills in our students.
 
-Through learning-focused interactions at class and group levels, students learn the appropriate use of language and apply them meaningfully across various settings and contexts including the application of language when interacting for different purposes, to varying audiences and cultures.
-
-Facilitation by teachers guide students towards achieving the effective use of English that commensurate with the exposure to content that are rich in information. To aid in the development of students’ critical literacy skills, texts with increasing sophistication and complexity across different digital and traditional medium formats including print and non-print are also utilised.
 
 <img src="/images/english1.png" style="width:100%">
 		 
-### 3. Programme
+### What's New?
 
-##### 3.1 Lower Primary Speech and Drama Programme
+Launch of the New Space in the Library
 
-The Speech and Drama Programme for our lower primary students aims to develop their confidence and the ability to use the English Language fluently in different contexts. Through this fun and engaging programme, students will get the opportunity to learn important life skills such as public speaking and hone their accuracy in speech and pronunciation. They will also enhance their skills in vocal projection, facial expression and stage presence. At the end of the programme, students will get to perform on stage to showcase what they have learned.
+<img src="/images/NewSpace.jpg" style="width:50%">
 
-##### 3.2 Middle Primary Literature Programme
+**Zone A: Happy Pods**
 
-The literature programme for our middle primary students aims to foster a love for reading, enhance writing skills, and introduce students to basic literary analysis. Two texts, “Wonder” and “Charlie and the Chocolate Factory” are introduced in primary three and four respectively.
+<img src="/images/ZoneA.jpg" style="width:60%">
 
-Students will have the opportunity to analyse the characters’ development, plot structure, and symbolism present in these texts. They can learn to identify literary devices used by the author, such as metaphors or similes, and discuss how they contribute to the overall meaning of the story. These activities foster critical thinking and help students appreciate the craft of storytelling. Through group discussions, literature circles and debates, they develop empathy and learn to participate with respect, conviction and sensitivity.
+**Zone B: Terrace Steps**
 
-Students also get to unleash their creativity through writing activities. For example, our primary four students write their own version of the story with new characters, describe magical inventions, and imagine different adventures within the chocolate factory. This activity not only enhances their writing skills but also allows them to explore their own ideas and expand their storytelling abilities.
+<img src="/images/ZoneB1.jpg" style="width:50%" align="left">
+<img src="/images/ZoneB2.jpg" style="width:50%" align="right">
+		 
+**Zone C: Learning Islands**
 
-##### 3.3 Primary 4 Facts and Fantasy
+<img src="/images/ZoneC.jpg" style="width:60%">
+		 
+**Zone D: The Odyssey Of the Mind**
 
-This programme is a collaboration between the English and Science departments. In groups of three to four, students work together using an online story-creator software called StoryJumper, to create their own digital books. Students get to embark on a learning journey along the Punggol Waterway to observe some animals. Using these observations, students will use their imagination and creativity write a story from the animals’ point of view using the same software. The final product will be printed into a book.
+<img src="/images/ZoneD1.jpg" style="width:50%" align="left">
+<img src="/images/ZoneD2.jpg" style="width:50%">
+
+### P1 Speech and Drama (2022)
+
+**P1 Care**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R3p_bLU6bGI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+
+**P1 Harmony**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mEAtYXNLIgA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+
+**P1 Integrity**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uyYrMC9te1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+
+**P1 Loyalty**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ywklzzT4_qo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+
+**P1 Diligence**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KfeaISKW7bA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+
+**P1 Resilience**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eOTC7GxWsDk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+
+**P1 Empathy**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j4DgRvw1y-g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+
+**P1 Noble**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AjrZEMCTrLI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+
+**P1 Respect**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xvCD9eom3lY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 ### Oasis Book Day
 We are celebrating our Second Oasis Book Day this year. Both the English and Mother Tongue Departments would like to encourage all students to read more storybooks and participate in the various activities specially organized for them.
 
-**1) OASIS BOOK DONATION (For All Staff &amp; Students)**  
+**1) OASIS BOOK DONATION&nbsp;(For All Staff &amp; Students)**  
 **When:**&nbsp;T2W5-W8 (18 April to 13 May)  
 **What:**&nbsp;Storybooks and magazines (no newspaper or damaged reading materials)<br>
 **Target:**&nbsp;300 books
 
 ![](/images/OBD1.jpg)
 
-**2) OASIS BOOK DAY POSTER DESIGN COMPETITION**
+**2)&nbsp;OASIS BOOK DAY POSTER DESIGN&nbsp;COMPETITION**
 
 Samples of winning entries:-
 <img src="/images/poster%20design.png" style="width:100%">
@@ -104,7 +137,5 @@ On Book Character Day, students and staff dress up as their favourite characters
 Our unique English Language Teaching and Learning&nbsp;at Oasis Primary School, particularly our Literature Comes Alive curriculum! Catch a glimpse of our students’ critical and creative thinking at work and their lively appreciation of the programme. Hear our joyful teaching experiences and how our teachers instil the love of reading in our Oasians!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XQvG0BkfiFQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-<p></p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sVPpHI8GNLA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
