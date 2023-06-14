@@ -194,7 +194,7 @@ The Chinese Language department started our own Oasian Junior Journalist Program
 ![](/images/journalist%20programme.png)
 
 
-## English Language
+## English Language (old)
 ### Department Goals
 
 To develop Oasians to be:
