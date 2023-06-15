@@ -103,11 +103,7 @@ description: ""
   <tr>
     <td class="tg-dv6r">Operations Support Officer<br></td>
     <td class="tg-j74v">Mdm Chong Lee Fah</td>
-	</tr>
-  <tr>
-    <td class="tg-8com"></td>
-    <td class="tg-1d14"></td>
-  </tr>
-	<tr>
+</tr>
+<tr>
 </tr></tbody>
 </table>
