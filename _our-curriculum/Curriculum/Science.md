@@ -69,6 +69,8 @@ Students explore the Sungei Buloh Wetland Reserve in its most natural form as th
 
 <img src="/images/sciphoto4.jpg" style="width:100%">
 
+**Vermicomposting Enrichment Programme (P4)**
+
 Students take a hands-on approach to learn how they can turn daily kitchen waste into organic fertilisers for plants. They are also given some insights on the biology of earthworms and the conditions required to expedite composting.
 
 <img src="/images/science%202.png" style="width:100%">
