@@ -63,7 +63,7 @@ As part of the Inter-disciplinary Project, students apply their knowledge of the
 
 <img src="/images/sciphoto3.png" style="width:100%">
 
-**Vermicomposting Enrichment Programme (P4)**
+**Learning Journey to Sungei Buloh Nature Reserve (P6)**
 
 Students explore the Sungei Buloh Wetland Reserve in its most natural form as they experience the theme of interactions in real life (adaptations, population and community). They have the opportunities to identify the adaptations found and observe the various organisms that are interdependent on one another for survival.
 
