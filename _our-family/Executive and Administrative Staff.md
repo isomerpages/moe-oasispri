@@ -65,12 +65,8 @@ description: ""
     <td class="tg-j74v">Mr Neui Yew Wing Vincent</td>
   </tr>
   <tr>
-    <td class="tg-8com"></td>
-    <td class="tg-1d14"></td>
-  </tr>
-  <tr>
-    <td class="tg-dv6r">Operations Support Officer<br></td>
-    <td class="tg-j74v">Mr Tan Cheng Hoe Robin</td>
+    <td class="tg-8com">Operations Support Officer</td>
+    <td class="tg-1d14">Mr Tan Cheng Hoe Robin</td>
   </tr>
   <tr>
 </tr></tbody>
