@@ -432,3 +432,9 @@ Our unique English Language Teaching and Learning&nbsp;at Oasis Primary School, 
 <p></p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sVPpHI8GNLA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+### Life@MK
+
+**[Slides](https://drive.google.com/file/d/1I7emz_8BczPkehjhpa2WNaiaYL5lW_so/view?usp=sharing) for LIFE@MK 1: Supporting Children’s &nbsp;Transition from Preschool to Primary School on 20 April, Thursday | 2.00pm - 3.30pm**
+<br>
+*(Note: This deck of slides will only be available until end of May. Thank you.)*
