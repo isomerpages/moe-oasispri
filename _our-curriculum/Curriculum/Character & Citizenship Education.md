@@ -282,7 +282,7 @@ The student recipients (by level) are as follows:
 <img src="/images/cce_photo8b.png" style="width:100%">
 <img src="/images/cce_photo8c.png" style="width:100%">
 
-**SHINE@Oasis**
+##### **SHINE@Oasis**
 
 SHINE@Oasis provides a holistic assessment of the students with input from teachers, self, peer and parents. It uses actionable statements to encourage all students to live up to the school values and the 7 Habits. The assessment is done in the SHINE@Oasis booklet at the end of each term with a focus on specific value -Responsibility in Term 1, Integrity &amp; Respect in Term 2, Care &amp; Harmony in Term 3 and Resilience in Term 4.
 
