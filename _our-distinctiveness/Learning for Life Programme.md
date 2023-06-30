@@ -84,23 +84,23 @@ Changemaker workshops is another important series of training for our prefects t
 
 ![](/images/LLP6.png)
 
-### Prefects Investiture 2022
+##### Prefects Investiture 2023
 
-Over the last 2 years, we have overcome many challenges posed by the pandemic, and we came out with creative solutions to ensure all teaching and learning experiences were not compromised. Our prefects have also continued to serve the school, and created positive impact to the school community through their Changemaker Projects despite the constraints, living up to the spirit of Lead With A Heart, Changemakers For The Future.
+Over the last 3 years, we have overcome many challenges posed by the Covid-19 pandemic, and we came out with creative solutions to ensure all teaching and learning experiences were not compromised. Our prefects have also continued to serve the school and create positive impact to the school community through their Changemaker Projects despite the constraints, living up to the spirit of Lead With A Heart, Changemakers For The Future.
 
-This year, we are proud to appoint 115 prefects during our annual Prefects Investiture ceremony. Among them are 10 senior prefects who have been promoted based on continued good performance and dedicated service, 8 Vice-Head prefects who were selected based on exemplary performance, and 3 Head Prefects who were voted in by peers and endorsed by the school staff to lead the prefects according to 3 sub-areas, Safe &amp; Secure@Oasis, Sustainable Oasis &amp; Holistic Wellbeing.
+This year, we are proud to appoint 111 prefects at our Prefects Investiture Ceremony. Among them are 8 senior prefects who have been promoted based on continued good performance and dedicated service, 7 Vice-Head prefects who were selected based on exemplary performance, and 3 Head Prefects who were voted in by peers and endorsed by the school staff to lead the prefects according to 3 sub-areas, Safe &amp; Secure@Oasis, Sustainable Oasis &amp; Holistic Wellbeing.
 
 **Head Prefects**
 
-**Sub-area 1**&nbsp;- Rena Soh Yin En <br>
-**Sub-area 2**&nbsp;- Lee Jia Le Ethan <br>
-**Sub-area 3**&nbsp;- Umar Bin Nur Muhammad
+**Sub-area 1**&nbsp;- Chen Kian Kyle <br>
+**Sub-area 2**&nbsp;- Sean Cheng Yue Kai <br>
+**Sub-area 3**&nbsp;- Angela Oh Si Jing
 
 **Vice-Head Prefects**
 
-**Sub-area 1**&nbsp;- Chen Kian Kyle &amp; Sean Cheng Yue Kai <br>
-**Sub-area 2**&nbsp;- Myiesha Dahlia Binte Hadianto, Isabelle Cheng Si Yan &amp; Ng Sim Wun, Chloe <br>
-**Sub-area 3**&nbsp;- Nur Iman Binte Muhammad Fadhly, Angela Oh Si Jing &amp; Ho Louis
+**Sub-area 1**&nbsp;- Ng Sim Wun, Chloe &amp; Lucas Toh Jing Hang <br>
+**Sub-area 2**&nbsp;- Isabelle Cheng Si Yan, Kho Jun Ning &amp; Sharifah Alya Zahra Binte Syed Mohsein Albar <br>
+**Sub-area 3**&nbsp;- Ho Louis &amp; Lim Pei Yu Trina
 
 ![](/images/LLP7.png)
 
