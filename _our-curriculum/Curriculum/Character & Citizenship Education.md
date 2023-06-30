@@ -23,11 +23,13 @@ Citizenship education nurtures our Oasians to develop dispositions towards natio
 
 **Student Leadership**
 
-The student leadership development programme aims to nurture our Oasians to be a leader who serves and leads with empathy, and creates positive impacts to the community through the following 3 broad tiers:
+As the school’s Lifelong Learning Programme (LLP), our student leadership programme aims to nurture our Oasians to be leaders who serve and lead with empathy, and contribute positively to the community through the following tiers:
 
-1.  Self-leadership
-2.  Team-leadership
-3.  Change-leadership
+		1.  Self-Leadership
+		2.  Team Leadership
+		3.  Change Leadership
+
+See OPS [Learning for Life Programme](https://www.oasispri.moe.edu.sg/our-distinctiveness/learning-for-life-programme/)
 
 ### Key Programmes
 
