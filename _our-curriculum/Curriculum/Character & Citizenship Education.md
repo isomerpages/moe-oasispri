@@ -294,6 +294,10 @@ A strong peer support relationship helps to create a caring and enabling environ
 
 With the tagline, ‘Always Here for You’, our Peer Support Leaders will navigate their roles actively through completingf tasks in their mission cards.
 
+<img src="/images/cce_photo10a.png" style="width:100%">
+<img src="/images/cce_photo10b.png" style="width:100%">
+<img src="/images/cce_photo10a.png" style="width:100%">
+
 ![](/images/student%20well-being%20commitee.png)
 
 ### Peer Support Leaders Training
