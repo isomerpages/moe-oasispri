@@ -201,7 +201,6 @@ One of the highlights of commemorating TDD this year was the in-house skit put t
 An in-house production by our teachers.
 
 
-
 <img src="/images/tdd1.png" style="width:100%">
 
 **International Friendship Day**  
