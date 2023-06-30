@@ -25,7 +25,7 @@ Oasians welcomed 2022 with our signature programme, Start It Right! Each program
 
 * Safe and Conducive Learning Environment
 
-* School Wide Positive Behaviour 
+* School Wide Positive Behaviour&nbsp;
 
 The Year Heads gave a Zoom talk for the respective levels where they welcomed the students back to school and set the school’s expectations. Together with their form teachers, the students planned their S.M.A.R.T goals and set targets for their SHINE@Oasis. Besides that, the students also decorated their classrooms together.
 
@@ -47,9 +47,9 @@ To end the day, the whole school synergised to clean up their classrooms during 
 
 During TLiM Celebrations, students carried out various activities to consolidate the learning of the 7 Habits in The Leader in Me at the end of the year. TLiM empowers Oasians with leadership and life skills they need to thrive in life.
 
-The Primary 1 students practised **Habit 2: Begin with the End in Mind** to string macaroni beads into a bracelet of a desired design. They also practised **Habit 6: Synergize** to solve a puzzle on the iPad with their peers. The Primary 2 students incorporated the 7 Habits to modify a lyric of a song of their choice. In the process of modifying the lyrics, students are also encouraged to demonstrate the 7 Habits.
+The Primary 1 students practised&nbsp;**Habit 2: Begin with the End in Mind**&nbsp;to string macaroni beads into a bracelet of a desired design. They also practised&nbsp;**Habit 6: Synergize**&nbsp;to solve a puzzle on the iPad with their peers. The Primary 2 students incorporated the 7 Habits to modify a lyric of a song of their choice. In the process of modifying the lyrics, students are also encouraged to demonstrate the 7 Habits.
 
-The Primary 3 students were engaged in Comic Strip making to practise **Habit 3: Put First Things First** and **Habit 4: Think Win-Win** as they complete the assigned task. Students were also given a chance to view their peers' masterpieces in a Gallery Walk. The Primary 4 students applied **Habit 5: Seek First to Understand, then to be Understood** and **Habit 6: Synergize** to plan and demonstrate activities to promote an Inclusive Oasis. Students were also given a chance to try out the activities planned by their peers from other classes.
+The Primary 3 students were engaged in Comic Strip making to practise&nbsp;**Habit 3: Put First Things First**&nbsp;and&nbsp;**Habit 4: Think Win-Win**&nbsp;as they complete the assigned task. Students were also given a chance to view their peers' masterpieces in a Gallery Walk. The Primary 4 students applied&nbsp;**Habit 5: Seek First to Understand, then to be Understood**&nbsp;and&nbsp;**Habit 6: Synergize**&nbsp;to plan and demonstrate activities to promote an Inclusive Oasis. Students were also given a chance to try out the activities planned by their peers from other classes.
 
 ![](/images/LLP4.png)
 
@@ -61,13 +61,79 @@ This year, Student Leadership Committee worked closely with various departments 
 
 ![](/images/LLP5.png)
 
-### Leadership Training & Changemaker Workshop For Tier 3 Student Leaders
+### Leadership Training &amp; Changemaker Workshop For Tier 3 Student Leaders
 
 To enhance prefects’ leadership competencies, a series of leadership training was provided to help prefects learn critical thinking and problem solving skills.  
 
 Changemaker workshops were another important series of training to bring prefects through Design Thinking strategies and scaffolding and facilitating the process of Changemaker projects for the prefects.
 
 ![](/images/LLP6.png)
+
+### Prefects Investiture 2022
+
+Over the last 2 years, we have overcome many challenges posed by the pandemic, and we came out with creative solutions to ensure all teaching and learning experiences were not compromised. Our prefects have also continued to serve the school, and created positive impact to the school community through their Changemaker Projects despite the constraints, living up to the spirit of Lead With A Heart, Changemakers For The Future.
+
+This year, we are proud to appoint 115 prefects during our annual Prefects Investiture ceremony. Among them are 10 senior prefects who have been promoted based on continued good performance and dedicated service, 8 Vice-Head prefects who were selected based on exemplary performance, and 3 Head Prefects who were voted in by peers and endorsed by the school staff to lead the prefects according to 3 sub-areas, Safe &amp; Secure@Oasis, Sustainable Oasis &amp; Holistic Wellbeing.
+
+**Head Prefects**
+
+**Sub-area 1**&nbsp;- Rena Soh Yin En <br>
+**Sub-area 2**&nbsp;- Lee Jia Le Ethan <br>
+**Sub-area 3**&nbsp;- Umar Bin Nur Muhammad
+
+**Vice-Head Prefects**
+
+**Sub-area 1**&nbsp;- Chen Kian Kyle &amp; Sean Cheng Yue Kai <br>
+**Sub-area 2**&nbsp;- Myiesha Dahlia Binte Hadianto, Isabelle Cheng Si Yan &amp; Ng Sim Wun, Chloe <br>
+**Sub-area 3**&nbsp;- Nur Iman Binte Muhammad Fadhly, Angela Oh Si Jing &amp; Ho Louis
+
+![](/images/LLP7.png)
+
+### Changemaker Projects
+
+The Changemaker Projects aim to nurture empathetic student leaders, who are confident in leading their schoolmates in a series of impactful actions for a meaningful cause within the school and community.
+
+In 2021, all our prefects underwent a 3 days’ Changemaker workshop during the June holiday. They learnt Design Thinking protocol during the workshop and conceptualised Changemaker projects to create positive changes to the people around them.
+
+![](/images/LLP8.png)
+
+### P3 Prefects Changemaker Project - Love In A Bag
+
+Our P3 prefects decided to do a project to show their appreciation towards their teachers in school. The prefects brainstormed the type of gifts to present to their teachers. After initiating a short survey with teachers to understand their needs, they decided to personalise tote bags to present to the teachers. The prefects felt a sense of achievement and satisfaction as they were able to show appreciation to their teachers through the personalised gifts that they prepared and presented.
+
+![](/images/LLP9.png)
+
+**P4 Prefects Changemaker Project - Teachers’ Day eConcert**
+
+Our P4 prefects exhibited their critical and creative thinking skills as they took charge of the Teachers’ Day Virtual Concert to show gratitude to their teachers. They took ownership to create their e-concert videos collaboratively in their respective teams as they sharpened their leadership skills along the project. They showcased innovative mindsets to present creative performances and activities, especially when they do not have a physical stage to perform on. The project encouraged planning and decision-making as a team. Despite limited resources and time, the P4 prefects were able to put up an amazing e-Concert video successfully to celebrate the joyous day!
+
+![](/images/LLP10.png)
+
+**P5 &amp; P6 Sub-area 1 Prefects Changemaker Project - Fake Or Real**
+
+Technology becomes part of our lives as society progresses and people are exposed to fake news every day. Fake news regarding Covid 19 were being circulated and such circulation affected parents, students and even staff members. This motivates the P5 &amp; P6 Prefects in wanting to help others to learn how to differentiate fake news from real news. The team created a video toolkit with an online game to educate Oasians about fake news. Level competitions were held for P3, P4 and P6 students to challenge schoolmates to design creative taglines, jingles and raps to remind others to guard against fake news. The level competitions received overwhelming responses from students. This project clinched the Silver Award in the National Cyberwelless Advocacy Challenge and the Top 3 Award in the 12th&nbsp;Design For Change Singapore Challenge 2021.
+
+![](/images/LLP11.png)
+
+**P5 &amp; P6 Sub-area 2 Prefects Changemaker Project - Renew, Refresh, Reinvent**
+
+Students of Oasis Primary School noticed that food packaging goes to waste after food is being consumed it is thrown at a rapid speed and this leads to large volume of waste accumulated every day.
+
+Our sub-area 2 prefects decided to create instructional video to teach on how to upcycle, and hold level competitions to motivate their peers to start upcycling.
+
+The team put together a SLS toolkit that consist of various instructional videos to educate Oasians on the impact of food packaging waste on the environment, as well as demonstrate ways on upcycling everyday food packaging waste. This helped students to increase their awareness and encourage positive steps to take in upcycling food packaging. Parents were very supportive of the project and many of them worked together with their children to create upcycled items to participate in the level competition.
+
+This project clinched the Gold Award in the National Youth Upcycling Movement 2021.
+
+![](/images/LLP12.png)
+
+**P5 &amp; P6 Sub-area 3 Prefects Changemaker Project -Secret Mail &amp; A Dose of Laughter**
+
+To encourage school mates to be positive and resilient when they are experiencing new norms during the pandemic, and to help them beat stress, our sub-area 3 prefects came out with the idea of having a secret mail channel for school mates to write about their problems. The prefects also prepared a set of jokes video with their family as "Dose Of Laughters" segment in SLS for all students to view and have their mood lighten during the HBL period.  
+
+This project received special mention during the 12th&nbsp;Design For Change Singapore Challenge 2021.
+
+![](/images/LLP13.png)
 
 ### Achievements
 
@@ -121,69 +187,3 @@ Changemaker workshops were another important series of training to bring prefect
   </tr>
 </tbody>
 </table>
-
-### Prefects Investiture 2022
-
-Over the last 2 years, we have overcome many challenges posed by the pandemic, and we came out with creative solutions to ensure all teaching and learning experiences were not compromised. Our prefects have also continued to serve the school, and created positive impact to the school community through their Changemaker Projects despite the constraints, living up to the spirit of Lead With A Heart, Changemakers For The Future.
-
-This year, we are proud to appoint 115 prefects during our annual Prefects Investiture ceremony. Among them are 10 senior prefects who have been promoted based on continued good performance and dedicated service, 8 Vice-Head prefects who were selected based on exemplary performance, and 3 Head Prefects who were voted in by peers and endorsed by the school staff to lead the prefects according to 3 sub-areas, Safe & Secure@Oasis, Sustainable Oasis & Holistic Wellbeing.
-
-**Head Prefects**
-
-**Sub-area 1** - Rena Soh Yin En <br>
-**Sub-area 2** - Lee Jia Le Ethan <br>
-**Sub-area 3** - Umar Bin Nur Muhammad
-
-**Vice-Head Prefects**
-
-**Sub-area 1** - Chen Kian Kyle & Sean Cheng Yue Kai <br>
-**Sub-area 2** - Myiesha Dahlia Binte Hadianto, Isabelle Cheng Si Yan & Ng Sim Wun, Chloe <br>
-**Sub-area 3** - Nur Iman Binte Muhammad Fadhly, Angela Oh Si Jing & Ho Louis
-
-![](/images/LLP7.png)
-
-### Changemaker Projects
-
-The Changemaker Projects aim to nurture empathetic student leaders, who are confident in leading their schoolmates in a series of impactful actions for a meaningful cause within the school and community.
-
-In 2021, all our prefects underwent a 3 days’ Changemaker workshop during the June holiday. They learnt Design Thinking protocol during the workshop and conceptualised Changemaker projects to create positive changes to the people around them.
-
-![](/images/LLP8.png)
-
-### P3 Prefects Changemaker Project - Love In A Bag
-
-Our P3 prefects decided to do a project to show their appreciation towards their teachers in school. The prefects brainstormed the type of gifts to present to their teachers. After initiating a short survey with teachers to understand their needs, they decided to personalise tote bags to present to the teachers. The prefects felt a sense of achievement and satisfaction as they were able to show appreciation to their teachers through the personalised gifts that they prepared and presented.
-
-![](/images/LLP9.png)
-
-**P4 Prefects Changemaker Project - Teachers’ Day eConcert**
-
-Our P4 prefects exhibited their critical and creative thinking skills as they took charge of the Teachers’ Day Virtual Concert to show gratitude to their teachers. They took ownership to create their e-concert videos collaboratively in their respective teams as they sharpened their leadership skills along the project. They showcased innovative mindsets to present creative performances and activities, especially when they do not have a physical stage to perform on. The project encouraged planning and decision-making as a team. Despite limited resources and time, the P4 prefects were able to put up an amazing e-Concert video successfully to celebrate the joyous day!
-
-![](/images/LLP10.png)
-
-**P5 & P6 Sub-area 1 Prefects Changemaker Project - Fake Or Real**
-
-Technology becomes part of our lives as society progresses and people are exposed to fake news every day. Fake news regarding Covid 19 were being circulated and such circulation affected parents, students and even staff members. This motivates the P5 & P6 Prefects in wanting to help others to learn how to differentiate fake news from real news. The team created a video toolkit with an online game to educate Oasians about fake news. Level competitions were held for P3, P4 and P6 students to challenge schoolmates to design creative taglines, jingles and raps to remind others to guard against fake news. The level competitions received overwhelming responses from students. This project clinched the Silver Award in the National Cyberwelless Advocacy Challenge and the Top 3 Award in the 12th Design For Change Singapore Challenge 2021.
-
-![](/images/LLP11.png)
-
-**P5 & P6 Sub-area 2 Prefects Changemaker Project - Renew, Refresh, Reinvent**
-
-Students of Oasis Primary School noticed that food packaging goes to waste after food is being consumed it is thrown at a rapid speed and this leads to large volume of waste accumulated every day.
-
-Our sub-area 2 prefects decided to create instructional video to teach on how to upcycle, and hold level competitions to motivate their peers to start upcycling.
-
-The team put together a SLS toolkit that consist of various instructional videos to educate Oasians on the impact of food packaging waste on the environment, as well as demonstrate ways on upcycling everyday food packaging waste. This helped students to increase their awareness and encourage positive steps to take in upcycling food packaging. Parents were very supportive of the project and many of them worked together with their children to create upcycled items to participate in the level competition.
-
-This project clinched the Gold Award in the National Youth Upcycling Movement 2021.
-
-![](/images/LLP12.png)
-
-**P5 & P6 Sub-area 3 Prefects Changemaker Project -Secret Mail & A Dose of Laughter**
-
-To encourage school mates to be positive and resilient when they are experiencing new norms during the pandemic, and to help them beat stress, our sub-area 3 prefects came out with the idea of having a secret mail channel for school mates to write about their problems. The prefects also prepared a set of jokes video with their family as "Dose Of Laughters" segment in SLS for all students to view and have their mood lighten during the HBL period.  
-
-This project received special mention during the 12th Design For Change Singapore Challenge 2021.
-
-![](/images/LLP13.png)
