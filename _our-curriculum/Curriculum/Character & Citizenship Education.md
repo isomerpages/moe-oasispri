@@ -230,7 +230,7 @@ Everyone had a fabulous time mingling with one another and making new friends.
 <img src="/images/cce_photo4c.png" style="width:100%">
 The battle to show our skills at playing five stones.
 
-**National Day Celebrations**
+##### **National Day Celebrations**
 
 In view of the COVID-19 situation, Oasians commemorates National Day in a special way. The Observance Ceremony took on a special significance as students reflected on how far Singapore has come in our fight against COVID-19. The theme “Together, Our Singapore Spirit” celebrates Singaporeans’ unity and can-do spirit that has kept our country strong amid the pandemic.
 
