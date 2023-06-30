@@ -119,7 +119,8 @@ Our students’ learning is based on three broad clusters, as reflected in the S
   mso-border-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="text-align:justify;tab-stops:178.1pt"><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   Arial">Appreciating Singapore, the Region and the World We Live In</span></p></td></tr></tbody></table>
 
-...
+<img style="width:100%" src="/images/CCE_Photo1.jpg">
+<center><b>SHINE Oasians: Serve with a Heart and Inspire Everyone through words and actions</b></center>
 
 **NE Bulletin Discussion Lessons**
 
