@@ -68,11 +68,11 @@ Primary 4 students applied Habit 5: Seek First to Understand, then to be Underst
 
 ![](/images/LLP4.png)
 
-### Role Specific Training For Tier 2 Student Leaders
+##### Role Specific Training For Tier 2 Student Leaders
 
-It is our belief that every student has the potential to develop leadership skills, and the training of leadership skills should be intentional.  
+At Oasis Primary, we believe that every student has the potential to develop leadership skills, and the training of leadership skills should be intentional.
 
-This year, Student Leadership Committee worked closely with various departments to conduct role specific training once a semester to equip Tier 2 leaders with the necessary skills to carry out their duties.
+Therefore, the Student Leadership Committee works closely with various departments to conduct role specific training once a semester to equip Tier 2 classroom leaders with the necessary skills to carry out their duties.
 
 ![](/images/LLP5.png)
 
