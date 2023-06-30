@@ -240,9 +240,13 @@ To mark the special occasion, all students and staff of the Oasis family partici
 
 <img src="/images/cce_photo5b.jpg" style="width:100%">
 
-**Cyber Wellness**
+##### **Cyber Wellness**
 
-Cyber Wellness Programme aims to educate stakeholders with digital literacy. Oasis Cyber Wellness framework is Assess, Champion and Empower. We assess students’ online habits and experiences through survey. The team champions cyber wellness messages to students, staff and parents through various platforms such as Student Learning Spaces, Class Dojo and school’s TV Broadcast. Cyber Wellness programme aims to empower students, staff and parents to promote positive cyber culture in school as well as at home.
+Aimed at raising an Oasian who is a positive influence, responsible and safe digital user, customized programmes such as differentiated assemblies were conducted to bring across age-appropriate messages to our students.
+
+Oasians were also involved in the creation of our first Cyber Singa mascot. During one of the assembly programmes, the creator was given the opportunity to share his inspiration and hopes for his peers. This mascot was also used during recess activity and the peers were thrilled to be receiving bookmark reminders from the mascot.
+
+......
 
 ![](/images/cyber%20wellness.png)
 
