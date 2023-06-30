@@ -49,7 +49,8 @@ To develop Tier 1 self-leadership in all students, the school engages students i
 
 Primary 1 and Primary 2 students also undergo TLiM Placed-Based Learning at the school’s TLiM pillars to strengthen their understanding of the 7 habits through interactive activities and manipulatives.
 
-
+<img src="/images/cce_photo11a.png" style="width:100%">
+<img src="/images/cce_photo11b.PNG" style="width:100%">
 
 ### TLiM Celebrations
 
