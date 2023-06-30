@@ -438,3 +438,56 @@ Our unique English Language Teaching and Learning&nbsp;at Oasis Primary School, 
 **[Slides](https://drive.google.com/file/d/1I7emz_8BczPkehjhpa2WNaiaYL5lW_so/view?usp=sharing) for LIFE@MK 1: Supporting Children’s &nbsp;Transition from Preschool to Primary School on 20 April, Thursday | 2.00pm - 3.30pm**
 <br>
 *(Note: This deck of slides will only be available until end of May. Thank you.)*
+
+##### **Achievements**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-h1v5{background-color:#FFF;color:#002D46;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-vd2a{background-color:#FFF;color:#002D46;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-h1v5">Year</th>
+    <th class="tg-h1v5">Event</th>
+    <th class="tg-h1v5">Award</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-vd2a">2021</td>
+    <td class="tg-vd2a">National Cyberwelless Advocacy Challenge</td>
+    <td class="tg-vd2a">Silver Award</td>
+  </tr>
+  <tr>
+    <td class="tg-vd2a">2021</td>
+    <td class="tg-vd2a">12th Design For Change Singapore Challenge 2021<br></td>
+    <td class="tg-vd2a">Top 3 Award</td>
+  </tr>
+  <tr>
+    <td class="tg-vd2a">2021</td>
+    <td class="tg-vd2a">National Youth Upcycling Movement 2021<br></td>
+    <td class="tg-vd2a">Gold Award</td>
+  </tr>
+  <tr>
+    <td class="tg-vd2a">2020</td>
+    <td class="tg-vd2a">11th Design For Change Singapore Challenge (COVID related projects category)<br></td>
+    <td class="tg-vd2a">Special Prize</td>
+  </tr>
+  <tr>
+    <td class="tg-vd2a">2019</td>
+    <td class="tg-vd2a">10th Be The Change Celebration<br></td>
+    <td class="tg-vd2a">Certificate of Participation</td>
+  </tr>
+  <tr>
+    <td class="tg-vd2a">2019</td>
+    <td class="tg-vd2a">LOO (Let’s Observe Ourselves) Award<br></td>
+    <td class="tg-vd2a">Platinum STAR Schools Award</td>
+  </tr>
+</tbody>
+</table>
