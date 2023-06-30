@@ -221,8 +221,8 @@ It was interesting to find out during the Assembly sharing that some places in S
 
 Students were also introduced to people of different races and religions living together as neighbours in a HDB flat, the most common form of houses in Singapore. Together, Singaporeans learn to live in harmony with one another, and they even celebrated the different festivals from the ethnic communities in Singapore, as part of our multicultural mosaic heritage.
 
-
-![](/images/rhd.png)
+<img src="/images/cce_photo4.png" style="width:100%">
+Students at the Congkak booth, learning how to play this traditional game of the Malay community.
 
 **National Day Celebrations**
 
