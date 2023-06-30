@@ -52,13 +52,19 @@ Primary 1 and Primary 2 students also undergo TLiM Placed-Based Learning at the 
 <img src="/images/cce_photo11a.png" style="width:100%">
 <img src="/images/cce_photo11b.PNG" style="width:100%">
 
-### TLiM Celebrations
+##### TLiM Celebrations
 
-During TLiM Celebrations, students carried out various activities to consolidate the learning of the 7 Habits in The Leader in Me at the end of the year. TLiM empowers Oasians with leadership and life skills they need to thrive in life.
+During TLiM Celebrations, students will carry out various activities to consolidate the learning of the 7 Habits in The Leader in Me at the end of each year.
 
-The Primary 1 students practised&nbsp;**Habit 2: Begin with the End in Mind**&nbsp;to string macaroni beads into a bracelet of a desired design. They also practised&nbsp;**Habit 6: Synergize**&nbsp;to solve a puzzle on the iPad with their peers. The Primary 2 students incorporated the 7 Habits to modify a lyric of a song of their choice. In the process of modifying the lyrics, students are also encouraged to demonstrate the 7 Habits.
+Some of the past TLiM Celebration activities include:
 
-The Primary 3 students were engaged in Comic Strip making to practise&nbsp;**Habit 3: Put First Things First**&nbsp;and&nbsp;**Habit 4: Think Win-Win**&nbsp;as they complete the assigned task. Students were also given a chance to view their peers' masterpieces in a Gallery Walk. The Primary 4 students applied&nbsp;**Habit 5: Seek First to Understand, then to be Understood**&nbsp;and&nbsp;**Habit 6: Synergize**&nbsp;to plan and demonstrate activities to promote an Inclusive Oasis. Students were also given a chance to try out the activities planned by their peers from other classes.
+Primary 1 students practising Habit 2: Begin with the End in Mind by stringing macaroni beads into a bracelet of a desired design. They also practised Habit 6: Synergize to solve a puzzle on the iPad with their peers.
+
+Primary 2 students incorporated the 7 Habits to modify a lyric of a song of their choice. In the process of modifying the lyrics, students are also encouraged to demonstrate the 7 Habits.
+
+Primary 3 students were engaged in Comic Strip making to practise Habit 3: Put First Things First and Habit 4: Think Win-Win as they complete the assigned task. Students were also given a chance to view their peers’ masterpieces in a Gallery Walk.
+
+Primary 4 students applied Habit 5: Seek First to Understand, then to be Understood and Habit 6: Synergize to plan and demonstrate activities to promote an Inclusive Oasis. Students were given a chance to try out the activities planned by their peers from other classes.
 
 ![](/images/LLP4.png)
 
