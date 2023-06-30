@@ -50,6 +50,7 @@ To develop Tier 1 self-leadership in all students, the school engages students i
 Primary 1 and Primary 2 students also undergo TLiM Placed-Based Learning at the school’s TLiM pillars to strengthen their understanding of the 7 habits through interactive activities and manipulatives.
 
 
+
 ### TLiM Celebrations
 
 During TLiM Celebrations, students carried out various activities to consolidate the learning of the 7 Habits in The Leader in Me at the end of the year. TLiM empowers Oasians with leadership and life skills they need to thrive in life.
