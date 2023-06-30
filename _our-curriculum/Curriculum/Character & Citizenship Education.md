@@ -264,7 +264,9 @@ The school wishes to inculcate care and responsibility in Oasians where they tak
 
 In addition, the “Use Your Hands Campaign” is also conducted at the end of each semester before the students go for their vacations. This is to instill in Oasians a sense of responsibility and pride in taking care of their learning environment.
 
-![](/images/conducive%20classroom%20award.png)
+<img src="/images/cce_photo7a.png" style="width:100%">
+<img src="/images/cce_photo7b.png" style="width:100%">
+<img src="/images/cce_photo7c.png" style="width:100%">
 
 **Model Students for Term 1 &amp; Term 2, 2022**
 
