@@ -135,7 +135,120 @@ This project received special mention during the 12th&nbsp;Design For Change Sin
 
 ![](/images/LLP13.png)
 
-### Achievements
+##### Achievements
+
+<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="341" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
+ mso-border-alt:solid black .5pt;mso-yfti-tbllook:1024;mso-padding-alt:0in 5.4pt 0in 5.4pt;
+ mso-border-insideh:.5pt solid black;mso-border-insidev:.5pt solid black"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="47" valign="top" style="width:34.9pt;border:solid black 1.0pt;
+  mso-border-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial">Year</span></b></p></td><td width="180" valign="top" style="width:135.0pt;border:solid black 1.0pt;
+  border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
+  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial">Event</span></b></p></td><td width="114" valign="top" style="width:85.55pt;border:solid black 1.0pt;
+  border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
+  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial">Award</span></b></p></td></tr><tr style="mso-yfti-irow:1"><td width="47" valign="top" style="width:34.9pt;border:solid black 1.0pt;
+  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
+  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="text-align:justify"><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial">2022</span></p></td><td width="180" valign="top" style="width:135.0pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
+  mso-border-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="left" style="text-align:left"><span style="font-size:
+  10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial">13<sup>th</sup> Design For Change Singapore Challenge 2022</span></p></td><td width="114" valign="top" style="width:85.55pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
+  mso-border-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="left" style="text-align:left"><span style="font-size:
+  10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial">Invitation to present at 13th Be The Change <span style="color:black;mso-themecolor:
+  text1">Celebration (Upcycling Project)</span></span></p></td></tr><tr style="mso-yfti-irow:2"><td width="47" valign="top" style="width:34.9pt;border:solid black 1.0pt;
+  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
+  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="text-align:justify"><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial">2022</span></p></td><td width="180" valign="top" style="width:135.0pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
+  mso-border-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="left" style="text-align:left"><span style="font-size:
+  10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial">National Cyberwellness Advocacy Challenge</span></p></td><td width="114" valign="top" style="width:85.55pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
+  mso-border-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="left" style="text-align:left"><span style="font-size:
+  10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial">Silver Award (1)</span></p></td></tr><tr style="mso-yfti-irow:3"><td width="47" valign="top" style="width:34.9pt;border:solid black 1.0pt;
+  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
+  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="text-align:justify"><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial">2022</span></p></td><td width="180" valign="top" style="width:135.0pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
+  mso-border-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="left" style="text-align:left"><span style="font-size:
+  10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial">National Youth Upcycling Movement</span></p></td><td width="114" valign="top" style="width:85.55pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
+  mso-border-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="left" style="text-align:left"><span style="font-size:
+  10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial">Silver Award (1)</span></p></td></tr><tr style="mso-yfti-irow:4"><td width="47" valign="top" style="width:34.9pt;border:solid black 1.0pt;
+  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
+  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="text-align:justify"><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial">2021</span></p></td><td width="180" valign="top" style="width:135.0pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
+  mso-border-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="left" style="text-align:left"><span style="font-size:
+  10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial">12<sup>th</sup> Design For Change Singapore Challenge</span></p></td><td width="114" valign="top" style="width:85.55pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
+  mso-border-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="left" style="text-align:left"><span style="font-size:
+  10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial">Top 3 Award</span></p></td></tr><tr style="mso-yfti-irow:5"><td width="47" valign="top" style="width:34.9pt;border:solid black 1.0pt;
+  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
+  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="text-align:justify"><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial">2021</span></p></td><td width="180" valign="top" style="width:135.0pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
+  mso-border-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="left" style="text-align:left"><span style="font-size:
+  10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial">National Cyberwellness Advocacy Challenge</span></p></td><td width="114" valign="top" style="width:85.55pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
+  mso-border-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="left" style="text-align:left"><span style="font-size:
+  10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial">Silver Award</span></p></td></tr><tr style="mso-yfti-irow:6"><td width="47" valign="top" style="width:34.9pt;border:solid black 1.0pt;
+  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
+  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="text-align:justify"><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial">2021</span></p></td><td width="180" valign="top" style="width:135.0pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
+  mso-border-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="left" style="text-align:left"><span style="font-size:
+  10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial">National Youth Upcycling Movement</span></p></td><td width="114" valign="top" style="width:85.55pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
+  mso-border-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="left" style="text-align:left"><span style="font-size:
+  10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial">Gold Award</span></p></td></tr><tr style="mso-yfti-irow:7"><td width="47" valign="top" style="width:34.9pt;border:solid black 1.0pt;
+  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
+  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="text-align:justify"><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial">2020</span></p></td><td width="180" valign="top" style="width:135.0pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
+  mso-border-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="left" style="text-align:left"><span style="font-size:
+  10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial">11<sup>th</sup> Design For Change Singapore Challenge (COVID related projects category)</span></p></td><td width="114" valign="top" style="width:85.55pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
+  mso-border-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="left" style="text-align:left"><span style="font-size:
+  10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial">Special Prize</span></p></td></tr><tr style="mso-yfti-irow:8"><td width="47" valign="top" style="width:34.9pt;border:solid black 1.0pt;
+  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
+  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="text-align:justify"><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial">2019</span></p></td><td width="180" valign="top" style="width:135.0pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
+  mso-border-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="left" style="text-align:left"><span style="font-size:
+  10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial">10<sup>th</sup> Be The Change Celebration</span></p></td><td width="114" valign="top" style="width:85.55pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
+  mso-border-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="left" style="text-align:left"><span style="font-size:
+  10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial">Certificate of Participation</span></p></td></tr><tr style="mso-yfti-irow:9;mso-yfti-lastrow:yes"><td width="47" valign="top" style="width:34.9pt;border:solid black 1.0pt;
+  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
+  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="text-align:justify"><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial">2019</span></p></td><td width="180" valign="top" style="width:135.0pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
+  mso-border-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="left" style="text-align:left"><span style="font-size:
+  10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial">LOO (Let’s Observe Ourselves) Award</span></p></td><td width="114" valign="top" style="width:85.55pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
+  mso-border-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="left" style="text-align:left"><span style="font-size:
+  10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial">Platinum STAR Schools Award</span></p></td></tr></tbody></table>
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
