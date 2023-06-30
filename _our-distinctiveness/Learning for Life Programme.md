@@ -50,6 +50,7 @@ To develop Tier 1 self-leadership in all students, the school engages students i
 Primary 1 and Primary 2 students also undergo TLiM Placed-Based Learning at the school’s TLiM pillars to strengthen their understanding of the 7 habits through interactive activities and manipulatives.
 
 <img src="/images/cce_photo11a.png" style="width:100%">
+
 <img src="/images/cce_photo11b.PNG" style="width:100%">
 
 ##### TLiM Celebrations
@@ -102,17 +103,22 @@ This year, we are proud to appoint 111 prefects at our Prefects Investiture Cere
 **Sub-area 2**&nbsp;- Isabelle Cheng Si Yan, Kho Jun Ning &amp; Sharifah Alya Zahra Binte Syed Mohsein Albar <br>
 **Sub-area 3**&nbsp;- Ho Louis &amp; Lim Pei Yu Trina
 
-![](/images/LLP7.png)
+<img src="/images/cce_photo12a.jpg" style="width:100%">
+<img src="/images/cce_photo12b.jpg" style="width:100%">
+<img src="/images/cce_photo12c.jpg" style="width:100%">
+<img src="/images/cce_photo12d.jpg" style="width:100%">
+<img src="/images/cce_photo12e.jpg" style="width:100%">
+<img src="/images/cce_photo12f.jpg" style="width:100%">
 
-### Changemaker Projects
+##### Changemaker Projects
 
-The Changemaker Projects aim to nurture empathetic student leaders, who are confident in leading their schoolmates in a series of impactful actions for a meaningful cause within the school and community.
+The Changemaker Projects aim to nurture empathetic student leaders who are confident in leading their schoolmates in a series of impactful actions for a meaningful cause within the school and community.
 
-In 2021, all our prefects underwent a 3 days’ Changemaker workshop during the June holiday. They learnt Design Thinking protocol during the workshop and conceptualised Changemaker projects to create positive changes to the people around them.
+In 2022, all our prefects underwent a series of Changemaker workshop. They learnt Design Thinking protocol during the workshop and conceptualised Changemaker projects to create positive changes to the people around them.
 
 ![](/images/LLP8.png)
 
-### P3 Prefects Changemaker Project - Love In A Bag
+##### P3 Prefects Changemaker Project 2022 - Memory Box
 
 Our P3 prefects decided to do a project to show their appreciation towards their teachers in school. The prefects brainstormed the type of gifts to present to their teachers. After initiating a short survey with teachers to understand their needs, they decided to personalise tote bags to present to the teachers. The prefects felt a sense of achievement and satisfaction as they were able to show appreciation to their teachers through the personalised gifts that they prepared and presented.
 
