@@ -255,12 +255,10 @@ Pre-assembly programme on being a responsible online citizen, conducted by a tea
 Recess activities that focus on cyber wellness. 
 
 <img src="/images/cce_photo6d.png" style="width:100%">
+Creator of the Cyber Singa mascot sharing with his peers on his creation and his hopes.
 
-
-![](/images/cyber%20wellness.png)
-
-**Conducive Classroom Award**
-
+##### **Conducive Classroom Award**
+##### 
 In partnership with the school cleaning vendor, the cleaners would visit the classes to affirm the cleanliness of each class by stamping stars on the class cleanliness chart displayed outside every classroom. At the end of each term, the Gold, Silver or Bronze Award will be presented to classes based on the number of stamps they have accumulated in each term.
 
 From the above programme, the school wishes to inculcate care and responsibility in Oasians where they take ownership their classrooms’ conducive environment.
