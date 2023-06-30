@@ -189,14 +189,16 @@ P6 Students will visit the mural walls on Storey 5 (Oasis Global Explorer) to le
 
 Each year, our students will also go on field-based learning journeys out of school as part of the SS curriculum in Oasis Primary School. Through these learning journeys, our students develop important skills and acquire knowledge from the environment that they have explored and learn to be more informed citizens who are aware of what is happening around them.
 
-**Commemorating Total Defence Day**
+##### **Commemorating Total Defence Day**
 
-Schools commemorate Total Defence Day on 15 February annually to mark Singapore’s fall to the Japanese in 1942. Total Defence Day serves to remind our students that Singapore is defensible and we must defend Singapore ourselves. Total Defence has guided us through many difficult times, most recently, through our nation’s fight against COVID-19.  
+Schools commemorate Total Defence Day (TDD) on 15 February annually to mark Singapore’s fall to the Japanese in 1942.&nbsp; TDD serves to remind our students that Singapore is defensible and we must defend Singapore ourselves. Total Defense has guided us through many difficult times, most recently, through our nation’s fight against COVID-19.
 
-The theme of the Total Defence campaign 2022 is "Together We Keep Singapore Strong" focuses on the many ways we can put Total Defence into action and relate military defence to real life situations. It highlights the importance in rallying Singaporeans together to overcome crises.
+This year, the theme of the Total Defence campaign "Together We Keep Singapore Strong" focuses on the many ways we can put Total Defence into action in our everyday lives.&nbsp; It highlights the importance in rallying Singaporeans together to overcome crisis. The focus this year is on food security and the six pillars of defense.
 
-![](/images/tdd1.png)
-![](/images/tdd2.png)
+One of the highlights of commemorating TDD this year was the in-house skit put together by the teachers. The skitaimed to spread the messages of reducing food wastage and not to fall prey to scams. In addition, our students also participated in the various recess activities to understand how Singapore continues to have a constant supply of food for our people during difficult times.
+
+
+
 
 **International Friendship Day**  
 
