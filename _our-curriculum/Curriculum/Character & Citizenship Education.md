@@ -246,7 +246,15 @@ Aimed at raising an Oasian who is a positive influence, responsible and safe dig
 
 Oasians were also involved in the creation of our first Cyber Singa mascot. During one of the assembly programmes, the creator was given the opportunity to share his inspiration and hopes for his peers. This mascot was also used during recess activity and the peers were thrilled to be receiving bookmark reminders from the mascot.
 
-......
+<img src="/images/cce_photo6a.png" style="width:100%">
+Pre-assembly programme on being a responsible online citizen, conducted by a teacher from the Student Well-being committee.
+
+<img src="/images/cce_photo6b.png" style="width:100%">
+
+<img src="/images/cce_photo6c.png" style="width:100%">
+
+<img src="/images/cce_photo6d.png" style="width:100%">
+
 
 ![](/images/cyber%20wellness.png)
 
