@@ -4,12 +4,12 @@ permalink: /our-curriculum/curriculum/character-n-citizenship-education/
 description: ""
 third_nav_title: Curriculum
 ---
-<img src="/images/CCE.jpg" 
-     style="width:100%">
+<img src="/images/CCE.jpg" style="width:100%">
 <center><b>SHINE Oasians: Serve with a Heart and Inspire Everyone through words and actions</b></center>
 
 ### Department Goals
-Nurture our students to be good individuals and contributing citizens of Singapore through the teaching of values and the 7 habits of The Leader in Me programme, as well as developing of socio-emotional competencies.
+
+**Nurture our students to be good individuals and contributing citizens of Singapore through the teaching of values and the 7 habits of The Leader in Me (TLiM) programme, as well as developing of Socio-Emotional competencies.**
 
 ### Our Approach
 
@@ -37,7 +37,7 @@ The student leadership development programme aims to nurture our Oasians to be a
 
 The P1 VIA, Be Gracious@Recess aims to imbue good habits and table etiquette in the canteen. Students observe personal hygiene by first washing their hands before taking their meals. They return the cutlery, followed by wipe down of the table after eating. Then they sanitise their hands and put on their mask.
 
-Two Gracious Ambassadors are appointed from each P1 class to remind their classmates to be Gracious@Recess. Students are encouraged to be responsible in keeping their tables and floor clean.  A panel of teachers comprising of the Year Head, SH/ Character Development, SH/NESS and teacher-in-charge of P1 VIA will assess the cleanliness of the tables and the floor assigned to each class. Certificates for gold or silver awards are issued to reaffirm the students’ effort of BE Gracious@Recess.
+Two Gracious Ambassadors are appointed from each P1 class to remind their classmates to be Gracious@Recess. Students are encouraged to be responsible in keeping their tables and floor clean.&nbsp; A panel of teachers comprising of the Year Head, SH/ Character Development, SH/NESS and teacher-in-charge of P1 VIA will assess the cleanliness of the tables and the floor assigned to each class. Certificates for gold or silver awards are issued to reaffirm the students’ effort of BE Gracious@Recess.
 
 ![](/images/P1%20via.png)
 
@@ -59,7 +59,7 @@ In Term 2, the P3 students wrote a “Hello” note to inquire of the P1 student
 
 **P4 VIA - The Friendship Project**
   
-This is the fourth year we are collaborating with Pathlight School for ‘The Friendship Project’. The objective of this VIA is for students to be able to empathise and show care for others.
+This is the fourth year we are collaborating with Pathlight School&nbsp;for ‘The Friendship Project’. The objective of this VIA is for students to be able to empathise and show care for others.
 
 ![](/images/P4%20VIA.png)
 
@@ -71,13 +71,13 @@ In partnership with English Department and Applied Learning Programme (ALP), P5 
 
 Through place-based learning, they also visited the Sustainable Singapore Wall at level 5 in the school where they learned about the environmental measures that Singapore has carried out.
 
-To further strengthen the advocacy on caring for the environment and harmony in nature, the P5 designed and created posters with green messages. Physical posters and e-posters are showcased in P1 and P2 classes, in the foyer and on school-wide broadcasting platforms.
+To further strengthen the advocacy on caring for the environment and harmony in nature, the P5&nbsp;designed and created posters with green messages. Physical posters and e-posters are showcased in P1 and P2 classes, in the foyer and on school-wide broadcasting platforms.
 
 ![](/images/p5%20via.png)
 
 **P6 VIA - Be A Blessing**  
 
-Our P6 students had the opportunity to reach out to residents of Peacehaven Nursing Home.  Through the VIA, they learnt to be grateful for what they have. The objective of the VIA is for students to put together a ‘Blessing’ care package for the residents. In 2021, they prepared 450 care packages of food items. They contributed food items as well. They designed and wrote well wishes on cards which were given in each care package. The students found the project meaningful and engaging.
+Our P6 students had the opportunity to reach out to residents of Peacehaven Nursing Home.&nbsp; Through the VIA, they learnt to be grateful for what they have. The objective of the VIA is for students to put together a ‘Blessing’ care package for the residents. In 2021, they prepared 450 care packages of food items. They contributed food items as well. They designed and wrote well wishes on cards which were given in each care package. The students found the project meaningful and engaging.
 
 ![](/images/p6%20via.png)
 
@@ -131,7 +131,7 @@ In 2022, Place-based Learning for SS will be introduced to Primary 6 students. S
 
 ![](/images/PBL2.png)
 
-**Commemorating Total Defence Day**
+**Commemorating&nbsp;Total Defence Day**
 
 Schools commemorate Total Defence Day on 15 February annually to mark Singapore’s fall to the Japanese in 1942. Total Defence Day serves to remind our students that Singapore is defensible and we must defend Singapore ourselves. Total Defence has guided us through many difficult times, most recently, through our nation’s fight against COVID-19.  
 
@@ -160,7 +160,7 @@ During the assembly talk, students learnt that shared spaces help connect all of
 
 In view of the COVID-19 situation, Oasians commemorates National Day in a special way. The Observance Ceremony took on a special significance as students reflected on how far Singapore has come in our fight against COVID-19. The theme “Together, Our Singapore Spirit” celebrates Singaporeans’ unity and can-do spirit that has kept our country strong amid the pandemic.
 
-The ceremony began with the raising of the National flag and a 'Recollections' segment, where students reflected on past and present challenges faced by our country and how each of us has a part to play in building a stronger Singapore. This was followed by a celebration segment “Our Colourful Food Culture through P2 Art Showcase & Classroom Engagement Activity”. Students also watched a play about embracing our differences and participated in the National Day Quiz on Singapore. We ended the celebration on a high note with the NDP 2021 theme song and some old favourites such as “Count On Me, Singapore”, “We Are Singapore” and “Home” that all Singaporeans are familiar with. These songs resonated with our students because they reflect the changes of the nation and sentiment of the people.
+The ceremony began with the raising of the National flag and a 'Recollections' segment, where students reflected on past and present challenges faced by our country and how each of us has a part to play in building a stronger Singapore. This was followed by a celebration segment “Our Colourful Food Culture through P2 Art Showcase &amp; Classroom Engagement Activity”. Students also watched a play about embracing our differences and participated in the National Day Quiz on Singapore. We ended the celebration on a high note with the NDP 2021 theme song and some old favourites such as “Count On Me, Singapore”, “We Are Singapore” and “Home” that all Singaporeans are familiar with. These songs resonated with our students because they reflect the changes of the nation and sentiment of the people.
 
 ![](/images/ndp.png)
 
@@ -180,9 +180,9 @@ The “Use Your Hands Campaign” is also carried out at the end of each semeste
 
 ![](/images/conducive%20classroom%20award.png)
 
-**Model Students for Term 1 & Term 2, 2022**
+**Model Students for Term 1 &amp; Term 2, 2022**
 
-The Model Student award is a termly award to recognise students’ effort in living up to the school value & the 7 habits. Every teacher provides the input in nominating students who deserve the award. In Term 1, we have the model student for the school value of Responsibility and Habit 1: Be Proactive and Habit 2: Begin with the End in Mind. In Term 2, we have the model student for the school value of Respect and Integrity with Habit 3: Put First Things First and Habit 4: Think Win-Win.
+The Model Student award is a termly award to recognise students’ effort in living up to the school value &amp; the 7 habits. Every teacher provides the input in nominating students who deserve the award. In Term 1, we have the model student for the school value of Responsibility and Habit 1: Be Proactive and Habit 2: Begin with the End in Mind. In Term 2, we have the model student for the school value of Respect and Integrity with Habit 3: Put First Things First and Habit 4: Think Win-Win.
 
 ![](/images/T12022_R.jpg)
 ![](/images/T22022_I.jpg)
@@ -190,7 +190,7 @@ The Model Student award is a termly award to recognise students’ effort in liv
 
 **SHINE@Oasis**
 
-SHINE@Oasis provides a holistic assessment of the students with input from teachers, self, peer and parents. It uses actionable statements to encourage all students to live up to the school values and the 7 Habits. The assessment is done in the SHINE@Oasis booklet at the end of each term with a focus on specific value -Responsibility in Term 1, Integrity & Respect in Term 2, Care & Harmony in Term 3 and Resilience in Term 4.
+SHINE@Oasis provides a holistic assessment of the students with input from teachers, self, peer and parents. It uses actionable statements to encourage all students to live up to the school values and the 7 Habits. The assessment is done in the SHINE@Oasis booklet at the end of each term with a focus on specific value -Responsibility in Term 1, Integrity &amp; Respect in Term 2, Care &amp; Harmony in Term 3 and Resilience in Term 4.
 
 ![](/images/Shine.jpg)
 
@@ -198,11 +198,11 @@ SHINE@Oasis provides a holistic assessment of the students with input from teach
 
 Student Well-Being’s motto is ‘Always Here For You’. The committee is committed to promote student’s well-being in a caring and enabling environment. To facilitate these, the following are done to:
 
-- Empower students to be a Peer Support Leader (PSL) through missions of Peer Bonding, Peer Influencing and Peer Helping;
+-&nbsp;Empower students to be a Peer Support Leader (PSL) through missions of Peer Bonding, Peer Influencing and Peer Helping;
 
-- Engage school staff through acquisition of Positive Teacher-Student Relationship skills and
+-&nbsp;Engage school staff through acquisition of Positive Teacher-Student Relationship skills and
 
-- Educate the staff and stakeholders on the cyber wellness issues.
+-&nbsp;Educate the staff and stakeholders on the cyber wellness issues.
 
 ![](/images/student%20well-being%20commitee.png)
 
