@@ -285,10 +285,10 @@ The student recipients (by level) are as follows:
 ##### **SHINE@Oasis - S**erve with a **H**eart and **IN**spire **E**veryone
 SHINE@Oasis provides a holistic assessment of the students with input from teachers, self, peers and parents. It uses actionable statements to encourage all students to live up to the school values and the 7 TLiM Habits. The assessment is done in the SHINE@Oasis booklet at the end of each term with a focus on specific value and TLiM Habit.
 
+<img src="/images/cce_photo9a.png" style="width:100%">
+<img src="/images/cce_photo9b.png" style="width:100%">
 
-![](/images/Shine.jpg)
-
-**Student Well-Being Committee**  
+##### **Student Well-Being Committee**
 
 Student Well-Being’s motto is ‘Always Here For You’. The committee is committed to promote student’s well-being in a caring and enabling environment. To facilitate these, the following are done to:
 
