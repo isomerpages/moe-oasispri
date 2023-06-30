@@ -185,8 +185,9 @@ P6 Students will visit the mural walls on Storey 5 (Oasis Global Explorer) to le
 
 <img src="/images/cce_photo1c.PNG" style="width:100%">
 
+##### **Learning Journeys**
 
-
+Each year, our students will also go on field-based learning journeys out of school as part of the SS curriculum in Oasis Primary School. Through these learning journeys, our students develop important skills and acquire knowledge from the environment that they have explored and learn to be more informed citizens who are aware of what is happening around them.
 
 **Commemorating Total Defence Day**
 
