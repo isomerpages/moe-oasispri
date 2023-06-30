@@ -126,9 +126,9 @@ Our P3 prefects decided to do a project to show appreciation towards their teach
 <br>
 <img src="/images/cce_photo13b.PNG" style="width:100%">
 
-**P4 Prefects Changemaker Project - Teachers’ Day eConcert**
+##### **P4 Prefects Changemaker Project - Teachers’ Day Concert**
 
-Our P4 prefects exhibited their critical and creative thinking skills as they took charge of the Teachers’ Day Virtual Concert to show gratitude to their teachers. They took ownership to create their e-concert videos collaboratively in their respective teams as they sharpened their leadership skills along the project. They showcased innovative mindsets to present creative performances and activities, especially when they do not have a physical stage to perform on. The project encouraged planning and decision-making as a team. Despite limited resources and time, the P4 prefects were able to put up an amazing e-Concert video successfully to celebrate the joyous day!
+Our P4 prefects exhibited their critical and creative thinking skills as they took charge of the Teachers’ Day Concert to show gratitude to their teachers. They took ownership to create their concert items collaboratively in their respective teams as they sharpened their leadership skills along the project. They showcased innovative mindsets to present creative performances. The project encouraged planning and decision-making as a team. Despite limited resources and time, the P4 prefects were able to put up an amazing concert successfully to celebrate the joyous day!
 
 ![](/images/LLP10.png)
 
