@@ -252,6 +252,7 @@ Pre-assembly programme on being a responsible online citizen, conducted by a tea
 <img src="/images/cce_photo6b.png" style="width:100%">
 
 <img src="/images/cce_photo6c.png" style="width:100%">
+Recess activities that focus on cyber wellness. 
 
 <img src="/images/cce_photo6d.png" style="width:100%">
 
