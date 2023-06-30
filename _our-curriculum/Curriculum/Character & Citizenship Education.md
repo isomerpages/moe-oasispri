@@ -173,15 +173,17 @@ In addition to the formal SS curriculum, Oasians engage in classroom discussions
   yes"><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   Arial">Looking Back and Moving Forward</span></p></td></tr></tbody></table>
 
-<img src="/images/cce_photo1b.png" style="width:100%">
+<img src="/images/cce_photo1b.PNG" style="width:100%">
 
-**Place-based Learning**
+##### **Place-based Learning**
 
-Place-based Learning is also part of the SS curriculum in Oasis Primary School. Primary 3 and 4 students will visit Storey 3 “Our Heritage Trail” mural walls to learn more about Singapore’s past and how our founding fathers have contributed to the independence of Singapore.
+Place-Based Learning is also part of the SS curriculum in Oasis Primary School.
 
-In 2022, Place-based Learning for SS will be introduced to Primary 6 students. Students will visit Storey 5 “Oasis Global Explorer” mural wall to learn more about the sustainable goals of the United Nations through a gamified experience. The experience supports the teaching and learning of SS lessons, focusing on the theme of ‘Sustainability’. It is aligned with the third cluster of study in SS, ‘Appreciating Singapore, the Region and the World We Live in”, where students learn about the diverse and global physical environment in the world they live in.
+Primary 2, 3 and 4 students will visit the mural walls on Storey 3 (Our Heritage Trail) to learn more about the different communities in Singapore, Singapore’s past and how our founding fathers have contributed to the independence of Singapore.
 
-![](/images/PBL2.png)
+P6 Students will visit the mural walls on Storey 5 (Oasis Global Explorer) to learn more about the sustainable goals of the United Nations through a gamified experience. The experience supports the teaching and learning of SS lessons, focusing on the theme of ‘Sustainability’. It is aligned with the third cluster of study in SS, ‘Appreciating Singapore, the Region and the World We Live in”, where students learn about the diverse and global physical environment in the world they live in.
+
+<img src="/images/cce_photo1c.PNG" style="width:100%">
 
 **Commemorating&nbsp;Total Defence Day**
 
