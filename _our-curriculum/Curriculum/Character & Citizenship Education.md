@@ -213,11 +213,14 @@ Students also learnt that Singapore builds strong friendship bonds with her neig
 <img src="/images/cce_photo3.PNG" style="width:100%">
 Most popular design voted by the whole school.
 
-**Racial Harmony Day**
+##### **Racial Harmony Day**
 
-The theme for Racial Harmony Day 2021 was “Common Spaces, Connected Communities”. Here at Oasis, we commemorated the event with a series of engaging activities. Teachers and students came dressed in colourful, vibrant ethnic costumes that showcased the multiculturalism we share here in Singapore.
+The theme for Racial Harmony Day (RHD) 2022 was “Our Multicultural Mosaic”. We commemorated the event with a series of activities that helped our students to better appreciate the diversity and uniqueness of our society. This included having our teachers and students donning the four major ethnic communities’ attires and playing traditional games that our parents and grandparents once played when they were young.
 
-During the assembly talk, students learnt that shared spaces help connect all of us. These common spaces also allow different ethnicities to learn more about each other in areas such as food, religion and arts. Students also participated collectively in creating a collage that displayed their understanding of the theme and their desire to commit to building a more caring, cohesive and resilient nation.
+It was interesting to find out during the Assembly sharing that some places in Singapore are known to be streets of harmony. These places are known for having significant places of worship from different beliefs and religions on the same street.
+
+Students were also introduced to people of different races and religions living together as neighbours in a HDB flat, the most common form of houses in Singapore. Together, Singaporeans learn to live in harmony with one another, and they even celebrated the different festivals from the ethnic communities in Singapore, as part of our multicultural mosaic heritage.
+
 
 ![](/images/rhd.png)
 
