@@ -191,14 +191,18 @@ Each year, our students will also go on field-based learning journeys out of sch
 
 ##### **Commemorating Total Defence Day**
 
-Schools commemorate Total Defence Day (TDD) on 15 February annually to mark Singapore’s fall to the Japanese in 1942.&nbsp; TDD serves to remind our students that Singapore is defensible and we must defend Singapore ourselves. Total Defense has guided us through many difficult times, most recently, through our nation’s fight against COVID-19.
+Schools commemorate Total Defence Day (TDD) on 15 February annually to mark Singapore’s fall to the Japanese in 1942. TDD serves to remind our students that Singapore is defensible and we must defend Singapore ourselves. Total Defense has guided us through many difficult times, most recently, through our nation’s fight against COVID-19.
 
 This year, the theme of the Total Defence campaign "Together We Keep Singapore Strong" focuses on the many ways we can put Total Defence into action in our everyday lives.&nbsp; It highlights the importance in rallying Singaporeans together to overcome crisis. The focus this year is on food security and the six pillars of defense.
 
 One of the highlights of commemorating TDD this year was the in-house skit put together by the teachers. The skitaimed to spread the messages of reducing food wastage and not to fall prey to scams. In addition, our students also participated in the various recess activities to understand how Singapore continues to have a constant supply of food for our people during difficult times.
 
+<img src="/images/cce_photo2.PNG" style="width:100%">
+An in-house production by our teachers.
 
 
+
+<img src="/images/tdd1.png" style="width:100%">
 
 **International Friendship Day**  
 
