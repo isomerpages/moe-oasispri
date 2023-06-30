@@ -76,11 +76,11 @@ Therefore, the Student Leadership Committee works closely with various departmen
 
 ![](/images/LLP5.png)
 
-### Leadership Training &amp; Changemaker Workshop For Tier 3 Student Leaders
+##### Leadership Training &amp; Changemaker Workshop For Tier 3 Student Leaders
 
-To enhance prefects’ leadership competencies, a series of leadership training was provided to help prefects learn critical thinking and problem solving skills.  
+To enhance our prefects’ leadership competencies, they will have the opportunity to undergo a series of training sessions in order to advance in their ability to think critically, problem solve and resolve conflicts.
 
-Changemaker workshops were another important series of training to bring prefects through Design Thinking strategies and scaffolding and facilitating the process of Changemaker projects for the prefects.
+Changemaker workshops is another important series of training for our prefects to learn and apply Design Thinking strategies to scaffold and facilitate the process of Changemaker projects.
 
 ![](/images/LLP6.png)
 
