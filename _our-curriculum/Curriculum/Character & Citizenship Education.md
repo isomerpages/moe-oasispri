@@ -200,9 +200,6 @@ One of the highlights of commemorating TDD this year was the in-house skit put t
 <img src="/images/cce_photo2.PNG" style="width:100%">
 An in-house production by our teachers.
 
-
-<img src="/images/tdd1.png" style="width:100%">
-
 **International Friendship Day**  
 
 The theme for International Friendship Day this year is ‘Singapore in Asia. Through this theme, our students recognised the importance of connectedness within Asia, therefore nurturing and inculcating among the students the spirit of friendship and collaboration with their peers.  
