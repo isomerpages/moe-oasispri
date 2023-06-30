@@ -120,7 +120,7 @@ In 2022, all our prefects underwent a series of Changemaker workshop. They learn
 
 ##### P3 Prefects Changemaker Project 2022 - Memory Box
 
-Our P3 prefects decided to do a project to show their appreciation towards their teachers in school. The prefects brainstormed the type of gifts to present to their teachers. After initiating a short survey with teachers to understand their needs, they decided to personalise tote bags to present to the teachers. The prefects felt a sense of achievement and satisfaction as they were able to show appreciation to their teachers through the personalised gifts that they prepared and presented.
+Our P3 prefects decided to do a project to show appreciation towards their teachers in school. The prefects brainstormed the type of gifts to present to their teachers. After initiating a short survey with teachers to understand their needs, they decided to create memory boxes for the teachers, for them to keep thank you gifts, cards and notes from students, which will bring back fond memories in time to come. The prefects felt a sense of achievement and satisfaction as they were able to show appreciation to their teachers through the gifts that they prepared and presented
 
 ![](/images/LLP9.png)
 
