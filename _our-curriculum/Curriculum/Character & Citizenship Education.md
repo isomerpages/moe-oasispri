@@ -295,10 +295,13 @@ A strong peer support relationship helps to create a caring and enabling environ
 With the tagline, ‘Always Here for You’, our Peer Support Leaders will navigate their roles actively through completingf tasks in their mission cards.
 
 <img src="/images/cce_photo10a.png" style="width:100%">
-<img src="/images/cce_photo10b.png" style="width:100%">
-<img src="/images/cce_photo10a.png" style="width:100%">
+Peer Support Leaders involved in Buddy Reading Programme
 
-![](/images/student%20well-being%20commitee.png)
+<img src="/images/cce_photo10b.png" style="width:100%">
+Sharing of positive stories to peers
+
+<img src="/images/cce_photo10c.png" style="width:100%">
+Empowerment is given to Peer Support Leaders to create a positive environment for their classmates by using the YOLO space to paste fun and inspiring messages.
 
 ### Peer Support Leaders Training
 
