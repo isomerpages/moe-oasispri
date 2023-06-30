@@ -200,11 +200,16 @@ One of the highlights of commemorating TDD this year was the in-house skit put t
 <img src="/images/cce_photo2.PNG" style="width:100%">
 An in-house production by our teachers.
 
-**International Friendship Day**  
+##### **International Friendship Day**  
 
-The theme for International Friendship Day this year is ‘Singapore in Asia. Through this theme, our students recognised the importance of connectedness within Asia, therefore nurturing and inculcating among the students the spirit of friendship and collaboration with their peers.  
+International Friendship Day (IFD) celebrates the cultural diversities in ASEAN and the connection Singapore shares with her neighboring countries and beyond.&nbsp;
 
-In line with Cambodia’s chairmanship 2022, students learnt the Cambodian cultural practices and mode of transportation. Our teachers also shared about their overseas experiences within Asia. This provided a good opportunity for students to be acquainted with the diverse and interesting cultures and traditions of Asia.
+The theme for this year’s IFD is ‘Singapore in Asia’. Through this theme, we had the opportunity for students to be acquainted with the diverse and colorful culture and traditions of countries in Asia. It was a special event as our friends and teachers did a fashion parade to showcase the different traditional attires found in Asia.
+
+Our Primary 6 students also participated in an inter-class costume design competition, where they were tasked to design an IFD costume that best represents Singapore in ASEAN or Asia.
+
+Students also learnt that Singapore builds strong friendship bonds with her neighbors in Southeast Asia, therefore nurturing and inculcating among the students the spirit of friendship and collaboration with their peers.
+
 
 ![](/images/IFD.png)
 
