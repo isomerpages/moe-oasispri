@@ -130,7 +130,7 @@ Our P3 prefects decided to do a project to show appreciation towards their teach
 
 Our P4 prefects exhibited their critical and creative thinking skills as they took charge of the Teachers’ Day Concert to show gratitude to their teachers. They took ownership to create their concert items collaboratively in their respective teams as they sharpened their leadership skills along the project. They showcased innovative mindsets to present creative performances. The project encouraged planning and decision-making as a team. Despite limited resources and time, the P4 prefects were able to put up an amazing concert successfully to celebrate the joyous day!
 
-![](/images/LLP10.png)
+<img src="/images/cce_photo14.jpg" style="width:100%">
 
 **P5 &amp; P6 Sub-area 1 Prefects Changemaker Project - Fake Or Real**
 
