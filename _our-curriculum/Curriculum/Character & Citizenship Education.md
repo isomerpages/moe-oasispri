@@ -185,7 +185,10 @@ P6 Students will visit the mural walls on Storey 5 (Oasis Global Explorer) to le
 
 <img src="/images/cce_photo1c.PNG" style="width:100%">
 
-**Commemorating&nbsp;Total Defence Day**
+
+
+
+**Commemorating Total Defence Day**
 
 Schools commemorate Total Defence Day on 15 February annually to mark Singapore’s fall to the Japanese in 1942. Total Defence Day serves to remind our students that Singapore is defensible and we must defend Singapore ourselves. Total Defence has guided us through many difficult times, most recently, through our nation’s fight against COVID-19.  
 
