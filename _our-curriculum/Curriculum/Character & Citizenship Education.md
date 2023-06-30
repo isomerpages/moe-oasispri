@@ -278,9 +278,9 @@ Term 2, School value (Respect and Integrity) and TLiM Habits 3: Put First Things
 
 The student recipients (by level) are as follows:
 
-...
-
-
+<img src="/images/cce_photo8a.png" style="width:100%">
+<img src="/images/cce_photo8b.png" style="width:100%">
+<img src="/images/cce_photo8c.png" style="width:100%">
 
 **SHINE@Oasis**
 
