@@ -202,7 +202,7 @@ An in-house production by our teachers.
 
 ##### **International Friendship Day**  
 
-International Friendship Day (IFD) celebrates the cultural diversities in ASEAN and the connection Singapore shares with her neighboring countries and beyond.&nbsp;
+International Friendship Day (IFD) celebrates the cultural diversities in ASEAN and the connection Singapore shares with her neighboring countries and beyond.
 
 The theme for this year’s IFD is ‘Singapore in Asia’. Through this theme, we had the opportunity for students to be acquainted with the diverse and colorful culture and traditions of countries in Asia. It was a special event as our friends and teachers did a fashion parade to showcase the different traditional attires found in Asia.
 
@@ -210,7 +210,7 @@ Our Primary 6 students also participated in an inter-class costume design compet
 
 Students also learnt that Singapore builds strong friendship bonds with her neighbors in Southeast Asia, therefore nurturing and inculcating among the students the spirit of friendship and collaboration with their peers.
 
-
+<img src="/images/cce_photo2.PNG" style="width:100%">
 ![](/images/IFD.png)
 
 **Racial Harmony Day**
