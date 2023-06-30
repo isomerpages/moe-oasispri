@@ -83,9 +83,9 @@ Our P6 students had the opportunity to reach out to residents of Peacehaven Nurs
 
 ![](/images/p6%20via.png)
 
-**Social Studies in Oasis**
+##### **Social Studies in Oasis**
 
-Social Studies (SS) in Oasis Primary seeks to develop students as informed, concerned and participative citizens, competent in decision-making with an impassioned spirit to contribute responsibly to the society and world we live in. This is aligned to the Singapore SS Curriculum.
+Social Studies (SS) in Oasis Primary is aligned to the national curriculum and seeks to develop students to be informed, concerned and participative citizens, competent in decision-making with an impassioned spirit to contribute responsibly to the society and world we live in.
 
 Our students’ learning is based on three broad clusters, as reflected in the SS syllabus:
 
