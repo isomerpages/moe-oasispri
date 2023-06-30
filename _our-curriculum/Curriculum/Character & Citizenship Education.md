@@ -290,13 +290,9 @@ SHINE@Oasis provides a holistic assessment of the students with input from teach
 
 ##### **Student Well-Being Committee**
 
-Student Well-Being’s motto is ‘Always Here For You’. The committee is committed to promote student’s well-being in a caring and enabling environment. To facilitate these, the following are done to:
+A strong peer support relationship helps to create a caring and enabling environment where each child feels safe, respected and accepted. To champion this effort, students are appointed as Peer Support Leaders and they will undergo training to learn prosocial skills so that they can support their peers through peer bonding, peer helping and peer influencing.
 
--&nbsp;Empower students to be a Peer Support Leader (PSL) through missions of Peer Bonding, Peer Influencing and Peer Helping;
-
--&nbsp;Engage school staff through acquisition of Positive Teacher-Student Relationship skills and
-
--&nbsp;Educate the staff and stakeholders on the cyber wellness issues.
+With the tagline, ‘Always Here for You’, our Peer Support Leaders will navigate their roles actively through completingf tasks in their mission cards.
 
 ![](/images/student%20well-being%20commitee.png)
 
