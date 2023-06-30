@@ -259,11 +259,10 @@ Creator of the Cyber Singa mascot sharing with his peers on his creation and his
 
 ##### **Conducive Classroom Award**
 ##### 
-In partnership with the school cleaning vendor, the cleaners would visit the classes to affirm the cleanliness of each class by stamping stars on the class cleanliness chart displayed outside every classroom. At the end of each term, the Gold, Silver or Bronze Award will be presented to classes based on the number of stamps they have accumulated in each term.
 
-From the above programme, the school wishes to inculcate care and responsibility in Oasians where they take ownership their classrooms’ conducive environment.
+The school wishes to inculcate care and responsibility in Oasians where they take ownership of their classroom cleanliness and create a conducive learning environment. To this end, a team of teachers from the Character Development would visit the classes to affirm the cleanliness of each class by stamping stars on the Conducive Classroom Award chart displayed outside every classroom.
 
-The “Use Your Hands Campaign” is also carried out at the end of each semester before the students go for their mid-year and end-of-year vacations. This is to instill in Oasians a sense of responsibility and pride in their learning environment.
+In addition, the “Use Your Hands Campaign” is also conducted at the end of each semester before the students go for their vacations. This is to instill in Oasians a sense of responsibility and pride in taking care of their learning environment.
 
 ![](/images/conducive%20classroom%20award.png)
 
