@@ -268,13 +268,19 @@ In addition, the “Use Your Hands Campaign” is also conducted at the end of e
 <img src="/images/cce_photo7b.png" style="width:100%">
 <img src="/images/cce_photo7c.png" style="width:100%">
 
-**Model Students for Term 1 &amp; Term 2, 2022**
+##### **Model Students for Term 1 &amp; Term 2, 2023**
+##### 
+The Model Student award is a termly award to recognise students’ effort in living up to the school value &amp; the 7 TLiM habits. Teachers provide input and nominate deserving &nbsp;students on a termly basis. The following are the termly school values and TLiM habits for this year:
 
-The Model Student award is a termly award to recognise students’ effort in living up to the school value &amp; the 7 habits. Every teacher provides the input in nominating students who deserve the award. In Term 1, we have the model student for the school value of Responsibility and Habit 1: Be Proactive and Habit 2: Begin with the End in Mind. In Term 2, we have the model student for the school value of Respect and Integrity with Habit 3: Put First Things First and Habit 4: Think Win-Win.
+Term 1, School value (Responsibility) and TLiM Habits 1: Be Proactive and Habit 2: Begin with the End in Mind.
 
-![](/images/T12022_R.jpg)
-![](/images/T22022_I.jpg)
-![](/images/T22022_R.jpg)
+Term 2, School value (Respect and Integrity) and TLiM Habits 3: Put First Things First and Habit 4: Think Win-Win.
+
+The student recipients (by level) are as follows:
+
+...
+
+
 
 **SHINE@Oasis**
 
