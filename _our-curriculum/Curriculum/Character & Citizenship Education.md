@@ -210,8 +210,8 @@ Our Primary 6 students also participated in an inter-class costume design compet
 
 Students also learnt that Singapore builds strong friendship bonds with her neighbors in Southeast Asia, therefore nurturing and inculcating among the students the spirit of friendship and collaboration with their peers.
 
-<img src="/images/cce_photo2.PNG" style="width:100%">
-![](/images/IFD.png)
+<img src="/images/cce_photo3.PNG" style="width:100%">
+Most popular design voted by the whole school.
 
 **Racial Harmony Day**
 
