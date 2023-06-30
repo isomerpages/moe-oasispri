@@ -132,7 +132,7 @@ Our P4 prefects exhibited their critical and creative thinking skills as they to
 
 <img src="/images/cce_photo14.jpg" style="width:100%">
 
-**P5 &amp; P6 Sub-area 1 Prefects Changemaker Project - Fake Or Real**
+##### **P5 &amp; P6 Sub-area 1 Prefects Changemaker Project - Burst The Bubbles!**
 
 Technology becomes part of our lives as society progresses and people are exposed to fake news every day. Fake news regarding Covid 19 were being circulated and such circulation affected parents, students and even staff members. This motivates the P5 &amp; P6 Prefects in wanting to help others to learn how to differentiate fake news from real news. The team created a video toolkit with an online game to educate Oasians about fake news. Level competitions were held for P3, P4 and P6 students to challenge schoolmates to design creative taglines, jingles and raps to remind others to guard against fake news. The level competitions received overwhelming responses from students. This project clinched the Silver Award in the National Cyberwelless Advocacy Challenge and the Top 3 Award in the 12th&nbsp;Design For Change Singapore Challenge 2021.
 
