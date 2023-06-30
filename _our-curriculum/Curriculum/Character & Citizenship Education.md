@@ -236,9 +236,9 @@ As Singapore continued to recover from the Covid-19 pandemic, Oasians found a wa
 
 To mark the special occasion, all students and staff of the Oasis family participated in a lock-down activity where they learnt to be prepared at all times. It was an enriching programme. We ended the celebration on a high note with the NDP 2022 theme song and evergreen favourites such as “Home” that all Singaporeans are familiar with. These songs resonated with our students because they reflect the changes of the nation and sentiment of the people. Stronger Together, Majulah!
 
-<img src="/images/cce_photo5a.png" style="width:100%">
+<img src="/images/cce_photo5a.jpg" style="width:100%">
 
-<img src="/images/cce_photo5b.png" style="width:100%">
+<img src="/images/cce_photo5b.jpg" style="width:100%">
 
 **Cyber Wellness**
 
