@@ -232,11 +232,13 @@ The battle to show our skills at playing five stones.
 
 ##### **National Day Celebrations**
 
-In view of the COVID-19 situation, Oasians commemorates National Day in a special way. The Observance Ceremony took on a special significance as students reflected on how far Singapore has come in our fight against COVID-19. The theme “Together, Our Singapore Spirit” celebrates Singaporeans’ unity and can-do spirit that has kept our country strong amid the pandemic.
+As Singapore continued to recover from the Covid-19 pandemic, Oasians found a way to commemorate National Day (ND) differently in 2022. Our students rose to the occasion to put up a splendid performance for their fellow schoolmates under the guidance of our teachers. We had our first march-in contingent, consisting of Scouts and Prefects, to bring in the National and School flags during the Observance Ceremony. Other students from various CCAs like Wushu, Dance and Guzheng also showcased their talents through their performances.
 
-The ceremony began with the raising of the National flag and a 'Recollections' segment, where students reflected on past and present challenges faced by our country and how each of us has a part to play in building a stronger Singapore. This was followed by a celebration segment “Our Colourful Food Culture through P2 Art Showcase &amp; Classroom Engagement Activity”. Students also watched a play about embracing our differences and participated in the National Day Quiz on Singapore. We ended the celebration on a high note with the NDP 2021 theme song and some old favourites such as “Count On Me, Singapore”, “We Are Singapore” and “Home” that all Singaporeans are familiar with. These songs resonated with our students because they reflect the changes of the nation and sentiment of the people.
+To mark the special occasion, all students and staff of the Oasis family participated in a lock-down activity where they learnt to be prepared at all times. It was an enriching programme. We ended the celebration on a high note with the NDP 2022 theme song and evergreen favourites such as “Home” that all Singaporeans are familiar with. These songs resonated with our students because they reflect the changes of the nation and sentiment of the people. Stronger Together, Majulah!
 
-![](/images/ndp.png)
+<img src="/images/cce_photo5a.png" style="width:100%">
+
+<img src="/images/cce_photo5b.png" style="width:100%">
 
 **Cyber Wellness**
 
