@@ -15,11 +15,11 @@ third_nav_title: Curriculum
 
 **Character Development**
 
-The CCE department customize and deliver the different components in CCE (comprise of CCE lessons, Form Teacher Guidance Period, school-based CCE and CCE Guidance Module) to provide the knowledge, skills, values and attitudes to be taught to our students. Oasians are also encouraged to put values into practice within the context of real-life situations in the family, school, community, nation and the world through their values-in-action projects.
+The CCE department customises and delivers the different components of CCE (comprising CCE lessons, Form Teacher Guidance Period lessons, school-based CCE and CCE Guidance Modules) to provide the knowledge, skills, values and attitudes to be taught to our students. Oasians are also encouraged to put values into practice within the context of real-life situations in the family, school, community, nation and the world through their Values-In-Action projects.
 
 **Citizenship Education**
 
-Citizenship education nurtures our Oasians to develop disposition towards national cohesion, cultivate the instinct for survival as a nation and instill in them, confidence in Singapore’s future. On top of social studies lessons, citizenship education is also conducted through the commemorative events, termly discussion on NE bulletin news as well as learning journeys.
+Citizenship education nurtures our Oasians to develop dispositions towards national cohesion, cultivate the instinct for survival as a nation and instill in them the confidence in Singapore’s future. In addition to Social Studies lessons, citizenship education is also conducted through commemorative events such as Total Defence Day, International Friendship Day, Racial Harmony Day and National Day, termly discussions through our NE bulletin news as well as learning journeys.
 
 **Student Leadership**
 
