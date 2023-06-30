@@ -303,7 +303,7 @@ Sharing of positive stories to peers
 <img src="/images/cce_photo10c.png" style="width:100%">
 Empowerment is given to Peer Support Leaders to create a positive environment for their classmates by using the YOLO space to paste fun and inspiring messages.
 
-### Peer Support Leaders Training
+##### **Peer Support Leaders Training**
 
 Strong peer support relationships help to create a caring and enabling environment where each child feels safe, respected and accepted. To champion this effort, a group of students are appointed as Peer Support Leaders. The Peer Support Leaders go through training with prosocial skills so that they can support their peers through peer bonding, peer helping and peer influencing.
 
