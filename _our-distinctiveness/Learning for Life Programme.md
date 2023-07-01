@@ -150,7 +150,7 @@ This project clinched the Silver Award in the National Youth Upcycling Movement 
 
 ![](/images/LLP12.png)
 
-**P5 &amp; P6 Sub-area 3 Prefects Changemaker Project -Secret Mail &amp; A Dose of Laughter**
+**P5 &amp; P6 Sub-area 3 Prefects Changemaker Project - Gift of Love**
 
 To encourage school mates to be positive and resilient when they are experiencing new norms during the pandemic, and to help them beat stress, our sub-area 3 prefects came out with the idea of having a secret mail channel for school mates to write about their problems. The prefects also prepared a set of jokes video with their family as "Dose Of Laughters" segment in SLS for all students to view and have their mood lighten during the HBL period.  
 
