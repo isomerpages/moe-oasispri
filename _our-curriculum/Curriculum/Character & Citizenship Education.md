@@ -35,11 +35,11 @@ See OPS [Learning for Life Programme](https://www.oasispri.moe.edu.sg/our-distin
 
 ![](/images/key%20programmes%201.png)
 
-**P1 VIA - Be Gracious@Recess**
+##### **P1 VIA - Be Gracious@Recess**
 
-The P1 VIA, Be Gracious@Recess aims to imbue good habits and table etiquette in the canteen. Students observe personal hygiene by first washing their hands before taking their meals. They return the cutlery, followed by wipe down of the table after eating. Then they sanitise their hands and put on their mask.
+‘Be Gracious@Recess’, our VIA programme for Primary 1 aims to imbue good habits and table etiquette in our Oasians. They will be taught to practice personal hygiene by first washing their hands before taking their meals in the canteen. They are also encouraged to reduce food wastage, return their cutlery and conduct wipe down of the table after eating.
 
-Two Gracious Ambassadors are appointed from each P1 class to remind their classmates to be Gracious@Recess. Students are encouraged to be responsible in keeping their tables and floor clean.&nbsp; A panel of teachers comprising of the Year Head, SH/ Character Development, SH/NESS and teacher-in-charge of P1 VIA will assess the cleanliness of the tables and the floor assigned to each class. Certificates for gold or silver awards are issued to reaffirm the students’ effort of BE Gracious@Recess.
+Two Gracious Ambassadors are appointed from each P1 class to remind their classmates to be Gracious@Recess. Students are encouraged to be responsible in keeping their tables and floor clean. The classes will be assessed on the cleanliness of the tables and the floor assigned and certificates are issued to classes to reaffirm the students’ effort.
 
 ![](/images/P1%20via.png)
 
