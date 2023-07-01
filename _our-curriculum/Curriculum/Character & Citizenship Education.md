@@ -297,12 +297,20 @@ The school wishes to inculcate care and responsibility in Oasians where they tak
 
 In addition, the “Use Your Hands Campaign” is also conducted at the end of each semester before the students go for their vacations. This is to instill in Oasians a sense of responsibility and pride in taking care of their learning environment.
 
+</p><p>
+
 <img src="/images/cce_photo7a.png" style="width:100%">
+
+</p><p>
+
 <img src="/images/cce_photo7b.png" style="width:100%">
+
+</p><p>
+
 <img src="/images/cce_photo7c.png" style="width:100%">
 
 ##### **Model Students for Term 1 &amp; Term 2, 2023**
-##### 
+
 The Model Student award is a termly award to recognise students’ effort in living up to the school value &amp; the 7 TLiM habits. Teachers provide input and nominate deserving &nbsp;students on a termly basis. The following are the termly school values and TLiM habits for this year:
 
 Term 1, School value (Responsibility) and TLiM Habits 1: Be Proactive and Habit 2: Begin with the End in Mind.
@@ -311,14 +319,28 @@ Term 2, School value (Respect and Integrity) and TLiM Habits 3: Put First Things
 
 The student recipients (by level) are as follows:
 
+</p><p>
+
 <img src="/images/cce_photo8a.png" style="width:100%">
+
+</p><p>
+
 <img src="/images/cce_photo8b.png" style="width:100%">
+
+</p><p>
+
 <img src="/images/cce_photo8c.png" style="width:100%">
 
 ##### **SHINE@Oasis - S**erve with a **H**eart and **IN**spire **E**veryone
+	
 SHINE@Oasis provides a holistic assessment of the students with input from teachers, self, peers and parents. It uses actionable statements to encourage all students to live up to the school values and the 7 TLiM Habits. The assessment is done in the SHINE@Oasis booklet at the end of each term with a focus on specific value and TLiM Habit.
 
+</p><p>
+
 <img src="/images/cce_photo9a.png" style="width:100%">
+
+</p><p>
+
 <img src="/images/cce_photo9b.png" style="width:100%">
 
 ##### **Student Well-Being Committee**
@@ -327,11 +349,17 @@ A strong peer support relationship helps to create a caring and enabling environ
 
 With the tagline, ‘Always Here for You’, our Peer Support Leaders will navigate their roles actively through completingf tasks in their mission cards.
 
+</p><p>
+
 <img src="/images/cce_photo10a.png" style="width:100%">
 Peer Support Leaders involved in Buddy Reading Programme
 
+</p><p>
+
 <img src="/images/cce_photo10b.png" style="width:100%">
 Sharing of positive stories to peers
+
+</p><p>
 
 <img src="/images/cce_photo10c.png" style="width:100%">
 Empowerment is given to Peer Support Leaders to create a positive environment for their classmates by using the YOLO space to paste fun and inspiring messages.
