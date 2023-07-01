@@ -55,21 +55,23 @@ In collaboration with the Student Development Team, all P2 students will pen not
 
 ![](/images/p2%20via.png)
 
-**P3 VIA - Be My Buddy**
+##### **P3 VIA - Cyber Champ**
 
-The P3 students played an important role as a buddy to our P1 students in the first week of this year. Despite the challenges of Covid-19 social distancing measures, they managed to meet each other in zoom in the first week. The P3 students even prepared a “Welcome” card for the P1 students.
-
-In Term 2, the P3 students wrote a “Hello” note to inquire of the P1 students’ well-being after a term in Oasis Primary School. They had an opportunity to meet face-to-face in the school hall when social distancing measure was lifted up. It was a wonderful moment for both parties to meet finally!
+ With students’ wellbeing in mind, the P3 VIA programme titled ‘Cyber Champ’ works towards promoting good habits in using technology and showing respect to self and others. After learning about Cyber Wellness during school assemblies, the P3 students are tasked to encourage Oasians to be a responsible and safe digital user, as well as a positive influence to their peers. This involves them getting into groups to discuss and create board games for play at recess.
+ 
+...
 
 ![](/images/p3%20via.png)
 
-**P4 VIA - The Friendship Project**
+##### **P4 VIA - By My Friend**
   
-This is the fourth year we are collaborating with Pathlight School&nbsp;for ‘The Friendship Project’. The objective of this VIA is for students to be able to empathise and show care for others.
+One of the VIA programmes for Primary 4 students is titled ‘Be My Buddy’, and they will play an important role as a buddy to our P1 students in the first week of the academic year. This includes the preparation of a “Welcome” card for their P1 buddy and it is presented to them at recess. They will also guide their P1 buddy to buy food and clear their plates after eating.
+
+...
 
 ![](/images/P4%20VIA.png)
 
-In collaboration with the English Department, Oasis students learnt what autism is during their ‘P4 Literature is Alive’, an Applied Learning Programme (ALP). Then they learnt what a pen pal is and how to correspond with them in writing. Finally, a zoom session was arranged for the pen pals to meet and interact with one another.
+Another VIA programme for our Primary 4 students is titled “Friendship Project” and this marks the fifth year of our collaboration with Pathlight School. Through our school’s English literature programme, P4 Oasians have the opportunity to forge friendships with students from Pathlight School through letter writing as well as interact with them in person through school visits.
 
 **P5 VIA - Green Oasians**
 
