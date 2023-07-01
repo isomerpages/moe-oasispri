@@ -140,13 +140,13 @@ Technology becomes part of our lives as society progresses and people are expose
 
 **P5 &amp; P6 Sub-area 2 Prefects Changemaker Project - I Am An Upcyclist!**
 
-Students of Oasis Primary School noticed that food packaging goes to waste after food is being consumed it is thrown at a rapid speed and this leads to large volume of waste accumulated every day.
+Our students noticed that single-use plastic items go to waste after food or products are consumed. Plastic waste is thrown at a rapid speed and this leads to large volume of plastic waste accumulated every day.
 
 Our sub-area 2 prefects decided to create instructional video to teach on how to upcycle, and hold level competitions to motivate their peers to start upcycling.
 
-The team put together a SLS toolkit that consist of various instructional videos to educate Oasians on the impact of food packaging waste on the environment, as well as demonstrate ways on upcycling everyday food packaging waste. This helped students to increase their awareness and encourage positive steps to take in upcycling food packaging. Parents were very supportive of the project and many of them worked together with their children to create upcycled items to participate in the level competition.
+The team put together a SLS toolkit that consist of various instructional videos to educate their schoolmates on the impact of plastic waste on the environment, as well as demonstrate ways on upcycling everyday plastic waste. This helped students increase their awareness and encourage positive steps to take in upcycling plastic packaging. Parents were very supportive of the project and many of them worked together with their children to create upcycled items to participate in the level competition.
 
-This project clinched the Gold Award in the National Youth Upcycling Movement 2021.
+This project clinched the Silver Award in the National Youth Upcycling Movement 2022, and prefect representatives were also involved to present their project experience at the 13th Be The Change Celebration.
 
 ![](/images/LLP12.png)
 
