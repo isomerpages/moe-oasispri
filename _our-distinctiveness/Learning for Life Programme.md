@@ -138,7 +138,7 @@ Technology becomes part of our lives as society progresses and people are expose
 
 ![](/images/LLP11.png)
 
-**P5 &amp; P6 Sub-area 2 Prefects Changemaker Project - Renew, Refresh, Reinvent**
+**P5 &amp; P6 Sub-area 2 Prefects Changemaker Project - I Am An Upcyclist!**
 
 Students of Oasis Primary School noticed that food packaging goes to waste after food is being consumed it is thrown at a rapid speed and this leads to large volume of waste accumulated every day.
 
