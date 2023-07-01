@@ -49,7 +49,11 @@ To develop Tier 1 self-leadership in all students, the school engages students i
 
 Primary 1 and Primary 2 students also undergo TLiM Placed-Based Learning at the school’s TLiM pillars to strengthen their understanding of the 7 habits through interactive activities and manipulatives.
 
+<p>
+
 <img src="/images/cce_photo11a.png" style="width:100%">
+
+</p><p>
 
 <img src="/images/cce_photo11b.PNG" style="width:100%">
 
@@ -103,11 +107,28 @@ This year, we are proud to appoint 111 prefects at our Prefects Investiture Cere
 **Sub-area 2**&nbsp;- Isabelle Cheng Si Yan, Kho Jun Ning &amp; Sharifah Alya Zahra Binte Syed Mohsein Albar <br>
 **Sub-area 3**&nbsp;- Ho Louis &amp; Lim Pei Yu Trina
 
+</p><p>
+
 <img src="/images/cce_photo12a.jpg" style="width:100%">
+
+</p><p>
+
 <img src="/images/cce_photo12b.jpg" style="width:100%">
+
+</p><p>
+
 <img src="/images/cce_photo12c.jpg" style="width:100%">
+
+</p><p>	
+
 <img src="/images/cce_photo12d.jpg" style="width:100%">
+
+</p><p>
+
 <img src="/images/cce_photo12e.jpg" style="width:100%">
+
+</p><p>
+
 <img src="/images/cce_photo12f.jpg" style="width:100%">
 
 ##### Changemaker Projects
@@ -122,13 +143,19 @@ In 2022, all our prefects underwent a series of Changemaker workshop. They learn
 
 Our P3 prefects decided to do a project to show appreciation towards their teachers in school. The prefects brainstormed the type of gifts to present to their teachers. After initiating a short survey with teachers to understand their needs, they decided to create memory boxes for the teachers, for them to keep thank you gifts, cards and notes from students, which will bring back fond memories in time to come. The prefects felt a sense of achievement and satisfaction as they were able to show appreciation to their teachers through the gifts that they prepared and presented
 
+</p><p>
+
 <img src="/images/cce_photo13a.PNG" style="width:100%">
-<br>
+
+</p><p>
+
 <img src="/images/cce_photo13b.PNG" style="width:100%">
 
 ##### **P4 Prefects Changemaker Project - Teachers’ Day Concert**
 
 Our P4 prefects exhibited their critical and creative thinking skills as they took charge of the Teachers’ Day Concert to show gratitude to their teachers. They took ownership to create their concert items collaboratively in their respective teams as they sharpened their leadership skills along the project. They showcased innovative mindsets to present creative performances. The project encouraged planning and decision-making as a team. Despite limited resources and time, the P4 prefects were able to put up an amazing concert successfully to celebrate the joyous day!
+
+</p><p>
 
 <img src="/images/cce_photo14.jpg" style="width:100%">
 
@@ -161,6 +188,8 @@ The experience allowed prefects to gain understanding of societal issues and lea
 ![](/images/LLP13.png)
 
 ##### Achievements
+
+</p><p>
 
 <table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="341" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
  mso-border-alt:solid black .5pt;mso-yfti-tbllook:1024;mso-padding-alt:0in 5.4pt 0in 5.4pt;
@@ -272,4 +301,4 @@ The experience allowed prefects to gain understanding of societal issues and lea
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
   mso-border-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="left" style="text-align:left"><span style="font-size:
-  10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial">Platinum STAR Schools Award</span></p></td></tr></tbody></table>
+  10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial">Platinum STAR Schools Award</span></p></td></tr></tbody></table></p>
