@@ -127,6 +127,8 @@ Our students’ learning is based on three broad clusters, as reflected in the S
   mso-border-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="228"><p style="text-align:justify;tab-stops:178.1pt" class="MsoNormal"><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   Arial">Appreciating Singapore, the Region and the World We Live In</span></p></td></tr></tbody></table>
 
+<p></p>
+	
 <img src="/images/cce_photo1a.png" style="width:100%">
 
 ##### **NE Bulletin Discussion Lessons**
