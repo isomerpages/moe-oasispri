@@ -134,7 +134,7 @@ Our P4 prefects exhibited their critical and creative thinking skills as they to
 
 ##### **P5 &amp; P6 Sub-area 1 Prefects Changemaker Project - Burst The Bubbles!**
 
-
+Technology becomes part of our lives as society progresses and people are exposed to real and unreal information every day. This motivates the P5 &amp; P6 Prefects in wanting to help others to learn about the algorithm of search engines, and how to avoid filter bubbles so as to avoid unreal information online. The team created a video toolkit with an online game to educate fellow schoolmates. Level competitions were held for P3, P4 and P6 students to challenge schoolmates to participate in colouring contest, poster-making and comic-creation competition, to remind others to guard against unreal information. This project clinched the Silver Award in the National Cyberwellness Advocacy Challenge 2022.
 
 ![](/images/LLP11.png)
 
