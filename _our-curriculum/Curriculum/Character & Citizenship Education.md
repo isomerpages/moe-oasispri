@@ -73,19 +73,18 @@ One of the VIA programmes for Primary 4 students is titled ‘Be My Buddy’, an
 
 Another VIA programme for our Primary 4 students is titled “Friendship Project” and this marks the fifth year of our collaboration with Pathlight School. Through our school’s English literature programme, P4 Oasians have the opportunity to forge friendships with students from Pathlight School through letter writing as well as interact with them in person through school visits.
 
-**P5 VIA - Green Oasians**
+##### **P5 VIA - Green Oasians**
 
-In partnership with English Department and Applied Learning Programme (ALP), P5 students attended more than six lessons on Media Literacy.
+“Green Oasians” is the VIA programme for P5 students and this is done in partnership with the English Department and as part of the Applied Learning Programme (ALP). Through this programme, P5 Oasians embark on a journey to care for the environment and they will also visit the Sustainable Singapore Wall in the school (as part of Place-Based Learning) to understand about the environmental efforts undertaken by Singapore to promote environmental sustainability.
 
-Through place-based learning, they also visited the Sustainable Singapore Wall at level 5 in the school where they learned about the environmental measures that Singapore has carried out.
+To further strengthen the advocacy on caring for the environment and harmony in nature, the P5 students will also design and create posters advocating ‘green’ messages. Physical posters and e-posters are also showcased and students will also conduct presentation to their peers.
 
-To further strengthen the advocacy on caring for the environment and harmony in nature, the P5&nbsp;designed and created posters with green messages. Physical posters and e-posters are showcased in P1 and P2 classes, in the foyer and on school-wide broadcasting platforms.
+...
 
 ![](/images/p5%20via.png)
 
-**P6 VIA - Be A Blessing**  
+##### **P6 VIA - Be A Blessing**  
 
-Our P6 students had the opportunity to reach out to residents of Peacehaven Nursing Home.&nbsp; Through the VIA, they learnt to be grateful for what they have. The objective of the VIA is for students to put together a ‘Blessing’ care package for the residents. In 2021, they prepared 450 care packages of food items. They contributed food items as well. They designed and wrote well wishes on cards which were given in each care package. The students found the project meaningful and engaging.
 
 ![](/images/p6%20via.png)
 
