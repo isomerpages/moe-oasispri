@@ -45,11 +45,13 @@ Two Gracious Ambassadors are appointed from each P1 class to remind their classm
 
 ![](/images/P1%20via.png)
 
-**P2 VIA - Happy Toilet**  
+##### **P2 VIA - Happy Toilet**  
 
-P2 VIA aims to nurture socially responsible students in practising good toilet habits with Integrity (which is also the value level focus of P2) behind closed doors. Through the process, they learn and apply the learning and application of the values of Care, Respect and Responsibility too.  
+‘Happy Toilet’, our VIA programme for Primary 2 aims to nurture socially responsible students who practise good toilet habits with Integrity . Students are ‘caught doing right’, organised with the intention of encouraging and affirming them. A checklist is also displayed in the toilet to remind students to practise good toilet habits such as flushing the toilets after use and washing their hands with soap in the basin.
 
-The Primary 2 students also showed appreciation to our school cleaners in recognition of their hard work especially during this pandemic time. Students and teachers worked together to design a piece of artwork. It was a tree filled with love and thanks before presenting them to the cleaners. In collaboration with the SDT team, the students also penned down their thoughts to show gratitude to the cleaners.
+In collaboration with the Student Development Team, all P2 students will pen notes of gratitude to the cleaners for their hard work in washing and keeping the toilets clean every day. They will also write thank you notes, which are framed and presented to the school cleaners.
+
+....
 
 ![](/images/p2%20via.png)
 
