@@ -183,6 +183,8 @@ In addition to the formal SS curriculum, Oasians engage in classroom discussions
   yes"><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   Arial">Looking Back and Moving Forward</span></p></td></tr></tbody></table>
 
+</p><p>
+	
 <img src="/images/cce_photo1b.PNG" style="width:100%">
 
 ##### **Place-based Learning**
@@ -193,6 +195,8 @@ Primary 2, 3 and 4 students will visit the mural walls on Storey 3 (Our Heritage
 
 P6 Students will visit the mural walls on Storey 5 (Oasis Global Explorer) to learn more about the sustainable goals of the United Nations through a gamified experience. The experience supports the teaching and learning of SS lessons, focusing on the theme of ‘Sustainability’. It is aligned with the third cluster of study in SS, ‘Appreciating Singapore, the Region and the World We Live in”, where students learn about the diverse and global physical environment in the world they live in.
 
+</p><p>
+		
 <img src="/images/cce_photo1c.PNG" style="width:100%">
 
 ##### **Learning Journeys**
@@ -206,6 +210,8 @@ Schools commemorate Total Defence Day (TDD) on 15 February annually to mark Sing
 This year, the theme of the Total Defence campaign "Together We Keep Singapore Strong" focuses on the many ways we can put Total Defence into action in our everyday lives.&nbsp; It highlights the importance in rallying Singaporeans together to overcome crisis. The focus this year is on food security and the six pillars of defense.
 
 One of the highlights of commemorating TDD this year was the in-house skit put together by the teachers. The skitaimed to spread the messages of reducing food wastage and not to fall prey to scams. In addition, our students also participated in the various recess activities to understand how Singapore continues to have a constant supply of food for our people during difficult times.
+
+</p><p>
 
 <img src="/images/cce_photo2.PNG" style="width:100%">
 An in-house production by our teachers.
