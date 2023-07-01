@@ -152,9 +152,11 @@ This project clinched the Silver Award in the National Youth Upcycling Movement 
 
 **P5 &amp; P6 Sub-area 3 Prefects Changemaker Project - Gift of Love**
 
-To encourage school mates to be positive and resilient when they are experiencing new norms during the pandemic, and to help them beat stress, our sub-area 3 prefects came out with the idea of having a secret mail channel for school mates to write about their problems. The prefects also prepared a set of jokes video with their family as "Dose Of Laughters" segment in SLS for all students to view and have their mood lighten during the HBL period.  
+Sub-area 3 prefects conducted interviews and researched on various issues elderly people faced and realised that loneliness and depression are quite a concern in modern society, especially for elderly who are away from their families in elder care homes.
 
-This project received special mention during the 12th&nbsp;Design For Change Singapore Challenge 2021.
+In the spirit of creating positive impact to the community around, Sub-area 3 prefects decided on spreading festive joy and care through designing and creating of Mid-autumn gifts in the form of gift bags for the elderly of Brighthill Evergreen Elder Care Home.
+
+The experience allowed prefects to gain understanding of societal issues and learn to care for the elderly.
 
 ![](/images/LLP13.png)
 
