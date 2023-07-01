@@ -258,7 +258,11 @@ As Singapore continued to recover from the Covid-19 pandemic, Oasians found a wa
 
 To mark the special occasion, all students and staff of the Oasis family participated in a lock-down activity where they learnt to be prepared at all times. It was an enriching programme. We ended the celebration on a high note with the NDP 2022 theme song and evergreen favourites such as “Home” that all Singaporeans are familiar with. These songs resonated with our students because they reflect the changes of the nation and sentiment of the people. Stronger Together, Majulah!
 
+</p><p>
+
 <img src="/images/cce_photo5a.jpg" style="width:100%">
+
+</p><p>
 
 <img src="/images/cce_photo5b.jpg" style="width:100%">
 
@@ -268,19 +272,26 @@ Aimed at raising an Oasian who is a positive influence, responsible and safe dig
 
 Oasians were also involved in the creation of our first Cyber Singa mascot. During one of the assembly programmes, the creator was given the opportunity to share his inspiration and hopes for his peers. This mascot was also used during recess activity and the peers were thrilled to be receiving bookmark reminders from the mascot.
 
+</p><p>
+
 <img src="/images/cce_photo6a.png" style="width:100%">
 Pre-assembly programme on being a responsible online citizen, conducted by a teacher from the Student Well-being committee.
 
+</p><p>
+
 <img src="/images/cce_photo6b.png" style="width:100%">
+
+</p><p>
 
 <img src="/images/cce_photo6c.png" style="width:100%">
 Recess activities that focus on cyber wellness. 
+
+</p><p>
 
 <img src="/images/cce_photo6d.png" style="width:100%">
 Creator of the Cyber Singa mascot sharing with his peers on his creation and his hopes.
 
 ##### **Conducive Classroom Award**
-##### 
 
 The school wishes to inculcate care and responsibility in Oasians where they take ownership of their classroom cleanliness and create a conducive learning environment. To this end, a team of teachers from the Character Development would visit the classes to affirm the cleanliness of each class by stamping stars on the Conducive Classroom Award chart displayed outside every classroom.
 
