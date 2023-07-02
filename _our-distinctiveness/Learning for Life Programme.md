@@ -13,7 +13,7 @@ More importantly, the school aims to develop leaders who inspire all to lead wit
 
 ![](/images/LLP.png)
 
-### Start It Right! Programme
+##### Start It Right! Programme
 
 Oasians welcomed 2022 with our signature programme, Start It Right! Each programme was designed to meet the needs of each level. The objectives of these programmes were
 
@@ -33,7 +33,7 @@ The students enjoyed the programme tremendously. They looked forward to school a
 
 ![](/images/LLP2.png)
 
-### End It Well! Programme
+##### End It Well! Programme
 
 The school was full of bustle and excitement on the second last day of school. All students from the six levels participated in ‘End It Well!’ Programme and tremendously enjoyed themselves. During the ‘Sharpen the Saw’ segment, besides revisiting the 7 Habits, students also relooked at their goals for the year. Some levels set S.M.A.R.T goals while others learn more about the Growth Mindset.  
 
@@ -43,18 +43,16 @@ To end the day, the whole school synergised to clean up their classrooms during 
 
 ![](/images/LLP3.png)
 
-##### **TLiM Lessons &amp; TLiM Place-Based Learning**
+##### TLiM Lessons &amp; TLiM Place-Based Learning
 
 To develop Tier 1 self-leadership in all students, the school engages students in the learning of 7 Habits through The Leader In Me (TLiM) lessons. TLiM empowers students with leadership and life skills they need to thrive in life.
 
 Primary 1 and Primary 2 students also undergo TLiM Placed-Based Learning at the school’s TLiM pillars to strengthen their understanding of the 7 habits through interactive activities and manipulatives.
 
-<p>
-
+<br>
 <img src="/images/cce_photo11a.png" style="width:100%">
 
-</p><p>
-
+<br>
 <img src="/images/cce_photo11b.PNG" style="width:100%">
 
 ##### TLiM Celebrations
@@ -107,28 +105,22 @@ This year, we are proud to appoint 111 prefects at our Prefects Investiture Cere
 **Sub-area 2**&nbsp;- Isabelle Cheng Si Yan, Kho Jun Ning &amp; Sharifah Alya Zahra Binte Syed Mohsein Albar <br>
 **Sub-area 3**&nbsp;- Ho Louis &amp; Lim Pei Yu Trina
 
-</p><p>
-
+<br>
 <img src="/images/cce_photo12a.jpg" style="width:100%">
 
-</p><p>
-
+<br>
 <img src="/images/cce_photo12b.jpg" style="width:100%">
 
-</p><p>
-
+<br>
 <img src="/images/cce_photo12c.jpg" style="width:100%">
 
-</p><p>	
-
+<br>
 <img src="/images/cce_photo12d.jpg" style="width:100%">
 
-</p><p>
-
+<br>
 <img src="/images/cce_photo12e.jpg" style="width:100%">
 
-</p><p>
-
+<br>
 <img src="/images/cce_photo12f.jpg" style="width:100%">
 
 ##### Changemaker Projects
@@ -143,29 +135,26 @@ In 2022, all our prefects underwent a series of Changemaker workshop. They learn
 
 Our P3 prefects decided to do a project to show appreciation towards their teachers in school. The prefects brainstormed the type of gifts to present to their teachers. After initiating a short survey with teachers to understand their needs, they decided to create memory boxes for the teachers, for them to keep thank you gifts, cards and notes from students, which will bring back fond memories in time to come. The prefects felt a sense of achievement and satisfaction as they were able to show appreciation to their teachers through the gifts that they prepared and presented
 
-</p><p>
-
+<br>
 <img src="/images/cce_photo13a.PNG" style="width:100%">
 
-</p><p>
-
+<br>
 <img src="/images/cce_photo13b.PNG" style="width:100%">
 
-##### **P4 Prefects Changemaker Project - Teachers’ Day Concert**
+##### P4 Prefects Changemaker Project - Teachers’ Day Concert
 
 Our P4 prefects exhibited their critical and creative thinking skills as they took charge of the Teachers’ Day Concert to show gratitude to their teachers. They took ownership to create their concert items collaboratively in their respective teams as they sharpened their leadership skills along the project. They showcased innovative mindsets to present creative performances. The project encouraged planning and decision-making as a team. Despite limited resources and time, the P4 prefects were able to put up an amazing concert successfully to celebrate the joyous day!
 
-</p><p>
-
+<br>
 <img src="/images/cce_photo14.jpg" style="width:100%">
 
-##### **P5 &amp; P6 Sub-area 1 Prefects Changemaker Project - Burst The Bubbles!**
+##### P5 &amp; P6 Sub-area 1 Prefects Changemaker Project - Burst The Bubbles!
 
 Technology becomes part of our lives as society progresses and people are exposed to real and unreal information every day. This motivates the P5 &amp; P6 Prefects in wanting to help others to learn about the algorithm of search engines, and how to avoid filter bubbles so as to avoid unreal information online. The team created a video toolkit with an online game to educate fellow schoolmates. Level competitions were held for P3, P4 and P6 students to challenge schoolmates to participate in colouring contest, poster-making and comic-creation competition, to remind others to guard against unreal information. This project clinched the Silver Award in the National Cyberwellness Advocacy Challenge 2022.
 
 ![](/images/LLP11.png)
 
-**P5 &amp; P6 Sub-area 2 Prefects Changemaker Project - I Am An Upcyclist!**
+##### P5 &amp; P6 Sub-area 2 Prefects Changemaker Project - I Am An Upcyclist!
 
 Our students noticed that single-use plastic items go to waste after food or products are consumed. Plastic waste is thrown at a rapid speed and this leads to large volume of plastic waste accumulated every day.
 
@@ -177,7 +166,7 @@ This project clinched the Silver Award in the National Youth Upcycling Movement 
 
 ![](/images/LLP12.png)
 
-**P5 &amp; P6 Sub-area 3 Prefects Changemaker Project - Gift of Love**
+##### P5 &amp; P6 Sub-area 3 Prefects Changemaker Project - Gift of Love
 
 Sub-area 3 prefects conducted interviews and researched on various issues elderly people faced and realised that loneliness and depression are quite a concern in modern society, especially for elderly who are away from their families in elder care homes.
 
@@ -189,8 +178,7 @@ The experience allowed prefects to gain understanding of societal issues and lea
 
 ##### Achievements
 
-</p><p>
-
+<br>
 <table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="341" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
  mso-border-alt:solid black .5pt;mso-yfti-tbllook:1024;mso-padding-alt:0in 5.4pt 0in 5.4pt;
  mso-border-insideh:.5pt solid black;mso-border-insidev:.5pt solid black"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="47" valign="top" style="width:34.9pt;border:solid black 1.0pt;
@@ -301,4 +289,4 @@ The experience allowed prefects to gain understanding of societal issues and lea
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
   mso-border-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="left" style="text-align:left"><span style="font-size:
-  10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial">Platinum STAR Schools Award</span></p></td></tr></tbody></table></p>
+  10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial">Platinum STAR Schools Award</span></p></td></tr></tbody></table><p></p>
