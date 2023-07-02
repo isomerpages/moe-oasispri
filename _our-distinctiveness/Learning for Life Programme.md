@@ -177,7 +177,6 @@ The experience allowed prefects to gain understanding of societal issues and lea
 ![](/images/LLP13.png)
 
 ##### Achievements
-
 <br>
 <table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="341" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
  mso-border-alt:solid black .5pt;mso-yfti-tbllook:1024;mso-padding-alt:0in 5.4pt 0in 5.4pt;
