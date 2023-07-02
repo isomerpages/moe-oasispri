@@ -35,7 +35,7 @@ See OPS [Learning for Life Programme](https://www.oasispri.moe.edu.sg/our-distin
 
 ![](/images/key%20programmes%201.png)
 
-##### **P1 VIA - Be Gracious@Recess**
+##### P1 VIA - Be Gracious@Recess
 
 ‘Be Gracious@Recess’, our VIA programme for Primary 1 aims to imbue good habits and table etiquette in our Oasians. They will be taught to practice personal hygiene by first washing their hands before taking their meals in the canteen. They are also encouraged to reduce food wastage, return their cutlery and conduct wipe down of the table after eating.
 
@@ -45,7 +45,7 @@ Two Gracious Ambassadors are appointed from each P1 class to remind their classm
 
 ![](/images/P1%20via.png)
 
-##### **P2 VIA - Happy Toilet**  
+##### P2 VIA - Happy Toilet
 
 ‘Happy Toilet’, our VIA programme for Primary 2 aims to nurture socially responsible students who practise good toilet habits with Integrity . Students are ‘caught doing right’, organised with the intention of encouraging and affirming them. A checklist is also displayed in the toilet to remind students to practise good toilet habits such as flushing the toilets after use and washing their hands with soap in the basin.
 
@@ -55,7 +55,7 @@ In collaboration with the Student Development Team, all P2 students will pen not
 
 ![](/images/p2%20via.png)
 
-##### **P3 VIA - Cyber Champ**
+##### P3 VIA - Cyber Champ
 
  With students’ wellbeing in mind, the P3 VIA programme titled ‘Cyber Champ’ works towards promoting good habits in using technology and showing respect to self and others. After learning about Cyber Wellness during school assemblies, the P3 students are tasked to encourage Oasians to be a responsible and safe digital user, as well as a positive influence to their peers. This involves them getting into groups to discuss and create board games for play at recess.
  
@@ -63,7 +63,7 @@ In collaboration with the Student Development Team, all P2 students will pen not
 
 ![](/images/p3%20via.png)
 
-##### **P4 VIA - By My Friend**
+##### P4 VIA - By My Friend
   
 One of the VIA programmes for Primary 4 students is titled ‘Be My Buddy’, and they will play an important role as a buddy to our P1 students in the first week of the academic year. This includes the preparation of a “Welcome” card for their P1 buddy and it is presented to them at recess. They will also guide their P1 buddy to buy food and clear their plates after eating.
 
@@ -73,7 +73,7 @@ One of the VIA programmes for Primary 4 students is titled ‘Be My Buddy’, an
 
 Another VIA programme for our Primary 4 students is titled “Friendship Project” and this marks the fifth year of our collaboration with Pathlight School. Through our school’s English literature programme, P4 Oasians have the opportunity to forge friendships with students from Pathlight School through letter writing as well as interact with them in person through school visits.
 
-##### **P5 VIA - Green Oasians**
+##### P5 VIA - Green Oasians
 
 “Green Oasians” is the VIA programme for P5 students and this is done in partnership with the English Department and as part of the Applied Learning Programme (ALP). Through this programme, P5 Oasians embark on a journey to care for the environment and they will also visit the Sustainable Singapore Wall in the school (as part of Place-Based Learning) to understand about the environmental efforts undertaken by Singapore to promote environmental sustainability.
 
@@ -83,7 +83,7 @@ To further strengthen the advocacy on caring for the environment and harmony in 
 
 ![](/images/p5%20via.png)
 
-##### **P6 VIA - Be A Blessing**  
+##### P6 VIA - Be A Blessing
 
 Through the ‘Be A Blessing’ programme, our P6 students will have the opportunity to reach out to the residents of Peacehaven Nursing Home and internalise the values of resilience, respect and care. They will also assemble a ‘Blessing’ care package for the residents of the nursing home, which includes food items and well wishes.
 
@@ -91,7 +91,7 @@ Through the ‘Be A Blessing’ programme, our P6 students will have the opportu
 
 ![](/images/p6%20via.png)
 
-##### **Social Studies in Oasis**
+##### Social Studies in Oasis
 
 Social Studies (SS) in Oasis Primary is aligned to the national curriculum and seeks to develop students to be informed, concerned and participative citizens, competent in decision-making with an impassioned spirit to contribute responsibly to the society and world we live in.
 
@@ -130,7 +130,7 @@ Our students’ learning is based on three broad clusters, as reflected in the S
 <br>
 <img src="/images/cce_photo1a.png" style="width:100%">
 
-##### **NE Bulletin Discussion Lessons**
+##### NE Bulletin Discussion Lessons
 
 In addition to the formal SS curriculum, Oasians engage in classroom discussions about contemporary issues through NE Bulletin Discussion Lessons. These lessons are conducted with the aim of getting students to be more informed citizens who are aware of what is happening around them. Oasians also participate in classroom discussions where they share their thoughts, ideas and beliefs about the contemporary issues raised.
 
@@ -185,7 +185,7 @@ In addition to the formal SS curriculum, Oasians engage in classroom discussions
 <br>	
 <img src="/images/cce_photo1b.PNG" style="width:100%">
 
-##### **Place-based Learning**
+##### Place-based Learning
 
 Place-Based Learning is also part of the SS curriculum in Oasis Primary School.
 
@@ -196,11 +196,11 @@ P6 Students will visit the mural walls on Storey 5 (Oasis Global Explorer) to le
 <br>		
 <img src="/images/cce_photo1c.PNG" style="width:100%">
 
-##### **Learning Journeys**
+##### Learning Journeys
 
 Each year, our students will also go on field-based learning journeys out of school as part of the SS curriculum in Oasis Primary School. Through these learning journeys, our students develop important skills and acquire knowledge from the environment that they have explored and learn to be more informed citizens who are aware of what is happening around them.
 
-##### **Commemorating Total Defence Day**
+##### Commemorating Total Defence Day
 
 Schools commemorate Total Defence Day (TDD) on 15 February annually to mark Singapore’s fall to the Japanese in 1942. TDD serves to remind our students that Singapore is defensible and we must defend Singapore ourselves. Total Defense has guided us through many difficult times, most recently, through our nation’s fight against COVID-19.
 
@@ -212,7 +212,7 @@ One of the highlights of commemorating TDD this year was the in-house skit put t
 <img src="/images/cce_photo2.PNG" style="width:100%">
 An in-house production by our teachers.
 
-##### **International Friendship Day**  
+##### International Friendship Day
 
 International Friendship Day (IFD) celebrates the cultural diversities in ASEAN and the connection Singapore shares with her neighboring countries and beyond.
 
@@ -226,7 +226,7 @@ Students also learnt that Singapore builds strong friendship bonds with her neig
 <img src="/images/cce_photo3.PNG" style="width:100%">
 Most popular design voted by the whole school.
 
-##### **Racial Harmony Day**
+##### Racial Harmony Day
 
 The theme for Racial Harmony Day (RHD) 2022 was “Our Multicultural Mosaic”. We commemorated the event with a series of activities that helped our students to better appreciate the diversity and uniqueness of our society. This included having our teachers and students donning the four major ethnic communities’ attires and playing traditional games that our parents and grandparents once played when they were young.
 
@@ -236,17 +236,17 @@ Students were also introduced to people of different races and religions living 
 
 <br>
 <img src="/images/cce_photo4a.png" style="width:100%">
-Students at the Congkak booth, learning how to play this traditional game of the Malay community.
+Students at the Congkak booth, learning how to play this traditional game of the Malay community.<br>
 
 <br>
 <img src="/images/cce_photo4b.png" style="width:100%">
-Everyone had a fabulous time mingling with one another and making new friends.
+Everyone had a fabulous time mingling with one another and making new friends.<br>
 
 <br>
 <img src="/images/cce_photo4c.png" style="width:100%">
 The battle to show our skills at playing five stones.
 
-##### **National Day Celebrations**
+##### National Day Celebrations
 
 As Singapore continued to recover from the Covid-19 pandemic, Oasians found a way to commemorate National Day (ND) differently in 2022. Our students rose to the occasion to put up a splendid performance for their fellow schoolmates under the guidance of our teachers. We had our first march-in contingent, consisting of Scouts and Prefects, to bring in the National and School flags during the Observance Ceremony. Other students from various CCAs like Wushu, Dance and Guzheng also showcased their talents through their performances.
 
@@ -258,7 +258,7 @@ To mark the special occasion, all students and staff of the Oasis family partici
 <br>
 <img src="/images/cce_photo5b.jpg" style="width:100%">
 
-##### **Cyber Wellness**
+##### Cyber Wellness
 
 Aimed at raising an Oasian who is a positive influence, responsible and safe digital user, customized programmes such as differentiated assemblies were conducted to bring across age-appropriate messages to our students.
 
@@ -266,20 +266,20 @@ Oasians were also involved in the creation of our first Cyber Singa mascot. Duri
 
 <br>
 <img src="/images/cce_photo6a.png" style="width:100%">
-Pre-assembly programme on being a responsible online citizen, conducted by a teacher from the Student Well-being committee.
+Pre-assembly programme on being a responsible online citizen, conducted by a teacher from the Student Well-being committee.<br>
 
 <br>
 <img src="/images/cce_photo6b.png" style="width:100%">
 
 <br>
 <img src="/images/cce_photo6c.png" style="width:100%">
-Recess activities that focus on cyber wellness. 
+Recess activities that focus on cyber wellness.<br>
 
 <br>
 <img src="/images/cce_photo6d.png" style="width:100%">
 Creator of the Cyber Singa mascot sharing with his peers on his creation and his hopes.
 
-##### **Conducive Classroom Award**
+##### Conducive Classroom Award
 
 The school wishes to inculcate care and responsibility in Oasians where they take ownership of their classroom cleanliness and create a conducive learning environment. To this end, a team of teachers from the Character Development would visit the classes to affirm the cleanliness of each class by stamping stars on the Conducive Classroom Award chart displayed outside every classroom.
 
@@ -294,7 +294,7 @@ In addition, the “Use Your Hands Campaign” is also conducted at the end of e
 <br>
 <img src="/images/cce_photo7c.png" style="width:100%">
 
-##### **Model Students for Term 1 &amp; Term 2, 2023**
+##### Model Students for Term 1 &amp; Term 2, 2023
 
 The Model Student award is a termly award to recognise students’ effort in living up to the school value &amp; the 7 TLiM habits. Teachers provide input and nominate deserving &nbsp;students on a termly basis. The following are the termly school values and TLiM habits for this year:
 
@@ -323,7 +323,7 @@ SHINE@Oasis provides a holistic assessment of the students with input from teach
 <br>
 <img src="/images/cce_photo9b.png" style="width:100%">
 
-##### **Student Well-Being Committee**
+##### Student Well-Being Committee
 
 A strong peer support relationship helps to create a caring and enabling environment where each child feels safe, respected and accepted. To champion this effort, students are appointed as Peer Support Leaders and they will undergo training to learn prosocial skills so that they can support their peers through peer bonding, peer helping and peer influencing.
 
@@ -331,17 +331,17 @@ With the tagline, ‘Always Here for You’, our Peer Support Leaders will navig
 
 <br>
 <img src="/images/cce_photo10a.png" style="width:100%">
-Peer Support Leaders involved in Buddy Reading Programme
+Peer Support Leaders involved in Buddy Reading Programme<br>
 
 <br>
 <img src="/images/cce_photo10b.png" style="width:100%">
-Sharing of positive stories to peers
+Sharing of positive stories to peers<br>
 
 <br>
 <img src="/images/cce_photo10c.png" style="width:100%">
 Empowerment is given to Peer Support Leaders to create a positive environment for their classmates by using the YOLO space to paste fun and inspiring messages.
 
-##### **Peer Support Leaders Training**
+##### Peer Support Leaders Training
 
 Strong peer support relationships help to create a caring and enabling environment where each child feels safe, respected and accepted. To champion this effort, a group of students are appointed as Peer Support Leaders. The Peer Support Leaders go through training with prosocial skills so that they can support their peers through peer bonding, peer helping and peer influencing.
 
