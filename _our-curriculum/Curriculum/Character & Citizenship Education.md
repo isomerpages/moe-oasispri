@@ -127,8 +127,7 @@ Our students’ learning is based on three broad clusters, as reflected in the S
   mso-border-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="228"><p style="text-align:justify;tab-stops:178.1pt" class="MsoNormal"><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   Arial">Appreciating Singapore, the Region and the World We Live In</span></p></td></tr></tbody></table>
 
-<p>
-	
+<br>
 <img src="/images/cce_photo1a.png" style="width:100%">
 
 ##### **NE Bulletin Discussion Lessons**
@@ -183,8 +182,7 @@ In addition to the formal SS curriculum, Oasians engage in classroom discussions
   yes"><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   Arial">Looking Back and Moving Forward</span></p></td></tr></tbody></table>
 
-</p><p>
-	
+<br>	
 <img src="/images/cce_photo1b.PNG" style="width:100%">
 
 ##### **Place-based Learning**
@@ -195,8 +193,7 @@ Primary 2, 3 and 4 students will visit the mural walls on Storey 3 (Our Heritage
 
 P6 Students will visit the mural walls on Storey 5 (Oasis Global Explorer) to learn more about the sustainable goals of the United Nations through a gamified experience. The experience supports the teaching and learning of SS lessons, focusing on the theme of ‘Sustainability’. It is aligned with the third cluster of study in SS, ‘Appreciating Singapore, the Region and the World We Live in”, where students learn about the diverse and global physical environment in the world they live in.
 
-</p><p>
-		
+<br>		
 <img src="/images/cce_photo1c.PNG" style="width:100%">
 
 ##### **Learning Journeys**
@@ -211,8 +208,7 @@ This year, the theme of the Total Defence campaign "Together We Keep Singapore S
 
 One of the highlights of commemorating TDD this year was the in-house skit put together by the teachers. The skitaimed to spread the messages of reducing food wastage and not to fall prey to scams. In addition, our students also participated in the various recess activities to understand how Singapore continues to have a constant supply of food for our people during difficult times.
 
-</p><p>
-
+<br>
 <img src="/images/cce_photo2.PNG" style="width:100%">
 An in-house production by our teachers.
 
@@ -226,8 +222,7 @@ Our Primary 6 students also participated in an inter-class costume design compet
 
 Students also learnt that Singapore builds strong friendship bonds with her neighbors in Southeast Asia, therefore nurturing and inculcating among the students the spirit of friendship and collaboration with their peers.
 
-</p><p>
-		
+<br>		
 <img src="/images/cce_photo3.PNG" style="width:100%">
 Most popular design voted by the whole school.
 
@@ -239,16 +234,15 @@ It was interesting to find out during the Assembly sharing that some places in S
 
 Students were also introduced to people of different races and religions living together as neighbours in a HDB flat, the most common form of houses in Singapore. Together, Singaporeans learn to live in harmony with one another, and they even celebrated the different festivals from the ethnic communities in Singapore, as part of our multicultural mosaic heritage.
 
-</p><p>
-
+<br>
 <img src="/images/cce_photo4a.png" style="width:100%">
 Students at the Congkak booth, learning how to play this traditional game of the Malay community.
 
-</p><p>
+<br>
 <img src="/images/cce_photo4b.png" style="width:100%">
 Everyone had a fabulous time mingling with one another and making new friends.
 
-</p><p>
+<br>
 <img src="/images/cce_photo4c.png" style="width:100%">
 The battle to show our skills at playing five stones.
 
@@ -258,12 +252,10 @@ As Singapore continued to recover from the Covid-19 pandemic, Oasians found a wa
 
 To mark the special occasion, all students and staff of the Oasis family participated in a lock-down activity where they learnt to be prepared at all times. It was an enriching programme. We ended the celebration on a high note with the NDP 2022 theme song and evergreen favourites such as “Home” that all Singaporeans are familiar with. These songs resonated with our students because they reflect the changes of the nation and sentiment of the people. Stronger Together, Majulah!
 
-</p><p>
-
+<br>
 <img src="/images/cce_photo5a.jpg" style="width:100%">
 
-</p><p>
-
+<br>
 <img src="/images/cce_photo5b.jpg" style="width:100%">
 
 ##### **Cyber Wellness**
@@ -272,22 +264,18 @@ Aimed at raising an Oasian who is a positive influence, responsible and safe dig
 
 Oasians were also involved in the creation of our first Cyber Singa mascot. During one of the assembly programmes, the creator was given the opportunity to share his inspiration and hopes for his peers. This mascot was also used during recess activity and the peers were thrilled to be receiving bookmark reminders from the mascot.
 
-</p><p>
-
+<br>
 <img src="/images/cce_photo6a.png" style="width:100%">
 Pre-assembly programme on being a responsible online citizen, conducted by a teacher from the Student Well-being committee.
 
-</p><p>
-
+<br>
 <img src="/images/cce_photo6b.png" style="width:100%">
 
-</p><p>
-
+<br>
 <img src="/images/cce_photo6c.png" style="width:100%">
 Recess activities that focus on cyber wellness. 
 
-</p><p>
-
+<br>
 <img src="/images/cce_photo6d.png" style="width:100%">
 Creator of the Cyber Singa mascot sharing with his peers on his creation and his hopes.
 
@@ -297,16 +285,13 @@ The school wishes to inculcate care and responsibility in Oasians where they tak
 
 In addition, the “Use Your Hands Campaign” is also conducted at the end of each semester before the students go for their vacations. This is to instill in Oasians a sense of responsibility and pride in taking care of their learning environment.
 
-</p><p>
-
+<br>
 <img src="/images/cce_photo7a.png" style="width:100%">
 
-</p><p>
-
+<br>
 <img src="/images/cce_photo7b.png" style="width:100%">
 
-</p><p>
-
+<br>
 <img src="/images/cce_photo7c.png" style="width:100%">
 
 ##### **Model Students for Term 1 &amp; Term 2, 2023**
@@ -319,28 +304,23 @@ Term 2, School value (Respect and Integrity) and TLiM Habits 3: Put First Things
 
 The student recipients (by level) are as follows:
 
-</p><p>
-
+<br>
 <img src="/images/cce_photo8a.png" style="width:100%">
 
-</p><p>
-
+<br>
 <img src="/images/cce_photo8b.png" style="width:100%">
 
-</p><p>
-
+<br>
 <img src="/images/cce_photo8c.png" style="width:100%">
 
 ##### **SHINE@Oasis - S**erve with a **H**eart and **IN**spire **E**veryone
 	
 SHINE@Oasis provides a holistic assessment of the students with input from teachers, self, peers and parents. It uses actionable statements to encourage all students to live up to the school values and the 7 TLiM Habits. The assessment is done in the SHINE@Oasis booklet at the end of each term with a focus on specific value and TLiM Habit.
 
-</p><p>
-
+<br>
 <img src="/images/cce_photo9a.png" style="width:100%">
 
-</p><p>
-
+<br>
 <img src="/images/cce_photo9b.png" style="width:100%">
 
 ##### **Student Well-Being Committee**
@@ -349,18 +329,15 @@ A strong peer support relationship helps to create a caring and enabling environ
 
 With the tagline, ‘Always Here for You’, our Peer Support Leaders will navigate their roles actively through completingf tasks in their mission cards.
 
-</p><p>
-
+<br>
 <img src="/images/cce_photo10a.png" style="width:100%">
 Peer Support Leaders involved in Buddy Reading Programme
 
-</p><p>
-
+<br>
 <img src="/images/cce_photo10b.png" style="width:100%">
 Sharing of positive stories to peers
 
-</p><p>
-
+<br>
 <img src="/images/cce_photo10c.png" style="width:100%">
 Empowerment is given to Peer Support Leaders to create a positive environment for their classmates by using the YOLO space to paste fun and inspiring messages.
 
@@ -372,4 +349,4 @@ With the tagline, “Always Here For You”, our Peer Support Leaders navigate t
 
 ![](/images/cce.png)
 
-![](/images/cce2.png)</p>
+![](/images/cce2.png)<p></p>
