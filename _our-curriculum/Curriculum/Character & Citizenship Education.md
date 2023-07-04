@@ -79,6 +79,10 @@ In collaboration with the Student Development Team, all P2 students will pen not
   
 One of the VIA programmes for Primary 4 students is titled ‘Be My Buddy’, and they will play an important role as a buddy to our P1 students in the first week of the academic year. This includes the preparation of a “Welcome” card for their P1 buddy and it is presented to them at recess. They will also guide their P1 buddy to buy food and clear their plates after eating.
 
+<br>
+<img src="/images/p4viaa.png" style="width:100%">
+
+
 ...
 
 ![](/images/P4%20VIA.png)
