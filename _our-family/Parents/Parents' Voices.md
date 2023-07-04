@@ -31,17 +31,17 @@ third_nav_title: Parents
 <img src="/images/appreciation26.jpg" style="width:100%"> <br>
 <img src="/images/appreciation27.jpg" style="width:100%"> <br>
 <img src="/images/appreciation28.jpg" style="width:100%"> <br>
-<img src="/images/appreciation29.jpg" style="width:100%"> <br>
-<img src="/images/appreciation30.jpg" style="width:100%"> <br>
-<img src="/images/appreciation31.jpg" style="width:100%"> <br>
-<img src="/images/appreciation32.jpg" style="width:100%"> <br>
-<img src="/images/appreciation33.jpg" style="width:100%"> <br>
-<img src="/images/appreciation34.jpg" style="width:100%"> <br>
-<img src="/images/appreciation35.jpg" style="width:100%"> <br>
-<img src="/images/appreciation36.jpg" style="width:100%"> <br>
-<img src="/images/appreciation37.jpg" style="width:100%"> <br>
-<img src="/images/appreciation38.jpg" style="width:100%"> <br>
-<img src="/images/appreciation39.jpg" style="width:100%"> <br>
+<img src="/images/appreciation29.png" style="width:100%"> <br>
+<img src="/images/appreciation30.png" style="width:100%"> <br>
+<img src="/images/appreciation31.png" style="width:100%"> <br>
+<img src="/images/appreciation32.png" style="width:100%"> <br>
+<img src="/images/appreciation33.png" style="width:100%"> <br>
+<img src="/images/appreciation34.png" style="width:100%"> <br>
+<img src="/images/appreciation35.png" style="width:100%"> <br>
+<img src="/images/appreciation36.png" style="width:100%"> <br>
+<img src="/images/appreciation37.png" style="width:100%"> <br>
+<img src="/images/appreciation38.png" style="width:100%"> <br>
+<img src="/images/appreciation39.png" style="width:100%"> <br>
 
 <figure>
 <img src="/images/01%20Salinah.jpg" style="width:100%">
