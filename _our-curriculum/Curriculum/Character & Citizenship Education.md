@@ -105,9 +105,14 @@ Another VIA programme for our Primary 4 students is titled “Friendship Project
 
 To further strengthen the advocacy on caring for the environment and harmony in nature, the P5 students will also design and create posters advocating ‘green’ messages. Physical posters and e-posters are also showcased and students will also conduct presentation to their peers.
 
-...
+<br>
+<img src="/images/p5viaa.png" style="width:100%">
 
-![](/images/p5%20via.png)
+<br>
+<img src="/images/p5viab.png" style="width:100%">
+
+<br>
+<img src="/images/p5viac.png" style="width:100%">
 
 ##### P6 VIA - Be A Blessing
 
