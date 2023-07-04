@@ -66,9 +66,14 @@ In collaboration with the Student Development Team, all P2 students will pen not
 
  With students’ wellbeing in mind, the P3 VIA programme titled ‘Cyber Champ’ works towards promoting good habits in using technology and showing respect to self and others. After learning about Cyber Wellness during school assemblies, the P3 students are tasked to encourage Oasians to be a responsible and safe digital user, as well as a positive influence to their peers. This involves them getting into groups to discuss and create board games for play at recess.
  
-...
+<br>
+<img src="/images/p3viaa.png" style="width:100%">
 
-![](/images/p3%20via.png)
+<br>
+<img src="/images/p3viab.png" style="width:100%">
+
+<br>
+<img src="/images/p3viac.png" style="width:100%">
 
 ##### P4 VIA - By My Friend
   
