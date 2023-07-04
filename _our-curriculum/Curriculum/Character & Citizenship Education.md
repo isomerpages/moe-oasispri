@@ -56,7 +56,11 @@ Two Gracious Ambassadors are appointed from each P1 class to remind their classm
 
 In collaboration with the Student Development Team, all P2 students will pen notes of gratitude to the cleaners for their hard work in washing and keeping the toilets clean every day. They will also write thank you notes, which are framed and presented to the school cleaners.
 
-....
+<br>
+<img src="/images/p2viaa.png" style="width:100%">
+
+<br>
+<img src="/images/p2viab.png" style="width:100%">
 
 ![](/images/p2%20via.png)
 
