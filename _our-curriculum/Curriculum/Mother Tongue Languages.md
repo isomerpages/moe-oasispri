@@ -73,8 +73,10 @@ Discover the joy of learning the Mother Tongue language and culture at Oasis Pri
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/WZprtgKPdLE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
+<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/43iaTLKazbQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
+<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PRdvKKg_XMk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
 
 ### Achievements
@@ -92,6 +94,75 @@ Discover the joy of learning the Mother Tongue language and culture at Oasis Pri
 .tg .tg-vd2a{background-color:#FFF;color:#002D46;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
+<thead>
+  <tr>
+    <th class="tg-dzgf">Year<br></th>
+    <th class="tg-dzgf">Event<br></th>
+    <th class="tg-dzgf">Award<br></th>
+    <th class="tg-dzgf">Recipients<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-7rn4" rowspan="11">2022<br></td>
+    <td class="tg-67ya" rowspan="11">National Level Inter-School (Primary School) Creative Writing Competition<br>(‘Peraduan Karya Minda Kreatif 2022’)<br></td>
+    <td class="tg-7rn4">Sliver<br></td>
+    <td class="tg-ilyo"><span style="background-color:initial">Farah Aulya Binti Nasharuddin<br>(4 Diligence)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-7rn4">Silver<br></td>
+    <td class="tg-ilyo"><span style="background-color:initial">Nur Syazrain Binte Muhammad Syahid<br>(4 Harmony)</span></td>
+  </tr>
+  <tr>
+		<td class="tg-7rn4">Silver<br></td>
+    <td class="tg-7rn4"><span style="background-color:initial">Amsyar Muzaffar Bin Ali Sufyan<br>(4 Loyalty)</span></td>
+  </tr>
+  <tr>
+		<td class="tg-7rn4">Sliver<br></td>
+    <td class="tg-7rn4"><span style="background-color:initial">Nur Afrina Keisha Binte Mohammad Hidir<br>(4 Loyalty)</span></td>
+  </tr>
+  <tr>
+		<td class="tg-7rn4">Sliver<br></td>
+    <td class="tg-7rn4"><span style="background-color:initial">Sharifah Alya Zahra Binte Syed Mohsein<br>(4 Resilience)</span></td>
+  </tr>
+  <tr>
+		<td class="tg-7rn4">Sliver<br></td>
+    <td class="tg-7rn4"><span style="background-color:initial">Nyla Adlina Binte Muhammad Azhar<br>(5 Harmony)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-7rn4">Sliver<br></td>
+    <td class="tg-7rn4"><span style="background-color:initial">Nur Iman Binte Muhammad Fadhly<br>(6 Care)</span></td>
+		</tr>
+  <tr>
+    <td class="tg-7rn4">Sliver<br></td>
+    <td class="tg-7rn4"><span style="background-color:initial">Delisha Fatima Falandri<br>(6 Diligence)</span></td>
+		</tr>
+  <tr>
+    <td class="tg-7rn4">Sliver<br></td>
+    <td class="tg-7rn4"><span style="background-color:initial">Nur Alesya Zafirah Binte Mohammad Hidir<br>(6 Diligence)</span></td>
+		</tr>
+  <tr>
+    <td class="tg-7rn4">Bronze<br></td>
+    <td class="tg-7rn4"><span style="background-color:initial">Ummie Tanisya Biinte Juhaidy<br>(5 Care)</span></td>
+		</tr>
+  <tr>
+    <td class="tg-7rn4">Bronze<br></td>
+    <td class="tg-7rn4"><span style="background-color:initial">Muhammad Danish Fitri Bin Muhammad Fadhly<br>(5 Integrity)</span></td>
+  </tr>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:15px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:15px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-67ya{background-color:#FFF;color:#002D46;text-align:left;vertical-align:middle}
+.tg .tg-dzgf{background-color:#FFF;color:#002D46;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-7rn4{background-color:#FFF;color:#002D46;text-align:center;vertical-align:middle}
+.tg .tg-ilyo{background-color:#FFF;color:#002D46;text-align:center;vertical-align:top}
+.tg .tg-vd2a{background-color:#FFF;color:#002D46;text-align:left;vertical-align:top}
+</style>
+</tbody></table><table class="tg">
 <thead>
   <tr>
     <th class="tg-dzgf">Year<br></th>
