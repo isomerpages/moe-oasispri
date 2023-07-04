@@ -41,9 +41,14 @@ See OPS [Learning for Life Programme](https://www.oasispri.moe.edu.sg/our-distin
 
 Two Gracious Ambassadors are appointed from each P1 class to remind their classmates to be Gracious@Recess. Students are encouraged to be responsible in keeping their tables and floor clean. The classes will be assessed on the cleanliness of the tables and the floor assigned and certificates are issued to classes to reaffirm the students’ effort.
 
-<img src="/images/p1viaa.PNG" style="width:100%">
+<br>
+<img src="/images/p1viaa.png" style="width:100%">
 
-![](/images/P1%20via.png)
+<br>
+<img src="/images/p1viab.png" style="width:100%">
+
+<br>
+<img src="/images/p1viac.png" style="width:100%">
 
 ##### P2 VIA - Happy Toilet
 
