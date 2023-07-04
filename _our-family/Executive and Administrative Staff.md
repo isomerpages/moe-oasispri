@@ -102,7 +102,7 @@ description: ""
     <td class="tg-j74v">Ms Durgadevi D/O Mogan<br></td>
   </tr>
   <tr>
-	  <td class="tg-8com">Librarian<br></td>
+	  <td class="tg-8com">Library Assistant<br></td>
     <td class="tg-1d14">Mdm Frannie Chung Sau Kuen</td>
   </tr>
 	<tr>
