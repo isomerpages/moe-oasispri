@@ -190,7 +190,11 @@ In the spirit of creating positive impact to the community around, Sub-area 3 pr
 
 The experience allowed prefects to gain understanding of societal issues and learn to care for the elderly.
 
-![](/images/LLP13.png)
+<br>
+<img src="/images/cce_photo17a.jpg" style="width:100%">
+
+<br>
+<img src="/images/cce_photo17b.jpg" style="width:100%">
 
 ##### Achievements
 <br>
