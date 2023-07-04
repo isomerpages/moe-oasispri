@@ -118,9 +118,14 @@ To further strengthen the advocacy on caring for the environment and harmony in 
 
 Through the ‘Be A Blessing’ programme, our P6 students will have the opportunity to reach out to the residents of Peacehaven Nursing Home and internalise the values of resilience, respect and care. They will also assemble a ‘Blessing’ care package for the residents of the nursing home, which includes food items and well wishes.
 
-...
+<br>
+<img src="/images/p6viaa.png" style="width:100%">
 
-![](/images/p6%20via.png)
+<br>
+<img src="/images/p6viab.png" style="width:100%">
+
+<br>
+<img src="/images/p6viac.png" style="width:100%">
 
 ##### Social Studies in Oasis
 
