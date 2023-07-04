@@ -170,7 +170,17 @@ The team put together a SLS toolkit that consist of various instructional videos
 
 This project clinched the Silver Award in the National Youth Upcycling Movement 2022, and prefect representatives were also involved to present their project experience at the 13th Be The Change Celebration.
 
-![](/images/LLP12.png)
+<br>
+<img src="/images/cce_photo16a.JPG" style="width:100%">
+
+<br>
+<img src="/images/cce_photo16b.jpg" style="width:100%">
+
+<br>
+<img src="/images/cce_photo16c.jpg" style="width:100%">
+
+<br>
+<img src="/images/cce_photo16d.jpg" style="width:100%">
 
 ##### P5 &amp; P6 Sub-area 3 Prefects Changemaker Project - Gift of Love
 
