@@ -155,6 +155,9 @@ Technology becomes part of our lives as society progresses and people are expose
 <img src="/images/cce_photo15a.jpg" style="width:100%">
 
 <br>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/l7vEi78cnQk" height="315" width="560"></iframe>
+
+<br>
 <img src="/images/cce_photo15b.jpg" style="width:100%">
 
 ##### P5 &amp; P6 Sub-area 2 Prefects Changemaker Project - I Am An Upcyclist!
