@@ -82,12 +82,22 @@ One of the VIA programmes for Primary 4 students is titled ‘Be My Buddy’, an
 <br>
 <img src="/images/p4viaa.png" style="width:100%">
 
+<br>
+<img src="/images/p4viab.png" style="width:100%">
 
-...
-
-![](/images/P4%20VIA.png)
+<br>
+<img src="/images/p4viac.png" style="width:100%">
 
 Another VIA programme for our Primary 4 students is titled “Friendship Project” and this marks the fifth year of our collaboration with Pathlight School. Through our school’s English literature programme, P4 Oasians have the opportunity to forge friendships with students from Pathlight School through letter writing as well as interact with them in person through school visits.
+
+<br>
+<img src="/images/p4viad.png" style="width:100%">
+
+<br>
+<img src="/images/p4viae.png" style="width:100%">
+
+<br>
+<img src="/images/p4viaf.png" style="width:100%">
 
 ##### P5 VIA - Green Oasians
 
