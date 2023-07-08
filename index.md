@@ -21,8 +21,6 @@ sections:
           description: ""
           url: /ops/photo-gallery/2023
   - infopic:
-      title: Open House
-      subtitle: Oasis primary school
       image: /images/e-banner2.png
       alt: Image alt text
 ---
