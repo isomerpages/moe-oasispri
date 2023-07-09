@@ -22,5 +22,4 @@ sections:
           url: /ops/photo-gallery/2023
   - infopic:
       image: /images/e-banner2.png
-      alt: Image alt text
 ---
