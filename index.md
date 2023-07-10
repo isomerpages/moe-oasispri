@@ -4,7 +4,7 @@ title: Oasis Primary School
 description: Brief site description here
 image: /images/Oasis.jpeg
 permalink: /
-notification: Oasis Primary School Open House 2023 - 7 July (Fri), 2.30pm - 4.30pm
+notification: ""
 sections:
   - hero:
       title: Oasis Primary School
@@ -20,12 +20,4 @@ sections:
         - title: Gallery
           description: ""
           url: /ops/photo-gallery/2023
-  - infopic:
-      title: Open House
-      subtitle: Oasis primary school
-      description: Register below to join us
-      button: join us
-      image: /images/e-banner2.png
-      url: https://go.gov.sg/olefiesta2023
-      alt: Image alt text
 ---
