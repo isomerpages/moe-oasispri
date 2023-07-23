@@ -491,3 +491,7 @@ Our unique English Language Teaching and Learning&nbsp;at Oasis Primary School, 
   </tr>
 </tbody>
 </table>
+
+Read the inspiring story&nbsp;[here](https://academyofsingaporeteachers.moe.edu.sg/docs/default-source/professional-recognition-docs/outstanding-youth-in-education-awards-documents/story-oyea-2020_desmond-lim.pdf)
+
+[Read the inspiring story here](https://academyofsingaporeteachers.moe.edu.sg/docs/default-source/professional-recognition-docs/outstanding-youth-in-education-awards-documents/story-oyea-2020_desmond-lim.pdf)
