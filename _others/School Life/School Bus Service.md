@@ -9,9 +9,8 @@ third_nav_title: School Life
 To apply, please refer to the Service Requirements and the Application Procedure below.
 
 ##### **Service Requirements**<br>
-1\. [Call for Proposal](/files/Attachment%1%Call%for%Proposals%by%School %Version%June%2023.pdf)
-
-[Application Form](/files/canteen%20application%20form.pdf)
+1\. Call for Proposal<br>
+[Call for Proposal](/files/attachment_1_call_for_proposals_by_school _version_june_2023.pdf)
 
 2\. Agreement for Appointment of School Bus Operator
 
