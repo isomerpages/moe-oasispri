@@ -17,7 +17,7 @@ To apply, please refer to the Service Requirements and the Application Procedure
 
 ##### **Application Procedure**<br>
 1\. Complete the Call for Proposal - Annex A<br>
-[Attachment 2: Call for Proposal Annex A](/files/attachment%202%20call%20for%20proposal%20annex%20a%20version%20june%202023.pdf)
+[Attachment 2: Call for Proposal - Annex A](/files/attachment%202%20call%20for%20proposal%20annex%20a%20version%20june%202023.pdf)
 
 2\. Submit the completed Call for Proposal - Annex A by closing date, 1 August 2023 4pm, to the School's General Office.<br>
 
