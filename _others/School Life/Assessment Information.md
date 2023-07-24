@@ -8,39 +8,39 @@ third_nav_title: School Life
 
 **A. Purpose and scope of assessment**
 
-1.  Assessment is the process of collecting, analysing and interpreting information to assist teachers in making decisions about the progress of their students as well as about their teaching.
+1\. Assessment is the process of collecting, analysing and interpreting information to assist teachers in making decisions about the progress of their students as well as about their teaching.
 
-2.  Assessment should provide evidence of student performance relative to learning outcomes and assessment standards as described in MOE syllabus.
+2\. Assessment should provide evidence of student performance relative to learning outcomes and assessment standards as described in MOE syllabus.
 
-3.  Assessment should be both formative and summative, and should be used to provide feedback to students that supports and enhances their learning.
+3\. Assessment should be both formative and summative, and should be used to provide feedback to students that supports and enhances their learning.
 
-4.  Formative Assessment could include a range of appropriate activities such as projects, oral presentations, written reports, demonstrations, performances, investigations, practical work, and creative writing.
+4\. Formative Assessment could include a range of appropriate activities such as projects, oral presentations, written reports, demonstrations, performances, investigations, practical work, and creative writing.
 
-5.  Summative assessment (for e.g., Semestral Assessment (SA) and Continual Assessment (CA)) must be designed to measure student achievement and report evidence of student learning relative to the assessment standards for each specific learning programme or subject.
+5\. Summative assessment (for e.g., Semestral Assessment (SA) and Continual Assessment (CA)) must be designed to measure student achievement and report evidence of student learning relative to the assessment standards for each specific learning programme or subject.
 
 **B. Formative Assessment**
 
-1.  Formative assessment should form part of the daily classroom routine of teachers as a means to monitor student progress and to provide timely feedback to students. Some examples of formative assessment but not limited to these are homework/assignment checks, questioning, teacher observation of student work, discussion, oral or written tests.
+1\. Formative assessment should form part of the daily classroom routine of teachers as a means to monitor student progress and to provide timely feedback to students. Some examples of formative assessment but not limited to these are homework/assignment checks, questioning, teacher observation of student work, discussion, oral or written tests.
 
-2.  Written work/assignments done by students would be marked by teachers.
+2\. Written work/assignments done by students would be marked by teachers.
 
 **C.  Weighted Summative Assessment**
 
-1.  Summative assessment in the form of CT and SA will take place every term (for P3 to P6) and should be based on the table of specifications as laid by the departments. For P1 and P2, bite-sized assessment would be used.
+1\. Summative assessment in the form of CT and SA will take place every term (for P3 to P6) and should be based on the table of specifications as laid by the departments. For P1 and P2, bite-sized assessment would be used.
 
-2.  The proportion of marks that the assessment task will contribute to the total final weighting
+2\. The proportion of marks that the assessment task will contribute to the total final weighting
 
 **D.  Absence for weighted assessment**
 
-1.  Students who miss a weighted summative assessment through ill-health are required to provide a doctor’s certificate i.e MC confirming this. MC should be obtained from a&nbsp;**medical practitioner approved by MOH only**. “MC” would be entered in the School Cockpit for the absentees.
+1\. Students who miss a weighted summative assessment through ill-health are required to provide a doctor’s certificate i.e MC confirming this. MC should be obtained from a&nbsp;**medical practitioner approved by MOH only**. “MC” would be entered in the School Cockpit for the absentees.
 
-2.  Students who miss a weighted summative assessment for other legitimate reasons would be given a “VR” in the School Cockpit, if the legitimate reason is approved by the Principal.
+2\. Students who miss a weighted summative assessment for other legitimate reasons would be given a “VR” in the School Cockpit, if the legitimate reason is approved by the Principal.
 
-3.  Students who miss a weighted summative assessment for no valid reason would be given a zero in the School Cockpit System.
+3\. Students who miss a weighted summative assessment for no valid reason would be given a zero in the School Cockpit System.
 
-4.  Students who miss a non-weighted formative assessment through ill-health or other legitimate reasons will be allowed to sit for the assessment&nbsp;**within two (2) days after each assessment**&nbsp;when they return to school.
+4\. Students who miss a non-weighted formative assessment through ill-health or other legitimate reasons will be allowed to sit for the assessment&nbsp;**within two (2) days after each assessment**&nbsp;when they return to school.
 
-5.  Students who miss the main written paper of the weighted semestral assessments will not be able to sit for the assessment as there is&nbsp;**no retest**&nbsp;for written papers in the National Examination. The following cases highlight the action to be taken by teachers for students who miss the main written papers:
+5\. Students who miss the main written paper of the weighted semestral assessments will not be able to sit for the assessment as there is&nbsp;**no retest**&nbsp;for written papers in the National Examination. The following cases highlight the action to be taken by teachers for students who miss the main written papers:
 
 <u>Case 1: Students who miss one or more of the language papers with valid reason</u>
 
