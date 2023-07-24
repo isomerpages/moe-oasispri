@@ -495,3 +495,10 @@ Our unique English Language Teaching and Learning&nbsp;at Oasis Primary School, 
 Read the inspiring story&nbsp;[here](https://academyofsingaporeteachers.moe.edu.sg/docs/default-source/professional-recognition-docs/outstanding-youth-in-education-awards-documents/story-oyea-2020_desmond-lim.pdf)
 
 [Read the inspiring story here](https://academyofsingaporeteachers.moe.edu.sg/docs/default-source/professional-recognition-docs/outstanding-youth-in-education-awards-documents/story-oyea-2020_desmond-lim.pdf)
+
+#### School Bus Service
+#### BT &amp; Tan Transport
+Contact Person: Ms Mandy Lim / Ms May Tan  
+Tel: +65 6483 7260  
+Fax: +65 6483 7261  
+Email:&nbsp;[sch2@btntan.com](mailto:sch2@btntan.com)
