@@ -4,9 +4,21 @@ permalink: /ops/info-hub/school-life/school-bus-service/
 description: ""
 third_nav_title: School Life
 ---
-#### BT & Tan Transport
+#### School Bus Advertisement
 
-Contact Person: Ms Mandy Lim / Ms May Tan<br>
-Tel: +65 6483 7260<br>
-Fax: +65 6483 7261<br>
-Email: [sch2@btntan.com](mailto:sch2@btntan.com)
+To apply, please refer to the Service Requirements and the Application Procedure below.
+
+**Service Requirements**
+
+1. Call for Proposal
+2. Agreement for Appointment of School Bus Operator
+
+**Application Procedure**
+
+1. Complete the Call for Proposal - Annex A
+2. Submit the completed Call for Proposal - Annex A by closing date, 1 August 2023 4pm, to the School's General Office.
+
+Address: 71 Edgefields Plains, Singapore 542268<br>
+Contact No: +65 6320 9855<br>
+Email: [ops@schools.gov.sg](mailto:ops@schools.gov.sg)<br>
+Contact Person: Ms Pauline Ng
