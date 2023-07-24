@@ -22,3 +22,8 @@ Address: 71 Edgefields Plains, Singapore 542268<br>
 Contact No: +65 6320 9855<br>
 Email: [ops@schools.gov.sg](mailto:ops@schools.gov.sg)<br>
 Contact Person: Ms Pauline Ng
+
+**How to get there?**
+Nearest MRT: Punggol MRT (NS10 line) - 20 minutes walking distance
+Nearest LRT: Damai LRT (NE17) - 10 minutes walking distance
+Bus number: 50 - 10 minutes walking distance
