@@ -9,14 +9,17 @@ third_nav_title: School Life
 To apply, please refer to the Service Requirements and the Application Procedure below.
 
 ##### **Service Requirements**<br>
-1\. Call for Proposal<br>
-[Attachment 1 - Call for Proposals by School](/files/Attachment%201%20Call%20for%20Proposals%20by%20School%20Version%20June%202023.pdf)
+1\. Complete the Call for Proposal<br>
+[Attachment 1 Call for Proposals by School](/files/Attachment%201%20Call%20for%20Proposals%20by%20School%20Version%20June%202023.pdf)
 
 2\. Agreement for Appointment of School Bus Operator
 
 ##### **Application Procedure**<br>
 1\. Complete the Call for Proposal - Annex A<br>
-2\. Submit the completed Call for Proposal - Annex A by closing date, 1 August 2023 4pm, to the School's General Office.
+[Attachment 2 Call for Proposal - Annex A](/files/Attachment%202%20Call%20for%20Proposal%20-%20Annex%20A.pdf)
+
+2\. Submit the completed Call for Proposal - Annex A by closing date, 1 August 2023 4pm, to the School's General Office.<br>
+
 
 \* Address: 71 Edgefields Plains, Singapore 542268<br>
 \* Contact No: +65 6320 9855<br>
