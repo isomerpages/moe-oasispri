@@ -10,7 +10,7 @@ To apply, please refer to the Service Requirements and the Application Procedure
 
 ##### **Service Requirements**<br>
 1\. Call for Proposal<br>
-[Attachment 1: Call for Proposals by School](/files/Attachment%201%20Call%20for%20Proposals%20by%20School%20Version%20June%202023.pdf)
+[Attachment 1: Call for Proposals by School](/files/attachment%201%20call%20for%20proposals%20by%20school%20version%20june%202023.pdf)
 
 2\. Agreement for Appointment of School Bus Operator<br>
 [Attachment 3: Agreement for Appointment of School Bus Operator](/files/attachment%203%20agreement%20for%20appointment%20of%20school%20bus%20operator%20version%20june%202023.pdf)
