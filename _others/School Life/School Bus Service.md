@@ -21,7 +21,7 @@ To apply, please refer to the Service Requirements and the Application Procedure
 
 2\. Submit the completed Call for Proposal - Annex A by closing date, 4 August 2023 12pm, to the School's General Office.<br>
 
-\* Address: 71 Edgefields Plains, Singapore 542268<br>
+\* Address: 71 Edgefields Plains, Singapore 828716<br>
 \* Contact No: +65 6320 9855<br>
 \* Email: [ops@schools.gov.sg](mailto:ops@schools.gov.sg)<br>
 \* Contact Person: Ms Pauline Ng
