@@ -43,7 +43,6 @@ description: ""
 </table>
 
 <br>
-
 Photograph(s), video recording (s)of students and their parents/guardians may be captured during school activities and events such as classroom lessons, CCA, cohort programmes, performances and learning journeys. The school may use and publish such photographic images and/or video recordings in the school website, publications, social media platforms and other media channels.
 
 Please note that the consent for the above is implied when the above parties mentioned participate in the school activities and events.
