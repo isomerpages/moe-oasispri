@@ -73,36 +73,40 @@ description: ""
     <td class="tg-j74v">Ms Salina Binte Abdul Samat</td>
   </tr>
   <tr>
-    <td class="tg-8com">Teacher (TL)</td>
-    <td class="tg-1d14">Ms Shirajunnisha<span style="background-color:#F1F6E4"> </span>Khan</td>
+		<td class="tg-8com">Teacher (EL)</td>
+    <td class="tg-1d14">Ms Sarisa Luo</td>
   </tr>
   <tr>
-    <td class="tg-dv6r">Teacher (EL)<br></td>
-    <td class="tg-j74v">Ms Siti Nurarffah Binte Mohd Razali</td>
+    <td class="tg-dv6r">Teacher (TL)</td>
+    <td class="tg-j74v">Ms Shirajunnisha<span style="background-color:#F1F6E4"> </span>Khan</td>
+  </tr>
+  <tr>
+    <td class="tg-8com">Teacher (EL)<br></td>
+    <td class="tg-1d14">Ms Siti Nurarffah Binte Mohd Razali</td>
 	</tr>
   <tr>
-    <td class="tg-8com">Teacher (EL)</td>
-    <td class="tg-1d14">Ms Soh En Qi  Annestha</td>
+    <td class="tg-dv6r">Teacher (EL)</td>
+    <td class="tg-j74v">Ms Soh En Qi  Annestha</td>
   </tr>
   <tr>
-    <td class="tg-dv6r">Teacher (CL)<br></td>
-    <td class="tg-j74v">Ms Song Lili</td>
+    <td class="tg-8com">Teacher (CL)<br></td>
+    <td class="tg-1d14">Ms Song Lili</td>
 	</tr>
   <tr>
-    <td class="tg-8com">Teacher (EL)</td>
-    <td class="tg-1d14">Ms Tan Li Fang Shirleen</td>
+    <td class="tg-dv6r">Teacher (EL)</td>
+    <td class="tg-j74v">Ms Tan Li Fang Shirleen</td>
   </tr>
   <tr>
-    <td class="tg-dv6r">Administrative Executive<br></td>
-    <td class="tg-j74v">Mdm Tan Siew Lian</td>
+    <td class="tg-8com">Administrative Executive<br></td>
+    <td class="tg-1d14">Mdm Tan Siew Lian</td>
 	</tr>
   <tr>
-    <td class="tg-8com">Operations Support Officer</td>
-    <td class="tg-1d14">Mdm Loe Kwee Lan</td>
+    <td class="tg-dv6r">Operations Support Officer</td>
+    <td class="tg-j74v">Mdm Loe Kwee Lan</td>
   </tr>
   <tr>
-    <td class="tg-dv6r">Operations Support Officer<br></td>
-    <td class="tg-j74v">Mdm Chong Lee Fah</td>
+    <td class="tg-8com">Operations Support Officer<br></td>
+    <td class="tg-1d14">Mdm Chong Lee Fah</td>
 </tr>
 <tr>
 </tr></tbody>
