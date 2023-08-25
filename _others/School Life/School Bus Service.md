@@ -9,7 +9,7 @@ third_nav_title: School Life
 **BT&amp;Tan Transport Pte Ltd<br>**
 Contact Number: 6483 7260
 
-<u>**Bus fares applicable from 1 January 2024 to 31 December 2025:**<br>
+**Bus fares applicable from 1 January 2024 to 31 December 2025:**<br>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -56,5 +56,3 @@ Contact Number: 6483 7260
   <tr>
 </tr></tbody>
 </table>
-
-</u>
