@@ -6,23 +6,7 @@ third_nav_title: School Life
 ---
 ##### **School Bus Services**
 
-BT&amp;Tan Transport 
+**BT&amp;Tan Transport Pte Ltd<br>**
+Contact Number: 6483 7260
 
-2\. Agreement for Appointment of School Bus Operator<br>
-[Attachment 3: Agreement for Appointment of School Bus Operator](/files/attachment%203%20agreement%20for%20appointment%20of%20school%20bus%20operator%20version%20june%202023.pdf)
-
-##### **Application Procedure**<br>
-1\. Complete the Call for Proposal - Annex A<br>
-[Attachment 2: Call for Proposal - Annex A](/files/attachment%202%20call%20for%20proposal%20annex%20a%20version%20june%202023.pdf)
-
-2\. Submit the completed Call for Proposal - Annex A by closing date, 4 August 2023 12pm, to the School's General Office.<br>
-
-\* Address: 71 Edgefield Plains, Singapore 828716<br>
-\* Contact No: +65 6320 9855<br>
-\* Email: [ops@schools.gov.sg](mailto:ops@schools.gov.sg)<br>
-\* Contact Person: Ms Pauline Ng
-
-##### **How to get there?**<br>
-\* Nearest MRT: Punggol MRT (NS10 line) - 20 minutes walking distance<br>
-\* Nearest LRT: Damai LRT (NE17) - 10 minutes walking distance<br>
-\* Bus number: 50 - 10 minutes walking distance
+**Bus fares applicable from 1 January 2024 to 31 December 2025:**<br>
