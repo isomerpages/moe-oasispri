@@ -19,7 +19,7 @@ Contact Number: 6483 7260
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-h1v5{background-color:#FFF;color:#002D46;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-ilyo{background-color:#FFF;color:#002D46;text-align:center;vertical-align:top}
-.tg .tg-vd2a{background-color:#FFF;color:#002D46;text-align:left;vertical-align:top}
+.tg .tg-67ya{background-color:#FFF;color:#002D46;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
@@ -43,15 +43,15 @@ Contact Number: 6483 7260
     <td class="tg-67ya">Up to 2km<br></td>
     <td class="tg-67ya">$160<br></td>
     <td class="tg-67ya">$200<br></td>
-    <td class="tg-vd2a">$120<br></td>
-    <td class="tg-vd2a">$160<br></td>
+    <td class="tg-67ya">$120<br></td>
+    <td class="tg-67ya">$160<br></td>
   </tr>
   <tr>
-    <td class="tg-vd2a">&gt; 2-4km<br></td>
-    <td class="tg-vd2a">$180<br></td>
-    <td class="tg-vd2a">$220<br></td>
-    <td class="tg-vd2a">$160<br></td>
-    <td class="tg-vd2a">$190<br></td>
+    <td class="tg-67ya">&gt; 2-4km<br></td>
+    <td class="tg-67ya">$180<br></td>
+    <td class="tg-67ya">$220<br></td>
+    <td class="tg-67ya">$160<br></td>
+    <td class="tg-67ya">$190<br></td>
   </tr>
   <tr>
 </tr></tbody>
