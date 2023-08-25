@@ -4,29 +4,55 @@ permalink: /ops/info-hub/school-life/school-bus-service/
 description: ""
 third_nav_title: School Life
 ---
-##### **School Bus Advertisement**
+##### **School Bus Services**
 
-To apply, please refer to the Service Requirements and the Application Procedure below.
+**BT&amp;Tan Transport Pte Ltd<br>**
+Contact Number: 6483 7260
 
-##### **Service Requirements**<br>
-1\. Call for Proposal<br>
-[Attachment 1: Call for Proposals by School](/files/attachment%201%20call%20for%20proposals%20by%20school%20version%20june%202023.pdf)
+**Bus fares applicable from 1 January 2024 to 31 December 2025:**<br>
 
-2\. Agreement for Appointment of School Bus Operator<br>
-[Attachment 3: Agreement for Appointment of School Bus Operator](/files/attachment%203%20agreement%20for%20appointment%20of%20school%20bus%20operator%20version%20june%202023.pdf)
-
-##### **Application Procedure**<br>
-1\. Complete the Call for Proposal - Annex A<br>
-[Attachment 2: Call for Proposal - Annex A](/files/attachment%202%20call%20for%20proposal%20annex%20a%20version%20june%202023.pdf)
-
-2\. Submit the completed Call for Proposal - Annex A by closing date, 4 August 2023 12pm, to the School's General Office.<br>
-
-\* Address: 71 Edgefield Plains, Singapore 828716<br>
-\* Contact No: +65 6320 9855<br>
-\* Email: [ops@schools.gov.sg](mailto:ops@schools.gov.sg)<br>
-\* Contact Person: Ms Pauline Ng
-
-##### **How to get there?**<br>
-\* Nearest MRT: Punggol MRT (NS10 line) - 20 minutes walking distance<br>
-\* Nearest LRT: Damai LRT (NE17) - 10 minutes walking distance<br>
-\* Bus number: 50 - 10 minutes walking distance
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-h1v5{background-color:#FFF;color:#002D46;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ilyo{background-color:#FFF;color:#002D46;text-align:center;vertical-align:top}
+.tg .tg-67ya{background-color:#FFF;color:#002D46;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-h1v5">Distance<br></th>
+    <th class="tg-h1v5"><span style="background-color:initial">Up to 15-seater</span></th>
+    <th class="tg-h1v5"><span style="background-color:initial"></span></th>
+    <th class="tg-h1v5"><span style="background-color:initial">&gt; 15-seater</span></th>
+    <th class="tg-h1v5"><br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-67ya"><br></td>
+    <td class="tg-67ya">1 way<br></td>
+    <td class="tg-67ya">2 way<br></td>
+		<td class="tg-67ya">1 way<br></td>
+		<td class="tg-67ya">2 way<br></td>
+	</tr>
+  <tr>
+    <td class="tg-67ya">Up to 2km<br></td>
+    <td class="tg-67ya">$160<br></td>
+    <td class="tg-67ya">$200<br></td>
+    <td class="tg-67ya">$120<br></td>
+    <td class="tg-67ya">$160<br></td>
+  </tr>
+  <tr>
+    <td class="tg-67ya">&gt; 2-4km<br></td>
+    <td class="tg-67ya">$180<br></td>
+    <td class="tg-67ya">$220<br></td>
+    <td class="tg-67ya">$160<br></td>
+    <td class="tg-67ya">$190<br></td>
+  </tr>
+  <tr>
+</tr></tbody>
+</table>
