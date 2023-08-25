@@ -56,3 +56,10 @@ Contact Number: 6483 7260
   <tr>
 </tr></tbody>
 </table>
+
+
+Paper 1 (Compo)<br>
+    <span style="background-color:initial">Paper 2(Main Paper)</span>
+    <span style="background-color:initial">Paper 3(Oral)</span>
+    <span style="background-color:initial">Paper 4(LC)</span>
+    Action<br>
