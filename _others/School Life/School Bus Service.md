@@ -24,61 +24,35 @@ Contact Number: 6483 7260
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-h1v5">Distance<br></th>
-    <th class="tg-h1v5"><span style="background-color:initial">Up to 15-seater</span></th>
-    <th class="tg-h1v5"><span style="background-color:initial"></span></th>
-    <th class="tg-h1v5"><span style="background-color:initial">&gt;15-seater</span></th>
-    <th class="tg-h1v5"><br></th>
+    <th class="tg-vd2a">Distance<br></th>
+    <th class="tg-vd2a"><span style="background-color:initial">Up to 15-seater</span></th>
+    <th class="tg-vd2a"><span style="background-color:initial"></span></th>
+    <th class="tg-vd2a"><span style="background-color:initial">&gt;15-seater</span></th>
+    <th class="tg-vd2a"><br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ilyo"></td>
-    <td class="tg-ilyo">1 way<br></td>
-    <td class="tg-ilyo">2 way<br></td>
-    <td class="tg-ilyo">1 way<br></td>
+    <td class="tg-vd2a"></td>
+    <td class="tg-vd2a">1 way<br></td>
+    <td class="tg-vd2a">2 way<br></td>
+    <td class="tg-vd2a">1 way<br></td>
     <td class="tg-vd2a">2 way<br></td>
   </tr>
   <tr>
-    <td class="tg-ilyo">√<br></td>
-    <td class="tg-ilyo">x</td>
-    <td class="tg-ilyo">√<br></td>
-    <td class="tg-ilyo">√<br></td>
-    <td class="tg-vd2a">VR for all components<br></td>
+    <td class="tg-vd2a">Up to 2km<br></td>
+    <td class="tg-vd2a">$160</td>
+    <td class="tg-vd2a">$200<br></td>
+    <td class="tg-vd2a">$120<br></td>
+    <td class="tg-vd2a">$160<br></td>
   </tr>
   <tr>
-    <td class="tg-ilyo">x</td>
-    <td class="tg-ilyo">x</td>
-    <td class="tg-ilyo">√<br></td>
-    <td class="tg-ilyo">√<br></td>
-    <td class="tg-vd2a">VR for all components<br></td>
+    <td class="tg-vd2a">&gt;2 - 4km</td>
+    <td class="tg-vd2a">$180</td>
+    <td class="tg-vd2a">$220<br></td>
+    <td class="tg-vd2a">$160<br></td>
+    <td class="tg-vd2a">$190<br></td>
   </tr>
   <tr>
-    <td class="tg-ilyo">√<br></td>
-    <td class="tg-ilyo">√<br></td>
-    <td class="tg-ilyo">x</td>
-    <td class="tg-ilyo">√<br></td>
-    <td class="tg-vd2a">VR for Paper 3<br></td>
-  </tr>
-  <tr>
-    <td class="tg-ilyo">√<br></td>
-    <td class="tg-ilyo">√<br></td>
-    <td class="tg-ilyo">√<br></td>
-    <td class="tg-ilyo">x</td>
-    <td class="tg-vd2a">VR for Paper 4<br></td>
-  </tr>
-  <tr>
-    <td class="tg-ilyo">√<br></td>
-    <td class="tg-ilyo">√<br></td>
-    <td class="tg-ilyo">x</td>
-    <td class="tg-ilyo">x</td>
-    <td class="tg-vd2a">VR for Paper 3 &amp; 4<br></td>
-  </tr>
-</tbody>
+</tr></tbody>
 </table>
-
-| Distance | Up to 15-seater | &nbsp; | \&gt;15-seater | &nbsp; |
-| --- | --- | --- | --- | --- |
-| &nbsp; | 1 way | 2 way | 1 way | 2 way |
-| Up to 2km | $160 | $200 | $130 | $160 |
-| \&gt;2 – 4km | $180 | $220 | $160 | $190 |
