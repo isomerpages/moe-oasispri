@@ -24,11 +24,11 @@ Contact Number: 6483 7260
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-vd2a">Distance<br></th>
-    <th class="tg-vd2a"><span style="background-color:initial">Up to 15-seater</span></th>
-    <th class="tg-vd2a"><span style="background-color:initial"></span></th>
-    <th class="tg-vd2a"><span style="background-color:initial">&gt;15-seater</span></th>
-    <th class="tg-vd2a"><br></th>
+    <th class="tg-h1v5">Distance<br></th>
+    <th class="tg-h1v5"><span style="background-color:initial">Up to 15-seater</span></th>
+    <th class="tg-h1v5"><span style="background-color:initial"></span></th>
+    <th class="tg-h1v5"><span style="background-color:initial">&gt; 15-seater</span></th>
+    <th class="tg-h1v5"><br></th>
   </tr>
 </thead>
 <tbody>
@@ -47,7 +47,7 @@ Contact Number: 6483 7260
     <td class="tg-vd2a">$160<br></td>
   </tr>
   <tr>
-    <td class="tg-vd2a">&gt;2 - 4km</td>
+    <td class="tg-vd2a">&gt; 2-4km</td>
     <td class="tg-vd2a">$180</td>
     <td class="tg-vd2a">$220<br></td>
     <td class="tg-vd2a">$160<br></td>
