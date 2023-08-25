@@ -33,22 +33,22 @@ Contact Number: 6483 7260
 </thead>
 <tbody>
   <tr>
-    <td class="tg-vd2a"></td>
-    <td class="tg-vd2a">1 way<br></td>
-    <td class="tg-vd2a">2 way<br></td>
-    <td class="tg-vd2a">1 way<br></td>
-    <td class="tg-vd2a">2 way<br></td>
-  </tr>
+    <td class="tg-vd2a"><br></td>
+    <th class="tg-vd2a">1 way<br></th>
+    <td class="tg-vd2a">2 way<br>
+    </td><td class="tg-vd2a">1 way<br>
+    </td><td class="tg-vd2a">2 way<br>
+  </td></tr>
   <tr>
     <td class="tg-vd2a">Up to 2km<br></td>
-    <td class="tg-vd2a">$160</td>
+    <td class="tg-vd2a">$160<br></td>
     <td class="tg-vd2a">$200<br></td>
     <td class="tg-vd2a">$120<br></td>
     <td class="tg-vd2a">$160<br></td>
   </tr>
   <tr>
-    <td class="tg-vd2a">&gt; 2-4km</td>
-    <td class="tg-vd2a">$180</td>
+    <td class="tg-vd2a">&gt; 2-4km<br></td>
+    <td class="tg-vd2a">$180<br></td>
     <td class="tg-vd2a">$220<br></td>
     <td class="tg-vd2a">$160<br></td>
     <td class="tg-vd2a">$190<br></td>
