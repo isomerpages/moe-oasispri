@@ -10,3 +10,75 @@ third_nav_title: School Life
 Contact Number: 6483 7260
 
 **Bus fares applicable from 1 January 2024 to 31 December 2025:**<br>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-h1v5{background-color:#FFF;color:#002D46;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-ilyo{background-color:#FFF;color:#002D46;text-align:center;vertical-align:top}
+.tg .tg-vd2a{background-color:#FFF;color:#002D46;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-h1v5">Distance<br></th>
+    <th class="tg-h1v5"><span style="background-color:initial">Up to 15-seater</span></th>
+    <th class="tg-h1v5"><span style="background-color:initial"></span></th>
+    <th class="tg-h1v5"><span style="background-color:initial">&gt;15-seater</span></th>
+    <th class="tg-h1v5"><br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ilyo"></td>
+    <td class="tg-ilyo">1 way<br></td>
+    <td class="tg-ilyo">2 way<br></td>
+    <td class="tg-ilyo">1 way<br></td>
+    <td class="tg-vd2a">2 way<br></td>
+  </tr>
+  <tr>
+    <td class="tg-ilyo">√<br></td>
+    <td class="tg-ilyo">x</td>
+    <td class="tg-ilyo">√<br></td>
+    <td class="tg-ilyo">√<br></td>
+    <td class="tg-vd2a">VR for all components<br></td>
+  </tr>
+  <tr>
+    <td class="tg-ilyo">x</td>
+    <td class="tg-ilyo">x</td>
+    <td class="tg-ilyo">√<br></td>
+    <td class="tg-ilyo">√<br></td>
+    <td class="tg-vd2a">VR for all components<br></td>
+  </tr>
+  <tr>
+    <td class="tg-ilyo">√<br></td>
+    <td class="tg-ilyo">√<br></td>
+    <td class="tg-ilyo">x</td>
+    <td class="tg-ilyo">√<br></td>
+    <td class="tg-vd2a">VR for Paper 3<br></td>
+  </tr>
+  <tr>
+    <td class="tg-ilyo">√<br></td>
+    <td class="tg-ilyo">√<br></td>
+    <td class="tg-ilyo">√<br></td>
+    <td class="tg-ilyo">x</td>
+    <td class="tg-vd2a">VR for Paper 4<br></td>
+  </tr>
+  <tr>
+    <td class="tg-ilyo">√<br></td>
+    <td class="tg-ilyo">√<br></td>
+    <td class="tg-ilyo">x</td>
+    <td class="tg-ilyo">x</td>
+    <td class="tg-vd2a">VR for Paper 3 &amp; 4<br></td>
+  </tr>
+</tbody>
+</table>
+
+| Distance | Up to 15-seater | &nbsp; | \&gt;15-seater | &nbsp; |
+| --- | --- | --- | --- | --- |
+| &nbsp; | 1 way | 2 way | 1 way | 2 way |
+| Up to 2km | $160 | $200 | $130 | $160 |
+| \&gt;2 – 4km | $180 | $220 | $160 | $190 |
