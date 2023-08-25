@@ -33,16 +33,16 @@ Contact Number: 6483 7260
 </thead>
 <tbody>
   <tr>
-    <td class="tg-vd2a"><br></td>
-    <td class="tg-vd2a">1 way<br></td>
-    <td class="tg-vd2a">2 way<br></td>
-		<td class="tg-vd2a">1 way<br></td>
-		<td class="tg-vd2a">2 way<br></td>
+    <td class="tg-67ya"><br></td>
+    <td class="tg-67ya">1 way<br></td>
+    <td class="tg-67ya">2 way<br></td>
+		<td class="tg-67ya">1 way<br></td>
+		<td class="tg-67ya">2 way<br></td>
 	</tr>
   <tr>
-    <td class="tg-vd2a">Up to 2km<br></td>
-    <td class="tg-vd2a">$160<br></td>
-    <td class="tg-vd2a">$200<br></td>
+    <td class="tg-67ya">Up to 2km<br></td>
+    <td class="tg-67ya">$160<br></td>
+    <td class="tg-67ya">$200<br></td>
     <td class="tg-vd2a">$120<br></td>
     <td class="tg-vd2a">$160<br></td>
   </tr>
