@@ -25,12 +25,21 @@ third_nav_title: School Life
 </thead>
 <tbody>
   <tr>
-    <td class="tg-67ya">Halal Rice<br></td>
-    <td class="tg-67ya">19 May 2023<br></td>
+    <td class="tg-67ya">Malay Mixed Rice<br></td>
+    <td class="tg-67ya">30 November 2023<br></td>
 		<td class="tg-67ya">Nil<br></td>
-	</tr><tr>
+		</tr><tr>
+    <td class="tg-67ya">Chinese Noodles<br></td>
+    <td class="tg-67ya">30 November 2023<br></td>
+		<td class="tg-67ya">Nil<br></td>
+		</tr><tr>
+    <td class="tg-67ya">Western / Fusion (Halal)<br></td>
+    <td class="tg-67ya">30 November 2023<br></td>
+		<td class="tg-67ya">Japanese or Korean food are acceptable<br></td>
+		</tr><tr>
   </tr>
-</tbody>
+	<tr>
+</tr></tbody>
 </table>
 
 ##### **Application Procedure**
