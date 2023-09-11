@@ -46,7 +46,7 @@ third_nav_title: School Life
 \* Address: 71 Edgefield Plains, Singapore 828716 <br>
 \* Contact No: +65 6320 9855 <br>
 \* Email: [ops@schools.gov.sg](mailto:ops@schools.gov.sg) <br>
-\* Contact Person: Mr. Mah <br>
+\* Contact Person: Mr. Mah or Mr. Iskandar <br>
 
 ##### **How to get there?**
 \* Nearest MRT: Punggol MRT (NE17) <br>
