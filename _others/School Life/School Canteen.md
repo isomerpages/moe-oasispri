@@ -33,7 +33,7 @@ third_nav_title: School Life
     <td class="tg-67ya">30 November 2023<br></td>
 		<td class="tg-67ya">Nil<br></td>
 		</tr><tr>
-    <td class="tg-67ya">Western / Fusion (Halal)<br></td>
+    <td class="tg-67ya">Western and Fusion (Halal)<br></td>
     <td class="tg-67ya">30 November 2023<br></td>
 		<td class="tg-67ya">Japanese or Korean food are acceptable<br></td>
 		</tr><tr>
