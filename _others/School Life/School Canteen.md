@@ -25,12 +25,21 @@ third_nav_title: School Life
 </thead>
 <tbody>
   <tr>
-    <td class="tg-67ya">Halal Rice<br></td>
-    <td class="tg-67ya">19 May 2023<br></td>
+    <td class="tg-67ya">Malay Mixed Rice<br></td>
+    <td class="tg-67ya">30 November 2023<br></td>
 		<td class="tg-67ya">Nil<br></td>
-	</tr><tr>
+		</tr><tr>
+    <td class="tg-67ya">Chinese Noodles<br></td>
+    <td class="tg-67ya">30 November 2023<br></td>
+		<td class="tg-67ya">Nil<br></td>
+		</tr><tr>
+    <td class="tg-67ya">Western / Fusion (Halal)<br></td>
+    <td class="tg-67ya">30 November 2023<br></td>
+		<td class="tg-67ya">Japanese or Korean food are acceptable<br></td>
+		</tr><tr>
   </tr>
-</tbody>
+	<tr>
+</tr></tbody>
 </table>
 
 ##### **Application Procedure**
@@ -46,11 +55,11 @@ third_nav_title: School Life
 \* Address: 71 Edgefield Plains, Singapore 828716 <br>
 \* Contact No: +65 6320 9855 <br>
 \* Email: [ops@schools.gov.sg](mailto:ops@schools.gov.sg) <br>
-\* Contact Person: Mr. Mah <br>
+\* Contact Person: Mr. Mah or Mr. Iskandar <br>
 
 ##### **How to get there?**
 \* Nearest MRT: Punggol MRT (NE17) <br>
-\* Nearest LRT: Damai (PE 7) or Oasis (PE 6) - 5 minutes walking distance <br>
+\* Nearest LRT: Damai (PE 7) or Oasis (PE 6) - 10 minutes walking distance <br>
 \* Bus number: 50, 666 - 5 minutes walking distance <br>
     
 ##### **Requirements of Applicants**
