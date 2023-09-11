@@ -50,7 +50,7 @@ third_nav_title: School Life
 
 ##### **How to get there?**
 \* Nearest MRT: Punggol MRT (NE17) <br>
-\* Nearest LRT: Damai (PE 7) or Oasis (PE 6) - 5 minutes walking distance <br>
+\* Nearest LRT: Damai (PE 7) or Oasis (PE 6) - 10 minutes walking distance <br>
 \* Bus number: 50, 666 - 5 minutes walking distance <br>
     
 ##### **Requirements of Applicants**
