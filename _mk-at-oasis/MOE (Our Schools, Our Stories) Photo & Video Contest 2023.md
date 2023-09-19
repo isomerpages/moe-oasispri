@@ -12,3 +12,9 @@ To view the video, please click this [link](https://youtu.be/EsWFJjotDBA?si=YIND
 Selected photo and video stories, including the winning entries, will take centre stage at the "Our Schools, Our Stories" roving exhibition in the heartlands (please see details below). There will be Instagram-worthy photo spots, perfect for snapping some enjoyable photos.
 
 You are warmly invited to the exhibition. Looking forward to seeing you there!
+
+
+Thank you.
+
+Yours sincerely,
+Team MK@Oasis
