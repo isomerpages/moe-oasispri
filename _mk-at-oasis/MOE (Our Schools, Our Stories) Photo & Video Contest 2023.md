@@ -14,6 +14,7 @@ Selected photo and video stories, including the winning entries, will take centr
 You are warmly invited to the exhibition. Looking forward to seeing you there!
 
 
+
 Thank you.
 
 Yours sincerely,
