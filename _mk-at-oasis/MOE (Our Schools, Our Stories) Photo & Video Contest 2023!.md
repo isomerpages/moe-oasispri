@@ -5,7 +5,7 @@ description: ""
 ---
 For this year’s “Our Schools, Our Stories” (OSOS) Photo and Video Contest 2023, there was a total of **2,744 submission from 290 schools!** The **purpose of the photos and videos** was to capture the essence of the contestants’ school life, showcasing moments of joy, growth and learning.
 
-Our video, "We Love Our MK! | MOE Kindergarten @ Oasis | OSOS 2023" created by our K2 teacher, Davina Lek is one of the winning entries.
+Our video, "We Love Our MK! MOE Kindergarten @ Oasis (OSOS 2023)" created by our K2 teacher, Davina Lek is one of the winning entries.
 
 To view the video, please click this [link](https://youtu.be/EsWFJjotDBA?si=YIND7_GpntZW8jWA).
 
