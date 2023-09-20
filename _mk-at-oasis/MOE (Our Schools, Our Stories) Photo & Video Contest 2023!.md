@@ -17,5 +17,5 @@ You are warmly invited to the exhibition. Looking forward to seeing you there!
 
 Thank you.
 
-Yours sincerely,
+Yours sincerely,<br>
 Team MK@Oasis
