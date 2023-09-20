@@ -3,7 +3,7 @@ title: MOE (Our Schools, Our Stories) Photo & Video Contest 2023!
 permalink: /mk-at-oasis/moe-photo-and-video-contest-2023/
 description: ""
 ---
-For this year’s “Our Schools, Our Stories” (OSOS) Photo and Video Contest 2023, there was a total of **2,744 submission from 290 schools!** The **purpose of the photos and videos** was to capture the essence of the contestants’ school life, showcasing moments of joy, growth and learning.
+For this year’s “Our Schools, Our Stories” (OSOS) Photo and Video Contest, there was a total of **2,744 submission from 290 schools!** The **purpose of the photos and videos** was to capture the essence of the contestants’ school life, showcasing moments of joy, growth and learning.
 
 Our video, "We Love Our MK! MOE Kindergarten @ Oasis (OSOS 2023)" created by our K2 teacher, Davina Lek is one of the winning entries.
 
@@ -17,5 +17,5 @@ You are warmly invited to the exhibition. Looking forward to seeing you there!
 
 Thank you.
 
-Yours sincerely,
+Yours sincerely,<br>
 Team MK@Oasis
