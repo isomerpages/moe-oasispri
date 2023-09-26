@@ -3,7 +3,7 @@ title: Executive and Administrative Staff
 permalink: /our-family/executive-and-administrative-staff/
 description: ""
 ---
-### School Admin Team
+### School Administration Team
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -20,13 +20,13 @@ description: ""
 <thead>
   <tr>
     <th class="tg-dv6r">Administration Manager</th>
-    <th class="tg-j74v">Ms Ng Pauline</th>
+    <th class="tg-j74v">Mr Mah Kian Lye</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-8com">Administration Manager</td>
-    <td class="tg-1d14">Mr Mah Kian Lye</td>
+    <td class="tg-1d14">Ms Pauline Ng</td>
   </tr>
   <tr>
     <td class="tg-dv6r">Operations Manager</td>
@@ -63,10 +63,6 @@ description: ""
   <tr>
     <td class="tg-dv6r">Operations Support Officer</td>
     <td class="tg-j74v">Mr Neui Yew Wing Vincent</td>
-  </tr>
-  <tr>
-    <td class="tg-8com">Operations Support Officer</td>
-    <td class="tg-1d14">Mr Tan Cheng Hoe Robin</td>
   </tr>
   <tr>
 </tr></tbody>
