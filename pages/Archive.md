@@ -530,7 +530,7 @@ To apply, please refer to the Service Requirements and the Application Procedure
 \* Nearest LRT: Damai LRT (NE17) - 10 minutes walking distance<br>
 \* Bus number: 50 - 10 minutes walking distance
 
-### School Admin Team
+### School Administration Team
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
