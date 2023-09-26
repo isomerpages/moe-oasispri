@@ -3,7 +3,7 @@ title: Executive and Administrative Staff
 permalink: /our-family/executive-and-administrative-staff/
 description: ""
 ---
-### School Admin Team
+### School Administration Team
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
