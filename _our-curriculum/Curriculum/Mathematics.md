@@ -136,8 +136,52 @@ The Math Olympiad Programme is an enrichment programme for selected Primary 4 to
     <td class="tg-0pky">Widjaja Savier Fernando</td>
   </tr>
   <tr>
+    <td class="tg-0pky">Honourable Mention</td>
+    <td class="tg-0pky">Bei Junyu</td>
+  </tr>
+  <tr>
     <td class="tg-0pky"></td>
+    <td class="tg-0pky">Chen Enxuan</td>
+	</tr>
+  <tr>
     <td class="tg-0pky"></td>
+    <td class="tg-0pky">Chen Shaolun Brayden</td>
+	</tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Chin Yip Cheong</td>
+	</tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Davesh Manjunath</td>
+	</tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Ibrahim Rizwan Taak</td>
+	</tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Jarean Xue Yuxuan</td>
+	</tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Kayden Ding Kai Xuan</td>
+	</tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Kyson Lim Ding Xuan</td>
+	</tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Sim Jing Yong</td>
+	</tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Tan Xi Ya Jaeriel</td>
+	</tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Teoh Lucius Yi En</td>
   </tr>
 </tbody>
 </table>
