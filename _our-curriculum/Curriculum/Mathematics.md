@@ -186,6 +186,27 @@ The Math Olympiad Programme is an enrichment programme for selected Primary 4 to
 </tbody>
 </table>
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th colspan="2" class="tg-baqh"><span style="font-weight:bold">Singapore Mathematical Olympiad for Primary Schools 2023</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">Sliver Award</td>
+    <td class="tg-0lax">Pay Qee Jun</td>
+  </tr>
+  <tr>
 
 
 
@@ -198,7 +219,7 @@ The Math Olympiad Programme is an enrichment programme for selected Primary 4 to
 .tg .tg-baqh{text-align:center;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
-<table class="tg">
+</tr></tbody></table><table class="tg">
 <thead>
   <tr>
     <th colspan="2" class="tg-baqh"><span style="font-weight:bold">Primary Mathematics Project Competition 2022</span><br><span style="font-weight:bold;font-style:normal">(Primary 4 Poster Category)</span></th>
