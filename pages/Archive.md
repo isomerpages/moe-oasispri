@@ -598,3 +598,10 @@ To apply, please refer to the Service Requirements and the Application Procedure
   <tr>
 </tr></tbody>
 </table>
+
+### MOE Financial Assistance Scheme (FAS)
+
+Please visit MOE's official website&nbsp;[here](https://www.moe.gov.sg/financial-matters/financial-assistance)&nbsp;for more information. The application form can be downloaded here.
+
+[1B MOE-FAS Application Form 2023](/files/1B%20MOE-FAS%20Application%20Form%202023-1.pdf)
+*updated as of 14th October 2022
