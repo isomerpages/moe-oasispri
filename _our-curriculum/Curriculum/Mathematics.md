@@ -81,6 +81,179 @@ The Math Olympiad Programme is an enrichment programme for selected Primary 4 to
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th colspan="2" class="tg-c3ow"><span style="font-weight:bold">National Mathematical Olympiad of Singapore 2023</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">Sliver Award</td>
+    <td class="tg-0pky">Ambravani Manas</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Bronze Award</td>
+    <td class="tg-0pky">Foo Le Xi</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Goh Jia Xuan</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Harrison Law</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Lim Pei Yu Trina</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Lye Zhao Ze, Evan</td>
+  </tr>
+  <tr>		
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Masarrat Mohammed Hossain</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Soh Wei Yu, Daryl</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Teo Alessandra J</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Thakur Ashvik Rajeshkumar</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Widjaja Savier Fernando</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Honourable Mention</td>
+    <td class="tg-0pky">Bei Junyu</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Chen Enxuan</td>
+	</tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Chen Shaolun Brayden</td>
+	</tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Chin Yip Cheong</td>
+	</tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Davesh Manjunath</td>
+	</tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Ibrahim Rizwan Taak</td>
+	</tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Jarean Xue Yuxuan</td>
+	</tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Kayden Ding Kai Xuan</td>
+	</tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Kyson Lim Ding Xuan</td>
+	</tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Sim Jing Yong</td>
+	</tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Tan Xi Ya Jaeriel</td>
+	</tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Teoh Lucius Yi En</td>
+  </tr>
+</tbody>
+</table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th colspan="2" class="tg-c3ow"><span style="font-weight:bold">Singapore Mathematical Olympiad for Primary Schools 2023</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">Sliver Award</td>
+    <td class="tg-0pky">Pay Qee Jun</td>
+  </tr>
+</tbody>
+</table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th colspan="2" class="tg-c3ow"><span style="font-weight:bold">Raffles Institution Primary Mathematics World Contest 2023</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">Distinction (Junior Category)</td>
+    <td class="tg-0pky">Thakur Ashvik Rajeshkumar</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Merit Award (Open Category)</td>
+    <td class="tg-0pky">Chen Kian Kyle</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Pay Qee Jun</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Tobias Goh Jun Wei</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Zhu Sirui</td>
+  </tr>
+</tbody>
+</table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-baqh{text-align:center;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
