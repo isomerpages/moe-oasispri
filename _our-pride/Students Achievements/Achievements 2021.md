@@ -25,13 +25,14 @@ third_nav_title: Students Achievements
 <tbody>
   <tr>
     <td class="tg-67ya">Chinese Language </td>
-    <td class="tg-vd2a"><span style="background-color:initial">4th Chinese Language Text Recital Competition For Primary &amp; Secondary Schools</span><br><br><br><br><span style="background-color:initial">The Chinese Language Moo-O Awards</span></td>
-    <td class="tg-vd2a"><span style="background-color:initial">Individual Award - Bronze (4)</span><br><span style="background-color:initial">Group Award - Silver (1)</span><br><br><br><span style="background-color:initial">Merit Award (1)</span><br></td>
+    <td class="tg-vd2a"><span style="background-color:initial">4th Chinese Language Text Recital Competition For Primary &amp; Secondary Schools</span><br><br><span style="background-color:initial">The Chinese Language Moo-O Awards</span></td>
+    <td class="tg-vd2a"><span style="background-color:initial">Individual Award - Bronze (4)</span><br><span style="background-color:initial">Group Award - Silver (1)</span><br><br><span style="background-color:initial">Merit Award (1)</span><br></td>
   </tr>
   <tr>
     <td class="tg-67ya">Mathematics</td>
-    <td class="tg-vd2a"><span style="background-color:initial">National Mathematical Olympiad of Singapore 2021</span><br><br><span style="background-color:initial">Singapore Mathematical Olympiad for Primary Schools 2021</span></td>
-    <td class="tg-vd2a"><span style="background-color:initial">Bronze Award (4)Honourable Mention (10)</span><br><br><span style="background-color:initial">Bronze Award (1)</span><br></td>
+    <td class="tg-vd2a"><span style="background-color:initial">National Mathematical Olympiad of Singapore 2021</span><br><br><br><span style="background-color:initial">Singapore Mathematical Olympiad for Primary Schools 2021</span></td>
+    <td class="tg-vd2a"><span style="background-color:initial">Bronze Award (4)
+			</span><br><span style="background-color:initial">Honourable Mention (10)</span><br><br><span style="background-color:initial">Bronze Award (1)</span><br></td>
   </tr>
   <tr>
     <td class="tg-67ya">Science </td>
