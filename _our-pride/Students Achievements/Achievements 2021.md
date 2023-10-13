@@ -32,7 +32,7 @@ third_nav_title: Students Achievements
     <td class="tg-67ya">Mathematics</td>
     <td class="tg-vd2a"><span style="background-color:initial">National Mathematical Olympiad of Singapore 2021</span><br><br><span style="background-color:initial">Singapore Mathematical Olympiad for Primary Schools 2021</span></td>
     <td class="tg-vd2a"><span style="background-color:initial">Bronze Award (4)
-			<span style="background-color:initial">Honourable Mention (10)</span><br><br><span style="background-color:initial">Bronze Award (1)</span><br></span></td>
+			</span><br><span style="background-color:initial">Honourable Mention (10)</span><br><br><span style="background-color:initial">Bronze Award (1)</span><br></td>
   </tr>
   <tr>
     <td class="tg-67ya">Science </td>
