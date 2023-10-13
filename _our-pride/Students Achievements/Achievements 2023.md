@@ -41,7 +41,7 @@ third_nav_title: Students Achievements
 	 </tr>
   <tr>
     <td class="tg-cly1"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Science</span></td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Singapore Primary Science Olympiad 2023</span><br><br></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Singapore Primary Science Olympiad</span><br><br></td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Merit Award (7)</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Bronze Award (3)</span></td>
   </tr>
   <tr>
