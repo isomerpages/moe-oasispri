@@ -8,7 +8,7 @@ third_nav_title: Forms & Guides
 
 Please visit MOE's official website [here](https://www.moe.gov.sg/financial-matters/financial-assistance) for more information. The application form can be downloaded here.
 
-[2024_MOE-FAS_Application_Form](/files/2024%20MOE-FAS%20Application%20Form.pdf)
+[2024_MOE-FAS_Application_Form](/files/2024%20moe%20fas%20application%20form.pdf)
 
 *(updated as of 17th October 2023)*
 
