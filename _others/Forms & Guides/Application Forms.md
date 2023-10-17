@@ -6,7 +6,7 @@ third_nav_title: Forms & Guides
 ---
 ### MOE Financial Assistance Scheme (FAS)
 
-Please visit MOE's official website [here](https://www.moe.gov.sg/financial-matters/financial-assistance) for more information. The application form can be downloaded [here](/files/2024_MOE_FAS_Application_Form.pdf)<br>
+Please visit MOE's official website [here](https://www.moe.gov.sg/financial-matters/financial-assistance) for more information. The application form can be downloaded [here](/files/2024_MOE_FAS_Application_Form.pdf).<br>
 *(updated as of 17th October 2023)*
 
 ### NEU PC Plus
