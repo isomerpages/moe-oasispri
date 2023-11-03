@@ -21,10 +21,9 @@ sections:
           description: ""
           url: /ops/photo-gallery/2023
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: Caring Teacher Awards (CTA)
       id: infopic
-      description: Infopic description
-      button: Button Text
+      button: Nominate now
+      url: www.cta.nie.edu.sg
       alt: Image alt text
 ---
