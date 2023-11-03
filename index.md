@@ -27,10 +27,9 @@ sections:
       url: https://www.cta.nie.edu.sg
       alt: Image alt text
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: President's Award for Teachers 2024
       id: infopic
-      description: Infopic description
-      button: Button Text
+      button: Nominate online
+      url: https://go.gov.sg/pat2024
       alt: Image alt text
 ---
