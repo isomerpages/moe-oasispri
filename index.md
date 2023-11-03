@@ -32,5 +32,6 @@ sections:
       id: infopic
       button: Nominate online
       url: https://go.gov.sg/pat2024
+      image: /images/pat2024.gif
       alt: Image alt text
 ---
