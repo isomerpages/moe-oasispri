@@ -21,11 +21,10 @@ sections:
           description: ""
           url: /ops/photo-gallery/2023
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: Caring Teacher Awards 2024
       id: infopic
-      description: Infopic description
-      button: Button Text
+      button: Nominate now
+      url: https://www.cta.nie.edu.sg
       alt: Image alt text
   - infopic:
       title: Infopic
