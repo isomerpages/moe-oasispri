@@ -25,5 +25,4 @@ sections:
       id: infopic
       button: Nominate now
       url: www.cta.nie.edu.sg
-      alt: Image alt text
 ---
