@@ -20,4 +20,11 @@ sections:
         - title: Gallery
           description: ""
           url: /ops/photo-gallery/2023
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
