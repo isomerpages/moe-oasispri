@@ -20,4 +20,18 @@ sections:
         - title: Gallery
           description: ""
           url: /ops/photo-gallery/2023
+  - infopic:
+      title: Caring Teacher Awards 2024
+      id: infopic
+      button: Nominate now
+      url: https://www.cta.nie.edu.sg
+      image: /images/cta2024.jpg
+      alt: Image alt text
+  - infopic:
+      title: President's Award for Teachers 2024
+      id: infopic
+      button: Nominate online
+      url: https://go.gov.sg/pat2024
+      image: /images/pat2024.gif
+      alt: Image alt text
 ---
