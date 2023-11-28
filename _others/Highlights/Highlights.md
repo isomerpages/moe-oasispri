@@ -16,7 +16,4 @@ The annual Oasis Awards Day was held on 18 November 2022. This yearâ€™s theme, â
 
 ### Outstanding Youth in Education Award
 
-Congratulations to Mr. Desmond Lim on being selected as one of the recipients for the Outstanding Youth in Education Award (OYEA) 2020! The OYEA ... [Read More ...](https://www.oasispri.moe.edu.sg/
-
-
-(https://staging.d6400o65xh90r.amplifyapp.com/ops/highlights/outstanding-youth-in-education-award)
+Congratulations to Mr. Desmond Lim on being selected as one of the recipients for the Outstanding Youth in Education Award (OYEA) 2020! The OYEA ... [Read More ...](https://www.oasispri.moe.edu.sg/ops/highlights/outstanding-youth-in-education-award)
