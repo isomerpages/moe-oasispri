@@ -1,6 +1,6 @@
 ---
 title: Oasis Awards Day 2023
-permalink: /ops/highlights/awards-day-2022/
+permalink: /ops/highlights/awards-day-2023/
 variant: markdown
 description: ""
 third_nav_title: Highlights
