@@ -2,7 +2,6 @@ collections:
   others:
     output: true
     order:
-      - Highlights/Awards Day 2023.md
       - Highlights/Highlights.md
       - Highlights/Awards Day 2022.md
       - Highlights/.keep
