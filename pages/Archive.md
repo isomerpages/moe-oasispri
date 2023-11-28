@@ -2,6 +2,7 @@
 title: Archive
 permalink: /permalink/
 description: ""
+variant: markdown
 ---
 ### 2022
 ### P1 First Day @ Oasis
@@ -680,3 +681,5 @@ Applicants must be: <br>
 \* Successful applicant is required to apply for a food stall licence from Singapore Food Agency (SFA).
 
 \*Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense.\*
+
+(https://staging.d6400o65xh90r.amplifyapp.com/ops/highlights/outstanding-youth-in-education-award)
