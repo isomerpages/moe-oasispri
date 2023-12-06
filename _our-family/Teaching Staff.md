@@ -304,43 +304,38 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-7vye">5 Care<br></td>
-    <td class="tg-7vye">Ms Tan Soo Cheng</td>
-    <td class="tg-7vye">Mdm Aisah<br>Mr Pierre Fong</td>
+    <td class="tg-7vye"></td>
+    <td class="tg-7vye"><br></td>
   </tr>
   <tr>
     <td class="tg-0ynh">5 Diligence<br></td>
-    <td class="tg-0ynh">Mdm Razia<br></td>
-    <td class="tg-0ynh">Mr Lin Furong</td>
+    <td class="tg-0ynh"><br></td>
+    <td class="tg-0ynh"></td>
   </tr>
   <tr>
     <td class="tg-7vye">5 Empathy<br></td>
-    <td class="tg-7vye">Mdm Roziana</td>
-    <td class="tg-7vye">Ms Yan Xiaojing</td>
+    <td class="tg-7vye"></td>
+    <td class="tg-7vye"></td>
   </tr>
   <tr>
     <td class="tg-0ynh">5 Harmony<br></td>
-    <td class="tg-0ynh">Ms Catherine Huang<br></td>
-    <td class="tg-0ynh">Mrs Eszham<br></td>
+    <td class="tg-0ynh"><br></td>
+    <td class="tg-0ynh"><br></td>
   </tr>
   <tr>
     <td class="tg-7vye">5 Integrity<br></td>
-    <td class="tg-7vye">Mrs Wang Huishan</td>
-    <td class="tg-7vye">Mdm Teo Si Hui</td>
+    <td class="tg-7vye"></td>
+    <td class="tg-7vye"></td>
   </tr>
   <tr>
     <td class="tg-0ynh">5 Loyalty<br></td>
-    <td class="tg-0ynh">Mdm Safiah</td>
-    <td class="tg-0ynh">Mr Fahmy<br>Mr Chong Tjen Ken<br></td>
+    <td class="tg-0ynh"></td>
+    <td class="tg-0ynh"><br></td>
   </tr>
   <tr>
-    <td class="tg-7vye">5 Noble<br></td>
-    <td class="tg-7vye">Mr Aizad<br></td>
-    <td class="tg-7vye">Mr Shazwan</td>
-  </tr>
-  <tr>
-    <td class="tg-0ynh">5 Resilience</td>
-    <td class="tg-0ynh">Mrs Tan-Koh Peck Lian</td>
-    <td class="tg-0ynh">Mr Farhan</td>
+    <td class="tg-7vye">5 Resilience<br></td>
+    <td class="tg-7vye"><br></td>
+    <td class="tg-7vye"></td>
   </tr>
 	<tr>
 </tr></tbody>
