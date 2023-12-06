@@ -3,6 +3,7 @@ title: School Terms & Holidays
 permalink: /ops/info-hub/school-life/school-terms-n-holidays/
 description: ""
 third_nav_title: School Life
+variant: markdown
 ---
 ### School Calendar
 
@@ -24,22 +25,22 @@ third_nav_title: School Life
 <tbody>
   <tr>
     <td class="tg-cly1">Term I<br></td>
-    <td class="tg-cly1" colspan="2">Tue 3 Jan to Fri 10 Mar<br></td>
+    <td class="tg-cly1" colspan="2">Tue 2 Jan to Fri 8 Mar<br></td>
   </tr>
   <tr>
     <td class="tg-cly1">Term II<br></td>
-    <td class="tg-cly1" colspan="2">Mon 20 Mar to Fri 26 May<br></td>
+    <td class="tg-cly1" colspan="2">Mon 18 Mar to Fri 24 May<br></td>
   </tr>
   <tr>
     <td class="tg-1wig" colspan="3">Semester II<br></td>
   </tr>
   <tr>
     <td class="tg-cly1">Term III<br></td>
-    <td class="tg-cly1" colspan="2">Mon 26 Jun to Fri 1 Sep<br></td>
+    <td class="tg-cly1" colspan="2">Mon 24 Jun to Fri 30 Aug<br></td>
   </tr>
   <tr>
     <td class="tg-cly1">Term IV<br></td>
-    <td class="tg-cly1" colspan="2">Mon 11 Sep to Fri 17 Nov<br></td>
+    <td class="tg-cly1" colspan="2">Mon 9 Sep to Fri 15 Nov<br></td>
   </tr>
 </tbody>
 </table>
@@ -63,18 +64,18 @@ third_nav_title: School Life
 </thead>
 <tbody>
   <tr>
-    <td class="tg-cly1">Between Terms I & II<br></td>
+    <td class="tg-cly1">Between Terms I &amp; II<br></td>
     <td class="tg-cly1">Sat 11 Mar to Sun 19 Mar<br></td>
   </tr>
   <tr>
-    <td class="tg-cly1">Between Semesters I & II<br></td>
+    <td class="tg-cly1">Between Semesters I &amp; II<br></td>
     <td class="tg-cly1">Sat 27 May to Sun 25 Jun<br></td>
   </tr>
   <tr>
     <td class="tg-1wig" colspan="2">Semester II<br></td>
   </tr>
   <tr>
-    <td class="tg-cly1">Between Terms III & IV<br></td>
+    <td class="tg-cly1">Between Terms III &amp; IV<br></td>
     <td class="tg-cly1">Sat 2 Sep to Sun 10 Sep<br></td>
   </tr>
   <tr>
@@ -146,7 +147,7 @@ third_nav_title: School Life
   <tr>
     <td class="tg-67ya">New Year’s Day<br></td>
     <td class="tg-67ya">Sun 1 Jan   [Mon 2 Jan will be a public holiday]
-  <tr>
+  </td></tr><tr>
     <td class="tg-67ya" rowspan="2">Chinese New Year<br></td>
     <td class="tg-67ya">Sun 22 Jan, Mon 23 Jan
 		<br></td>
@@ -187,4 +188,4 @@ third_nav_title: School Life
   <tr>
     <td class="tg-67ya">Christmas Day<br></td>
     <td class="tg-67ya">Mon 25 Dec</td>
-  </tr>
+  </tr></tbody></table>
