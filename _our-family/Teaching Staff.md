@@ -138,15 +138,10 @@ variant: markdown
     <td class="tg-7vye"></td>
   </tr>
   <tr>
-    <td class="tg-0ynh">-</td>
+    <td class="tg-0ynh">2 Resilience</td>
     <td class="tg-0ynh"><br></td>
     <td class="tg-0ynh"></td>
 	</tr>
-  <tr>
-    <td class="tg-7vye">2 Resilience<br></td>
-    <td class="tg-7vye">Mdm Judy Tng<br></td>
-    <td class="tg-7vye">Ms Maalini</td>
-  </tr>
 	<tr>
 </tr></tbody>
 </table>
