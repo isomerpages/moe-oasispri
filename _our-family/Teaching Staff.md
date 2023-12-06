@@ -2,6 +2,7 @@
 title: Teaching Staff
 permalink: /our-family/teaching-staff/
 description: ""
+variant: markdown
 ---
 ### Teaching Staff
 
@@ -378,38 +379,43 @@ description: ""
   </tr>
   <tr>
     <td class="tg-7vye">6 Care<br></td>
-    <td class="tg-7vye">Mdm Yap Shu Hui<br></td>
-    <td class="tg-7vye">Mr Christopher Cheng<br>Ms Lee Kai Sin</td>
+    <td class="tg-7vye"><br></td>
+    <td class="tg-7vye"><br></td>
   </tr>
   <tr>
     <td class="tg-0ynh">6 Diligence<br></td>
-    <td class="tg-0ynh">Mrs Alan Yeo<br></td>
-    <td class="tg-0ynh">Mr Hamzah</td>
+    <td class="tg-0ynh"><br></td>
+    <td class="tg-0ynh"></td>
   </tr>
   <tr>
     <td class="tg-7vye">6 Empathy<br></td>
-    <td class="tg-7vye">Mr Elwirandi Tan</td>
-    <td class="tg-7vye">Mr Jonathan Boey<br>Ms Faizah</td>
+    <td class="tg-7vye"></td>
+    <td class="tg-7vye"><br></td>
   </tr>
   <tr>
     <td class="tg-0ynh">6 Harmony<br></td>
-    <td class="tg-0ynh">Mr Desmond Lim</td>
-    <td class="tg-0ynh">Mrs Melissa Chin</td>
+    <td class="tg-0ynh"></td>
+    <td class="tg-0ynh"></td>
   </tr>
   <tr>
     <td class="tg-7vye">6 Integrity<br></td>
-    <td class="tg-7vye">Mrs Norhazlinda Sham</td>
-    <td class="tg-7vye">Mr Alan Mui</td>
+    <td class="tg-7vye"></td>
+    <td class="tg-7vye"></td>
   </tr>
   <tr>
     <td class="tg-0ynh">6 Loyalty<br></td>
-    <td class="tg-0ynh">Mr Chan Yongyan</td>
-    <td class="tg-0ynh">Mdm Ho Huan Xin<br></td>
+    <td class="tg-0ynh"></td>
+    <td class="tg-0ynh"><br></td>
   </tr>
   <tr>
-    <td class="tg-7vye">6 Resilience<br></td>
-    <td class="tg-7vye">Mr Yeo Yung Sen<br></td>
-    <td class="tg-7vye">Ms Yim Wai Peng</td>
+    <td class="tg-7vye">6 Noble<br></td>
+    <td class="tg-7vye"><br></td>
+    <td class="tg-7vye"></td>
+	</tr>
+  <tr>
+    <td class="tg-0ynh">6 Resilience<br></td>
+    <td class="tg-0ynh"><br></td>
+    <td class="tg-0ynh"></td>
   </tr>
 	<tr>
 </tr></tbody>
