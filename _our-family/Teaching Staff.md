@@ -2,6 +2,7 @@
 title: Teaching Staff
 permalink: /our-family/teaching-staff/
 description: ""
+variant: markdown
 ---
 ### Teaching Staff
 
@@ -33,43 +34,43 @@ description: ""
   </tr>
   <tr>
     <td class="tg-7vye">1 Care<br></td>
-    <td class="tg-7vye">Ms Joyce Chew</td>
-    <td class="tg-7vye">Mdm Ahadrina</td>
+    <td class="tg-7vye"></td>
+    <td class="tg-7vye"></td>
   </tr>
   <tr>
     <td class="tg-0ynh">1 Diligence<br></td>
-    <td class="tg-0ynh">Ms Cassandra Goh<br></td>
-    <td class="tg-0ynh">Mdm Cheng Yingying</td>
+    <td class="tg-0ynh"><br></td>
+    <td class="tg-0ynh"></td>
   </tr>
   <tr>
     <td class="tg-7vye">1 Empathy<br></td>
-    <td class="tg-7vye">Mrs Lau Peixia</td>
-    <td class="tg-7vye">Ms Zahidah</td>
+    <td class="tg-7vye"></td>
+    <td class="tg-7vye"></td>
   </tr>
   <tr>
     <td class="tg-0ynh">1 Harmony<br></td>
-    <td class="tg-0ynh">Ms Tham Hui Xia<br></td>
-    <td class="tg-0ynh">Ms Stacey Koh<br>Ms Kim Hee Eun</td>
+    <td class="tg-0ynh"><br></td>
+    <td class="tg-0ynh"><br></td>
   </tr>
   <tr>
     <td class="tg-7vye">1 Integrity<br></td>
-    <td class="tg-7vye">Ms Susanne Lim</td>
-    <td class="tg-7vye">Mdm Evon Tan</td>
+    <td class="tg-7vye"></td>
+    <td class="tg-7vye"></td>
   </tr>
   <tr>
     <td class="tg-0ynh">1 Loyalty<br></td>
-    <td class="tg-0ynh">Mrs Ng Wei Wei</td>
-    <td class="tg-0ynh">Ms Safeenah<br></td>
+    <td class="tg-0ynh"></td>
+    <td class="tg-0ynh"><br></td>
   </tr>
   <tr>
     <td class="tg-7vye">1 Noble<br></td>
-    <td class="tg-7vye">Ms Sindy Lai<br></td>
-    <td class="tg-7vye">Ms Teo Mei Geok</td>
+    <td class="tg-7vye"><br></td>
+    <td class="tg-7vye"></td>
   </tr>
   <tr>
     <td class="tg-0ynh">1 Resilience</td>
-    <td class="tg-0ynh">Mrs Jaslyn Heng<br></td>
-    <td class="tg-0ynh">Mrs Anastasia Chan</td>
+    <td class="tg-0ynh"><br></td>
+    <td class="tg-0ynh"></td>
 	</tr>
 	<tr>
   </tr></tbody>
@@ -103,49 +104,44 @@ description: ""
   </tr>
   <tr>
     <td class="tg-7vye">2 Care<br></td>
-    <td class="tg-7vye">Ms Beryl Ng</td>
-    <td class="tg-7vye">Mdm Florence Ngu</td>
+    <td class="tg-7vye"></td>
+    <td class="tg-7vye"></td>
   </tr>
   <tr>
     <td class="tg-0ynh">2 Diligence<br></td>
-    <td class="tg-0ynh">Ms Najma<br></td>
-    <td class="tg-0ynh">Ms Wang Yuwei</td>
+    <td class="tg-0ynh"><br></td>
+    <td class="tg-0ynh"></td>
   </tr>
   <tr>
     <td class="tg-7vye">2 Empathy<br></td>
-    <td class="tg-7vye">Ms Chia Wanyi</td>
-    <td class="tg-7vye">Mdm Ng Tze Ling</td>
+    <td class="tg-7vye"></td>
+    <td class="tg-7vye"></td>
   </tr>
   <tr>
     <td class="tg-0ynh">2 Harmony<br></td>
-    <td class="tg-0ynh">Mrs Caroline Tay<br></td>
-    <td class="tg-0ynh">Mdm Chen Rongli<br></td>
+    <td class="tg-0ynh"><br></td>
+    <td class="tg-0ynh"><br></td>
   </tr>
   <tr>
     <td class="tg-7vye">2 Integrity<br></td>
-    <td class="tg-7vye">Mrs Gena Ang</td>
-    <td class="tg-7vye">Mdm Wang Yanhua</td>
+    <td class="tg-7vye"></td>
+    <td class="tg-7vye"></td>
   </tr>
   <tr>
     <td class="tg-0ynh">2 Loyalty<br></td>
-    <td class="tg-0ynh">Ms Afiqah</td>
-    <td class="tg-0ynh">Mrs Rosenna Seah<br></td>
+    <td class="tg-0ynh"></td>
+    <td class="tg-0ynh"><br></td>
   </tr>
   <tr>
     <td class="tg-7vye">2 Noble<br></td>
-    <td class="tg-7vye">Mr Ong Wei Chong<br></td>
-    <td class="tg-7vye">Mdm Celeste Yap</td>
+    <td class="tg-7vye"><br></td>
+    <td class="tg-7vye"></td>
   </tr>
   <tr>
-    <td class="tg-0ynh">2 Respect</td>
-    <td class="tg-0ynh">Mdm Wilsa Dewi<br></td>
-    <td class="tg-0ynh">Mdm Nurmah</td>
+    <td class="tg-0ynh">2 Resilience</td>
+    <td class="tg-0ynh"><br></td>
+    <td class="tg-0ynh"></td>
 	</tr>
-  <tr>
-    <td class="tg-7vye">2 Resilience<br></td>
-    <td class="tg-7vye">Mdm Judy Tng<br></td>
-    <td class="tg-7vye">Ms Maalini</td>
-  </tr>
 	<tr>
 </tr></tbody>
 </table>
@@ -169,7 +165,7 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-3uba" colspan="3"><span style="font-weight:bold;color:#002D46;background-color:#FFC600">Year Head: Mrs Sharon Teo</span><br><span style="font-weight:bold;color:#002D46;background-color:#FFC600">Assistant Year Head: Mr Vaahid</span><br></td>
+    <td class="tg-3uba" colspan="3"><span style="font-weight:bold;color:#002D46;background-color:#FFC600">Year Head: Mrs Sharon Teo</span><br><span style="font-weight:bold;color:#002D46;background-color:#FFC600">Assistant Year Head: </span><br></td>
   </tr>
   <tr>
     <td class="tg-3uba"><span style="font-weight:bold;color:#002D46;background-color:#FFC600">Class</span></td>
@@ -178,38 +174,38 @@ description: ""
   </tr>
   <tr>
     <td class="tg-7vye">3 Care<br></td>
-    <td class="tg-7vye">Ms Phoebe Tan</td>
-    <td class="tg-7vye">Ms Tay Bee Li</td>
+    <td class="tg-7vye"></td>
+    <td class="tg-7vye"></td>
   </tr>
   <tr>
     <td class="tg-0ynh">3 Diligence<br></td>
-    <td class="tg-0ynh">Ms Goh Wan Yu<br></td>
-    <td class="tg-0ynh">Mrs Joelle Pek</td>
+    <td class="tg-0ynh"><br></td>
+    <td class="tg-0ynh"></td>
   </tr>
   <tr>
     <td class="tg-7vye">3 Empathy<br></td>
-    <td class="tg-7vye">Mrs Ann Tan</td>
-    <td class="tg-7vye">Mr Effendi</td>
+    <td class="tg-7vye"></td>
+    <td class="tg-7vye"></td>
   </tr>
   <tr>
     <td class="tg-0ynh">3 Harmony<br></td>
-    <td class="tg-0ynh">Mdm Norizah<br></td>
-    <td class="tg-0ynh">Mdm Helen Lee<br></td>
+    <td class="tg-0ynh"><br></td>
+    <td class="tg-0ynh"><br></td>
   </tr>
   <tr>
     <td class="tg-7vye">3 Integrity<br></td>
-    <td class="tg-7vye">Ms Syaza</td>
-    <td class="tg-7vye">Mdm Pang Ming Ing</td>
+    <td class="tg-7vye"></td>
+    <td class="tg-7vye"></td>
   </tr>
   <tr>
     <td class="tg-0ynh">3 Loyalty<br></td>
-    <td class="tg-0ynh">Ms Yeo Puay Suan</td>
-    <td class="tg-0ynh">Mdm Yeung Yuk<br></td>
+    <td class="tg-0ynh"></td>
+    <td class="tg-0ynh"><br></td>
   </tr>
   <tr>
     <td class="tg-7vye">3 Resilience<br></td>
-    <td class="tg-7vye">Mr Lim Yen Teng<br></td>
-    <td class="tg-7vye">Mdm Lyvia Soh</td>
+    <td class="tg-7vye"><br></td>
+    <td class="tg-7vye"></td>
   </tr>
 	<tr>
 </tr></tbody>
@@ -234,7 +230,7 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-3uba" colspan="3"><span style="font-weight:bold;color:#002D46;background-color:#FFC600">Year Head: Mrs Sharon Teo</span><br><span style="font-weight:bold;color:#002D46;background-color:#FFC600">Assistant Year Head: Mr Vaahid</span><br></td>
+    <td class="tg-3uba" colspan="3"><span style="font-weight:bold;color:#002D46;background-color:#FFC600">Year Head: Mrs Sharon Teo</span><br><span style="font-weight:bold;color:#002D46;background-color:#FFC600">Assistant Year Head: </span><br></td>
   </tr>
   <tr>
     <td class="tg-3uba"><span style="font-weight:bold;color:#002D46;background-color:#FFC600">Class</span></td>
@@ -243,38 +239,38 @@ description: ""
   </tr>
   <tr>
     <td class="tg-7vye">4 Care<br></td>
-    <td class="tg-7vye">Mr Faris Fong<br></td>
-    <td class="tg-7vye">Mdm Margaret Lee</td>
+    <td class="tg-7vye"><br></td>
+    <td class="tg-7vye"></td>
   </tr>
   <tr>
     <td class="tg-0ynh">4 Diligence<br></td>
-    <td class="tg-0ynh">Mdm Liyana<br></td>
-    <td class="tg-0ynh">Mdm Huang Rui</td>
+    <td class="tg-0ynh"><br></td>
+    <td class="tg-0ynh"></td>
   </tr>
   <tr>
     <td class="tg-7vye">4 Empathy<br></td>
-    <td class="tg-7vye">Ms Lau Yingying</td>
-    <td class="tg-7vye">Ms Nabilah</td>
+    <td class="tg-7vye"></td>
+    <td class="tg-7vye"></td>
   </tr>
   <tr>
     <td class="tg-0ynh">4 Harmony<br></td>
-    <td class="tg-0ynh">Ms Nirmawati</td>
-    <td class="tg-0ynh">Mdm Hafizah<br>Ms Ong Wei Peng</td>
+    <td class="tg-0ynh"></td>
+    <td class="tg-0ynh"><br></td>
   </tr>
   <tr>
     <td class="tg-7vye">4 Integrity<br></td>
-    <td class="tg-7vye">Ms Yusneeta</td>
-    <td class="tg-7vye">Mdm Atika</td>
+    <td class="tg-7vye"></td>
+    <td class="tg-7vye"></td>
   </tr>
   <tr>
     <td class="tg-0ynh">4 Loyalty<br></td>
-    <td class="tg-0ynh">Ms Vong</td>
-    <td class="tg-0ynh">Mrs Ang-Wei Yueshan<br></td>
+    <td class="tg-0ynh"></td>
+    <td class="tg-0ynh"><br></td>
   </tr>
   <tr>
     <td class="tg-7vye">4 Resilience<br></td>
-    <td class="tg-7vye">Mdm Maziyah<br></td>
-    <td class="tg-7vye">Mr Vaahid</td>
+    <td class="tg-7vye"><br></td>
+    <td class="tg-7vye"></td>
   </tr>
 	<tr>
 </tr></tbody>
@@ -308,43 +304,38 @@ description: ""
   </tr>
   <tr>
     <td class="tg-7vye">5 Care<br></td>
-    <td class="tg-7vye">Ms Tan Soo Cheng</td>
-    <td class="tg-7vye">Mdm Aisah<br>Mr Pierre Fong</td>
+    <td class="tg-7vye"></td>
+    <td class="tg-7vye"><br></td>
   </tr>
   <tr>
     <td class="tg-0ynh">5 Diligence<br></td>
-    <td class="tg-0ynh">Mdm Razia<br></td>
-    <td class="tg-0ynh">Mr Lin Furong</td>
+    <td class="tg-0ynh"><br></td>
+    <td class="tg-0ynh"></td>
   </tr>
   <tr>
     <td class="tg-7vye">5 Empathy<br></td>
-    <td class="tg-7vye">Mdm Roziana</td>
-    <td class="tg-7vye">Ms Yan Xiaojing</td>
+    <td class="tg-7vye"></td>
+    <td class="tg-7vye"></td>
   </tr>
   <tr>
     <td class="tg-0ynh">5 Harmony<br></td>
-    <td class="tg-0ynh">Ms Catherine Huang<br></td>
-    <td class="tg-0ynh">Mrs Eszham<br></td>
+    <td class="tg-0ynh"><br></td>
+    <td class="tg-0ynh"><br></td>
   </tr>
   <tr>
     <td class="tg-7vye">5 Integrity<br></td>
-    <td class="tg-7vye">Mrs Wang Huishan</td>
-    <td class="tg-7vye">Mdm Teo Si Hui</td>
+    <td class="tg-7vye"></td>
+    <td class="tg-7vye"></td>
   </tr>
   <tr>
     <td class="tg-0ynh">5 Loyalty<br></td>
-    <td class="tg-0ynh">Mdm Safiah</td>
-    <td class="tg-0ynh">Mr Fahmy<br>Mr Chong Tjen Ken<br></td>
+    <td class="tg-0ynh"></td>
+    <td class="tg-0ynh"><br></td>
   </tr>
   <tr>
-    <td class="tg-7vye">5 Noble<br></td>
-    <td class="tg-7vye">Mr Aizad<br></td>
-    <td class="tg-7vye">Mr Shazwan</td>
-  </tr>
-  <tr>
-    <td class="tg-0ynh">5 Resilience</td>
-    <td class="tg-0ynh">Mrs Tan-Koh Peck Lian</td>
-    <td class="tg-0ynh">Mr Farhan</td>
+    <td class="tg-7vye">5 Resilience<br></td>
+    <td class="tg-7vye"><br></td>
+    <td class="tg-7vye"></td>
   </tr>
 	<tr>
 </tr></tbody>
@@ -378,38 +369,43 @@ description: ""
   </tr>
   <tr>
     <td class="tg-7vye">6 Care<br></td>
-    <td class="tg-7vye">Mdm Yap Shu Hui<br></td>
-    <td class="tg-7vye">Mr Christopher Cheng<br>Ms Lee Kai Sin</td>
+    <td class="tg-7vye"><br></td>
+    <td class="tg-7vye"><br></td>
   </tr>
   <tr>
     <td class="tg-0ynh">6 Diligence<br></td>
-    <td class="tg-0ynh">Mrs Alan Yeo<br></td>
-    <td class="tg-0ynh">Mr Hamzah</td>
+    <td class="tg-0ynh"><br></td>
+    <td class="tg-0ynh"></td>
   </tr>
   <tr>
     <td class="tg-7vye">6 Empathy<br></td>
-    <td class="tg-7vye">Mr Elwirandi Tan</td>
-    <td class="tg-7vye">Mr Jonathan Boey<br>Ms Faizah</td>
+    <td class="tg-7vye"></td>
+    <td class="tg-7vye"><br></td>
   </tr>
   <tr>
     <td class="tg-0ynh">6 Harmony<br></td>
-    <td class="tg-0ynh">Mr Desmond Lim</td>
-    <td class="tg-0ynh">Mrs Melissa Chin</td>
+    <td class="tg-0ynh"></td>
+    <td class="tg-0ynh"></td>
   </tr>
   <tr>
     <td class="tg-7vye">6 Integrity<br></td>
-    <td class="tg-7vye">Mrs Norhazlinda Sham</td>
-    <td class="tg-7vye">Mr Alan Mui</td>
+    <td class="tg-7vye"></td>
+    <td class="tg-7vye"></td>
   </tr>
   <tr>
     <td class="tg-0ynh">6 Loyalty<br></td>
-    <td class="tg-0ynh">Mr Chan Yongyan</td>
-    <td class="tg-0ynh">Mdm Ho Huan Xin<br></td>
+    <td class="tg-0ynh"></td>
+    <td class="tg-0ynh"><br></td>
   </tr>
   <tr>
-    <td class="tg-7vye">6 Resilience<br></td>
-    <td class="tg-7vye">Mr Yeo Yung Sen<br></td>
-    <td class="tg-7vye">Ms Yim Wai Peng</td>
+    <td class="tg-7vye">6 Noble<br></td>
+    <td class="tg-7vye"><br></td>
+    <td class="tg-7vye"></td>
+	</tr>
+  <tr>
+    <td class="tg-0ynh">6 Resilience<br></td>
+    <td class="tg-0ynh"><br></td>
+    <td class="tg-0ynh"></td>
   </tr>
 	<tr>
 </tr></tbody>
