@@ -5,7 +5,7 @@ description: ""
 third_nav_title: School Life
 variant: markdown
 ---
-### School Calendar 2024
+### School Calendar
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -45,7 +45,7 @@ variant: markdown
 </tbody>
 </table>
 
-### School Vacation 2024
+### School Vacation
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -107,7 +107,7 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-y0ep">Youth Day<br></td>
-		<td class="tg-y24x"><span style="background-color:initial">Sun 2 Jul   [Mon 3 Jul will be a scheduled school holiday]</span></td>
+		<td class="tg-y24x"><span style="background-color:initial">Sun 30 Jun   (The following Mon 1 Jul will be a school holiday)</span></td>
   </tr>
   <tr>
     <td class="tg-y0ep">Day after National Day<br></td>
