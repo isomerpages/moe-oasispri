@@ -5,7 +5,7 @@ description: ""
 third_nav_title: School Life
 variant: markdown
 ---
-### School Calendar
+### School Calendar 2024
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -45,7 +45,7 @@ variant: markdown
 </tbody>
 </table>
 
-### School Vacation
+### School Vacation 2024
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -65,22 +65,22 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-cly1">Between Terms I &amp; II<br></td>
-    <td class="tg-cly1">Sat 11 Mar to Sun 19 Mar<br></td>
+    <td class="tg-cly1">Sat 9 Mar to Sun 17 Mar<br></td>
   </tr>
   <tr>
     <td class="tg-cly1">Between Semesters I &amp; II<br></td>
-    <td class="tg-cly1">Sat 27 May to Sun 25 Jun<br></td>
+    <td class="tg-cly1">Sat 25 May to Sun 23 Jun<br></td>
   </tr>
   <tr>
     <td class="tg-1wig" colspan="2">Semester II<br></td>
   </tr>
   <tr>
     <td class="tg-cly1">Between Terms III &amp; IV<br></td>
-    <td class="tg-cly1">Sat 2 Sep to Sun 10 Sep<br></td>
+    <td class="tg-cly1">Sat 31 Aug to Sun 8 Sep<br></td>
   </tr>
   <tr>
     <td class="tg-cly1">At End of School Year<br></td>
-    <td class="tg-cly1">Sat 18 Nov to Sun 31 Dec<br></td>
+    <td class="tg-cly1">Sat 16 Nov to Tues 31 Dec<br></td>
   </tr>
 </tbody>
 </table>
