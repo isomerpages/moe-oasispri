@@ -107,19 +107,19 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-y0ep">Youth Day<br></td>
-		<td class="tg-y24x"><span style="background-color:initial">Sun 30 Jun   (The following Mon 1 Jul will be a school holiday)</span></td>
+		<td class="tg-y24x"><span style="background-color:initial">Sun 30 Jun <br>(The following Mon 1 Jul will be a school holiday)</span></td>
   </tr>
   <tr>
-    <td class="tg-y0ep">Day after National Day<br></td>
-    <td class="tg-y0ep">Thu 10 Aug<br></td>
+    <td class="tg-y0ep">-<br></td>
+    <td class="tg-y0ep">-<br></td>
   </tr>
   <tr>
     <td class="tg-y0ep">Teachers’ Day<br></td>
-    <td class="tg-y0ep">Fri 1 Sep<br></td>
+    <td class="tg-y0ep">Fri 30 Aug<br></td>
   </tr>
   <tr>
     <td class="tg-y0ep">Children’s Day<br></td>
-    <td class="tg-y0ep">Fri 6 Oct<br></td>
+    <td class="tg-y0ep">Fri 4 Oct<br></td>
   </tr>
 </tbody>
 </table>
