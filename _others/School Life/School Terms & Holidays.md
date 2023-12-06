@@ -153,7 +153,7 @@ variant: markdown
 		<br></td>
   </tr>
   <tr>
-    <td class="tg-vd2a"><span style="background-color:initial">(Mon, 12 Feb will be a public holiday and Tues, 13 Feb will be a school holiday)</span></td>
+    <td class="tg-vd2a"><span style="background-color:initial">(Mon, 12 Feb will be a public holiday and Tues, 13 Feb will be a school holiday and a designated day off-in-lieu. Schools will be closed, including the General Office, Student Care Centres and Kindergarten Care (KCare) Centres.)</span></td>
   </tr>
   <tr>
     <td class="tg-67ya">Good Friday<br></td>
