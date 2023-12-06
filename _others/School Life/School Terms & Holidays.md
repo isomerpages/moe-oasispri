@@ -107,7 +107,7 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-y0ep">Youth Day<br></td>
-		<td class="tg-y24x"><span style="background-color:initial">Sun 30 Jun <br>(The following Mon 1 Jul will be a school holiday)</span></td>
+		<td class="tg-y24x"><span style="background-color:initial">Sun 30 Jun<br>(The following Mon 1 Jul will be a school holiday)</span></td>
   </tr>
   <tr>
     <td class="tg-y0ep">-<br></td>
@@ -146,14 +146,14 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-67ya">New Year’s Day<br></td>
-    <td class="tg-67ya">Sun 1 Jan   [Mon 2 Jan will be a public holiday]
+    <td class="tg-67ya">Mon 1 Jan
   </td></tr><tr>
     <td class="tg-67ya" rowspan="2">Chinese New Year<br></td>
-    <td class="tg-67ya">Sun 22 Jan, Mon 23 Jan
+    <td class="tg-67ya">Sat 10 Feb<br>Sun 11 Feb
 		<br></td>
   </tr>
   <tr>
-    <td class="tg-vd2a"><span style="background-color:initial">   [Tues 24 Jan will be a public holiday]</span></td>
+    <td class="tg-vd2a"><span style="background-color:initial">(Mon, 12 Feb will be a public holiday and Tues, 13 Feb will be a school holiday)</span></td>
   </tr>
   <tr>
     <td class="tg-67ya">Good Friday<br></td>
