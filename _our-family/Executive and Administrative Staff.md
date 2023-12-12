@@ -2,6 +2,7 @@
 title: Executive and Administrative Staff
 permalink: /our-family/executive-and-administrative-staff/
 description: ""
+variant: markdown
 ---
 ### School Administration Team
 
@@ -63,6 +64,10 @@ description: ""
   <tr>
     <td class="tg-dv6r">Operations Support Officer</td>
     <td class="tg-j74v">Mr Neui Yew Wing Vincent</td>
+		</tr>
+  <tr>
+    <td class="tg-8com">Operations Support Officer</td>
+    <td class="tg-1d14">Mdm Chan Swee Har</td>
   </tr>
   <tr>
 </tr></tbody>
