@@ -25,7 +25,7 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-3uba" colspan="3"><span style="font-weight:bold;color:#002D46;background-color:#FFC600">Year Head: Mrs Mey See</span><br><span style="font-weight:bold;color:#002D46;background-color:#FFC600">Assistant Year Head: Ms Ong Wei Peng</span><br></td>
+    <td class="tg-3uba" colspan="3"><span style="font-weight:bold;color:#002D46;background-color:#FFC600">Year Head:<br>Mrs Mey See</span><br><span style="font-weight:bold;color:#002D46;background-color:#FFC600"><br>Assistant Year Head:<br>Ms Ong Wei Peng</span><br></td>
   </tr>
   <tr>
     <td class="tg-3uba"><span style="font-weight:bold;color:#002D46;background-color:#FFC600">Class</span></td>
@@ -95,7 +95,7 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-3uba" colspan="3"><span style="font-weight:bold;color:#002D46;background-color:#FFC600">Year Head: Mrs Mey See</span><br><span style="font-weight:bold;color:#002D46;background-color:#FFC600">Assistant Year Head: </span><br></td>
+    <td class="tg-3uba" colspan="3"><span style="font-weight:bold;color:#002D46;background-color:#FFC600">Year Head:<br>Mrs Mey See</span><br><span style="font-weight:bold;color:#002D46;background-color:#FFC600"><br>Assistant Year Head:<br></span><br></td>
   </tr>
   <tr>
     <td class="tg-3uba"><span style="font-weight:bold;color:#002D46;background-color:#FFC600">Class</span></td>
@@ -165,7 +165,7 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-3uba" colspan="3"><span style="font-weight:bold;color:#002D46;background-color:#FFC600">Year Head: Mrs Sharon Teo</span><br><span style="font-weight:bold;color:#002D46;background-color:#FFC600">Assistant Year Head: </span><br></td>
+    <td class="tg-3uba" colspan="3"><span style="font-weight:bold;color:#002D46;background-color:#FFC600">Year Head: Mrs Sharon Teo</span><br><span style="font-weight:bold;color:#002D46;background-color:#FFC600"><br>Assistant Year Head:<br>Mr Mohammad Farhan Chia</span><br></td>
   </tr>
   <tr>
     <td class="tg-3uba"><span style="font-weight:bold;color:#002D46;background-color:#FFC600">Class</span></td>
@@ -230,7 +230,7 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-3uba" colspan="3"><span style="font-weight:bold;color:#002D46;background-color:#FFC600">Year Head: Mrs Sharon Teo</span><br><span style="font-weight:bold;color:#002D46;background-color:#FFC600">Assistant Year Head: </span><br></td>
+    <td class="tg-3uba" colspan="3"><span style="font-weight:bold;color:#002D46;background-color:#FFC600">Year Head: Mrs Sharon Teo</span><br><span style="font-weight:bold;color:#002D46;background-color:#FFC600"><br>Assistant Year Head:<br></span><br></td>
   </tr>
   <tr>
     <td class="tg-3uba"><span style="font-weight:bold;color:#002D46;background-color:#FFC600">Class</span></td>
