@@ -21,13 +21,13 @@ variant: markdown
 <thead>
   <tr>
     <th class="tg-dv6r">Administration Manager</th>
-    <th class="tg-j74v">Mr Mah Kian Lye</th>
+    <th class="tg-j74v">Ms Pauline Ng</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-8com">Administration Manager</td>
-    <td class="tg-1d14">Ms Pauline Ng</td>
+    <td class="tg-1d14">Mr Mah Kian Lye</td>
   </tr>
   <tr>
     <td class="tg-dv6r">Operations Manager</td>
@@ -51,7 +51,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-8com">Corporate Support Officer</td>
-    <td class="tg-1d14">Mdm Goh Lay Hiang Eveline</td>
+    <td class="tg-1d14">Ms Goh Lay Hiang Eveline</td>
   </tr>
   <tr>
     <td class="tg-dv6r">Operations Support Officer<br></td>
@@ -66,7 +66,7 @@ variant: markdown
     <td class="tg-j74v">Mr Neui Yew Wing Vincent</td>
 		</tr>
   <tr>
-    <td class="tg-8com">Operations Support Officer</td>
+    <td class="tg-8com">Operations Support Officer (Adjunct)</td>
     <td class="tg-1d14">Mdm Chan Swee Har</td>
   </tr>
   <tr>
@@ -107,12 +107,12 @@ variant: markdown
     <td class="tg-1d14">Mdm Frannie Chung Sau Kuen</td>
   </tr>
 	<tr>
-		<td class="tg-dv6r">Science Lab Assistant<br></td>
+		<td class="tg-dv6r">Lab Assistant<br></td>
     <td class="tg-j74v">Mdm Cheliboni Satyavathi</td>
   </tr>
 	<tr>
  <td class="tg-8com">Receptionist<br></td>
-    <td class="tg-1d14">Ms Kartini Sahrul</td>
+    <td class="tg-1d14">Mdm Kartini Sahrul</td>
   </tr>
 	<tr>
 </tr></tbody>
