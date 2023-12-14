@@ -51,7 +51,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-8com">Corporate Support Officer</td>
-    <td class="tg-1d14">Mdm Goh Lay Hiang Eveline</td>
+    <td class="tg-1d14">Ms Goh Lay Hiang Eveline</td>
   </tr>
   <tr>
     <td class="tg-dv6r">Operations Support Officer<br></td>
@@ -66,7 +66,7 @@ variant: markdown
     <td class="tg-j74v">Mr Neui Yew Wing Vincent</td>
 		</tr>
   <tr>
-    <td class="tg-8com">Operations Support Officer</td>
+    <td class="tg-8com">Operations Support Officer (Adjunct)</td>
     <td class="tg-1d14">Mdm Chan Swee Har</td>
   </tr>
   <tr>
