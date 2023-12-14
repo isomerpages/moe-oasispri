@@ -104,43 +104,43 @@ description: ""
   </tr>
   <tr>
     <td class="tg-7vye">2 Care<br></td>
-    <td class="tg-7vye"></td>
-    <td class="tg-7vye"></td>
+    <td class="tg-7vye">Ms Joyce Chew</td>
+    <td class="tg-7vye">Mdm Chen Rongli</td>
   </tr>
   <tr>
     <td class="tg-0ynh">2 Diligence<br></td>
-    <td class="tg-0ynh"><br></td>
-    <td class="tg-0ynh"></td>
+    <td class="tg-0ynh">Ms Cassandra Amanda Goh</td>
+    <td class="tg-0ynh">Mdm Christine Huang Rui</td>
   </tr>
   <tr>
     <td class="tg-7vye">2 Empathy<br></td>
-    <td class="tg-7vye"></td>
-    <td class="tg-7vye"></td>
+    <td class="tg-7vye">Mrs Lau Lee Leng</td>
+    <td class="tg-7vye">Ms Safeenah</td>
   </tr>
   <tr>
     <td class="tg-0ynh">2 Harmony<br></td>
-    <td class="tg-0ynh"><br></td>
-    <td class="tg-0ynh"><br></td>
+    <td class="tg-0ynh">Ms Tham Hui Xia</td>
+    <td class="tg-0ynh">Ms Wei Yueshan</td>
   </tr>
   <tr>
     <td class="tg-7vye">2 Integrity<br></td>
-    <td class="tg-7vye"></td>
-    <td class="tg-7vye"></td>
+    <td class="tg-7vye">Mdm Susanne Lim</td>
+    <td class="tg-7vye">Ms Yan Xiaojing</td>
   </tr>
   <tr>
     <td class="tg-0ynh">2 Loyalty<br></td>
-    <td class="tg-0ynh"></td>
-    <td class="tg-0ynh"><br></td>
+    <td class="tg-0ynh">Mdm Feng Wei Wei</td>
+    <td class="tg-0ynh">Mdm Pang Ming Ing</td>
   </tr>
   <tr>
     <td class="tg-7vye">2 Noble<br></td>
-    <td class="tg-7vye"><br></td>
-    <td class="tg-7vye"></td>
+    <td class="tg-7vye">Ms Teo Mei Geok</td>
+    <td class="tg-7vye">Mr Christopher Cheng</td>
   </tr>
   <tr>
     <td class="tg-0ynh">2 Resilience</td>
-    <td class="tg-0ynh"><br></td>
-    <td class="tg-0ynh"></td>
+    <td class="tg-0ynh">Mdm Jaslyn Seah</td>
+    <td class="tg-0ynh">Mdm Ng Tze Ling</td>
 	</tr>
 	<tr>
 </tr></tbody>
