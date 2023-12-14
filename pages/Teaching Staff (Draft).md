@@ -374,38 +374,38 @@ description: ""
   </tr>
   <tr>
     <td class="tg-0ynh">6 Diligence<br></td>
-    <td class="tg-0ynh"><br></td>
-    <td class="tg-0ynh"></td>
+    <td class="tg-0ynh">Ms Lim Zi Xiu</td>
+    <td class="tg-0ynh">Mr Alan Mui</td>
   </tr>
   <tr>
     <td class="tg-7vye">6 Empathy<br></td>
-    <td class="tg-7vye"></td>
-    <td class="tg-7vye"><br></td>
+    <td class="tg-7vye">Mdm Roziana</td>
+    <td class="tg-7vye">Mdm Hafizah</td>
   </tr>
   <tr>
     <td class="tg-0ynh">6 Harmony<br></td>
-    <td class="tg-0ynh"></td>
-    <td class="tg-0ynh"></td>
+    <td class="tg-0ynh">Ms Catherine Huang</td>
+    <td class="tg-0ynh">Ms Lee Kai Sin</td>
   </tr>
   <tr>
     <td class="tg-7vye">6 Integrity<br></td>
-    <td class="tg-7vye"></td>
-    <td class="tg-7vye"></td>
+    <td class="tg-7vye">Ms Lee Hui Shan</td>
+    <td class="tg-7vye">Mdm Teo Si Hui</td>
   </tr>
   <tr>
     <td class="tg-0ynh">6 Loyalty<br></td>
-    <td class="tg-0ynh"></td>
-    <td class="tg-0ynh"><br></td>
+    <td class="tg-0ynh">Mdm Safiah</td>
+    <td class="tg-0ynh">Mdm Aisah</td>
   </tr>
   <tr>
     <td class="tg-7vye">6 Noble<br></td>
-    <td class="tg-7vye"><br></td>
-    <td class="tg-7vye"></td>
+    <td class="tg-7vye">Mr Elwirandi Tan</td>
+    <td class="tg-7vye">Mr Aizad<br>Mr Mohammad Farhan Chia</td>
 	</tr>
   <tr>
     <td class="tg-0ynh">6 Resilience<br></td>
-    <td class="tg-0ynh"><br></td>
-    <td class="tg-0ynh"></td>
+    <td class="tg-0ynh">Mdm Koh Peck Lian</td>
+    <td class="tg-0ynh">Mr Yeo Yungsen</td>
   </tr>
 	<tr>
 </tr></tbody>
