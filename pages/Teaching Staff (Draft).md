@@ -174,38 +174,38 @@ description: ""
   </tr>
   <tr>
     <td class="tg-7vye">3 Care<br></td>
-    <td class="tg-7vye"></td>
-    <td class="tg-7vye"></td>
+    <td class="tg-7vye">Mr Ong Wei Chong</td>
+    <td class="tg-7vye">Mdm Nurmah</td>
   </tr>
   <tr>
     <td class="tg-0ynh">3 Diligence<br></td>
-    <td class="tg-0ynh"><br></td>
-    <td class="tg-0ynh"></td>
+    <td class="tg-0ynh">Mdm Wilsa</td>
+    <td class="tg-0ynh">Mdm Rosenna Lee</td>
   </tr>
   <tr>
     <td class="tg-7vye">3 Empathy<br></td>
-    <td class="tg-7vye"></td>
-    <td class="tg-7vye"></td>
+    <td class="tg-7vye">Mdm Afiqa</td>
+    <td class="tg-7vye">Mdm Wang Yanhua</td>
   </tr>
   <tr>
     <td class="tg-0ynh">3 Harmony<br></td>
-    <td class="tg-0ynh"><br></td>
-    <td class="tg-0ynh"><br></td>
+    <td class="tg-0ynh">Mdm Judy Tng</td>
+    <td class="tg-0ynh">Ms Tay Xiulan</td>
   </tr>
   <tr>
     <td class="tg-7vye">3 Integrity<br></td>
-    <td class="tg-7vye"></td>
-    <td class="tg-7vye"></td>
+    <td class="tg-7vye">Mdm Maziyah</td>
+    <td class="tg-7vye">Mdm Ahadrina</td>
   </tr>
   <tr>
     <td class="tg-0ynh">3 Loyalty<br></td>
-    <td class="tg-0ynh"></td>
-    <td class="tg-0ynh"><br></td>
+    <td class="tg-0ynh">Ms Margaret Lee</td>
+    <td class="tg-0ynh">Mdm Atika</td>
   </tr>
   <tr>
     <td class="tg-7vye">3 Resilience<br></td>
-    <td class="tg-7vye"><br></td>
-    <td class="tg-7vye"></td>
+    <td class="tg-7vye">Mdm Soh Hoon Suu</td>
+    <td class="tg-7vye">Mr Vaahid</td>
   </tr>
 	<tr>
 </tr></tbody>
