@@ -21,13 +21,13 @@ variant: markdown
 <thead>
   <tr>
     <th class="tg-dv6r">Administration Manager</th>
-    <th class="tg-j74v">Mr Mah Kian Lye</th>
+    <th class="tg-j74v">Ms Pauline Ng</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-8com">Administration Manager</td>
-    <td class="tg-1d14">Ms Pauline Ng</td>
+    <td class="tg-1d14">Mr Mah Kian Lye</td>
   </tr>
   <tr>
     <td class="tg-dv6r">Operations Manager</td>
