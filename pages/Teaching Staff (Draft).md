@@ -34,43 +34,43 @@ description: ""
   </tr>
   <tr>
     <td class="tg-7vye">1 Care<br></td>
-    <td class="tg-7vye"></td>
-    <td class="tg-7vye"></td>
+    <td class="tg-7vye">Miss Chia Wanyi</td>
+    <td class="tg-7vye">Ms Stacey Koh</td>
   </tr>
   <tr>
     <td class="tg-0ynh">1 Diligence<br></td>
-    <td class="tg-0ynh"><br></td>
-    <td class="tg-0ynh"></td>
+    <td class="tg-0ynh">Mr Lim Yen Teng</td>
+    <td class="tg-0ynh">Mdm Evon Tan</td>
   </tr>
   <tr>
     <td class="tg-7vye">1 Empathy<br></td>
-    <td class="tg-7vye"></td>
-    <td class="tg-7vye"></td>
+    <td class="tg-7vye">Mdm Florence Ngu</td>
+    <td class="tg-7vye">Ms Beryl Ng</td>
   </tr>
   <tr>
     <td class="tg-0ynh">1 Harmony<br></td>
-    <td class="tg-0ynh"><br></td>
-    <td class="tg-0ynh"><br></td>
+    <td class="tg-0ynh">Ms Caroline Soh</td>
+    <td class="tg-0ynh">Miss Maalini</td>
   </tr>
   <tr>
     <td class="tg-7vye">1 Integrity<br></td>
-    <td class="tg-7vye"></td>
-    <td class="tg-7vye"></td>
+    <td class="tg-7vye">Ms Ho Wan Yu</td>
+    <td class="tg-7vye">Mdm Yeung Yuk</td>
   </tr>
   <tr>
     <td class="tg-0ynh">1 Loyalty<br></td>
-    <td class="tg-0ynh"></td>
-    <td class="tg-0ynh"><br></td>
+    <td class="tg-0ynh">Ms Haslinda</td>
+    <td class="tg-0ynh">Ms Ong Wei Peng</td>
   </tr>
   <tr>
     <td class="tg-7vye">1 Noble<br></td>
-    <td class="tg-7vye"><br></td>
-    <td class="tg-7vye"></td>
+    <td class="tg-7vye">Ms Nursyaza</td>
+    <td class="tg-7vye">Ms Sindy Lai</td>
   </tr>
   <tr>
     <td class="tg-0ynh">1 Resilience</td>
-    <td class="tg-0ynh"><br></td>
-    <td class="tg-0ynh"></td>
+    <td class="tg-0ynh">Mr Lim Kok Wei Desmond</td>
+    <td class="tg-0ynh">Mdm Ho Huan Xin</td>
 	</tr>
 	<tr>
   </tr></tbody>
