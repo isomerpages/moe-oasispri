@@ -204,7 +204,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-7vye">3 Resilience<br></td>
-    <td class="tg-7vye">Mdm Soh Hoon Suu</td>
+    <td class="tg-7vye">Mdm Lyvia Soh</td>
     <td class="tg-7vye">Mr Vaahid</td>
   </tr>
 	<tr>
