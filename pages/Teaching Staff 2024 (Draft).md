@@ -59,12 +59,12 @@ description: ""
   </tr>
   <tr>
     <td class="tg-0ynh">1 Loyalty<br></td>
-    <td class="tg-0ynh">Mrs Norhazlinda Sham</td>
+    <td class="tg-0ynh">Ms Haslinda</td>
     <td class="tg-0ynh">Ms Ong Wei Peng</td>
   </tr>
   <tr>
     <td class="tg-7vye">1 Noble<br></td>
-    <td class="tg-7vye">Ms Nursyaza</td>
+    <td class="tg-7vye">Ms Syaza</td>
     <td class="tg-7vye">Ms Sindy Lai</td>
   </tr>
   <tr>
