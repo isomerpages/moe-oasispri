@@ -310,7 +310,7 @@ description: ""
   <tr>
     <td class="tg-0ynh">5 Diligence<br></td>
     <td class="tg-0ynh">Mr Shazwan</td>
-    <td class="tg-0ynh">Mrs Norhazlinda Sham<br>Mr Jonathan Boey</td>
+    <td class="tg-0ynh">Mrs Norhazlinda Sham, Mr Jonathan Boey</td>
   </tr>
   <tr>
     <td class="tg-7vye">5 Empathy<br></td>
@@ -370,7 +370,7 @@ description: ""
   <tr>
     <td class="tg-7vye">6 Care<br></td>
     <td class="tg-7vye">Ms Tan Soo Cheng</td>
-    <td class="tg-7vye">Mr Pierre Fong<br>Mrs Joelle Pek</td>
+    <td class="tg-7vye">Mr Pierre Fong, Mrs Joelle Pek</td>
   </tr>
   <tr>
     <td class="tg-0ynh">6 Diligence<br></td>
@@ -400,7 +400,7 @@ description: ""
   <tr>
     <td class="tg-7vye">6 Noble<br></td>
     <td class="tg-7vye">Mr Elwirandi Tan</td>
-    <td class="tg-7vye">Mr Aizad<br>Mr Farhan</td>
+    <td class="tg-7vye">Mr Aizad, Mr Farhan</td>
 	</tr>
   <tr>
     <td class="tg-0ynh">6 Resilience<br></td>
