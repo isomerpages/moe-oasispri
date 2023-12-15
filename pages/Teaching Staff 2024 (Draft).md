@@ -34,7 +34,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-7vye">1 Care<br></td>
-    <td class="tg-7vye">Miss Chia Wanyi</td>
+    <td class="tg-7vye">Ms Chia Wanyi</td>
     <td class="tg-7vye">Ms Stacey Koh</td>
   </tr>
   <tr>
@@ -49,8 +49,8 @@ description: ""
   </tr>
   <tr>
     <td class="tg-0ynh">1 Harmony<br></td>
-    <td class="tg-0ynh">Ms Caroline Soh</td>
-    <td class="tg-0ynh">Miss Maalini</td>
+    <td class="tg-0ynh">Mrs Caroline Tay</td>
+    <td class="tg-0ynh">Ms Maalini</td>
   </tr>
   <tr>
     <td class="tg-7vye">1 Integrity<br></td>
@@ -59,7 +59,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-0ynh">1 Loyalty<br></td>
-    <td class="tg-0ynh">Ms Haslinda</td>
+    <td class="tg-0ynh">Mrs Norhazlinda Sham</td>
     <td class="tg-0ynh">Ms Ong Wei Peng</td>
   </tr>
   <tr>
@@ -69,7 +69,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-0ynh">1 Resilience</td>
-    <td class="tg-0ynh">Mr Lim Kok Wei Desmond</td>
+    <td class="tg-0ynh">Mr Desmond Lim</td>
     <td class="tg-0ynh">Mdm Ho Huan Xin</td>
 	</tr>
 	<tr>
@@ -109,27 +109,27 @@ description: ""
   </tr>
   <tr>
     <td class="tg-0ynh">2 Diligence<br></td>
-    <td class="tg-0ynh">Ms Cassandra Amanda Goh</td>
-    <td class="tg-0ynh">Mdm Christine Huang Rui</td>
+    <td class="tg-0ynh">Ms Cassandra Goh</td>
+    <td class="tg-0ynh">Mdm Huang Rui</td>
   </tr>
   <tr>
     <td class="tg-7vye">2 Empathy<br></td>
-    <td class="tg-7vye">Mrs Lau Lee Leng</td>
+    <td class="tg-7vye">Mrs Lau Peixia</td>
     <td class="tg-7vye">Ms Safeenah</td>
   </tr>
   <tr>
     <td class="tg-0ynh">2 Harmony<br></td>
     <td class="tg-0ynh">Ms Tham Hui Xia</td>
-    <td class="tg-0ynh">Ms Wei Yueshan</td>
+    <td class="tg-0ynh">Mrs Ang-Wei Yueshan</td>
   </tr>
   <tr>
     <td class="tg-7vye">2 Integrity<br></td>
-    <td class="tg-7vye">Mdm Susanne Lim</td>
+    <td class="tg-7vye">Ms Susanne Lim</td>
     <td class="tg-7vye">Ms Yan Xiaojing</td>
   </tr>
   <tr>
     <td class="tg-0ynh">2 Loyalty<br></td>
-    <td class="tg-0ynh">Mdm Feng Wei Wei</td>
+    <td class="tg-0ynh">Mrs Ng Wei Wei</td>
     <td class="tg-0ynh">Mdm Pang Ming Ing</td>
   </tr>
   <tr>
@@ -139,7 +139,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-0ynh">2 Resilience</td>
-    <td class="tg-0ynh">Mdm Jaslyn Seah</td>
+    <td class="tg-0ynh">Mrs Jaslyn Heng</td>
     <td class="tg-0ynh">Mdm Ng Tze Ling</td>
 	</tr>
 	<tr>
