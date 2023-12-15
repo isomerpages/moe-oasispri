@@ -370,7 +370,7 @@ description: ""
   <tr>
     <td class="tg-7vye">6 Care<br></td>
     <td class="tg-7vye">Ms Tan Soo Cheng</td>
-    <td class="tg-7vye">Mr Pierre Fong<br>Mdm Joelle Kwa</td>
+    <td class="tg-7vye">Mr Pierre Fong<br>Mrs Joelle Pek</td>
   </tr>
   <tr>
     <td class="tg-0ynh">6 Diligence<br></td>
@@ -389,7 +389,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-7vye">6 Integrity<br></td>
-    <td class="tg-7vye">Ms Lee Hui Shan</td>
+    <td class="tg-7vye">Mrs Wang Huishan</td>
     <td class="tg-7vye">Mdm Teo Si Hui</td>
   </tr>
   <tr>
@@ -400,12 +400,12 @@ description: ""
   <tr>
     <td class="tg-7vye">6 Noble<br></td>
     <td class="tg-7vye">Mr Elwirandi Tan</td>
-    <td class="tg-7vye">Mr Aizad<br>Mr Mohammad Farhan Chia</td>
+    <td class="tg-7vye">Mr Aizad<br>Mr Farhan</td>
 	</tr>
   <tr>
     <td class="tg-0ynh">6 Resilience<br></td>
-    <td class="tg-0ynh">Mdm Koh Peck Lian</td>
-    <td class="tg-0ynh">Mr Yeo Yungsen</td>
+    <td class="tg-0ynh">Mrs Tan-Koh Peck Lian</td>
+    <td class="tg-0ynh">Mr Yeo Yung Sen</td>
   </tr>
 	<tr>
 </tr></tbody>
