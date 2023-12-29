@@ -405,7 +405,7 @@ description: ""
   <tr>
     <td class="tg-0ynh">6 Resilience<br></td>
     <td class="tg-0ynh">Mrs Tan-Koh Peck Lian</td>
-    <td class="tg-0ynh">Mr Yeo Yung Sen</td>
+    <td class="tg-0ynh">Mr Yeo Yungsen</td>
   </tr>
 	<tr>
 </tr></tbody>
