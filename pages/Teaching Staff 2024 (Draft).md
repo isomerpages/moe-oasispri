@@ -250,7 +250,7 @@ description: ""
   <tr>
     <td class="tg-7vye">4 Empathy<br></td>
     <td class="tg-7vye">Mrs Ann Tan</td>
-    <td class="tg-7vye">Ms Faizah</td>
+    <td class="tg-7vye">Mr Effendi</td>
   </tr>
   <tr>
     <td class="tg-0ynh">4 Harmony<br></td>
