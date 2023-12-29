@@ -3,6 +3,7 @@ title: School Hours & Operations
 permalink: /ops/info-hub/school-life/school-hours-n-operations/
 description: ""
 third_nav_title: School Life
+variant: markdown
 ---
 ### School Hours
 
@@ -24,7 +25,7 @@ third_nav_title: School Life
 </thead>
 <tbody>
   <tr>
-    <td class="tg-67ya">Monday, Tuesday, Thursday & Friday<br></td>
+    <td class="tg-67ya">Monday, Tuesday, Thursday &amp; Friday<br></td>
     <td class="tg-67ya">7.30 a.m. - 1.30 p.m.<br></td>
   </tr>
 	<tr>
@@ -32,7 +33,7 @@ third_nav_title: School Life
     <td class="tg-67ya">7.30 a.m. - 1.00 p.m.<br></td>
   </tr>
   <tr>
-    <td class="tg-67ya">Tuesday & Friday (CCA)<br></td>
+    <td class="tg-67ya">Tuesday &amp; Friday (CCA)<br></td>
     <td class="tg-67ya">2.00 p.m. - 4.00 p.m.<br></td>
   </tr>
   <tr>
@@ -56,14 +57,14 @@ third_nav_title: School Life
   <tr>
     <th class="tg-h1v5">School Gates<br></th>
     <th class="tg-h1v5">Vehicle Access<br></th>
-		<th class="tg-h1v5">Pedestrian Access (Monday, Tuesday, Thursday & Friday)<br></th>
+		<th class="tg-h1v5">Pedestrian Access (Monday, Tuesday, Thursday &amp; Friday)<br></th>
 		<th class="tg-h1v5">Pedestrian Access (Wednesday)<br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-67ya">Main Gate @ Edgefield Plains<br></td>
-    <td class="tg-67ya">(School Staff & School Buses)<br>6.30 a.m. - 7.30 a.m.<br>8.00 a.m. - 9.00 a.m.<br> 11.00 a.m. - 7.00 p.m.
+    <td class="tg-67ya">(School Staff &amp; School Buses)<br>6.30 a.m. - 7.30 a.m.<br>8.00 a.m. - 9.00 a.m.<br> 11.00 a.m. - 7.00 p.m.
 			<br></td>
 		<td class="tg-67ya">N.A.<br></td>
 		<td class="tg-67ya">N.A.<br></td>
