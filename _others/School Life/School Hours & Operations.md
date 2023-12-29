@@ -57,32 +57,32 @@ variant: markdown
   <tr>
     <th class="tg-h1v5">School Gates<br></th>
     <th class="tg-h1v5">Vehicle Access<br></th>
-		<th class="tg-h1v5">Pedestrian Access (Monday, Tuesday, Thursday &amp; Friday)<br></th>
+		<th class="tg-h1v5">Pedestrian Access<br>(Monday, Tuesday, Thursday &amp; Friday)<br></th>
 		<th class="tg-h1v5">Pedestrian Access (Wednesday)<br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-67ya">Main Gate @ Edgefield Plains<br></td>
+    <td class="tg-67ya">Main Gate<br>@ Edgefield Plains<br></td>
     <td class="tg-67ya">(School Staff &amp; School Buses)<br>6.30 a.m. - 7.30 a.m.<br>8.00 a.m. - 9.00 a.m.<br> 11.00 a.m. - 7.00 p.m.
 			<br></td>
 		<td class="tg-67ya">N.A.<br></td>
 		<td class="tg-67ya">N.A.<br></td>
   </tr>
 	<tr>
-    <td class="tg-67ya">Gate 1 @ Edgefield Plains<br></td>
+    <td class="tg-67ya">Gate 1<br>@ Edgefield Plains<br></td>
     <td class="tg-67ya">N.A.<br></td>
 		<td class="tg-67ya">6.30 a.m. - 7.00 p.m.<br></td>
 		<td class="tg-67ya">6.30 a.m. - 7.00 p.m.<br></td>
   </tr>
   <tr>
-    <td class="tg-67ya">Gate 2 @ Edgefield Plains<br></td>
+    <td class="tg-67ya">Gate 2<br>@ Edgefield Plains<br></td>
     <td class="tg-67ya">N.A.<br></td>
 		<td class="tg-67ya">7.00 a.m. - 7.30 a.m.<br>1.30 p.m. - 1.45 p.m.<br></td>
 		<td class="tg-67ya">7.00 a.m. - 7.30 a.m.<br>1.00 p.m. - 1.15 p.m.</td>
   </tr>
   <tr>
-		 <td class="tg-67ya">Gate 4 @ Punggol Drive<br></td>
+		 <td class="tg-67ya">Gate 4<br>@ Punggol Drive<br></td>
     <td class="tg-67ya">N.A.<br></td>
 		<td class="tg-67ya">7.00 a.m. - 7.30 a.m.<br>1.30 p.m. - 1.45 p.m.<br></td>
 		<td class="tg-67ya">7.00 a.m. - 7.30 a.m.<br>1.00 p.m. - 1.15 p.m. <br></td>
