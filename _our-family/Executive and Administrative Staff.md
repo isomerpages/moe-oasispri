@@ -89,18 +89,18 @@ variant: markdown
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-dv6r">ICT Trainer</th>
-    <th class="tg-j74v">Mr Devetharan S/O Sritharan<br></th>
+    <th class="tg-dv6r">Desktop Engineer</th>
+    <th class="tg-j74v">Mr Muhammad Hazizi Bin Abd Hamid<br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-8com">Desktop Engineer<br></td>
-    <td class="tg-1d14">Mr Muhammad Hazizi Bin Abd Hamid<br></td>
+    <td class="tg-1d14">Ms Durgadevi D/O Mogan<br></td>
   </tr>
   <tr>
-    <td class="tg-dv6r">Desktop Engineer<br></td>
-    <td class="tg-j74v">Ms Durgadevi D/O Mogan<br></td>
+    <td class="tg-dv6r">ICT Trainer<br></td>
+    <td class="tg-j74v">Mr Devetharan S/O Sritharan<br></td>
   </tr>
   <tr>
 	  <td class="tg-8com">Lab Assistant<br></td>
