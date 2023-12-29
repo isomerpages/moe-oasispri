@@ -2,14 +2,15 @@
 title: School Vision, Mission & Motto
 permalink: /our-school/school-vision-mission-n-motto/
 description: ""
+variant: markdown
 ---
 ### Our School Vision
 
-Passionate Learners, Caring Leaders
+Passionate Learners, Compassionate Changemakers
 
 ### Our School Mission
 
-To build a community of learners Inspiring self and others to lead with a heart
+To Empower Oasians to be Future-Ready, Anchored on School Values
 
 ### Our School Motto
 

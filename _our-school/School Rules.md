@@ -2,6 +2,7 @@
 title: School Rules
 permalink: /our-school/school-rules/
 description: ""
+variant: markdown
 ---
 1.  Students are to wear the prescribed school uniform and modification to the uniform is not allowed.
 
@@ -35,8 +36,7 @@ description: ""
 
 <u>Hair for Boys</u>
 
-<img src="/images/hair%20for%20boys.png" 
-     style="width:100%">
+<img src="/images/hair%20for%20boys.png" style="width:100%">
 		 
 *   Hair must be neatly cropped, combed, short and neat. It should not touch the eyebrows or collar.
 *   The back of the hair must be sloped and squared (no ‘tail’).
@@ -44,8 +44,7 @@ description: ""
 
 <u>Hair for Girls</u>
 
-<img src="/images/hair%20for%20girls.png" 
-     style="width:100%">
+<img src="/images/hair%20for%20girls.png" style="width:100%">
 		 
 *   Short hair should be kept neat. It should not touch the collar.
 *   Shoulder-length or long hair must be neatly tied up into a pony tail or plaited. Only black or dark blue hair band/ ribbon/rubber band/ hair clip is allowed.
@@ -62,27 +61,23 @@ description: ""
 *   Friendship bands and rings are not allowed.
 *   No other accessories are allowed.
 
-### Primary 1, Primary 2 and Primary 3
+### Primary 1 and Primary 2
 
-Primary 1 and Primary 2 students are to wear Junior uniform every day, including days with PE lessons. Primary 3 students are to wear Junior uniform every day except for House Practices, PE lessons or Sports CCA.
+Primary 1 and Primary 2 students are to wear Junior uniform every day, including days with PE lessons.
 
-![](/images/uniform.png)
+![](/images/p1p2uniform.png)
 
-**PE Attire**
+### Primary 3 to Primary 6
 
-Primary 3 are to wear PE attire for PE lessons, House Practice and Sports CCA.
+Primary 3 to Primary 6 students are to wear their school uniform on days with no House Practice, CCA and PE lessons.
 
-![](/images/pe%20attire.png)
+![](/images/p3p6uniform.png)
 
-### Primary 4, Primary 5 and Primary 6
+### PE Attire
 
-Primary 4 and Primary 5 students are to wear their school uniform on days with no House Practice, CCA and PE lessons.
+Primary 3 to Primary 6 students are to wear PE attire for PE lessons, House Practice and Sports CCA.
 
-![](/images/uniform%202.png)
-
-**PE Attire**
-
-![](/images/PE%20attire%202.png)
+![](/images/p3p6peattire.png)
 
 ### Conduct
 
