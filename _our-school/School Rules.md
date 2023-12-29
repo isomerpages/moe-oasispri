@@ -84,7 +84,6 @@ Primary 3 to Primary 6 students are to wear PE attire for PE lessons, House Prac
 <u>Attendance and Punctuality</u>
 
 *   All students are expected to be punctual for school. They must be seated in the assembly area by 7.30 a.m.
-*   Students will be considered late for school if he/she is not present in the assembly area by 7.35 a.m.
 *   All students must attend school regularly.
 *   Attendance at the Flag Raising and Pledge-Taking Ceremony is compulsory for all students.
 
