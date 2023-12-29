@@ -65,19 +65,19 @@ variant: markdown
 
 Primary 1 and Primary 2 students are to wear Junior uniform every day, including days with PE lessons.
 
-![](/images/uniform.png)
+![](/images/p1p2uniform.png)
 
 ### Primary 3 to Primary 6
 
 Primary 3 to Primary 6 students are to wear their school uniform on days with no House Practice, CCA and PE lessons.
 
-![](/images/uniform%202.png)
+![](/images/p3p6uniform.png)
 
 ### PE Attire
 
 Primary 3 to Primary 6 students are to wear PE attire for PE lessons, House Practice and Sports CCA.
 
-![](/images/pe%20attire.png)
+![](/images/p3p6peattire.png)
 
 ### Conduct
 
