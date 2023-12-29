@@ -116,7 +116,7 @@ All students should report to school by 7.30 a.m. for flag-raising ceremony.
 
 **5. Where can I find information on the school bus services for my child?**
     
-Please contact the school’s appointed school bus operator at +65 6553 3838 or email&nbsp;[admin@btntan.com](mailto:admin@btntan.com)&nbsp;directly to make arrangements for your child’s school bus services.
+Please contact the school’s appointed school bus operator at +65 6483 7260 or email [admin@btntan.com](mailto:admin@btntan.com)&nbsp;directly to make arrangements for your child’s school bus services.
 		
 **6. How can I purchase school uniforms and textbooks for my child?**
     
