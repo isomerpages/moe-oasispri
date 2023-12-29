@@ -3,6 +3,7 @@ title: General Information
 permalink: /our-family/parents/general-information/
 description: ""
 third_nav_title: Parents
+variant: markdown
 ---
 ### General Information
 
@@ -58,7 +59,7 @@ third_nav_title: Parents
     <td class="tg-67ya">7.30 a.m. - 1.00 p.m.<br></td>
   </tr>
   <tr>
-    <td class="tg-67ya">Tuesday & Friday (CCA)</td>
+    <td class="tg-67ya">Tuesday &amp; Friday (CCA)</td>
     <td class="tg-67ya">2.00 p.m. - 4.00 p.m.</td>
   </tr>
 </tbody>
@@ -66,7 +67,7 @@ third_nav_title: Parents
 
 **3. What time should my child report to school for his/her lessons?**
     
-All students should report to school by 7.30 a.m. for flag raising ceremony.
+All students should report to school by 7.30 a.m. for flag-raising ceremony.
 
 **4. What are the recess timings for the different levels?**
 
@@ -81,13 +82,13 @@ All students should report to school by 7.30 a.m. for flag raising ceremony.
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-67ya">Primary 1 & Primary 4<br></th>
+    <th class="tg-67ya">Primary 2<br></th>
     <th class="tg-67ya">9.00 a.m. - 9.30 a.m.<br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-67ya">Primary 2 & Primary 3<br></td>
+    <td class="tg-67ya">Primary 1 &amp; Primary 4<br></td>
     <td class="tg-67ya">9.30 a.m. - 10.00 a.m.<br></td>
   </tr>
   <tr>
@@ -97,23 +98,31 @@ All students should report to school by 7.30 a.m. for flag raising ceremony.
   <tr>
     <td class="tg-67ya">Primary 5</td>
     <td class="tg-67ya">10.30 a.m. - 11.00 a.m.</td>
+	</tr>
+  <tr>
+    <td class="tg-67ya">Primary 3</td>
+    <td class="tg-67ya">11.00 a.m. - 11.30 a.m.</td>	
   </tr>
   <tr>
-    <td class="tg-67ya">Snack Break</td>
+    <td class="tg-67ya">Snack Break (Primary 1, 2, 4 &amp; 6)</td>
     <td class="tg-67ya">12.00 p.m.</td>
+	</tr>
+  <tr>
+    <td class="tg-67ya">Snack Break (Primary 3 &amp; 5)</td>
+    <td class="tg-67ya">9.00 a.m.</td>
   </tr>
 </tbody>
 </table>
 
 **5. Where can I find information on the school bus services for my child?**
     
-Please contact the school’s appointed school bus operator at +65 6553 3838 or email [admin@btntan.com](mailto:admin@btntan.com) directly to make arrangements for your child’s school bus services.
+Please contact the school’s appointed school bus operator at +65 6553 3838 or email&nbsp;[admin@btntan.com](mailto:admin@btntan.com)&nbsp;directly to make arrangements for your child’s school bus services.
 		
 **6. How can I purchase school uniforms and textbooks for my child?**
     
 You may purchase your child’s school uniforms and textbooks from the school bookshop at the end of the year, between November and December. The school textbook and stationery lists will be given to your child during the last week of school in November. You may make ad-hoc purchases of the textbooks at the school bookshop during the school term between 2.00 p.m. and 3.00 p.m.
     
-For further purchase of the uniforms, you may contact our uniform supplier at +65 6479 6811 for further details.
+For further purchase of the uniforms, you may contact our&nbsp;uniform supplier&nbsp;at +65 6479 6811 for further details.
 
 **7. What are the operating hours of the school dental clinic?**
     
@@ -129,7 +138,7 @@ Please inform the staff at General Office who will advise you on the form(s) and
 
 **10. What must I do if I need to bring my child/ward home early?**
     
-Parents/guardians fetching their child from school must report to the office and fill in the necessary form before leaving the school compound. Students will only be allowed to leave the school premises early if accompanied by their parents/guardians. You should also inform the school bus driver if your child goes home via school bus.
+Parents/guardians fetching their child from school must report to the office and fill in the&nbsp;necessary form before leaving the school compound. Students will only be allowed to&nbsp;leave the school premises early if accompanied by their parents/guardians. You should&nbsp;also inform the school bus driver if your child goes home via school bus.
 
 ### Financial Assistance
 
@@ -137,13 +146,13 @@ Parents/guardians fetching their child from school must report to the office and
     
 If you need financial assistance, you may wish to consider the MOE Financial Assistance Scheme (FAS). The MOE FAS is a scheme to assist needy Singaporean families in meeting essential school expenses so that every child can have the opportunity to complete their education. Eligible families may submit an application form and the required supporting documents to the school. The school will process your application and inform you on the outcome of your application.
     
-For further information, please visit [https://www.moe.gov.sg/education/financial-assistance/](https://www.moe.gov.sg/education/financial-assistance/)
+For further information, please visit&nbsp;[https://www.moe.gov.sg/education/financial-assistance/](https://www.moe.gov.sg/education/financial-assistance/)
 		
 ### School Admissions / Transfers
 
 **12. How can I register my child for the Primary One Registration Exercise in the school?**
     
-The Primary One Registration Exercise is an exercise for a child to register for a Primary One place in a mainstream school. It is tentatively conducted between July and August each year. You can register your child for the Primary One Registration Exercise only during the period of exercise and the phase that you are eligible for registration. Please refer to the MOE website for information on the registration phases and procedures.
+The Primary One Registration Exercise is an exercise for a child to register for a Primary One place in a mainstream school. It is tentatively conducted between July and August each year. You can register your child for the Primary One Registration Exercise only during the period of exercise and the phase that you are eligible for registration. Please refer to the MOE website for information on the&nbsp;registration phases&nbsp;and procedures.
     
 ([http://www.moe.gov.sg/education/admissions/primary-one-registration/phases/](http://www.moe.gov.sg/education/admissions/primary-one-registration/phases/))
 
@@ -151,17 +160,17 @@ The Primary One Registration Exercise is an exercise for a child to register for
     
 You may obtain a form from the General Office and submit the completed form to the school. As admission is subject to availability of vacancies, the school will contact you if there is a vacancy for your child.
     
-Alternatively, you may wish to refer to [https://beta.moe.gov.sg/primary/transfers/](https://beta.moe.gov.sg/primary/transfers/) and MOE will assist in the facilitation of the school transfer.
+Alternatively, you may wish to refer to&nbsp;[https://beta.moe.gov.sg/primary/transfers/](https://beta.moe.gov.sg/primary/transfers/)&nbsp;and MOE will assist in the facilitation of the school transfer.
 
 ### Parent Support Group (PSG)
 
 **14. My child is currently studying in the school and I wish to contribute my service as a parent volunteer. How can I join the PSG?**
     
-Please drop us an email at [oasis_ps@moe.edu.sg](mailto:oasis_ps@moe.edu.sg) and we will respond to you.
+Please drop us an email at&nbsp;[oasis_ps@moe.edu.sg](mailto:oasis_ps@moe.edu.sg)&nbsp;and we will respond to you.
 
 **15. What are the areas of service that I can contribute as a parent volunteer?**
     
-Parent volunteers can support the school in various areas such as reading programs, pupil wellness, parenting support, chaperons for learning journeys. For more information, please drop us an email at [oasis_ps@moe.edu.sg](mailto:oasis_ps@moe.edu.sg) and we will respond to you.
+Parent volunteers can support the school in various areas such as reading programs, pupil wellness, parenting support, chaperons for learning journeys. For more information, please drop us an email at&nbsp;[oasis_ps@moe.edu.sg](mailto:oasis_ps@moe.edu.sg)&nbsp;and we will respond to you.
 
 ### School-based Student Care Centre
 
@@ -194,7 +203,7 @@ Yes, YMCA is the appointed school-based Student Care Centre for the school. To f
 </tbody>
 </table>
 
-The centre may close on certain dates. Please contact the operator at +65 6509 9557 / +65 9637 6416 to confirm.
+The centre may close on certain dates. Please contact the operator at +65 6509 9557 /&nbsp;+65 9637 6416 to confirm.
 
 **18. What are the components of the after-school programme?**
     
