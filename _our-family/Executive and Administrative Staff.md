@@ -21,7 +21,7 @@ variant: markdown
 <thead>
   <tr>
     <th class="tg-dv6r">Administration Manager</th>
-    <th class="tg-j74v">Ms Pauline Ng</th>
+    <th class="tg-j74v">Ms Ng Pauline</th>
   </tr>
 </thead>
 <tbody>
@@ -89,26 +89,26 @@ variant: markdown
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-dv6r">ICT Trainer</th>
-    <th class="tg-j74v">Mr Devetharan S/O Sritharan<br></th>
+    <th class="tg-dv6r">Desktop Engineer</th>
+    <th class="tg-j74v">Mr Muhammad Hazizi Bin Abd Hamid<br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-8com">Desktop Engineer<br></td>
-    <td class="tg-1d14">Mr Muhammad Hazizi Bin Abd Hamid<br></td>
+    <td class="tg-1d14">Ms Durgadevi D/O Mogan<br></td>
   </tr>
   <tr>
-    <td class="tg-dv6r">Desktop Engineer<br></td>
-    <td class="tg-j74v">Ms Durgadevi D/O Mogan<br></td>
+    <td class="tg-dv6r">ICT Trainer<br></td>
+    <td class="tg-j74v">Mr Devetharan S/O Sritharan<br></td>
   </tr>
   <tr>
-	  <td class="tg-8com">Library Assistant<br></td>
-    <td class="tg-1d14">Mdm Frannie Chung Sau Kuen</td>
+	  <td class="tg-8com">Lab Assistant<br></td>
+    <td class="tg-1d14">Mdm Cheliboni Satyavathi</td>
   </tr>
 	<tr>
-		<td class="tg-dv6r">Lab Assistant<br></td>
-    <td class="tg-j74v">Mdm Cheliboni Satyavathi</td>
+		<td class="tg-dv6r">Library Assistant<br></td>
+    <td class="tg-j74v">Mdm Frannie Chung Sau Kuen</td>
   </tr>
 	<tr>
  <td class="tg-8com">Receptionist<br></td>
