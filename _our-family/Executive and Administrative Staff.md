@@ -21,7 +21,7 @@ variant: markdown
 <thead>
   <tr>
     <th class="tg-dv6r">Administration Manager</th>
-    <th class="tg-j74v">Ms Pauline Ng</th>
+    <th class="tg-j74v">Ms Ng Pauline</th>
   </tr>
 </thead>
 <tbody>
