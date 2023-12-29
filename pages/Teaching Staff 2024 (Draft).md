@@ -110,7 +110,7 @@ description: ""
   <tr>
     <td class="tg-0ynh">2 Diligence<br></td>
     <td class="tg-0ynh">Ms Cassandra Goh</td>
-    <td class="tg-0ynh">Mdm Huang Rui</td>
+    <td class="tg-0ynh">Mrs Ang-Wei Yueshan</td>
   </tr>
   <tr>
     <td class="tg-7vye">2 Empathy<br></td>
@@ -120,7 +120,7 @@ description: ""
   <tr>
     <td class="tg-0ynh">2 Harmony<br></td>
     <td class="tg-0ynh">Ms Tham Hui Xia</td>
-    <td class="tg-0ynh">Mrs Ang-Wei Yueshan</td>
+    <td class="tg-0ynh">Mdm Huang Rui</td>
   </tr>
   <tr>
     <td class="tg-7vye">2 Integrity<br></td>
