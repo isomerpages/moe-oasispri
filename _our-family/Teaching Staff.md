@@ -185,7 +185,7 @@ variant: markdown
   <tr>
     <td class="tg-7vye">3 Empathy<br></td>
     <td class="tg-7vye">Ms Afiqah</td>
-    <td class="tg-7vye">Mdm Wang Yanhua</td>
+    <td class="tg-7vye">Mdm Wang Yanhua, Mr Ivan Ho</td>
   </tr>
   <tr>
     <td class="tg-0ynh">3 Harmony<br></td>
@@ -305,7 +305,7 @@ variant: markdown
   <tr>
     <td class="tg-7vye">5 Care<br></td>
     <td class="tg-7vye">Mdm Yap Shu Hui</td>
-    <td class="tg-7vye">Mrs Munirah</td>
+    <td class="tg-7vye">Mrs Munirah Eszham</td>
   </tr>
   <tr>
     <td class="tg-0ynh">5 Diligence<br></td>
