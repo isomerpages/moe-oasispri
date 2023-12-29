@@ -295,7 +295,7 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-3uba" colspan="3"><span style="font-weight:bold;color:#002D46;background-color:#FFC600">Year Head: Ms Tan Li Na</span><br><span style="font-weight:bold;color:#002D46;background-color:#FFC600">Assistant Year Heads: Mr Shazwan, Mrs Joelle Pek</span><br></td>
+    <td class="tg-3uba" colspan="3"><span style="font-weight:bold;color:#002D46;background-color:#FFC600">Year Head: Ms Tan Li Na</span><br><span style="font-weight:bold;color:#002D46;background-color:#FFC600">Assistant Year Head: Mrs Joelle Pek</span><br></td>
   </tr>
   <tr>
     <td class="tg-3uba"><span style="font-weight:bold;color:#002D46;background-color:#FFC600">Class</span></td>
