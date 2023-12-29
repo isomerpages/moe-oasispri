@@ -19,28 +19,28 @@ variant: markdown
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-1wig" colspan="3">Semester I<br></th>
+    <th class="tg-1wig" colspan="3">Semester 1<br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-cly1">Term I<br></td>
-    <td class="tg-cly1" colspan="2">Tue 2 Jan to Fri 8 Mar<br></td>
+    <td class="tg-cly1" colspan="2">Tue, 2 Jan to Fri, 8 Mar<br></td>
   </tr>
   <tr>
     <td class="tg-cly1">Term II<br></td>
-    <td class="tg-cly1" colspan="2">Mon 18 Mar to Fri 24 May<br></td>
+    <td class="tg-cly1" colspan="2">Mon, 18 Mar to Fri, 24 May<br></td>
   </tr>
   <tr>
-    <td class="tg-1wig" colspan="3">Semester II<br></td>
+    <td class="tg-1wig" colspan="3">Semester 2<br></td>
   </tr>
   <tr>
     <td class="tg-cly1">Term III<br></td>
-    <td class="tg-cly1" colspan="2">Mon 24 Jun to Fri 30 Aug<br></td>
+    <td class="tg-cly1" colspan="2">Mon, 24 Jun to Fri, 30 Aug<br></td>
   </tr>
   <tr>
     <td class="tg-cly1">Term IV<br></td>
-    <td class="tg-cly1" colspan="2">Mon 9 Sep to Fri 15 Nov<br></td>
+    <td class="tg-cly1" colspan="2">Mon, 9 Sep to Fri, 15 Nov<br></td>
   </tr>
 </tbody>
 </table>
@@ -59,28 +59,28 @@ variant: markdown
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-1wig" colspan="2">Semester I<br></th>
+    <th class="tg-1wig" colspan="2">Semester 1<br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-cly1">Between Terms I &amp; II<br></td>
-    <td class="tg-cly1">Sat 9 Mar to Sun 17 Mar<br></td>
+    <td class="tg-cly1">Sat, 9 Mar to Sun, 17 Mar<br></td>
   </tr>
   <tr>
     <td class="tg-cly1">Between Semesters I &amp; II<br></td>
-    <td class="tg-cly1">Sat 25 May to Sun 23 Jun<br></td>
+    <td class="tg-cly1">Sat, 25 May to Sun, 23 Jun<br></td>
   </tr>
   <tr>
-    <td class="tg-1wig" colspan="2">Semester II<br></td>
+    <td class="tg-1wig" colspan="2">Semester 2<br></td>
   </tr>
   <tr>
     <td class="tg-cly1">Between Terms III &amp; IV<br></td>
-    <td class="tg-cly1">Sat 31 Aug to Sun 8 Sep<br></td>
+    <td class="tg-cly1">Sat, 31 Aug to Sun, 8 Sep<br></td>
   </tr>
   <tr>
     <td class="tg-cly1">At End of School Year<br></td>
-    <td class="tg-cly1">Sat 16 Nov to Tues 31 Dec<br></td>
+    <td class="tg-cly1">Sat, 16 Nov to Tues, 31 Dec<br></td>
   </tr>
 </tbody>
 </table>
@@ -107,7 +107,7 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-y0ep">Youth Day<br></td>
-		<td class="tg-y24x"><span style="background-color:initial">Sun 30 Jun<br>(The following Mon 1 Jul will be a school holiday)</span></td>
+		<td class="tg-y24x"><span style="background-color:initial">Sun, 30 Jun<br>(The following Mon, 1 Jul will be a school holiday)</span></td>
   </tr>
   <tr>
     <td class="tg-y0ep">-<br></td>
@@ -115,11 +115,11 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-y0ep">Teachers’ Day<br></td>
-    <td class="tg-y0ep">Fri 30 Aug<br></td>
+    <td class="tg-y0ep">Fri, 30 Aug<br></td>
   </tr>
   <tr>
     <td class="tg-y0ep">Children’s Day<br></td>
-    <td class="tg-y0ep">Fri 4 Oct<br></td>
+    <td class="tg-y0ep">Fri, 4 Oct<br></td>
   </tr>
 </tbody>
 </table>
@@ -146,10 +146,10 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-67ya">New Year’s Day<br></td>
-    <td class="tg-67ya">Mon 1 Jan
+    <td class="tg-67ya">Mon, 1 Jan
   </td></tr><tr>
     <td class="tg-67ya" rowspan="2">Chinese New Year<br></td>
-    <td class="tg-67ya">Sat 10 Feb<br>Sun 11 Feb
+    <td class="tg-67ya">Sat, 10 Feb<br>Sun, 11 Feb
 		<br></td>
   </tr>
   <tr>
@@ -157,34 +157,35 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-67ya">Good Friday<br></td>
-    <td class="tg-67ya">Fri 29 Mar<br></td>
+    <td class="tg-67ya">Fri, 29 Mar<br></td>
   </tr>
   <tr>
     <td class="tg-67ya">Hari Raya Puasa<br></td>
-	<td class="tg-vd2a"><span style="background-color:initial">Wed 10 Apr</span></td>
+	<td class="tg-vd2a"><span style="background-color:initial">Wed, 10 Apr</span></td>
   </tr>
   <tr>
     <td class="tg-67ya">Labour Day<br></td>
-    <td class="tg-67ya">Wed 1 May<br></td>
+    <td class="tg-67ya">Wed, 1 May<br></td>
   </tr>
   <tr>
     <td class="tg-67ya">Vesak Day<br></td>
-    <td class="tg-67ya">Wed 22 May<br></td>
+    <td class="tg-67ya">Wed, 22 May<br></td>
   </tr>
   <tr>
     <td class="tg-67ya">Hari Raya Haji<br></td>
-    <td class="tg-67ya">Mon 17 Jun<br></td>
+    <td class="tg-67ya">Mon, 17 Jun<br></td>
   </tr>
   <tr>
     <td class="tg-67ya">National Day<br></td>
-    <td class="tg-67ya">Fri 9 Aug<br></td>
+    <td class="tg-67ya">Fri, 9 Aug<br></td>
   </tr>
   <tr>
     <td class="tg-67ya">Deepavali<br></td>
-		<td class="tg-67ya">Thu 31 Oct<br></td>
-	
+		<td class="tg-67ya">Thu, 31 Oct<br></td>
   </tr>
   <tr>
     <td class="tg-67ya">Christmas Day<br></td>
-    <td class="tg-67ya">Wed 25 Dec</td>
-  </tr></tbody></table>
+    <td class="tg-67ya">Wed, 25 Dec</td>
+  </tr>
+	</tbody>
+</table>
