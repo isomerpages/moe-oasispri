@@ -309,8 +309,8 @@ description: ""
   </tr>
   <tr>
     <td class="tg-0ynh">5 Diligence<br></td>
-    <td class="tg-0ynh">Mr Shazwan</td>
-    <td class="tg-0ynh">Mrs Norhazlinda Sham, Mr Jonathan Boey</td>
+    <td class="tg-0ynh">Mrs Norhazlinda Sham</td>
+    <td class="tg-0ynh">Mr Jonathan Boey</td>
   </tr>
   <tr>
     <td class="tg-7vye">5 Empathy<br></td>
@@ -330,7 +330,7 @@ description: ""
   <tr>
     <td class="tg-0ynh">5 Loyalty<br></td>
     <td class="tg-0ynh">Mdm Liyana</td>
-    <td class="tg-0ynh">Mr Effendi</td>
+    <td class="tg-0ynh">Ms Faizah</td>
   </tr>
   <tr>
     <td class="tg-7vye">5 Resilience<br></td>
