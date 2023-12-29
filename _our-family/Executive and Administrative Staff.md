@@ -103,12 +103,12 @@ variant: markdown
     <td class="tg-j74v">Ms Durgadevi D/O Mogan<br></td>
   </tr>
   <tr>
-	  <td class="tg-8com">Library Assistant<br></td>
-    <td class="tg-1d14">Mdm Frannie Chung Sau Kuen</td>
+	  <td class="tg-8com">Lab Assistant<br></td>
+    <td class="tg-1d14">Mdm Cheliboni Satyavathi</td>
   </tr>
 	<tr>
-		<td class="tg-dv6r">Lab Assistant<br></td>
-    <td class="tg-j74v">Mdm Cheliboni Satyavathi</td>
+		<td class="tg-dv6r">Library Assistant<br></td>
+    <td class="tg-j74v">Mdm Frannie Chung Sau Kuen</td>
   </tr>
 	<tr>
  <td class="tg-8com">Receptionist<br></td>
