@@ -111,7 +111,6 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 </table>
 
 ##### **Information for Parents**
------------------------
 8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.
 
 9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [here](https://go.gov.sg/optoutsed2023). The completed opt-out form is to be submitted by **...**.
