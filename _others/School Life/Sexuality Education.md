@@ -104,19 +104,14 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 		<td>Term 1<br>Week 5<br></td>
   </tr>
   <tr>
-    <td><br><br></td>
-    <td><br><br>
-		</td>
-  <td><br><br></td>
-	</tr>
-</tbody>
+</tr></tbody>
 </table>
 
-### Information for Parents
+##### Information for Parents
 -----------------------
+<br>
+8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.
 
-8\. Parents may opt their children out of Sexuality Education lessons.  
+9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [here](https://go.gov.sg/optoutsed2023). The completed opt-out form is to be submitted by **...**.
 
-9\. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. Please click&nbsp;[here](https://go.gov.sg/optoutsed2023)&nbsp;(https://go.gov.sg/optoutsed2023)&nbsp;to access the opt-out form and submit by&nbsp;**16/01/2023**.
-
-10\. Parents can contact the school at&nbsp;[oasis\_ps@moe.edu.sg](mailto:oasis_ps@moe.edu.sg)&nbsp;or +65 6320 9855 for discussion or to seek clarification about the school’s Sexuality Education programme.
+10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at [oasis\_ps@moe.edu.sg](mailto:oasis_ps@moe.edu.sg) or +65 6320 9855 for discussion or to seek clarification about the school’s Sexuality Education programme.
