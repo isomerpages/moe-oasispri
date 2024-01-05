@@ -5,7 +5,7 @@ description: ""
 third_nav_title: School Life
 variant: markdown
 ---
-#### OASIS PRIMARY SCHOOL
+##### OASIS PRIMARY SCHOOL
 
 ##### MOE Sexuality Education in Schools  
 
