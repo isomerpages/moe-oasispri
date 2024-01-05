@@ -106,7 +106,8 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 		<td>Term 1<br>Week 5<br></td>
   </tr>
   <tr>
-</tr></tbody>
+</tr>
+</tbody>
 </table>
 
 ##### Information for Parents
