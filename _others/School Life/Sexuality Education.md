@@ -57,7 +57,7 @@ b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Character and Citizenship Education (CCE)
 </thead>
 <tbody>
   <tr>
-    <td rowspan="4" style="vertical-align: middle;">Growing Years<br></td>
+    <td rowspan="3" style="vertical-align: middle;">Growing Years<br></td>
     <td>The Changes in Me<br>(60 min)<br></td>
     <td>This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty.<br><br>
 This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
