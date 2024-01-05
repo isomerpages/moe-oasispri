@@ -32,17 +32,17 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more informa
 a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Science<br>
 b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Character and Citizenship Education (CCE)
 
-### Sexuality Education Lessons:
+##### Sexuality Education Lessons:
 
-6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. Furthermore, our young are also exposed to a wide range of influences that could endanger health and undermine the integrity of the family. Our students require guidance so that they can respond with discernment to the sexual messages in the media and other sources.
+6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. Furthermore, our young are also exposed to a wide range of influences that could endanger health and undermine the integrity of the family. Our students require close guidance so that they can respond with discernment to the sexual messages in the media and other sources.
 
-7\. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters.
+7\. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. Through these lessons, students will learn healthy ways to manage the physiological, social and emotional changes in their growing years. They learn to build healthy and rewarding relationships with others, including those with members of the opposite sex. Students are also guided to make wise, informed and responsible decisions to keep themselves safe from sexuality-related risks.
 
-### 2023 Sexuality Education Lessons in CCE 2021
-
-At Oasis Primary School, the following Sexuality Education lessons will be taught in 2023:
+##### **At Oasis Primary School, the following Sexuality Education lessons will be taught in 2024:**
 
 <img src="/images/MOE-Logo.jpg" style="width:30%">
+
+##### 2024 Sexuality Education Lessons in CCE 2021
 
 ##### PRIMARY 5
 
@@ -61,19 +61,19 @@ At Oasis Primary School, the following Sexuality Education lessons will be taugh
     <td>The Changes in Me<br>(60 min)<br></td>
     <td>This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty.<br><br>
 This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
-		<td>Term 2<br>Week 2<br></td>
+		<td>Term 2<br>Week 4<br></td>
   </tr>
   <tr>
     <td>Did You Know?<br>(60 min)<br></td>
     <td>This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy '**Stop-Think-Do**'.<br><br>
 This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
-		<td>Term 2<br>Week 4<br></td>
+		<td>Term 2<br>Week 7<br></td>
   </tr>
   <tr>
     <td>Keeping Myself Safe<br>(60 min)<br></td>
     <td>In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.<br><br>
 This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
-		<td>Term 2<br>Week 5<br></td>
+		<td>Term 2<br>Week 9<br></td>
   </tr>
 </tbody>
 </table>
