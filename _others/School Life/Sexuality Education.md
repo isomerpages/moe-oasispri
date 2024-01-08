@@ -5,4 +5,4 @@ description: ""
 third_nav_title: School Life
 variant: markdown
 ---
-*To be updated...*
+*To be updated ...*
