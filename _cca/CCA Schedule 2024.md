@@ -20,11 +20,11 @@ variant: markdown
 </style><br>
 <table class="tg">
 <thead>
-   <tr><td class="tg-dzgf" colspan="4">CCAs are conducted on Tuesdays or/and Fridays from 2.00 p.m. to 4.00 p.m.<br>Football (Girls), Sports Climbing and Modular Sports (P4) will be on Thursday from 4.00 p.m. to 5.45 p.m.<br><br>
+   <tr><td class="tg-h1v5" colspan="4">CCAs are conducted on Tuesdays or/and Fridays from 2.00 p.m. to 4.00 p.m.<br>Football (Girls), Sports Climbing and Modular Sports (P4) will be on Thursday from 4.00 p.m. to 5.45 p.m.<br>
 	</td>
 		</tr><tr>
-	  <th class="tg-dzgf">Category<br></th>
-    <th class="tg-dzgf">CCA<br></th>
+	  <th class="tg-h1v5">Category<br></th>
+    <th class="tg-h1v5">CCA<br></th>
     <th class="tg-h1v5">OIC<br></th>
     <th class="tg-h1v5">2IC<br></th>
   </tr>
