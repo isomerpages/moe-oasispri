@@ -55,9 +55,9 @@ variant: markdown
     <td class="tg-vd2a">Table Tennis</td>
   </tr>
   <tr>
-    <td class="tg-vd2a">Modular Sports (P6)</td>
+    <td class="tg-vd2a">Modular Sports (P6)<br>--<br>--</td>
     <td class="tg-vd2a">Modular Sports (P4)<br>Football (Girls)<br>Sports Climbing</td>
-    <td class="tg-vd2a">Modular Sports (P5)</td>
+    <td class="tg-vd2a">Modular Sports (P5)<br>--<br>--</td>
  </tr>
   <tr>
     <td class="tg-vd2a" rowspan="1">Performing Arts</td>
