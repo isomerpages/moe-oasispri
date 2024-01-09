@@ -50,12 +50,12 @@ variant: markdown
     <td class="tg-vd2a">Hockey</td>
   </tr>
   <tr>
-    <td class="tg-vd2a">Wushu<br></td>
+    <td class="tg-vd2a">Wushu</td>
     <td class="tg-vd2a">--</td>
     <td class="tg-vd2a">Table Tennis</td>
   </tr>
   <tr>
-    <td class="tg-vd2a">Modular Sports (P6)<br></td>
+    <td class="tg-vd2a">Modular Sports (P6)</td>
     <td class="tg-vd2a">Modular Sports (P4)<br>Football (Girls)<br>Sports Climbing</td>
     <td class="tg-vd2a">Modular Sports (P5)</td>
  </tr>
@@ -100,103 +100,103 @@ variant: markdown
 </style>
 <table class="tg">
 <thead>
-   <tr><td class="tg-h1v5" colspan="4">CCAs are conducted on Tuesdays or/and Fridays from 2.00 p.m. to 4.00 p.m.<br>Football (Girls), Sports Climbing and Modular Sports (P4) will be on Thursday from 4.00 p.m. to 5.45 p.m.<br><br>
+   <tr><td class="tg-h1v5" colspan="4">CCAs are conducted on Tuesdays or/and Fridays from 2.00 p.m. to 4.00 p.m.<br>Football (Girls), Sports Climbing and Modular Sports (P4) will be on Thursday from 4.00 p.m. to 5.45 p.m.
 	</td>
 		</tr><tr>
-	  <th class="tg-h1v5">Category<br></th>
-    <th class="tg-h1v5">CCA<br></th>
-    <th class="tg-h1v5">OIC<br></th>
-    <th class="tg-h1v5">2IC<br></th>
+	  <th class="tg-h1v5">Category</th>
+    <th class="tg-h1v5">CCA</th>
+    <th class="tg-h1v5">OIC</th>
+    <th class="tg-h1v5">2IC</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-vd2a" rowspan="7">Sports<br></td>
-    <td class="tg-vd2a">Badminton *<br></td>
-    <td class="tg-vd2a">Mr Farhan<br></td>
+    <td class="tg-vd2a" rowspan="7">Sports</td>
+    <td class="tg-vd2a">Badminton *</td>
+    <td class="tg-vd2a">Mr Farhan</td>
     <td class="tg-vd2a">Ms Stacey Koh<br>(Sem 1)<br>Mdm Nurmah<br>(Sem 2)</td>
   </tr>
   <tr>
-    <td class="tg-vd2a">Hockey (Boys) *<br></td>
-    <td class="tg-vd2a">Mr Aizad<br></td>
+    <td class="tg-vd2a">Hockey (Boys) *</td>
+    <td class="tg-vd2a">Mr Aizad</td>
     <td class="tg-vd2a">Mr Jonathan Boey</td>
   </tr>
   <tr>
-    <td class="tg-vd2a">Modular Sports<br></td>
-    <td class="tg-vd2a">Mr Yeo Yungsen<br></td>
-    <td class="tg-vd2a">Ms Vong<br></td>
+    <td class="tg-vd2a">Modular Sports</td>
+    <td class="tg-vd2a">Mr Yeo Yungsen</td>
+    <td class="tg-vd2a">Ms Vong</td>
   </tr>
   <tr>
-    <td class="tg-vd2a">Table Tennis *<br></td>
-    <td class="tg-vd2a">Mrs Rosenna Seah<br></td>
+    <td class="tg-vd2a">Table Tennis *</td>
+    <td class="tg-vd2a">Mrs Rosenna Seah</td>
     <td class="tg-vd2a">Mrs Alan Yeo</td>
   </tr>
   <tr>
-    <td class="tg-vd2a">Wushu<br></td>
-    <td class="tg-vd2a">Ms Zheng Rui<br></td>
+    <td class="tg-vd2a">Wushu</td>
+    <td class="tg-vd2a">Ms Zheng Rui</td>
     <td class="tg-vd2a">Mdm Cheng Yingying</td>
 	</tr>
   <tr>
-    <td class="tg-vd2a">Sports Climbing<br></td>
-    <td class="tg-vd2a">Mr Effendi<br></td>
+    <td class="tg-vd2a">Sports Climbing</td>
+    <td class="tg-vd2a">Mr Effendi</td>
     <td class="tg-vd2a">Mdm Florence Ngu</td>
 	</tr>
   <tr>
-    <td class="tg-vd2a">Football (Girls)<br></td>
-    <td class="tg-vd2a">Mr Hamzah<br></td>
+    <td class="tg-vd2a">Football (Girls)</td>
+    <td class="tg-vd2a">Mr Hamzah</td>
     <td class="tg-vd2a">Mdm Maziyah</td>
   </tr>
   <tr>
-    <td class="tg-vd2a" rowspan="5">Performing Arts<br>Visual Arts<br></td>
-    <td class="tg-vd2a">Guitar Club **<br></td>
-    <td class="tg-vd2a">Ms Sindy Lai<br></td>
+    <td class="tg-vd2a" rowspan="5">Performing Arts<br>Visual Arts</td>
+    <td class="tg-vd2a">Guitar Club **</td>
+    <td class="tg-vd2a">Ms Sindy Lai</td>
     <td class="tg-vd2a">Mrs Ng Wei Wei</td>
   </tr>
   <tr>
-    <td class="tg-vd2a">Drama<br></td>
-    <td class="tg-vd2a">Mdm Norizah<br></td>
+    <td class="tg-vd2a">Drama</td>
+    <td class="tg-vd2a">Mdm Norizah</td>
     <td class="tg-vd2a">Ms Haslinda</td>
   </tr>
   <tr>
-    <td class="tg-vd2a">Contemporary Dance *<br></td>
-    <td class="tg-vd2a">Ms Joyce Chew<br></td>
+    <td class="tg-vd2a">Contemporary Dance *</td>
+    <td class="tg-vd2a">Ms Joyce Chew</td>
     <td class="tg-vd2a">Ms Safeenah</td>
   </tr>
   <tr>
-    <td class="tg-vd2a">Ensemble - Guzheng *<br></td>
-    <td class="tg-vd2a">Ms Yan Xiaojing<br></td>
+    <td class="tg-vd2a">Ensemble - Guzheng *</td>
+    <td class="tg-vd2a">Ms Yan Xiaojing</td>
     <td class="tg-vd2a">Ms Wang Yuwei</td>
   </tr>
   <tr>
-    <td class="tg-vd2a">Art Club **<br></td>
-    <td class="tg-vd2a">Mdm Pang Ming Ing<br></td>
+    <td class="tg-vd2a">Art Club **</td>
+    <td class="tg-vd2a">Mdm Pang Ming Ing</td>
     <td class="tg-vd2a">Ms Stacey Kim</td>
   </tr>
   <tr>
-    <td class="tg-vd2a" rowspan="4">Clubs and Societies<br></td>
-    <td class="tg-vd2a">Greenmakers Club<br></td>
-    <td class="tg-vd2a">Mdm Ahadrina<br></td>
+    <td class="tg-vd2a" rowspan="4">Clubs &amp; Societies</td>
+    <td class="tg-vd2a">Greenmakers Club</td>
+    <td class="tg-vd2a">Mdm Ahadrina</td>
     <td class="tg-vd2a">Mrs Lau Peixia</td>
   </tr>
   <tr>
-    <td class="tg-vd2a">ICT (Robotics/Coding)<br></td>
-    <td class="tg-vd2a">Mdm Hafizah<br></td>
+    <td class="tg-vd2a">ICT (Robotics/Coding)</td>
+    <td class="tg-vd2a">Mdm Hafizah</td>
     <td class="tg-vd2a">Mdm Atika</td>
   </tr>
   <tr>
-    <td class="tg-vd2a">Media Club<br></td>
-    <td class="tg-vd2a">Ms Goh Wan Yu<br></td>
+    <td class="tg-vd2a">Media Club</td>
+    <td class="tg-vd2a">Ms Goh Wan Yu</td>
     <td class="tg-vd2a">Ms Cassandra Goh</td>
   </tr>
   <tr>
-    <td class="tg-vd2a">Language &amp; Cultural Club (LCC)<br></td>
-    <td class="tg-vd2a">Mdm Ho Huan Xin<br></td>
+    <td class="tg-vd2a">Language and<br>Cultural Club (LCC)</td>
+    <td class="tg-vd2a">Mdm Ho Huan Xin</td>
     <td class="tg-vd2a">Ms Phoebe Tan</td>
   </tr>
   <tr>
-    <td class="tg-vd2a">Uniformed Group<br></td>
-    <td class="tg-vd2a">Scouts<br></td>
-    <td class="tg-vd2a">Mr Faris Fong<br></td>
+    <td class="tg-vd2a">Uniformed Group</td>
+    <td class="tg-vd2a">Scouts</td>
+    <td class="tg-vd2a">Mr Faris Fong</td>
     <td class="tg-vd2a">Mdm Aisah</td>
   </tr><tr>
 </tr></tbody>
