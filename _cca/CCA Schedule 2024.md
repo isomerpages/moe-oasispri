@@ -17,22 +17,20 @@ variant: markdown
 .tg .tg-ilyo{background-color:#FFF;color:#002D46;text-align:center;vertical-align:top}
 .tg .tg-vd2a{background-color:#FFF;color:#002D46;text-align:left;vertical-align:top}
 
-</style>
-<br><br><table class="tg">
+</style><br>
+<table class="tg">
 <thead>
-  <tr>
-		
-    <th class="tg-dzgf">Category<br></th>
+   <tr><td class="tg-dzgf" colspan="4">CCAs are conducted on Tuesdays or/and Fridays from 2.00 p.m. to 4.00 p.m.<br>Football (Girls), Sports Climbing and Modular Sports (P4) will be on Thursday from 4.00 p.m. to 5.45 p.m.
+		</td>
+		</tr><tr>
+	  <th class="tg-dzgf">Category<br></th>
     <th class="tg-dzgf">CCA<br></th>
-    <th class="tg-h1v5">Overall Teachers-In-Charge<br></th>
-    <th class="tg-h1v5">2nd In-Charge<br></th>
+    <th class="tg-h1v5">OIC<br></th>
+    <th class="tg-h1v5">2IC<br></th>
   </tr>
 </thead>
 <tbody>
-  <tr>
-    <td class="tg-dzgf" colspan="4">CCAs are conducted on Tuesdays or/and Fridays from 2.00 p.m. to 4.00 p.m.<br>Football (Girls), Sports Climbing and Modular Sports (P4) will be on Thursday from 4.00 p.m. to 5.45 p.m.<br><br>
-		</td>
-  </tr>
+  
   <tr>
     <td class="tg-ilyo" rowspan="5">Sports<br></td>
     <td class="tg-vd2a">Badminton *<br></td>
