@@ -60,62 +60,37 @@ variant: markdown
     <td class="tg-vd2a">Modular Sports (P5)</td>
  </tr>
   <tr>
-    <td class="tg-vd2a" rowspan="5">Performing Arts<br>Visual Arts<br></td>
-    <td class="tg-vd2a">Guitar Club **<br></td>
-    <td class="tg-vd2a">Ms Sindy Lai<br></td>
-    <td class="tg-vd2a">Mrs Ng Wei Wei</td>
+    <td class="tg-vd2a" rowspan="1">Performing Arts</td>
+    <td class="tg-vd2a">Comptemporary Dance<br>Guzheng<br>Guitar Club</td>
+    <td class="tg-vd2a">--<br>--<br>--</td>
+    <td class="tg-vd2a">Comptemporary Dance<br>Guzheng<br>--</td>
   </tr>
   <tr>
-    <td class="tg-vd2a">Drama<br></td>
-    <td class="tg-vd2a">Mdm Norizah<br></td>
-    <td class="tg-vd2a">Ms Haslinda</td>
+		<td class="tg-vd2a" rowspan="1">Visual Arts</td>
+    <td class="tg-vd2a">--</td>
+    <td class="tg-vd2a">--</td>
+    <td class="tg-vd2a">Art Club</td>
   </tr>
   <tr>
-    <td class="tg-vd2a">Contemporary Dance *<br></td>
-    <td class="tg-vd2a">Ms Joyce Chew<br></td>
-    <td class="tg-vd2a">Ms Safeenah</td>
+		<td class="tg-vd2a" rowspan="1">Uniformed Group</td>
+    <td class="tg-vd2a">Scouts</td>
+    <td class="tg-vd2a">--</td>
+    <td class="tg-vd2a">--</td>
   </tr>
   <tr>
-    <td class="tg-vd2a">Ensemble - Guzheng *<br></td>
-    <td class="tg-vd2a">Ms Yan Xiaojing<br></td>
-    <td class="tg-vd2a">Ms Wang Yuwei</td>
+		<td class="tg-vd2a" rowspan="1">Clubs &amp; Societies</td>
+    <td class="tg-vd2a">Drama Club<br>ICT Club<br>--</td>
+    <td class="tg-vd2a">--<br>--<br>--</td>
+    <td class="tg-vd2a">LCC<br>Media Club<br>Greenmakers Club</td>
   </tr>
   <tr>
-    <td class="tg-vd2a">Art Club **<br></td>
-    <td class="tg-vd2a">Mdm Pang Ming Ing<br></td>
-    <td class="tg-vd2a">Ms Stacey Kim</td>
-  </tr>
-  <tr>
-    <td class="tg-vd2a" rowspan="4">Clubs and Societies<br></td>
-    <td class="tg-vd2a">Greenmakers Club<br></td>
-    <td class="tg-vd2a">Mdm Ahadrina<br></td>
-    <td class="tg-vd2a">Mrs Lau Peixia</td>
-  </tr>
-  <tr>
-    <td class="tg-vd2a">ICT (Robotics/Coding)<br></td>
-    <td class="tg-vd2a">Mdm Hafizah<br></td>
-    <td class="tg-vd2a">Mdm Atika</td>
-  </tr>
-  <tr>
-    <td class="tg-vd2a">Media Club<br></td>
-    <td class="tg-vd2a">Ms Goh Wan Yu<br></td>
-    <td class="tg-vd2a">Ms Cassandra Goh</td>
-  </tr>
-  <tr>
-    <td class="tg-vd2a">Language &amp; Cultural Club (LCC)<br></td>
-    <td class="tg-vd2a">Mdm Ho Huan Xin<br></td>
-    <td class="tg-vd2a">Ms Phoebe Tan</td>
-  </tr>
-  <tr>
-    <td class="tg-vd2a">Uniformed Group<br></td>
-    <td class="tg-vd2a">Scouts<br></td>
-    <td class="tg-vd2a">Mr Faris Fong<br></td>
-    <td class="tg-vd2a">Mdm Aisah</td>
+    <td class="tg-vd2a"></td>
+    <td class="tg-vd2a"></td>
+    <td class="tg-vd2a"></td>
+    <td class="tg-vd2a"></td>
   </tr>
 </tbody>
 </table>
-
-![](/images/ccaschedule2024.png)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
