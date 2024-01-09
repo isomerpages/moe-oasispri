@@ -198,8 +198,8 @@ variant: markdown
     <td class="tg-vd2a">Scouts<br></td>
     <td class="tg-vd2a">Mr Faris Fong<br></td>
     <td class="tg-vd2a">Mdm Aisah</td>
-  </tr>
-</tbody>
+  </tr><tr>
+</tr></tbody>
 </table>
 
 **Note:**  
