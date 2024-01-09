@@ -4,7 +4,7 @@ permalink: /our-curriculum/co-curricular-activities/cca-schedule/
 description: ""
 variant: markdown
 ---
-![](/images/psgexco2024.JPG)
+![](/images/ccaschedule2024.png)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
