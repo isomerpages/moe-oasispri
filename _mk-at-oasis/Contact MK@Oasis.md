@@ -29,7 +29,7 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-8com">Tel:<br></td>
-    <td class="tg-1d14">6282 4864<br></td>
+    <td class="tg-1d14">+65 6282 4864<br></td>
   </tr>
   <tr>
     <td class="tg-dv6r">Email:<br></td>
@@ -56,7 +56,7 @@ variant: markdown
 <thead>
   <tr>
     <th class="tg-dv6r">Tel:</th>
-    <th class="tg-j74v">6281 0583<br>
+    <th class="tg-j74v">+65 6281 0583<br>
   </th></tr>
 </thead>
 
