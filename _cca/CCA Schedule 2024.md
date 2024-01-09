@@ -75,8 +75,8 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-vd2a">Drama<br></td>
-    <td class="tg-vd2a">Ms Syaza<br></td>
-    <td class="tg-vd2a">Mdm Razia</td>
+    <td class="tg-vd2a">Mdm Norizah<br></td>
+    <td class="tg-vd2a">Ms Nur Haslinda</td>
   </tr>
   <tr>
     <td class="tg-vd2a">Contemporary Dance *<br></td>
@@ -84,14 +84,14 @@ variant: markdown
     <td class="tg-vd2a">Ms Safeenah</td>
   </tr>
   <tr>
-    <td class="tg-vd2a">Guzheng *<br></td>
+    <td class="tg-vd2a">Ensemble - Guzheng *<br></td>
     <td class="tg-vd2a">Ms Yan Xiaojing<br></td>
-    <td class="tg-vd2a">Ms Goh Wan Yu</td>
+    <td class="tg-vd2a">Ms Wang Yuwei</td>
   </tr>
   <tr>
     <td class="tg-vd2a">Art Club **<br></td>
-    <td class="tg-vd2a">Mrs Anastasia Chan<br></td>
-    <td class="tg-vd2a">Mdm Pang Ming Ing</td>
+    <td class="tg-vd2a">Mdm Pang Ming Ing<br></td>
+    <td class="tg-vd2a">Ms Stacey Kim</td>
   </tr>
   <tr>
     <td class="tg-ilyo" rowspan="4">Clubs and Societies<br></td>
