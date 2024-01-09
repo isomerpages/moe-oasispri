@@ -18,13 +18,13 @@ variant: markdown
 </style>
 <table class="tg">
 <thead>
-   <tr><td class="tg-h1v5" colspan="4"><br>
+   <tr><td class="tg-h1v5" colspan="4">
 	</td>
 		</tr><tr>
-	  <th class="tg-h1v5"><br></th>
-    <th class="tg-h1v5">Tuesdays<br></th>
-    <th class="tg-h1v5">Thursday<br></th>
-    <th class="tg-h1v5">Fridays<br></th>
+	  <th class="tg-h1v5"></th>
+    <th class="tg-h1v5">Tuesdays</th>
+    <th class="tg-h1v5">Thursday</th>
+    <th class="tg-h1v5">Fridays</th>
   </tr>
 </thead>
 <tbody>
@@ -82,14 +82,8 @@ variant: markdown
     <td class="tg-vd2a">Drama Club<br>ICT Club<br>--</td>
     <td class="tg-vd2a">--<br>--<br>--</td>
     <td class="tg-vd2a">LCC<br>Media Club<br>Greenmakers Club</td>
-  </tr>
-  <tr>
-    <td class="tg-vd2a"></td>
-    <td class="tg-vd2a"></td>
-    <td class="tg-vd2a"></td>
-    <td class="tg-vd2a"></td>
-  </tr>
-</tbody>
+  </tr><tr>
+</tr></tbody>
 </table>
 
 <style type="text/css">
@@ -103,7 +97,7 @@ variant: markdown
 .tg .tg-ilyo{background-color:#FFF;color:#002D46;text-align:center;vertical-align:top}
 .tg .tg-vd2a{background-color:#FFF;color:#002D46;text-align:left;vertical-align:top}
 
-</style><br>
+</style>
 <table class="tg">
 <thead>
    <tr><td class="tg-h1v5" colspan="4">CCAs are conducted on Tuesdays or/and Fridays from 2.00 p.m. to 4.00 p.m.<br>Football (Girls), Sports Climbing and Modular Sports (P4) will be on Thursday from 4.00 p.m. to 5.45 p.m.<br><br>
@@ -116,7 +110,6 @@ variant: markdown
   </tr>
 </thead>
 <tbody>
-  
   <tr>
     <td class="tg-vd2a" rowspan="7">Sports<br></td>
     <td class="tg-vd2a">Badminton *<br></td>
