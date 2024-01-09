@@ -29,11 +29,11 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-8com">Tel:<br></td>
-    <td class="tg-1d14">6320 9855<br></td>
+    <td class="tg-1d14">+65 6320 9855<br></td>
   </tr>
   <tr>
     <td class="tg-dv6r">Fax:<br></td>
-    <td class="tg-j74v">6320 9856<br></td>
+    <td class="tg-j74v">+65 6320 9856<br></td>
   </tr>
   <tr>
     <td class="tg-8com">Email:<br></td>
