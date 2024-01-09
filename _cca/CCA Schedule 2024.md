@@ -114,7 +114,7 @@ variant: markdown
     <td class="tg-vd2a" rowspan="7">Sports</td>
     <td class="tg-vd2a">Badminton *</td>
     <td class="tg-vd2a">Mr Farhan</td>
-    <td class="tg-vd2a">Ms Stacey Koh<br>(Sem 1)<br>Mdm Nurmah<br>(Sem 2)</td>
+    <td class="tg-vd2a">Ms Stacey Koh</td>
   </tr>
   <tr>
     <td class="tg-vd2a">Hockey (Boys) *</td>
