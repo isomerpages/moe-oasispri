@@ -32,10 +32,10 @@ variant: markdown
 <tbody>
   
   <tr>
-    <td class="tg-ilyo" rowspan="5">Sports<br></td>
+    <td class="tg-ilyo" rowspan="7">Sports<br></td>
     <td class="tg-vd2a">Badminton *<br></td>
     <td class="tg-vd2a">Mr Farhan<br></td>
-    <td class="tg-vd2a">Ms Stacey Koh (Sem 1)<br>Mdm Nurmah (Sem 2)</td>
+    <td class="tg-vd2a">Ms Stacey Koh<br>(Sem 1)<br>Mdm Nurmah<br>(Sem 2)</td>
   </tr>
   <tr>
     <td class="tg-vd2a">Hockey (Boys) *<br></td>
@@ -56,6 +56,16 @@ variant: markdown
     <td class="tg-vd2a">Wushu<br></td>
     <td class="tg-vd2a">Ms Zheng Rui<br></td>
     <td class="tg-vd2a">Mdm Cheng Yingying</td>
+	</tr>
+  <tr>
+    <td class="tg-vd2a">Sports Climbing<br></td>
+    <td class="tg-vd2a">Mr Effendi<br></td>
+    <td class="tg-vd2a">Mdm Florence Ngu</td>
+	</tr>
+  <tr>
+    <td class="tg-vd2a">Football (Girls)<br></td>
+    <td class="tg-vd2a">Mr Hamzah<br></td>
+    <td class="tg-vd2a">Mdm Maziyah</td>
   </tr>
   <tr>
     <td class="tg-ilyo" rowspan="5">Performing Arts (PA)<br>Visual Arts (VA)<br></td>
@@ -70,8 +80,8 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-vd2a">Contemporary Dance *<br></td>
-    <td class="tg-vd2a">Ms Yusneeta<br></td>
-    <td class="tg-vd2a">Ms Joyce Chew</td>
+    <td class="tg-vd2a">Ms Joyce Chew<br></td>
+    <td class="tg-vd2a">Ms Safeenah</td>
   </tr>
   <tr>
     <td class="tg-vd2a">Guzheng *<br></td>
