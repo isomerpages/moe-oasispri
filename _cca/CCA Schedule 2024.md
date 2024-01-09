@@ -68,7 +68,7 @@ variant: markdown
     <td class="tg-vd2a">Mdm Maziyah</td>
   </tr>
   <tr>
-    <td class="tg-vd2a" rowspan="5">Performing Arts (PA)<br>Visual Arts (VA)<br></td>
+    <td class="tg-vd2a" rowspan="5">Performing Arts<br>Visual Arts<br></td>
     <td class="tg-vd2a">Guitar Club **<br></td>
     <td class="tg-vd2a">Ms Sindy Lai<br></td>
     <td class="tg-vd2a">Mrs Ng Wei Wei</td>
@@ -115,7 +115,7 @@ variant: markdown
     <td class="tg-vd2a">Ms Phoebe Tan</td>
   </tr>
   <tr>
-    <td class="tg-vd2a">Uniformed Group (UG)<br></td>
+    <td class="tg-vd2a">Uniformed Group<br></td>
     <td class="tg-vd2a">Scouts<br></td>
     <td class="tg-vd2a">Mr Faris Fong<br></td>
     <td class="tg-vd2a">Mdm Aisah</td>
