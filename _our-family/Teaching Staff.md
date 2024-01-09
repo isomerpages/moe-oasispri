@@ -268,7 +268,7 @@ variant: markdown
   <tr>
     <td class="tg-7vye">4 Resilience<br></td>
     <td class="tg-7vye">Ms Wang Yuwei</td>
-    <td class="tg-7vye">Ms Kim Hee Eun</td>
+    <td class="tg-7vye">Ms Stacey Kim</td>
   </tr>
 	<tr>
 </tr></tbody>
