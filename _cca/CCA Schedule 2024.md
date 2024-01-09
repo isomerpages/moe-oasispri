@@ -34,28 +34,28 @@ variant: markdown
   <tr>
     <td class="tg-ilyo" rowspan="5">Sports<br></td>
     <td class="tg-vd2a">Badminton *<br></td>
-    <td class="tg-vd2a">Mr Hamzah<br></td>
-    <td class="tg-vd2a">Ms Stacey Koh<br></td>
+    <td class="tg-vd2a">Mr Farhan<br></td>
+    <td class="tg-vd2a">Ms Stacey Koh (Sem 1)<br>Mdm Nurmah (Sem 2)</td>
   </tr>
   <tr>
-    <td class="tg-vd2a">Hockey *<br></td>
+    <td class="tg-vd2a">Hockey (Boys) *<br></td>
     <td class="tg-vd2a">Mr Aizad<br></td>
     <td class="tg-vd2a">Mr Jonathan Boey</td>
   </tr>
   <tr>
     <td class="tg-vd2a">Modular Sports<br></td>
-    <td class="tg-vd2a">Mr Effendi<br></td>
-    <td class="tg-vd2a">Mr Fahmy<br></td>
+    <td class="tg-vd2a">Mr Yeo Yungsen<br></td>
+    <td class="tg-vd2a">Ms Vong<br></td>
   </tr>
   <tr>
     <td class="tg-vd2a">Table Tennis *<br></td>
     <td class="tg-vd2a">Mrs Rosenna Seah<br></td>
-    <td class="tg-vd2a">Mr Farhan</td>
+    <td class="tg-vd2a">Mrs Alan Yeo</td>
   </tr>
   <tr>
     <td class="tg-vd2a">Wushu<br></td>
-    <td class="tg-vd2a">Ms Tay Bee Li<br></td>
-    <td class="tg-vd2a">Mdm Evon Tan</td>
+    <td class="tg-vd2a">Ms Zheng Rui<br></td>
+    <td class="tg-vd2a">Mdm Cheng Yingying</td>
   </tr>
   <tr>
     <td class="tg-ilyo" rowspan="5">Performing Arts (PA)<br>Visual Arts (VA)<br></td>
