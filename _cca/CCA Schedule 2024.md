@@ -76,7 +76,7 @@ variant: markdown
   <tr>
     <td class="tg-vd2a">Drama<br></td>
     <td class="tg-vd2a">Mdm Norizah<br></td>
-    <td class="tg-vd2a">Ms Nur Haslinda</td>
+    <td class="tg-vd2a">Ms Haslinda</td>
   </tr>
   <tr>
     <td class="tg-vd2a">Contemporary Dance *<br></td>
@@ -95,24 +95,24 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-ilyo" rowspan="4">Clubs and Societies<br></td>
-    <td class="tg-vd2a">Green Makers<br></td>
-    <td class="tg-vd2a">Mdm Liyana<br></td>
+    <td class="tg-vd2a">Greenmakers Club<br></td>
+    <td class="tg-vd2a">Mdm Ahadrina<br></td>
     <td class="tg-vd2a">Mrs Lau Peixia</td>
   </tr>
   <tr>
-    <td class="tg-vd2a">ICT (Robotics/Coding) Club<br></td>
+    <td class="tg-vd2a">ICT (Robotics/Coding)<br></td>
     <td class="tg-vd2a">Mdm Hafizah<br></td>
     <td class="tg-vd2a">Mdm Atika</td>
   </tr>
   <tr>
     <td class="tg-vd2a">Media Club<br></td>
-    <td class="tg-vd2a">Mdm Norizah<br></td>
-    <td class="tg-vd2a"></td>
+    <td class="tg-vd2a">Ms Goh Wan Yu<br></td>
+    <td class="tg-vd2a">Ms Cassandra Goh</td>
   </tr>
   <tr>
-    <td class="tg-vd2a">Language &amp; Cultural Club<br></td>
-    <td class="tg-vd2a">Mrs Wang Huishan<br></td>
-    <td class="tg-vd2a">Mdm Chen Rongli</td>
+    <td class="tg-vd2a">Language &amp; Cultural Club (LCC)<br></td>
+    <td class="tg-vd2a">Mdm Ho Huan Xin<br></td>
+    <td class="tg-vd2a">Ms Phoebe Tan</td>
   </tr>
   <tr>
     <td class="tg-ilyo">Uniformed Group (UG)<br></td>
