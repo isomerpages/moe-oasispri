@@ -40,9 +40,9 @@ variant: markdown
     <td class="tg-vd2a">Mar: 22<br>Apr: 5, 12, 19, 26<br>May: 10, 17, 24</td>
 	</tr><tr>
     <td class="tg-vd2a" rowspan="4">Sports</td>
-    <td class="tg-vd2a">Badminton<br>(Group 1 &amp; 2)</td>
+    <td class="tg-vd2a">Badminton (Group 1 &amp; 2)</td>
     <td class="tg-vd2a">--</td>
-    <td class="tg-vd2a">Badminton<br>(Group 1 only)</td>
+    <td class="tg-vd2a">Badminton (Group 1 only)</td>
   </tr>
   <tr>
     <td class="tg-vd2a">Hockey</td>
