@@ -32,7 +32,7 @@ variant: markdown
 <tbody>
   
   <tr>
-    <td class="tg-ilyo" rowspan="7">Sports<br></td>
+    <td class="tg-vd2a" rowspan="7">Sports<br></td>
     <td class="tg-vd2a">Badminton *<br></td>
     <td class="tg-vd2a">Mr Farhan<br></td>
     <td class="tg-vd2a">Ms Stacey Koh<br>(Sem 1)<br>Mdm Nurmah<br>(Sem 2)</td>
@@ -68,7 +68,7 @@ variant: markdown
     <td class="tg-vd2a">Mdm Maziyah</td>
   </tr>
   <tr>
-    <td class="tg-ilyo" rowspan="5">Performing Arts (PA)<br>Visual Arts (VA)<br></td>
+    <td class="tg-vd2a" rowspan="5">Performing Arts (PA)<br>Visual Arts (VA)<br></td>
     <td class="tg-vd2a">Guitar Club **<br></td>
     <td class="tg-vd2a">Ms Sindy Lai<br></td>
     <td class="tg-vd2a">Mrs Ng Wei Wei</td>
@@ -94,7 +94,7 @@ variant: markdown
     <td class="tg-vd2a">Ms Stacey Kim</td>
   </tr>
   <tr>
-    <td class="tg-ilyo" rowspan="4">Clubs and Societies<br></td>
+    <td class="tg-vd2a" rowspan="4">Clubs and Societies<br></td>
     <td class="tg-vd2a">Greenmakers Club<br></td>
     <td class="tg-vd2a">Mdm Ahadrina<br></td>
     <td class="tg-vd2a">Mrs Lau Peixia</td>
@@ -115,7 +115,7 @@ variant: markdown
     <td class="tg-vd2a">Ms Phoebe Tan</td>
   </tr>
   <tr>
-    <td class="tg-ilyo">Uniformed Group (UG)<br></td>
+    <td class="tg-vd2a">Uniformed Group (UG)<br></td>
     <td class="tg-vd2a">Scouts<br></td>
     <td class="tg-vd2a">Mr Faris Fong<br></td>
     <td class="tg-vd2a">Mdm Aisah</td>
