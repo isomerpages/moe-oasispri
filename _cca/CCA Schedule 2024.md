@@ -30,7 +30,8 @@ variant: markdown
 </thead>
 <tbody>
   <tr>
-    <td class="tg-dzgf" colspan="4">CCAs are conducted on Tuesdays or/and Fridays from 2.00 p.m. to 4.00 p.m.<br></td>
+    <td class="tg-dzgf" colspan="4">CCAs are conducted on Tuesdays or/and Fridays from 2.00 p.m. to 4.00 p.m.<br>Football (Girls), Sports Climbing and Modular Sports (P4) will be on Thursday from 4.00 p.m. to 5.45 p.m.<br><br>
+		</td>
   </tr>
   <tr>
     <td class="tg-ilyo" rowspan="5">Sports<br></td>
