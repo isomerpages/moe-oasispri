@@ -100,7 +100,7 @@ variant: markdown
 </style>
 <table class="tg">
 <thead>
-   <tr><td class="tg-h1v5" colspan="4"><br>CCAs are conducted on Tuesdays or/and Fridays from 2.00 p.m. to 4.00 p.m.<br>Football (Girls), Sports Climbing and Modular Sports (P4) will be on Thursday from 4.00 p.m. to 5.45 p.m.<br><br>
+   <tr><td class="tg-h1v5" colspan="4"><br>CCAs are conducted on Tuesdays or/and Fridays from 2.00 p.m. to 4.00 p.m.
 	</td>
 		</tr><tr>
 	  <th class="tg-h1v5">Category</th>
