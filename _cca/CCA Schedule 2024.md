@@ -22,9 +22,9 @@ variant: markdown
 	</td>
 		</tr><tr>
 	  <th class="tg-h1v5"></th>
-	  <th class="tg-h1v5">Tuesdays</th>
+	  <th class="tg-h1v5">Tuesday</th>
     <th class="tg-h1v5">Thursday</th>
-    <th class="tg-h1v5">Fridays</th>
+    <th class="tg-h1v5">Friday</th>
   </tr>
 </thead>
 <tbody>
