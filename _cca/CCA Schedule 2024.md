@@ -17,14 +17,14 @@ variant: markdown
 
 </style>
 <table class="tg">
-<thead>
+	<thead>
    <tr><td class="tg-h1v5" colspan="4">
 	</td>
 		</tr><tr>
 	  <th class="tg-h1v5"></th>
-	  <th class="tg-h1v5">Tuesday</th>
-	  <th class="tg-h1v5">Thursday</th>
-    <th class="tg-h1v5">Friday</th>
+	  <th class="tg-h1v5" style="text-align: center;">Tuesday</th>
+	  <th class="tg-h1v5" style="text-align: center;">Thursday</th>
+    <th class="tg-h1v5" style="text-align: center;">Friday</th>
   </tr>
 </thead>
 <tbody>
@@ -44,7 +44,7 @@ variant: markdown
     <td class="tg-vd2a">Table Tennis</td>
   </tr>
   <tr>
-    <td class="tg-vd4a">Modular Sports (P6)<br>--<br>--</td>
+    <td class="tg-vd2a">Modular Sports (P6)<br>--<br>--</td>
     <td class="tg-vd2a">Modular Sports (P4)<br>Football (Girls)<br>Sports Climbing</td>
     <td class="tg-vd2a">Modular Sports (P5)<br>--<br>--</td>
  </tr>
@@ -92,10 +92,10 @@ variant: markdown
    <tr><td class="tg-h1v5" colspan="4"><br>CCAs are conducted on Tuesdays or/and Fridays from 2.00 p.m. to 4.00 p.m.
 	</td>
 		</tr><tr>
-	  <th class="tg-h1v5">Category</th>
-    <th class="tg-h1v5">CCA</th>
-    <th class="tg-h1v5">OIC</th>
-    <th class="tg-h1v5">2IC</th>
+	  <th class="tg-h1v5" style="text-align: center;">Category</th>
+    <th class="tg-h1v5" style="text-align: center;">CCA</th>
+    <th class="tg-h1v5" style="text-align: center;">OIC</th>
+    <th class="tg-h1v5" style="text-align: center;">2IC</th>
   </tr>
 </thead>
 <tbody>
