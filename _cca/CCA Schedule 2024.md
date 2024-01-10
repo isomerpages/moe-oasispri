@@ -22,13 +22,13 @@ variant: markdown
 	</td>
 		</tr><tr>
 	  <th class="tg-h1v5"></th>
-	  <th class="tg-h1v5">Tuesday</th>
-    <th class="tg-h1v5">Thursday</th>
+	  <th><strong>Tuesday</strong></th>
+	  <th class="tg-h1v5">Thursday</th>
     <th class="tg-h1v5">Friday</th>
   </tr>
 </thead>
 <tbody>
-	  <tr><td class="tg-vd2a" rowspan="4">Sports</td>
+	  <tr><td class="tg-h1v5" rowspan="4">Sports</td>
     <td class="tg-vd2a">Badminton (Group 1 &amp; 2)</td>
     <td class="tg-vd2a">--</td>
     <td class="tg-vd2a">Badminton (Group 1 only)</td>
@@ -49,25 +49,25 @@ variant: markdown
     <td class="tg-vd2a">Modular Sports (P5)<br>--<br>--</td>
  </tr>
   <tr>
-    <td class="tg-vd2a" rowspan="1">Performing Arts</td>
+    <td class="tg-h1v5" rowspan="1">Performing Arts</td>
     <td class="tg-vd2a">Comptemporary Dance<br>Guzheng<br>Guitar Club</td>
     <td class="tg-vd2a">--<br>--<br>--</td>
     <td class="tg-vd2a">Comptemporary Dance<br>Guzheng<br>--</td>
   </tr>
   <tr>
-		<td class="tg-vd2a" rowspan="1">Visual Arts</td>
+		<td class="tg-h1v5" rowspan="1">Visual Arts</td>
     <td class="tg-vd2a">--</td>
     <td class="tg-vd2a">--</td>
     <td class="tg-vd2a">Art Club</td>
   </tr>
   <tr>
-		<td class="tg-vd2a" rowspan="1">Uniformed Group</td>
+		<td class="tg-h1v5" rowspan="1">Uniformed Group</td>
     <td class="tg-vd2a">Scouts</td>
     <td class="tg-vd2a">--</td>
     <td class="tg-vd2a">--</td>
   </tr>
   <tr>
-		<td class="tg-vd2a" rowspan="1">Clubs &amp; Societies</td>
+		<td class="tg-h1v5" rowspan="1">Clubs &amp; Societies</td>
     <td class="tg-vd2a">Drama Club<br>ICT Club<br>--</td>
     <td class="tg-vd2a">--<br>--<br>--</td>
     <td class="tg-vd2a">LCC<br>Media Club<br>Greenmakers Club</td>
@@ -100,8 +100,8 @@ variant: markdown
 </thead>
 <tbody>
   <tr>
-    <td class="tg-vd2a" rowspan="7">Sports</td>
-    <td class="tg-vd2a">Badminton *</td>
+    <td class="tg-h1v5" rowspan="7">Sports</td>
+    <td class="tg-">Badminton *</td>
     <td class="tg-vd2a">Mr Farhan</td>
     <td class="tg-vd2a">Ms Stacey Koh</td>
   </tr>
@@ -136,7 +136,7 @@ variant: markdown
     <td class="tg-vd2a">Mdm Maziyah</td>
   </tr>
   <tr>
-    <td class="tg-vd2a" rowspan="5">Performing Arts<br>Visual Arts</td>
+    <td class="tg-h1v5" rowspan="5">Performing Arts<br>Visual Arts</td>
     <td class="tg-vd2a">Guitar Club **</td>
     <td class="tg-vd2a">Ms Sindy Lai</td>
     <td class="tg-vd2a">Mrs Ng Wei Wei</td>
@@ -162,7 +162,7 @@ variant: markdown
     <td class="tg-vd2a">Ms Stacey Kim</td>
   </tr>
   <tr>
-    <td class="tg-vd2a" rowspan="4">Clubs &amp; Societies</td>
+    <td class="tg-h1v5" rowspan="4">Clubs &amp; Societies</td>
     <td class="tg-vd2a">Greenmakers Club</td>
     <td class="tg-vd2a">Mdm Ahadrina</td>
     <td class="tg-vd2a">Mrs Lau Peixia</td>
@@ -183,7 +183,7 @@ variant: markdown
     <td class="tg-vd2a">Ms Phoebe Tan</td>
   </tr>
   <tr>
-    <td class="tg-vd2a">Uniformed Group</td>
+    <td class="tg-h1v5">Uniformed Group</td>
     <td class="tg-vd2a">Scouts</td>
     <td class="tg-vd2a">Mr Faris Fong</td>
     <td class="tg-vd2a">Mdm Aisah</td>
