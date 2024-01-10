@@ -28,18 +28,7 @@ variant: markdown
   </tr>
 </thead>
 <tbody>
-	<tr>
-    <td class="tg-vd2a">Term 1</td>
-    <td class="tg-vd2a">Jan: 23, 30<br>Feb: 6, 20, 27<br>Mar: 5</td>
-    <td class="tg-vd2a">Jan: 25<br>Feb: 1, 8, 15, 22, 29<br>Mar: 7</td>
-    <td class="tg-vd2a">Jan: 26<br>Feb: 2, 16, 23<br>Mar: 1, 8</td>
-	</tr><tr>
-    <td class="tg-vd2a">Term 2</td>
-    <td class="tg-vd2a">Mar: 19, 26<br>Apr: 2, 16, 23, 30<br>May: 14</td>
-    <td class="tg-vd2a">Mar: 21, 28<br>Apr: 4, 11, 18, 25<br>May: 9, 16, 23</td>
-    <td class="tg-vd2a">Mar: 22<br>Apr: 5, 12, 19, 26<br>May: 10, 17, 24</td>
-	</tr><tr>
-    <td class="tg-vd2a" rowspan="4">Sports</td>
+	  <tr><td class="tg-vd2a" rowspan="4">Sports</td>
     <td class="tg-vd2a">Badminton (Group 1 &amp; 2)</td>
     <td class="tg-vd2a">--</td>
     <td class="tg-vd2a">Badminton (Group 1 only)</td>
