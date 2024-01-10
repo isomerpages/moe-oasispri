@@ -21,7 +21,7 @@ variant: markdown
    <tr><td class="tg-h1v5" colspan="4">
 	</td>
 		</tr><tr>
-	  <th class="tg-h1v5"></th>
+	  <th class="tg-h1v5" style="text-align: center;"></th>
 	  <th class="tg-h1v5" style="text-align: center;">Tuesday</th>
 	  <th class="tg-h1v5" style="text-align: center;">Thursday</th>
     <th class="tg-h1v5" style="text-align: center;">Friday</th>
@@ -101,7 +101,7 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-h1v5" rowspan="7">Sports</td>
-    <td class="tg-">Badminton *</td>
+    <td class="tg-vd2a">Badminton *</td>
     <td class="tg-vd2a">Mr Farhan</td>
     <td class="tg-vd2a">Ms Stacey Koh</td>
   </tr>
