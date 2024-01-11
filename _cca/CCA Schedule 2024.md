@@ -4,7 +4,18 @@ permalink: /our-curriculum/co-curricular-activities/cca-schedule/
 description: ""
 variant: markdown
 ---
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dzgf{background-color:#FFF;color:#002D46;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-h1v5{background-color:#FFF;color:#0000FF;font-size:16px;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-ilyo{background-color:#FFF;color:#002D46;text-align:center;vertical-align:top}
+.tg .tg-vd2a{background-color:#FFF;color:#002D46;text-align:left;vertical-align:top}
 
+</style>
 <table class="tg">
 	<thead>
    <tr><td class="tg-h1v5" colspan="4">
@@ -64,18 +75,7 @@ variant: markdown
 </tr></tbody>
 </table>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-dzgf{background-color:#FFF;color:#002D46;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-h1v5{background-color:#FFF;color:#002D46;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-ilyo{background-color:#FFF;color:#002D46;text-align:center;vertical-align:top}
-.tg .tg-vd2a{background-color:#FFF;color:#002D46;text-align:left;vertical-align:top}
 
-</style>
 <table class="tg">
 <thead>
    <tr><td class="tg-h1v5" colspan="4"><br>CCAs are conducted on Tuesdays or/and Fridays from 2.00 p.m. to 4.00 p.m.
