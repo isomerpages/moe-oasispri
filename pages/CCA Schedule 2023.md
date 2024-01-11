@@ -6,18 +6,24 @@ description: ""
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+
+	.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+
+	.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+	
 .tg .tg-v6tw{background-color:#ffc000;border-color:inherit;color:#333333;text-align:center;vertical-align:top}
 .tg .tg-stho{background-color:#FFF8F7;border-color:inherit;color:#002D46;text-align:left;vertical-align:top}
+	
 .tg .tg-1vr2{background-color:#FFF8F7;border-color:inherit;color:#002D46;text-align:center;vertical-align:top}
+	
 .tg .tg-d6ov{background-color:#FFC600;border-color:inherit;color:#002D46;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-0d19{background-color:#FFF8F7;border-color:inherit;color:#002D46;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-vbdf{background-color:#FFC600;border-color:inherit;color:#002D46;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-8zqz{background-color:#F1F6E4;border-color:inherit;color:#002D46;text-align:center;vertical-align:top}
+	
+.tg .tg-8zqz{background-color:#F1F6E4;border-color:inherit;color:red;text-align:center;vertical-align:top}
+	
 .tg .tg-fppp{background-color:#F1F6E4;border-color:inherit;color:#002D46;text-align:left;vertical-align:top}
+	
 </style>
 <table class="tg">
 <thead>
