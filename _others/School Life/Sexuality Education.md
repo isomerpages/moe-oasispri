@@ -46,7 +46,7 @@ b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Character and Citizenship Education (CCE)
 
 ##### **PRIMARY 5**
 
-<table style="text-align: center;">
+<table style="text-align: left;">
 <thead>
  <tr>
     <th>CCE(FTGP) THEME<br></th>
@@ -84,7 +84,7 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 
 ##### **PRIMARY 6**
 
-<table style="text-align: center;">
+<table style="text-align: left;">
 <thead>
   <tr>
     <th>CCE(FTGP) THEME<br></th>
