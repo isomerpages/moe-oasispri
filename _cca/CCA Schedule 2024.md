@@ -11,52 +11,45 @@ variant: markdown
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-dzgf{background-color:#FFF;color:#002D46;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-h1v5{background-color:#FFF;color:#0000FF;font-size:16px;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-h1v5{background-color:#FFF;color:#0000FF;font-size:15px;font-weight:bold;text-align:left;vertical-align:middle}
 .tg .tg-ilyo{background-color:#FFF;color:#002D46;text-align:center;vertical-align:middle}
 .tg .tg-vd2a{background-color:#FFF;color:#002D46;text-align:left;vertical-align:middle}
 
 </style>
 <table class="tg">
 	<thead>
-   <tr><td class="tg-h1v5" colspan="4">
+   <tr><td class="tg-h1v5" colspan="3">
 	</td>
 		</tr><tr>
 	  <th class="tg-h1v5" style="text-align: center;"></th>
 	  <th class="tg-h1v5" style="text-align: center;">Tuesday</th>
-	  <th class="tg-h1v5" style="text-align: center;">Thursday</th>
-    <th class="tg-h1v5" style="text-align: center;">Friday</th>
+	  <th class="tg-h1v5" style="text-align: center;">Friday</th>
   </tr>
 </thead>
 <tbody>
 	  <tr><td class="tg-h1v5" rowspan="4">Sports</td>
     <td class="tg-vd2a">Badminton (Group 1 &amp; 2)</td>
-    <td class="tg-vd2a">--</td>
     <td class="tg-vd2a">Badminton (Group 1 only)</td>
   </tr>
   <tr>
     <td class="tg-vd2a">Hockey</td>
-    <td class="tg-vd2a">--</td>
     <td class="tg-vd2a">Hockey</td>
   </tr>
   <tr>
     <td class="tg-vd2a">Wushu</td>
-    <td class="tg-vd2a">--</td>
     <td class="tg-vd2a">Table Tennis</td>
   </tr>
   <tr>
-    <td class="tg-vd2a">Modular Sports (P6)<br>--<br>--</td>
-    <td class="tg-vd2a">Modular Sports (P4)<br>Football (Girls)<br>Sports Climbing</td>
-    <td class="tg-vd2a">Modular Sports (P5)<br>--<br>--</td>
+    <td class="tg-vd2a">Modular Sports P5 and P6<br>Sports Climbing</td>
+    <td class="tg-vd2a">Modular Sports P4<br>Modular Sports P3 (only in Term 3 &amp; Term 4)<br>Football (Girls)</td>
  </tr>
   <tr>
     <td class="tg-h1v5" rowspan="1">Performing Arts</td>
     <td class="tg-vd2a">Comptemporary Dance<br>Guzheng<br>Guitar Club</td>
-    <td class="tg-vd2a">--<br>--<br>--</td>
     <td class="tg-vd2a">Comptemporary Dance<br>Guzheng<br>--</td>
   </tr>
   <tr>
 		<td class="tg-h1v5" rowspan="1">Visual Arts</td>
-    <td class="tg-vd2a">--</td>
     <td class="tg-vd2a">--</td>
     <td class="tg-vd2a">Art Club</td>
   </tr>
@@ -64,17 +57,14 @@ variant: markdown
 		<td class="tg-h1v5" rowspan="1">Uniformed Group</td>
     <td class="tg-vd2a">Scouts</td>
     <td class="tg-vd2a">--</td>
-    <td class="tg-vd2a">--</td>
   </tr>
   <tr>
 		<td class="tg-h1v5" rowspan="1">Clubs &amp; Societies</td>
     <td class="tg-vd2a">Drama Club<br>ICT Club<br>--</td>
-    <td class="tg-vd2a">--<br>--<br>--</td>
     <td class="tg-vd2a">LCC<br>Media Club<br>Greenmakers Club</td>
   </tr><tr>
 </tr></tbody>
 </table>
-
 
 <table class="tg">
 <thead>
