@@ -40,7 +40,7 @@ variant: markdown
     <td class="tg-vd2a">Table Tennis</td>
   </tr>
   <tr>
-    <td class="tg-vd2a">Modular Sports P5 &amp; P6<br>Sports Climbing</td>
+    <td class="tg-vd2a">Modular Sports P5 and P6<br>Sports Climbing</td>
     <td class="tg-vd2a">Modular Sports P4<br>Modular Sports P3 (only in Term 3 &amp; Term 4)<br>Football (Girls)</td>
  </tr>
   <tr>
