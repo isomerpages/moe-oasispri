@@ -126,7 +126,7 @@ For further purchase of the uniforms, you may contact our&nbsp;uniform supplier&
 
 **7. What are the operating hours of the school dental clinic?**
     
-The school dental services will be available on scheduled dates from 8.00 a.m. to 5.30 p.m. Please contact our dental therapist at +65 6509 8069 to schedule an appointment.
+The school dental services will be available on scheduled dates from 8.00 a.m. to 5.30 p.m. Please contact our dental therapist at +65 8940 6503 to schedule an appointment.
 		
 **8. How can I make a claim for my child’s accident in the school or during school activities?**
     
