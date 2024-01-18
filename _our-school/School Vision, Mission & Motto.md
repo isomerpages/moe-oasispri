@@ -14,4 +14,4 @@ To Empower Oasians to be Future-Ready, Anchored on School Values
 
 ### Our School Motto
 
-Learners Today, Leaders Tomorrow
+United We Rise
