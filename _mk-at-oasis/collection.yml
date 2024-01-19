@@ -2,12 +2,12 @@ collections:
   mk-at-oasis:
     output: true
     order:
-      - "MK Oasians: Learning In Action.md"
       - Our Vision, Mission & Values.md
       - What We Offer.md
       - Our Team.md
       - Our Curriculum & Programmes.md
       - Our Learning Environment.md
+      - "MK Oasians: Learning In Action.md"
       - Our Events.md
       - What Do Children & Parents Say.md
       - Our KCare.md
