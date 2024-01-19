@@ -2,8 +2,8 @@ collections:
   mk-at-oasis:
     output: true
     order:
-      - What We Offer.md
       - Our Vision, Mission & Values.md
+      - What We Offer.md
       - MK Family.md
       - MOE (Our Schools, Our Stories) Photo & Video Contest 2023!.md
       - LIFE@MK.md
