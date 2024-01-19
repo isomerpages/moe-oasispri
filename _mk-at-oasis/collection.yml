@@ -2,7 +2,6 @@ collections:
   mk-at-oasis:
     output: true
     order:
-      - Our KCare.md
       - Our Vision, Mission & Values.md
       - What We Offer.md
       - Our Team.md
@@ -14,8 +13,9 @@ collections:
       - Learning in Action! MK Oasians/Everyday Experiences.md
       - Learning in Action! MK Oasians/Events.md
       - MOE (Our Schools, Our Stories) Photo & Video Contest 2023!.md
-      - Parents' Accolades.md
       - LIFE@MK.md
+      - Parents' Accolades.md
+      - Our KCare.md
       - Our Early Years Centre Partner.md
       - MK Forms.md
       - Contact Us.md
