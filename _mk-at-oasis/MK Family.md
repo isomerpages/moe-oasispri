@@ -4,6 +4,4 @@ permalink: /mk-oasis/permalink/
 description: ""
 variant: markdown
 ---
-### Our Team
-
-
+Our [Team](/files/Our_Team.pdf)
