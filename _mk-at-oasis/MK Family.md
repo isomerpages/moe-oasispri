@@ -2,6 +2,6 @@
 title: MK Family
 permalink: /mk-oasis/permalink/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-Our [Team](/files/our%team.pdf)
+<p>Our <a href="/files/Our_Team.pdf" rel="noopener noreferrer nofollow" target="_blank">Team</a></p>
