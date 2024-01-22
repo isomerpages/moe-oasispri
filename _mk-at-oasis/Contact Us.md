@@ -4,4 +4,4 @@ permalink: /mk-at-oasis/contact-us/
 description: ""
 variant: tiptap
 ---
-<h4><a href="/files/Contact_Us.pdf" rel="noopener noreferrer nofollow" target="_blank">Contact Us</a></h4><p></p>
+<div class="isomer-image-wrapper"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Mkoasis/contact.png"></div><div class="isomer-image-wrapper"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Mkoasis/address.png"></div><p></p>
