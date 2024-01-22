@@ -2,7 +2,6 @@ collections:
   mk-at-oasis:
     output: true
     order:
-      - Teaching Staff Template.md
       - MOE (Our Schools, Our Stories) Photo & Video Contest 2023!.md
       - LIFE@MK.md
       - MK Open House.md
