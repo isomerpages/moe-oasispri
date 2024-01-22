@@ -2,11 +2,11 @@ collections:
   mk-at-oasis:
     output: true
     order:
-      - MK Curriculum.md
-      - MK Family 2023.md
-      - MK Open House 2023.md
-      - LIFE@MK.md
       - MOE (Our Schools, Our Stories) Photo & Video Contest 2023!.md
+      - LIFE@MK.md
+      - MK Open House 2023.md
+      - MK Family 2023.md
+      - MK Curriculum.md
       - Our Learning Environment.md
       - MK Forms.md
       - Contact Us.md
