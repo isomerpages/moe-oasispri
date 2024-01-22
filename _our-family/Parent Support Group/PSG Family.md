@@ -7,8 +7,6 @@ variant: markdown
 ---
 PSG@Oasis consists of the Executive Committee (EXCO), Sub-Committees, and Interest Groups.
 
-##### 2024 Exco Team
-
 ![](/images/psgexco2024.JPG)
 
 If you wish to join any of the interest groups, drop us an email at [oasis.psgroup@gmail.com](mailto:oasis.psgroup@gmail.com).
