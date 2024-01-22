@@ -2,6 +2,7 @@ collections:
   mk-at-oasis:
     output: true
     order:
+      - Learning in Action/Events.md
       - Learning in Action/.keep
       - Everyday Experiences.md
       - Teaching Staff Template.md
