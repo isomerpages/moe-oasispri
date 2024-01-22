@@ -2,13 +2,13 @@ collections:
   mk-at-oasis:
     output: true
     order:
-      - Lerarning in Action.md
       - MOE (Our Schools, Our Stories) Photo & Video Contest 2023!.md
       - LIFE@MK.md
       - MK Open House.md
       - MK Family.md
       - MK Curriculum.md
       - MK Environment.md
+      - Lerarning in Action.md
       - Parents' Accolades.md
       - MK Forms.md
       - Contact MK@Oasis.md
