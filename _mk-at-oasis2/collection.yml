@@ -1,5 +1,5 @@
 collections:
-  mk-at-oasis:
+  mk-at-oasis2:
     output: true
     order:
       - Our Vision, Mission & Values.md
