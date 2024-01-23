@@ -2,6 +2,7 @@
 title: MK Forms
 permalink: /mk-at-oasis/mk-forms/
 description: ""
+variant: tiptap
 ---
 1\) [MK Waiting List Registration Link](https://www.form.gov.sg/63d226b80447a0001149133d)
 

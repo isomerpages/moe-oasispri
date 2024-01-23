@@ -1,6 +1,7 @@
 ---
 title: MK Family
-permalink: /mk-oasis/permalink/
+permalink: /mk-at-oasis/mk-family/
+variant: markdown
 description: ""
 ---
 ### MK Family

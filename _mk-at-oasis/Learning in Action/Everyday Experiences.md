@@ -1,6 +1,7 @@
 ---
 title: Everyday Experiences
 permalink: /mk-at-oasis/learning-in-action/everyday-experiences/
+variant: markdown
 description: ""
 third_nav_title: Learning in Action
 ---
@@ -8,8 +9,8 @@ third_nav_title: Learning in Action
 
 ### Video Arrival Dismissal
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jNp2fuGG-wQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jNp2fuGG-wQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ### A Day in MK@Oasis
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/p9IdiS1CYeo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p9IdiS1CYeo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>

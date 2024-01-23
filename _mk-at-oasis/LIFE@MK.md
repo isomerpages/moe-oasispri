@@ -1,6 +1,7 @@
 ---
 title: LIFE@MK
-permalink: /mk-at-oasis/permalink/
+permalink: /mk-at-oasis/life-at-mk/
+variant: markdown
 description: ""
 ---
 Leading and Inspiring Families of Early Learners @ MOE Kindergarten (or LIFE@MK, in short) is a series of workshops to encourage families to be more involved in and gain a deeper understanding of their children’s holistic development in the pre-school years.

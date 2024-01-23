@@ -2,9 +2,8 @@
 title: School Leaders
 permalink: /our-family/school-leaders/
 description: ""
+variant: markdown
 ---
- <img src="/images/SL_Pic.jpg" 
-     style="width:100%">
+<img src="/images/sl.jpg" style="width:100%">
 		 
-<img src="/images/SL_Table2.jpg" 
-     style="width:100%">
+<img src="/images/slgroup.jpg" style="width:100%">

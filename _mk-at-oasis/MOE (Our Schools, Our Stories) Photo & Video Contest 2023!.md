@@ -1,6 +1,7 @@
 ---
 title: MOE (Our Schools, Our Stories) Photo & Video Contest 2023!
 permalink: /mk-at-oasis/moe-photo-and-video-contest-2023/
+variant: markdown
 description: ""
 ---
 For this year’s “Our Schools, Our Stories” (OSOS) Photo and Video Contest, there was a total of **2,744 submission from 290 schools!** The **purpose of the photos and videos** was to capture the essence of the contestants’ school life, showcasing moments of joy, growth and learning.
