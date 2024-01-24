@@ -1,5 +1,5 @@
 ---
-title: MK Vision 2024
+title: Our Vision, Mission & Values
 permalink: /permalink/
 variant: tiptap
 description: ""
