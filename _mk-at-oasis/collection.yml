@@ -2,6 +2,7 @@ collections:
   mk-at-oasis:
     output: true
     order:
+      - Our Events.md
       - Our Team.md
       - Our Early Years Centre Partner.md
       - What We Offer.md
