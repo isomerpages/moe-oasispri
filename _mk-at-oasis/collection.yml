@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Learning in Action/.keep
-      - Learning in Action/Events.md
       - MK Forms.md
       - Contact Us.md
