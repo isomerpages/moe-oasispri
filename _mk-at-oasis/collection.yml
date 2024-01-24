@@ -2,6 +2,7 @@ collections:
   mk-at-oasis:
     output: true
     order:
+      - What Do Parents & Children Say.md
       - Our KCare.md
       - "MK Oasians: Learning In Action!.md"
       - Our Curriculum & Programmes.md
