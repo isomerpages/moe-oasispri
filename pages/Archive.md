@@ -5,128 +5,7 @@ description: ""
 variant: markdown
 ---
 ### Application for eGIRO
-
 Please click&nbsp;[here](https://go.gov.sg/moe-online-giro-form)&nbsp;to join via FormSG.&nbsp;SingPass login is required.
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-8wja{background-color:#FBFFFA;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-v9z0{background-color:#FBFFFA;color:#38761D;text-align:left;text-decoration:underline;vertical-align:top}
-.tg .tg-c0oc{background-color:#22A114;color:#ffffff;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-5env{background-color:#FBFFFA;color:#222;text-align:left;vertical-align:top}
-</style>
-<br><br><table class="tg">
-<thead>
-  <tr>
-	    <th colspan="2" class="tg-c0oc"><span style="background-color:#22A114">Oasis Primary School</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-8wja">Address:</td>
-    <td class="tg-5env">71 Edgefield Plains, Singapore 828716</td>
-  </tr>
-  <tr>
-    <td class="tg-8wja">Tel:</td>
-    <td class="tg-5env">+65 6320 9855</td>
-  </tr>
-  <tr>
-		<td class="tg-8wja">Fax:</td>
-    <td class="tg-5env">+65 6320 9856</td>
-  </tr>
-  <tr>
-    <td class="tg-8wja">Email:</td>
-    <td class="tg-v9z0"><a href="mailto:oasis_ps@moe.edu.sg">oasis_ps@moe.edu.sg</a></td>
-  </tr>
-</tbody>
-</table>
-
-##### MK@Oasis
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-8wja{background-color:#FBFFFA;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-v9z0{background-color:#FBFFFA;color:#38761D;text-align:left;text-decoration:underline;vertical-align:top}
-.tg .tg-c0oc{background-color:#22A114;color:#ffffff;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-5env{background-color:#FBFFFA;color:#222;text-align:left;vertical-align:top}
-</style>
-<br><br><table class="tg">
-<thead>
-  <tr>
-		
-    <th colspan="2" class="tg-c0oc"><span style="background-color:#22A114">MOE Kindergarten @ Oasis</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-8wja">Address:</td>
-    <td class="tg-5env">71 Edgefield Plains, Singapore 828716</td>
-  </tr>
-  <tr>
-    <td class="tg-8wja">Tel:</td>
-    <td class="tg-5env">+65 6282 4864</td>
-  </tr>
-  <tr>
-    <td class="tg-8wja">Email:</td>
-    <td class="tg-v9z0"><a href="mailto:mk_oasis@moe.edu.sg">mk_oasis@moe.edu.sg</a></td>
-  </tr>
-</tbody>
-</table>
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-jurv{background-color:#22A114;color:#FBFFFA;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-8wja{background-color:#FBFFFA;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-5env{background-color:#FBFFFA;color:#222;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th colspan="2" class="tg-jurv"><span style="color:#FBFFFA;background-color:#22A114">Kindergarten Care Centre</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-8wja">Tel:</td>
-    <td class="tg-5env">+65 6281 0583</td>
-  </tr>
-</tbody>
-</table>
-
-**Mother Tongue Fortnight Programme**  
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ruY_Q-i54ZQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8FdV9nXok1c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-Mother Tongue Language&nbsp;Fortnight programme aims to create an immersive environment for learning and appreciating Mother Tongue Languages and Cultures. Held over in Term 2 Week 3 and 4 this year,&nbsp;students were exposed to a wide variety of rich cultural activities during these two eventful weeks to&nbsp;deepen students' understanding of their cultural roots and promote the learning of Mother Tongue Language in a fun and engaging way!
-
-**Reading-Is-Fun Programme (RIF)**  
-
-To develop our students to be avid readers and cultivate their passion in reading MTL storybooks, we embarked on our “RIF” journey.
-
-In collaboration with the English department, we also plan programmes and activities, such as Oasis Book Day, for students to be immersed in a reading environment. Competitions held during Oasis Book Day were well received by students. Positive reading experiences are provided through book talks and storytelling sessions conducted by the Chinese Language ambassadors. Incentives such as Reading badges are awarded to the avid readers to motivate them to explore in the world of books.
-
-![](/images/RIF.png)
-
-**Primary 4 Chinese Language Junior Journalist Programme**
-
-The Chinese Language department started our own Oasian Junior Journalist Programme this year. This programme aims to cultivate the selected Primary 4 group of students to&nbsp;develop their observational, writing, photography and&nbsp;presentation&nbsp;skills, and uncover inspiring and interesting school news in the Oasis Community. Do stay tune for our CL Journalists’ upcoming news production!
-
-![](/images/journalist%20programme.png)
-
 
 ## English Language (old)
 ### Department Goals
@@ -364,14 +243,7 @@ Our unique English Language Teaching and Learning&nbsp;at Oasis Primary School, 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sVPpHI8GNLA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-### Life@MK
-
-**[Slides](https://drive.google.com/file/d/1I7emz_8BczPkehjhpa2WNaiaYL5lW_so/view?usp=sharing) for LIFE@MK 1: Supporting Children’s &nbsp;Transition from Preschool to Primary School on 20 April, Thursday | 2.00pm - 3.30pm**
-<br>
-*(Note: This deck of slides will only be available until end of May. Thank you.)*
-
 ##### **Achievements**
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
