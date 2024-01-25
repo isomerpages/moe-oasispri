@@ -1,0 +1,23 @@
+collections:
+  others:
+    output: true
+    order:
+      - Highlights/.keep
+      - Highlights/Highlights.md
+      - Highlights/Oasis Awards Day 2023.md
+      - Highlights/Oasis Awards Day 2022.md
+      - Highlights/Outstanding Youth in Education Award.md
+      - School Life/.keep
+      - School Life/Assessment Information.md
+      - School Life/School Hours & Operations.md
+      - School Life/School Terms & Holidays 2024.md
+      - School Life/School Bus Service.md
+      - School Life/School Bookshop & Uniform.md
+      - School Life/School Canteen.md
+      - School Life/Sexuality Education.md
+      - Forms & Guides/.keep
+      - Forms & Guides/Application Forms.md
+      - Forms & Guides/Parents Gateway.md
+      - Forms & Guides/Student Learning Space (SLS).md
+      - Photo Gallery/.keep
+      - Photo Gallery/2023.md
