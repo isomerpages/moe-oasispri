@@ -1,6 +1,6 @@
 ---
 title: "MK Oasians: Learning In Action!"
-permalink: /permalink/
+permalink: /mk-at-oasis/mk-oasians-learning-in-action/
 variant: tiptap
 description: ""
 ---

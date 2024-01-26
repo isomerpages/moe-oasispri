@@ -1,6 +1,6 @@
 ---
 title: Our KCare
-permalink: /permalink/
+permalink: /mk-at-oasis/our-kcare/
 variant: tiptap
 description: ""
 ---

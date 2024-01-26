@@ -1,6 +1,6 @@
 ---
 title: Our Early Years Centre Partner
-permalink: /permalink/
+permalink: /mk-at-oasis/our-early-years-centre-partner/
 variant: tiptap
 description: ""
 ---

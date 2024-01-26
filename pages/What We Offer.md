@@ -1,6 +1,6 @@
 ---
 title: What We Offer
-permalink: /permalink/
+permalink: /mk-at-oasis/what-we-offer/
 variant: tiptap
 description: ""
 ---
