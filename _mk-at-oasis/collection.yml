@@ -2,6 +2,7 @@ collections:
   mk-at-oasis:
     output: true
     order:
+      - Our Early Years Centre Partner.md
       - "MK Oasians: Learning In Action!.md"
       - What We Offer.md
       - Our Team.md
