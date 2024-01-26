@@ -2,6 +2,7 @@ collections:
   mk-at-oasis:
     output: true
     order:
+      - Starlight Programme.md
       - Everyday Experiences.md
       - HI Light Programme.md
       - MOE (Our Schools, Our Stories) Photo & Video Contest 2023!.md
