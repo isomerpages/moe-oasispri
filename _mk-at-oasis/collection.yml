@@ -2,6 +2,7 @@ collections:
   mk-at-oasis:
     output: true
     order:
+      - Learning in Action/Everyday Experiences.md
       - Learning in Action/Starlight Programme.md
       - Learning in Action/HI Light Programme.md
       - Learning in Action/.keep
