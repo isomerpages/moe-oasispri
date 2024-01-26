@@ -2,6 +2,7 @@ collections:
   mk-at-oasis:
     output: true
     order:
+      - What We Offer.md
       - Our Team.md
       - Our Vision, Mission & Values.md
       - Our Open House 2024.md
