@@ -2,7 +2,6 @@ collections:
   mk-at-oasis:
     output: true
     order:
-      - MK Family.md
       - MK Curriculum.md
       - Our Learning Environment.md
       - Learning in Action/.keep
