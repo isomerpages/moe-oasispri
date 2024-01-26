@@ -2,6 +2,7 @@ collections:
   mk-at-oasis:
     output: true
     order:
+      - Our Oasians.md
       - Our KCare.md
       - What Do Parents & Children Say.md
       - Our Events.md
