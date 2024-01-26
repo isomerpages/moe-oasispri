@@ -2,6 +2,7 @@ collections:
   mk-at-oasis:
     output: true
     order:
+      - Our KCare.md
       - What Do Parents & Children Say.md
       - Our Events.md
       - Our Learning Environment.md
