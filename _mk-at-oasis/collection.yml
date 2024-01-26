@@ -2,7 +2,6 @@ collections:
   mk-at-oasis:
     output: true
     order:
-      - Our KCare.md
       - Our Early Years Centre Partner.md
       - MK Forms.md
       - Contact Us.md
