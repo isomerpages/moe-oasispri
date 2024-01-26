@@ -1,7 +1,0 @@
----
-title: Our Early Years Centre Partner
-permalink: /mk-at-oasis/our-early-years-centre-partner/
-variant: tiptap
-description: ""
----
-<h4>PCF Sparkletots Preschool @ Punggol Shore</h4><p>We are partnered with PCF Sparkletots (PCF) @ Punggol Shore to provide a continuum of quality and affordable preschool education for children aged 2 months to 6 years.</p><p>Under this partnership, the children will attend the Early Years Centre (EYC) operated by our EYC-</p><p>Partner when they are 2 months to 4 years old. Parents can choose to enrol at our MK for our Kindergarten 1 (K1) and Kindergarten 2 (K2) programme. This allows the children to have a seamless transition to K1 in the year they turn 5. Eligible children in the EYC are guaranteed a place at our MK.</p><p>Visit <a href="https://www.moe.gov.sg/preschool/moe-kindergarten/mk-eyc" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/preschool/moe-kindergarten/mk-eyc</a> for more information of this partnership.</p><div class="isomer-image-wrapper"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Mkoasis/pic5.jpg"></div><p><strong><u>Address</u></strong></p><p>50 Edgefield Plains</p><p>Singapore 828717</p><p>(+65) 6244 4050</p><p><strong><u>Website:</u></strong></p><p><a href="https://preschooler.sg/profile/330/PCF-Sparkletots-Preschool-@-Punggol-Shore-(EY)" rel="noopener noreferrer nofollow" target="_blank">https://preschooler.sg/profile/330/PCF-Sparkletots-Preschool-@-Punggol-Shore-(EY)</a></p>
