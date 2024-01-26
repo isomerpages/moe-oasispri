@@ -2,17 +2,17 @@ collections:
   mk-at-oasis:
     output: true
     order:
-      - Our Curriculum & Programmes.md
-      - Our Early Years Centre Partner.md
-      - "MK Oasians: Learning In Action!.md"
+      - Our Vision, Mission & Values.md
       - What We Offer.md
       - Our Team.md
-      - Our Vision, Mission & Values.md
-      - Our Open House 2024.md
-      - Our Oasians.md
-      - Our KCare.md
-      - What Do Parents & Children Say.md
-      - Our Events.md
+      - Our Curriculum & Programmes.md
       - Our Learning Environment.md
+      - "MK Oasians: Learning In Action!.md"
+      - Our Events.md
+      - What Do Parents & Children Say.md
+      - Our KCare.md
+      - Our Early Years Centre Partner.md
       - MK Forms.md
+      - Our Oasians.md
       - Contact Us.md
+      - Our Open House 2024.md
