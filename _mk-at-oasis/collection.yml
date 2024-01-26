@@ -2,7 +2,6 @@ collections:
   mk-at-oasis:
     output: true
     order:
-      - Our Events.md
       - What Do Parents & Children Say.md
       - Our KCare.md
       - Our Early Years Centre Partner.md
