@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Our Learning Environment.md
-      - Learning in Action/.keep
       - MK Forms.md
       - Contact Us.md
