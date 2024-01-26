@@ -2,7 +2,6 @@ collections:
   mk-at-oasis:
     output: true
     order:
-      - Our Vision, Mission & Values.md
       - What We Offer.md
       - Our Team.md
       - Our Curriculum & Programmes.md
