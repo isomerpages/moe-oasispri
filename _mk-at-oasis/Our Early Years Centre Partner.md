@@ -13,6 +13,6 @@ more information of this partnership.</p>
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Mkoasis/eycp2.png">
 </div>
 <p><strong><u>Website:</u></strong>
-</p>
-<p><a href="https://preschooler.sg/profile/330/PCF-Sparkletots-Preschool-@-Punggol-Shore-(EY)" rel="noopener noreferrer nofollow" target="_blank">https://preschooler.sg/profile/330/PCF-Sparkletots-Preschool-@-Punggol-Shore-(EY)</a>
+<br>
+	<a href="https://preschooler.sg/profile/330/PCF-Sparkletots-Preschool-@-Punggol-Shore-(EY)" rel="noopener noreferrer nofollow" target="_blank">https://preschooler.sg/profile/330/PCF-Sparkletots-Preschool-@-Punggol-Shore-(EY)</a>
 </p>
