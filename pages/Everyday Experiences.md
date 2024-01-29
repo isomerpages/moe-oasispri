@@ -3,7 +3,6 @@ title: Everyday Experiences
 permalink: /mk-at-oasis/learning-in-action/everyday-experiences/
 variant: markdown
 description: ""
-third_nav_title: Learning in Action
 ---
 ![](/images/photo%20collage%20everyday%20exp.jpg)
 

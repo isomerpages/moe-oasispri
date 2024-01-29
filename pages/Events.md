@@ -3,7 +3,6 @@ title: Events
 permalink: /mk-at-oasis/learning-in-action/events/
 variant: markdown
 description: ""
-third_nav_title: Learning in Action
 ---
 ### Children's Day
 
