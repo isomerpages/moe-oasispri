@@ -12,4 +12,7 @@ description: ""
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Mkoasis/qrcode.png">
 </div>
 <h4>Open House Presentation 2024</h4>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/DPIqvg0bIFY?si=oKtp5PXKdzG2Jfun"></iframe>
+</div>
 <p></p>
