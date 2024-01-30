@@ -11,4 +11,5 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Mkoasis/qrcode.png">
 </div>
+<h4>Open House Presentation 2024</h4>
 <p></p>
