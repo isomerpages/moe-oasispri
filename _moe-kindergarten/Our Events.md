@@ -30,6 +30,6 @@ in planned (structured) activities and routines.</p>
 find out how the MOE Kindergarten (<strong>MK</strong>) curriculum supports
 children in their transition to Primary&nbsp;<strong>1</strong>&nbsp;(P1).</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/jdHdzXAkhuw?si=4sixS479bIwVPBTi"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/zE7ahQxBfxQ?si=uafHnGf1z6nyYbXh"></iframe>
 </div>
 <p></p>
