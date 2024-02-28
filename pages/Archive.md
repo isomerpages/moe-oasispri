@@ -174,8 +174,6 @@ Applicants must be: <br>
 
 \*Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense.\*
 
-(https://staging.d6400o65xh90r.amplifyapp.com/ops/highlights/outstanding-youth-in-education-award)
-
 ##### PRIMARY 6
 
 <table style="text-align: center;">
