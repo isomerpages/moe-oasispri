@@ -148,7 +148,7 @@ Please visit MOE's official website&nbsp;[here](https://www.moe.gov.sg/financial
 
 3\. Submit the completed application form and documents by closing date via email OR to the School's General Office. <br>
 \* Address: 71 Edgefield Plains, Singapore 828716 <br>
-\* Contact No: +65 6320 9855 <br>
+\* Contact No: 6320 9855 <br>
 \* Email: [ops@schools.gov.sg](mailto:ops@schools.gov.sg) <br>
 \* Contact Person: Mr. Mah or Mr. Iskandar <br>
 
