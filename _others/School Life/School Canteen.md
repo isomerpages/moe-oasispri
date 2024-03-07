@@ -6,19 +6,43 @@ third_nav_title: School Life
 variant: tiptap
 ---
 <h5><strong>School Canteen Advertisement</strong></h5>
-<p>| Type of Stall
-<br>| Closing Date
-<br>| Requirements
-<br>| | --- | --- | --- | | Malay Mixed Rice
-<br>| 30 November 2023
-<br>| Nil
-<br>| | Chinese Noodles
-<br>| 30 November 2023
-<br>| Nil
-<br>| | Western and Fusion (Halal)
-<br>| 30 November 2023
-<br>| Japanese or Korean food are acceptable
-<br>|</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Type of Stall</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Closing Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Requirement</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Western/ Fusion Food Stall</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>22 March 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Halal</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chicken Rice &amp; Noodles</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>22 March 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Non-Halal</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h5><strong>Application Procedure</strong></h5>
 <p>1. Download and complete the application form. You may also request for
 a hardcopy from the School’s General Office.</p>
