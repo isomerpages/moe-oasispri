@@ -21,8 +21,8 @@ variant: tiptap
 <br>|</p>
 <h5><strong>Application Procedure</strong></h5>
 <p>1. Download and complete the application form. You may also request for
-a hardcopy from the School’s General Office.
-<br><a href="https://cms.isomer.gov.sg/files/canteen%20application%20form.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>
+a hardcopy from the School’s General Office.</p>
+<p><a href="https://cms.isomer.gov.sg/files/canteen%20application%20form.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>
 </p>
 <p>2. Attached the following documents together with the application form:
 <br>* Photocopy of the NRIC (front and back)
@@ -32,8 +32,8 @@ etc</p>
 <p>3. Submit the completed application form and documents by closing date
 via email OR to the School's General Office.
 <br>* Address: 71 Edgefield Plains, Singapore 828716
-<br>* Contact No: +65 6320 9855
-<br>* Email:&nbsp;<a href="mailto:oasis_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">oasis_ps@moe.edu.sg</a> 
+<br>* Contact No: 6320 9855
+<br>* Email:&nbsp;<a href="mailto:oasis_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">oasis_ps@moe.edu.sg</a>
 <br>* Contact Person: Mah Kian Lye (Mr)/ Muhammad Iskandar (Mr)</p>
 <h5><strong>How to get there?</strong></h5>
 <p>* Nearest MRT: Punggol MRT (NE17)
@@ -45,7 +45,7 @@ and stall assistant.</p>
 <p>* Able to provide good service and quality food at reasonable prices determined
 in consultation with the school.</p>
 <p>* Able to provide a varied and healthy nutritional menu that meets the
-health / nutriontial standards set by the Health Promotion Board (HPB)
+health / nutritional standards set by the Health Promotion Board (HPB)
 under the "Health Meals in Schools Programme (HMSP)" guidelines. (see
 <a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener noreferrer nofollow" target="_blank">link</a>)</p>
 <p>* Able to observe a high standard of food and personal hygiene that meets
@@ -54,11 +54,12 @@ NEA requirements.</p>
 <p>* Must be in personal attendance at the stall during operating hours.</p>
 <p>* Must always maintain stall cleanliness.</p>
 <h5><strong>Applicants should preferably fulfill the following criteria:</strong></h5>
-<p>* Successful applicant and stall assistance(s) must possess the WSQ Basic
+<p>* Successful applicant and stall assistant(s) must possess the WSQ Basic
 Food Hygiene Certificate.</p>
 <p>* Possess catering experience or experience operating in a school environment.</p>
 <p>* Successful applicant is required to apply for a food stall license from
-Singapore Food agency (SFA).</p>
+Singapore Food Agency (SFA).</p>
+<p></p>
 <p>*Shortlisted applicants will be notified for an interview and will be
 required to provide food sampling for the School Canteen Selection Committee
 at the applicant’s own expense.*</p>
