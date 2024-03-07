@@ -46,7 +46,7 @@ variant: tiptap
 <h5><strong>Application Procedure</strong></h5>
 <p>1. Download and complete the application form. You may also request for
 a hardcopy from the School’s General Office.</p>
-<p><a href="https://cms.isomer.gov.sg/files/canteen%20application%20form.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>
+<p><a href="/files/canteen application form.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>
 </p>
 <p>2. Attached the following documents together with the application form:
 <br>* Photocopy of the NRIC (front and back)
