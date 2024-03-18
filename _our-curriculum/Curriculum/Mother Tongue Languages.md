@@ -3,6 +3,7 @@ title: Mother Tongue Languages
 permalink: /our-curriculum/curriculum/mother-tongue-language/
 description: ""
 third_nav_title: Curriculum
+variant: markdown
 ---
 <img src="/images/MTL.jpg" style="width:100%">
 <center><b>Confident &amp; eloquent speakers in the Mother Tongue Language</b></center>
