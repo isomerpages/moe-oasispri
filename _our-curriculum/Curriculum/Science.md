@@ -3,6 +3,7 @@ title: Science
 permalink: /our-curriculum/curriculum/science/
 description: ""
 third_nav_title: Curriculum
+variant: markdown
 ---
 <img src="/images/sciphoto1.png" style="width:100%">
 

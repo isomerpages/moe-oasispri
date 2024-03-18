@@ -3,9 +3,9 @@ title: Physical Education
 permalink: /our-curriculum/curriculum/physical-education/
 description: ""
 third_nav_title: Curriculum
+variant: markdown
 ---
-<img src="/images/PE.jpg" 
-     style="width100%">
+<img src="/images/PE.jpg" style="width100%">
 		 
 <center><b>Fitness is not a destination, it is a way of life.</b></center>
 
@@ -38,9 +38,9 @@ To provide opportunities for every student to develop the skills and attitudes t
 </thead>
 </table>
 
-**Guided by Inclusion:** Every student is able to develop the knowledge, skills and attitudes to live healthily.
+**Guided by Inclusion:**&nbsp;Every student is able to develop the knowledge, skills and attitudes to live healthily.
 
-**Guided by Quality delivery:** Trained teachers teach holistic health effectively.
+**Guided by Quality delivery:**&nbsp;Trained teachers teach holistic health effectively.
 
 ![](/images/PE.png)
 
@@ -50,8 +50,7 @@ To provide opportunities for every student to develop the skills and attitudes t
 
 Students indulge in recreational participation through development of physical- and/or sport-specific skills and tactic, sustained involvement in physical activities and/or sports based on interest and competence, application of principles of training and safe practices and maintenance of health and skill-related fitness.
 
-<img src="/images/stage1.png" 
-     style="width:40%">
+<img src="/images/stage1.png" style="width:40%">
 		 
 **Stage 2: Developing Foundation for broad-based development and sports pursuit**
 
@@ -59,15 +58,13 @@ Students indulge in recreational participation through development of physical- 
 *   Students acquire fundamental motor skills and movement concepts, learn and enjoy through developmentally-appropriate movement experiences.
 *   Students consolidate sport-specific skills and tactics, apply training in competitions, develop mental strength, sport-specific skills and fitness conditioning.
 
-<img src="/images/stage2.png" 
-     style="width:40%">
+<img src="/images/stage2.png" style="width:40%">
 		 
 **Stage 3: Developing Mastery**
 
 Students apply sport-specific skills and mental strength in intra and/or inter school competitions.
 
-<img src="/images/stage3.png" 
-     style="width:40%">
+<img src="/images/stage3.png" style="width:40%">
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}

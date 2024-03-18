@@ -3,6 +3,7 @@ title: Mathematics
 permalink: /our-curriculum/curriculum/mathematics/
 description: ""
 third_nav_title: Curriculum
+variant: markdown
 ---
 <img style="width:100%" src="/images/Maths.jpg">
 <center><b>Nurturing confident and self-regulated problem solvers</b></center>
@@ -55,9 +56,6 @@ SMILE is a literature-based approach to develop strong conceptual understanding,
 **Inverted classroom for Deep Autonomous Learning (IDEAL)**  
 
 IDEAL leverages on the Flipped Learning pedagogical approach in which direct instruction and self-directed learning is done remotely via ICT at home. After this, the students are guided to reason, communicate, analyse and apply concepts through collaborative learning in class.
-
-Click on the slide to view samples of the lesson packages for different levels.
-<iframe allowfullscreen="true" height="389" width="640" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQCan1K3yoT7RbHGTy27O44Jgs26ewe_-AS8dY3W2-aeqYiqxFgp1k4vcb28UiE0g/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 ![](/images/IDEAL.png)
 
