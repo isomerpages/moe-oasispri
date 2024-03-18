@@ -3,9 +3,9 @@ title: Information & Communication Technology
 permalink: /our-curriculum/curriculum/information-n-communication-technology/
 description: ""
 third_nav_title: Curriculum
+variant: markdown
 ---
-<img src="/images/ICT.jpg" 
-     style="width:100%">
+<img src="/images/ICT.jpg" style="width:100%">
 
 <center><b>A community of self-directed learners and future-ready, responsible digital citizens</b></center>
 
@@ -17,7 +17,7 @@ To develop proficient and responsible users of technology through a quality ICT-
 
 **Building an ICT Enriched Learning Environment**
 
-Undergirding quality learning with ICT is a set of future-ready, scalable, and reliable infrastructure in every school. In addition to 3 computer laboratories in the school, full-feature laptops in mobile carts, Chromebooks and iPads are available for use in teaching and learning anywhere in the school. The learning environment at Oasis also extends beyond the physical one to include the virtual space. [Virtual learning spaces](https://www.thinglink.com/scene/1380352272222912514) open up new opportunities for learning and offer rich learning resources and information, allowing students to learn beyond the confines of the classrooms and textbooks.
+Undergirding quality learning with ICT is a set of future-ready, scalable, and reliable infrastructure in every school. In addition to 3 computer laboratories in the school, full-feature laptops in mobile carts, Chromebooks and iPads are available for use in teaching and learning anywhere in the school. The learning environment at Oasis also extends beyond the physical one to include the virtual space. Virtual learning spaces open up new opportunities for learning and offer rich learning resources and information, allowing students to learn beyond the confines of the classrooms and textbooks.
 
 **Engaging Staff in Professional Development**
 
@@ -29,8 +29,7 @@ Our teachers play an important role to achieve this by designing personalised le
 
 In alignment with MOE ICT Masterplan 4, we aim to innovatively integrate ICT usage into curriculum, pedagogy and assessment to deepen subject mastery and develop 21st Century Competencies. Learning with technology in Oasis is guided by the Singapore Teaching Practice (STP) and MOE SLS Pedagogical Scaffold (SLSPS), where teachers design meaningful ICT-enabled student-centric learning experiences to engage and respond to students’ learning. This helps to elevate pupils’ creativity, developing their digital and visual literacies by providing them with an appropriate blend of non-technological and online resources, extending their learning beyond the boundaries of school.
 
-<img src="/images/Website%20ICT.jpg" 
-     style="width:100%">
+<img src="/images/Website%20ICT.jpg" style="width:100%">
 		 
 **Developing Responsible Users of Technology**  
 
@@ -42,12 +41,9 @@ Cyber wellness lessons are taught via the weekly Form Teachers' Guidance Period 
 
 In Oasis, together with the Student Leadership Committee, we develop a group of students as Cyber Wellness Ambassadors and empower them in promoting positive cyber culture in school. They champion cyber wellness through various platforms to promote positive online experiences among fellow students.
 
-<img src="/images/collage-CWA.jpg" 
-     style="width:100%">
-<img src="/images/CWA.jpg" 
-     style="width:100%">
-<img src="/images/collage-cw1.jpg" 
-     style="width:100%">
+<img src="/images/collage-CWA.jpg" style="width:100%">
+<img src="/images/CWA.jpg" style="width:100%">
+<img src="/images/collage-cw1.jpg" style="width:100%">
 
 ### Key Programmes
 
