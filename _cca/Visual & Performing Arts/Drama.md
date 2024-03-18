@@ -3,6 +3,7 @@ title: Drama
 permalink: /our-curriculum/co-curricular-activities/visual-n-performing-arts/drama/
 description: ""
 third_nav_title: Visual & Performing Arts
+variant: markdown
 ---
 **All The World’s a stage!**
 
@@ -11,6 +12,8 @@ Oasis Drama Club aims to develop our students an appreciation and enjoyment of d
 ![](/images/drama.png)
 ![](/images/drama2.png)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0aMmmxxhWak" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0aMmmxxhWak" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EvJmj9e1a8Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EvJmj9e1a8Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
