@@ -266,48 +266,65 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong><u>National Runners-Up</u></strong>
 </p>
+<p></p>
 <p><strong><u>Sportsmanship Award</u></strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2023 NSG Hockey Junior Boys I</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><strong><u>Tier 1 – 4<sup>th</sup></u></strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2023 NSG Hockey Junior Boys II</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><strong><u>Tier 2 – 2nd</u></strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2023 Scouts Senior Sixers</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong><u>Akela Award</u></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023 Scouts</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>National Cub Scouts Gang Show</u></strong>
+</p>
+<p>Bronze Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023 NSG Table Tennis</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Junior Boys Singles</u></strong>
+</p>
+<p><strong>Tier 4 (1st)</strong>
+</p>
 <p></p>
+<p><strong><u>Junior Boys Doubles</u></strong>
+</p>
+<p><strong>Tier 4 (1st)</strong>
+</p>
+<p></p>
+<p><strong><u>Sportsmanship Award</u></strong>
+</p>
 </td>
 </tr>
 </tbody>
