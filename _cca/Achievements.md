@@ -163,11 +163,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>COMPETITION</strong>
+<p><strong>EVENT</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>ACHIEVEMENT</strong>
+<p><strong>AWARD</strong>
 </p>
 </td>
 </tr>
@@ -277,11 +277,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>COMPETITION</strong>
+<p><strong>EVENT</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>ACHIEVEMENT</strong>
+<p><strong>AWARD</strong>
 </p>
 </td>
 </tr>
