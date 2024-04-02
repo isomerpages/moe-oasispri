@@ -327,6 +327,44 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023 NSG Badminton</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Sportsmanship Award </u><br><br><u>Junior Division</u></strong>
+</p>
+<p><strong>Tier 1 (3<sup>rd</sup>)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>“We Love our Planet” Storytelling Contest</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Merit Award</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hwa Chong Info-Communication Challenge 2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Gold Award</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>IDE SUMOBOT Competition 2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Certificate of Participation</strong>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
