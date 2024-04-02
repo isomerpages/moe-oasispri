@@ -231,23 +231,19 @@ variant: tiptap
 <p>National Primary Schools Sport Climbing Championships (NPSSCC) 2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Junior Girls Division (Top Rope)</u></strong>
+<p><u>Junior Girls Division (Top Rope)</u>
 </p>
-<p><strong>5<sup>th</sup> placing</strong>
-</p>
+<p>5<sup>th</sup> placing</p>
 <p></p>
-<p><strong><u>Junior Boys Division (Top Rope)</u></strong>
+<p><u>Junior Boys Division (Top Rope)</u>
 </p>
-<p><strong>6<sup>th</sup> placing</strong>
-</p>
+<p>6<sup>th</sup> placing</p>
 <p></p>
-<p><strong><u>Novice Division</u></strong>
+<p><u>Novice Division</u>
 </p>
-<p><strong>Gold Achievement Pins</strong>
-</p>
+<p>Gold Achievement Pins</p>
 <p></p>
-<p><strong>Silver Achievement Pins</strong>
-</p>
+<p>Silver Achievement Pins</p>
 </td>
 </tr>
 <tr>
@@ -255,7 +251,7 @@ variant: tiptap
 <p>2023 SYF Art Exhibition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Certificate of Recognition</u></strong>
+<p><u>Certificate of Recognition</u>
 </p>
 </td>
 </tr>
@@ -264,10 +260,10 @@ variant: tiptap
 <p>2023 NSG Hockey Senior Boys</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>National Runners-Up</u></strong>
+<p><u>National Runners-Up</u>
 </p>
 <p></p>
-<p><strong><u>Sportsmanship Award</u></strong>
+<p><u>Sportsmanship Award</u>
 </p>
 </td>
 </tr>
@@ -276,7 +272,7 @@ variant: tiptap
 <p>2023 NSG Hockey Junior Boys I</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Tier 1 – 4<sup>th</sup></u></strong>
+<p><u>Tier 1 – 4<sup>th</sup></u>
 </p>
 </td>
 </tr>
@@ -285,7 +281,7 @@ variant: tiptap
 <p>2023 NSG Hockey Junior Boys II</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Tier 2 – 2nd</u></strong>
+<p><u>Tier 2 – 2nd</u>
 </p>
 </td>
 </tr>
@@ -294,7 +290,7 @@ variant: tiptap
 <p>2023 Scouts Senior Sixers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Akela Award</u></strong>
+<p><u>Akela Award</u>
 </p>
 </td>
 </tr>
@@ -303,7 +299,7 @@ variant: tiptap
 <p>2023 Scouts</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>National Cub Scouts Gang Show</u></strong>
+<p><u>National Cub Scouts Gang Show</u>
 </p>
 <p>Bronze Award</p>
 </td>
@@ -313,17 +309,15 @@ variant: tiptap
 <p>2023 NSG Table Tennis</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Junior Boys Singles</u></strong>
+<p><u>Junior Boys Singles</u>
 </p>
-<p><strong>Tier 4 (1st)</strong>
-</p>
+<p>Tier 4 (1st)</p>
 <p></p>
-<p><strong><u>Junior Boys Doubles</u></strong>
+<p><u>Junior Boys Doubles</u>
 </p>
-<p><strong>Tier 4 (1st)</strong>
-</p>
+<p>Tier 4 (1st)</p>
 <p></p>
-<p><strong><u>Sportsmanship Award</u></strong>
+<p><u>Sportsmanship Award</u>
 </p>
 </td>
 </tr>
@@ -332,10 +326,10 @@ variant: tiptap
 <p>2023 NSG Badminton</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Sportsmanship Award </u><br><br><u>Junior Division</u></strong>
+<p><u>Sportsmanship Award</u>
+<br><u>Junior Division</u>
 </p>
-<p><strong>Tier 1 (3<sup>rd</sup>)</strong>
-</p>
+<p>Tier 1 (3rd)</p>
 </td>
 </tr>
 <tr>
@@ -343,8 +337,7 @@ variant: tiptap
 <p>“We Love our Planet” Storytelling Contest</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Merit Award</strong>
-</p>
+<p>Merit Award</p>
 </td>
 </tr>
 <tr>
@@ -352,8 +345,7 @@ variant: tiptap
 <p>Hwa Chong Info-Communication Challenge 2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Gold Award</strong>
-</p>
+<p>Gold Award</p>
 </td>
 </tr>
 <tr>
@@ -361,8 +353,7 @@ variant: tiptap
 <p>IDE SUMOBOT Competition 2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Certificate of Participation</strong>
-</p>
+<p>Certificate of Participation</p>
 </td>
 </tr>
 </tbody>
