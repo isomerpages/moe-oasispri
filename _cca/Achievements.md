@@ -252,18 +252,22 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2023 SYF Art Exhibition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><u>Certificate of Recognition</u></strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2023 NSG Hockey Senior Boys</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><u>National Runners-Up</u></strong>
+</p>
+<p><strong><u>Sportsmanship Award</u></strong>
+</p>
 </td>
 </tr>
 <tr>
