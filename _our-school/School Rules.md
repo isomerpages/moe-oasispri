@@ -129,7 +129,7 @@ Students are not allowed to bring the following items to school:
 
 <u>Possession of Communication Devices</u>
 
-The use of personal communication devices in school is **not allowed** and students are strongly discouraged from bringing them to school. Students may contact their parents/guardians using the school telephone at the General Office.
+The use of personal communication devices in school is **<u>not allowed</u>** and students are strongly discouraged from bringing them to school. Students may contact their parents/guardians using the school telephone at the General Office.
 
 Should a student bring a personal communication device to school, the student is solely responsible for it. The school is not liable for any damage or loss of the personal communication device.
 
