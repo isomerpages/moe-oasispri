@@ -24,7 +24,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National Primary Schools Sport Climbing Championships (NPSSCC) 2023</p>
+<p>National Primary Schools Sport Climbing Championships (NPSSCC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Junior Girls Division (Top Rope)</u></strong>
@@ -43,7 +43,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2023 SYF Art Exhibition</p>
+<p>SYF Art Exhibition</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Certificate of Recognition</u></strong>
@@ -52,7 +52,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2023 NSG Hockey Senior Boys</p>
+<p>NSG Hockey Senior Boys</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>National Runners-Up</u></strong>
@@ -63,7 +63,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2023 NSG Hockey Junior Boys I</p>
+<p>NSG Hockey Junior Boys I</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tier 1 (4th)</p>
@@ -71,7 +71,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2023 NSG Hockey Junior Boys II</p>
+<p>NSG Hockey Junior Boys II</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tier 2 (2nd)</p>
@@ -79,7 +79,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2023 Scouts Senior Sixers</p>
+<p>Scouts Senior Sixers</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Akela Award</u></strong>
@@ -88,7 +88,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2023 Scouts</p>
+<p>Scouts</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>National Cub Scouts Gang Show</u></strong>
@@ -98,7 +98,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2023 NSG Table Tennis</p>
+<p>NSG Table Tennis</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Junior Boys Singles</u></strong>
@@ -115,7 +115,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2023 NSG Badminton</p>
+<p>NSG Badminton</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Sportsmanship Award</u> <br><u>Junior Division</u></strong>
@@ -134,7 +134,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Hwa Chong Info-Communication Challenge 2023</p>
+<p>Hwa Chong Info-Communication Challenge</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Gold Award</strong>
@@ -143,7 +143,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>IDE SUMOBOT Competition 2023</p>
+<p>IDE SUMOBOT Competition</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Certificate of Participation</strong>
@@ -173,7 +173,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2022 NATIONAL SCHOOL GAMES
+<p>NATIONAL SCHOOL GAMES
 <br>(Hockey)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -184,7 +184,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2022 NATIONAL SCHOOL GAMES
+<p>NATIONAL SCHOOL GAMES
 <br>(Badminton)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -195,7 +195,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2022 NATIONAL SCHOOL GAMES
+<p>NATIONAL SCHOOL GAMES
 <br>(Table Tennis)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -213,7 +213,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2019 NATIONAL SCHOOL GAMES
+<p>NATIONAL SCHOOL GAMES
 <br>(Sportsmanship Award)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -224,7 +224,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2022 SYF ARTS PRESENTATION
+<p>SYF ARTS PRESENTATION
 <br>(Guzheng)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -234,7 +234,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2022 ARTS PRESENTATION
+<p>ARTS PRESENTATION
 <br>(Contemporary Dance)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -244,7 +244,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2022 SOTA Temasek Foundation Award For Arts Development</p>
+<p>SOTA Temasek Foundation Award For Arts Development</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dance
@@ -253,7 +253,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2022 National Primary Schools Sport Climbing Championships</p>
+<p>National Primary Schools Sport Climbing Championships</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Junior (Novice) Girls Boulder Challenge </u></strong>
