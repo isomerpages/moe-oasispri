@@ -126,3 +126,11 @@ Students are not allowed to bring the following items to school:
 * Pen-knife
 * Matches/ lighters
 * Items that are considered dangerous or inappropriate in school
+
+<u>Possession of Communication Devices</u>
+
+The use of personal communication devices in school is **not allowed** and students are strongly discouraged from bringing them to school. Students may contact their parents/guardians using the school telephone at the General Office.
+
+Should a student bring a personal communication device to school, the student is solely responsible for it. The school is not liable for any damage or loss of the personal communication device.
+
+In the event that your child/ward is found using his/her personal communication device in school, the Form Teacher or Staff Member would notify you and make the necessary arrangements for you to collect the device personally. Misuse of the device may lead to disciplinary actions.
