@@ -2,7 +2,7 @@
 title: Achievements
 permalink: /our-curriculum/co-curricular-activities/achievements/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <table>
 <tbody>
@@ -270,7 +270,7 @@ variant: markdown
 <p>2023 NSG Hockey Junior Boys I</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Tier 1 – 4<sup>th</sup></u>
+<p>Tier 1 – 4<sup>th</sup>
 </p>
 </td>
 </tr>
@@ -279,8 +279,7 @@ variant: markdown
 <p>2023 NSG Hockey Junior Boys II</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Tier 2 – 2nd</u>
-</p>
+<p>Tier 2 – 2nd</p>
 </td>
 </tr>
 <tr>
