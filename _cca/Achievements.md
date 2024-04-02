@@ -24,7 +24,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National Primary Schools Sport Climbing Championships (NPSSCC) 2023</p>
+<p>National Primary Schools Sport Climbing Championships (NPSSCC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Junior Girls Division (Top Rope)</u></strong>
@@ -43,7 +43,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2023 SYF Art Exhibition</p>
+<p>SYF Art Exhibition</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Certificate of Recognition</u></strong>
@@ -52,7 +52,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2023 NSG Hockey Senior Boys</p>
+<p>NSG Hockey Senior Boys</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>National Runners-Up</u></strong>
@@ -63,7 +63,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2023 NSG Hockey Junior Boys I</p>
+<p>NSG Hockey Junior Boys I</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tier 1 (4th)</p>
@@ -71,7 +71,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2023 NSG Hockey Junior Boys II</p>
+<p>NSG Hockey Junior Boys II</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tier 2 (2nd)</p>
@@ -79,7 +79,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2023 Scouts Senior Sixers</p>
+<p>Scouts Senior Sixers</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Akela Award</u></strong>
@@ -88,7 +88,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2023 Scouts</p>
+<p>Scouts</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>National Cub Scouts Gang Show</u></strong>
@@ -98,7 +98,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2023 NSG Table Tennis</p>
+<p>NSG Table Tennis</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Junior Boys Singles</u></strong>
@@ -115,7 +115,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2023 NSG Badminton</p>
+<p>NSG Badminton</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Sportsmanship Award</u> <br><u>Junior Division</u></strong>
@@ -134,7 +134,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Hwa Chong Info-Communication Challenge 2023</p>
+<p>Hwa Chong Info-Communication Challenge</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Gold Award</strong>
@@ -143,7 +143,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>IDE SUMOBOT Competition 2023</p>
+<p>IDE SUMOBOT Competition</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Certificate of Participation</strong>
@@ -163,18 +163,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>COMPETITION</strong>
+<p><strong>EVENT</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>ACHIEVEMENT</strong>
+<p><strong>AWARD</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2022 NATIONAL SCHOOL GAMES
-<br>(Hockey)</p>
+<p>NSG Hockey</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Boys - National Top 8
@@ -184,8 +183,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2022 NATIONAL SCHOOL GAMES
-<br>(Badminton)</p>
+<p>NSG Badminton</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Junior Girls Division </u></strong>
@@ -195,8 +193,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2022 NATIONAL SCHOOL GAMES
-<br>(Table Tennis)</p>
+<p>NSG Table Tennis</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Junior Boys Doubles </u></strong>
@@ -213,8 +210,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2019 NATIONAL SCHOOL GAMES
-<br>(Sportsmanship Award)</p>
+<p>NSG Sportsmanship Award</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Badminton
@@ -224,8 +220,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2022 SYF ARTS PRESENTATION
-<br>(Guzheng)</p>
+<p>SYF Arts Presentation (Guzheng)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Participation </u></strong>
@@ -234,8 +229,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2022 ARTS PRESENTATION
-<br>(Contemporary Dance)</p>
+<p>Arts Presentation (Contemporary Dance)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Participation </u></strong>
@@ -244,7 +238,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2022 SOTA Temasek Foundation Award For Arts Development</p>
+<p>SOTA Temasek Foundation Award For Arts Development</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dance
@@ -253,7 +247,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2022 National Primary Schools Sport Climbing Championships</p>
+<p>National Primary Schools Sport Climbing Championships</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Junior (Novice) Girls Boulder Challenge </u></strong>
@@ -277,77 +271,78 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>COMPETITION</strong>
+<p><strong>EVENT</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>ACHIEVEMENT</strong>
+<p><strong>AWARD</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2017 SYF Art Exhibition
-<br>(Art Club)</p>
+<p>2017 SYF Art Exhibition (Art Club)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CERTIFICATE OF RECOGNITION
-<br>Art work exhibited at SCAPRE ORCHARD</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2018 SYF ARTS PRESENTATION
-<br>(Contemporary Dance)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>CERTIFICATE OF ACCOMPLISHMENT</p>
+<p><strong><u>Certificate of Recognition </u></strong>
+<br>Art work exhibited at SCAPRE Orchard</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2019 SYF ART EXHIBITION
-<br>(Art Club)</p>
+<p>2018 SYF Arts Presentation (Contemporary Dance)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CERTIFICATE OF RECOGNITION
-<br>Art work exhibited at NATIONAL GALLERY</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2019 NATIONAL SCHOOL GAMES (NSG)
-<br>(Badminton)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2 students won Sportsmanship Awards</p>
+<p><strong><u>Certificate of Accomplishment</u></strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2021 NATIONAL SCHOOL GAMES (NSG)
-<br>(Badminton)</p>
+<p>2019 SYF Art Exhibition (Art Club)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Top 6 (Bronze) - Senior Girls</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2021 NATIONAL SCHOOL GAMES (NSG)
-<br>(Badminton &amp; Table Tennis)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>8 students won Sportsmanship Awards</p>
+<p><strong><u>Certificate of Recognition </u></strong>
+<br>Art work exhibited at National Gallery</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2021 SYF ART EXHIBITION
-<br>(Art Club)</p>
+<p>2019 NSG Badminton</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CERTIFICATE OF RECOGNITION</p>
+<p><strong><u>Sportsmanship Awards</u></strong>
+</p>
+<p>awarded to 2 students</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2021 NSG Badminton</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Top 6 (Bronze)</u></strong>
+</p>
+<p>Senior Girls</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2021 NSG Badminton &amp; Table Tennis</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Sportsmanship Awards</u></strong>
+</p>
+<p>awarded to 8 students</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2021 SYF ART EXHIBITION (Art Club)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Certificate of Recognition</u></strong>
+</p>
 </td>
 </tr>
 </tbody>
