@@ -231,15 +231,15 @@ variant: tiptap
 <p>National Primary Schools Sport Climbing Championships (NPSSCC) 2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Junior Girls Division (Top Rope)</u>
+<p><strong><u>Junior Girls Division (Top Rope)</u></strong>
 </p>
 <p>5<sup>th</sup> placing</p>
 <p></p>
-<p><u>Junior Boys Division (Top Rope)</u>
+<p><strong><u>Junior Boys Division (Top Rope)</u></strong>
 </p>
 <p>6<sup>th</sup> placing</p>
 <p></p>
-<p><u>Novice Division</u>
+<p><strong><u>Novice Division</u></strong>
 </p>
 <p>Gold Achievement Pins</p>
 <p>Silver Achievement Pins</p>
@@ -250,7 +250,7 @@ variant: tiptap
 <p>2023 SYF Art Exhibition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Certificate of Recognition</u>
+<p><strong><u>Certificate of Recognition</u></strong>
 </p>
 </td>
 </tr>
@@ -259,9 +259,9 @@ variant: tiptap
 <p>2023 NSG Hockey Senior Boys</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>National Runners-Up</u>
+<p><strong><u>National Runners-Up</u></strong>
 </p>
-<p><u>Sportsmanship Award</u>
+<p><strong><u>Sportsmanship Award</u></strong>
 </p>
 </td>
 </tr>
@@ -287,7 +287,7 @@ variant: tiptap
 <p>2023 Scouts Senior Sixers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Akela Award</u>
+<p><strong><u>Akela Award</u></strong>
 </p>
 </td>
 </tr>
@@ -296,7 +296,7 @@ variant: tiptap
 <p>2023 Scouts</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>National Cub Scouts Gang Show</u>
+<p><strong><u>National Cub Scouts Gang Show</u></strong>
 </p>
 <p>Bronze Award</p>
 </td>
@@ -306,15 +306,15 @@ variant: tiptap
 <p>2023 NSG Table Tennis</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Junior Boys Singles</u>
+<p><strong><u>Junior Boys Singles</u></strong>
 </p>
 <p>Tier 4 (1st)</p>
 <p></p>
-<p><u>Junior Boys Doubles</u>
+<p><strong><u>Junior Boys Doubles</u></strong>
 </p>
 <p>Tier 4 (1st)</p>
 <p></p>
-<p><u>Sportsmanship Award</u>
+<p><strong><u>Sportsmanship Award</u></strong>
 </p>
 </td>
 </tr>
@@ -323,8 +323,7 @@ variant: tiptap
 <p>2023 NSG Badminton</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Sportsmanship Award</u> 
-<br><u>Junior Division</u>
+<p><strong><u>Sportsmanship Award</u> <br><u>Junior Division</u></strong>
 </p>
 <p>Tier 1 (3rd)</p>
 </td>
@@ -334,7 +333,8 @@ variant: tiptap
 <p>“We Love our Planet” Storytelling Contest</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Merit Award</p>
+<p><strong>Merit Award</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -342,7 +342,8 @@ variant: tiptap
 <p>Hwa Chong Info-Communication Challenge 2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Gold Award</p>
+<p><strong>Gold Award</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -350,7 +351,8 @@ variant: tiptap
 <p>IDE SUMOBOT Competition 2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Certificate of Participation</p>
+<p><strong>Certificate of Participation</strong>
+</p>
 </td>
 </tr>
 </tbody>
