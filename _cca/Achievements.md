@@ -242,7 +242,6 @@ variant: tiptap
 <p><u>Novice Division</u>
 </p>
 <p>Gold Achievement Pins</p>
-<p></p>
 <p>Silver Achievement Pins</p>
 </td>
 </tr>
@@ -262,7 +261,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><u>National Runners-Up</u>
 </p>
-<p></p>
 <p><u>Sportsmanship Award</u>
 </p>
 </td>
@@ -326,7 +324,7 @@ variant: tiptap
 <p>2023 NSG Badminton</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Sportsmanship Award</u>
+<p><u>Sportsmanship Award</u> 
 <br><u>Junior Division</u>
 </p>
 <p>Tier 1 (3rd)</p>
