@@ -18,7 +18,7 @@ variant: markdown
 
 *   Students must wear the school uniform whenever they are in the school premises and when they are out representing the school for external competitions/activities. This includes Saturdays and school holidays.
 
-*   Students are only allowed to put on the PE attire on days when they have PE lessons, PAL lessons, CCAs, learning journeys or enrichment programmes. 2. Student’s Name Tag
+*   Students are only allowed to put on the PE attire on days when they have PE lessons, PAL lessons, CCAs, learning journeys or enrichment programmes.
 
 <u>Students’ Name Tag</u>
 
@@ -133,4 +133,4 @@ The use of personal communication devices in school is **<u>not allowed</u>** an
 
 Should a student bring a personal communication device to school, the student is solely responsible for it. The school is not liable for any damage or loss of the personal communication device.
 
-In the event that your child/ward is found using his/her personal communication device in school, the Form Teacher or Staff Member would notify you and make the necessary arrangements for you to collect the device personally. Misuse of the device may lead to disciplinary actions.
+In the event that a student is found using his/her personal communication device in school, the Form Teacher or Staff Member would notify his/her parents/guardians and make the necessary arrangements for his/her parents/guardians to collect the device personally. Misuse of the device may lead to disciplinary actions.
