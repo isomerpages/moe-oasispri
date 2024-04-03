@@ -18,7 +18,7 @@ variant: markdown
 
 *   Students must wear the school uniform whenever they are in the school premises and when they are out representing the school for external competitions/activities. This includes Saturdays and school holidays.
 
-*   Students are only allowed to put on the PE attire on days when they have PE lessons, PAL lessons, CCAs, learning journeys or enrichment programmes. 2. Student’s Name Tag
+*   Students are only allowed to put on the PE attire on days when they have PE lessons, PAL lessons, CCAs, learning journeys or enrichment programmes.
 
 <u>Students’ Name Tag</u>
 
