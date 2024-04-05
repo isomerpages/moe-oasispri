@@ -21,24 +21,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Western/ Fusion Food Stall</p>
+<p>Muslim Rice Food Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>22 March 2024</p>
+<p>19 April 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Halal</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Chinese Noodles Stall</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>22 March 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Non-Halal</p>
 </td>
 </tr>
 </tbody>
@@ -46,7 +35,7 @@ variant: tiptap
 <h5><strong>Application Procedure</strong></h5>
 <p>1. Download and complete the application form. You may also request for
 a hardcopy from the School’s General Office.</p>
-<p><a href="/files/canteen application form.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>
+<p><a href="/files/canteen_application_form.pdf" rel="noopener noreferrer nofollow" target="_blank">Canteen Application Form</a>
 </p>
 <p>2. Attached the following documents together with the application form:
 <br>* Photocopy of the NRIC (front and back)
