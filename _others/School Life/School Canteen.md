@@ -32,6 +32,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<hr>
 <h5><strong>Application Procedure</strong></h5>
 <p>1. Download and complete the application form. You may also request for
 a hardcopy from the School’s General Office.</p>
