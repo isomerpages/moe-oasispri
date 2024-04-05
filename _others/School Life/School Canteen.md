@@ -21,24 +21,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Western/ Fusion Food Stall</p>
+<p>Muslim Rice Food Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>22 March 2024</p>
+<p>19 April 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Halal</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Chinese Noodles Stall</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>22 March 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Non-Halal</p>
 </td>
 </tr>
 </tbody>
