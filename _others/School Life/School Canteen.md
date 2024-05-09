@@ -51,7 +51,7 @@ etc</p>
 via email OR to the School's General Office.
 <br>* Address: 71 Edgefield Plains, Singapore 828716
 <br>* Contact No: 6320 9855
-<br>* Email:&nbsp;<a href="mailto:oasis_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">oasis_ps@moe.edu.sg</a>
+<br>* Email:&nbsp;<a href="mailto:oasis_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">oasis_ps@moe.edu.sg</a> 
 <br>* Contact Person: Muhammad Iskandar (Mr) / Ng Pauline (Ms)</p>
 <h5><strong>How to get there?</strong></h5>
 <p>* Nearest MRT: Punggol MRT (NE17)
