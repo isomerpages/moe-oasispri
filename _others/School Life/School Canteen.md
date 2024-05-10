@@ -6,7 +6,12 @@ third_nav_title: School Life
 variant: tiptap
 ---
 <h5><strong>School Canteen Advertisement</strong></h5>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -24,7 +29,7 @@ variant: tiptap
 <p>Muslim Rice Food Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>19 April 2024</p>
+<p>24 May 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Halal</p>
@@ -47,7 +52,7 @@ via email OR to the School's General Office.
 <br>* Address: 71 Edgefield Plains, Singapore 828716
 <br>* Contact No: 6320 9855
 <br>* Email:&nbsp;<a href="mailto:oasis_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">oasis_ps@moe.edu.sg</a> 
-<br>* Contact Person: Mah Kian Lye (Mr)/ Muhammad Iskandar (Mr)</p>
+<br>* Contact Person: Muhammad Iskandar (Mr) / Ng Pauline (Ms)</p>
 <h5><strong>How to get there?</strong></h5>
 <p>* Nearest MRT: Punggol MRT (NE17)
 <br>* Nearest LRT: Damai (PE 7) or Oasis (PE 6) - 5 minutes walking distance
