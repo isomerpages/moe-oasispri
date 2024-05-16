@@ -4,7 +4,11 @@ permalink: /our-family/executive-and-administrative-staff/
 description: ""
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
@@ -24,7 +28,7 @@ variant: tiptap
 <p>Administration Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mah Kian Lye</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -32,7 +36,7 @@ variant: tiptap
 <p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Yeo Hock Kiang</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -113,7 +117,11 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
