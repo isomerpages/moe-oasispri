@@ -353,7 +353,7 @@ variant: tiptap
 <p>Mdm Lyvia Soh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>-</p>
 </td>
 </tr>
 </tbody>
