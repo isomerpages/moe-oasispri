@@ -4,11 +4,19 @@ permalink: /our-curriculum/co-curricular-activities/achievements/
 description: ""
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p><strong>CCA Achievements (2023)</strong>
+<p></p>
+<p></p>
+<p></p>
+<hr>
+<p><strong>A Achievements (2023)</strong>
 </p>
 </th>
 </tr>
@@ -153,7 +161,11 @@ variant: tiptap
 </tbody>
 </table>
 <hr>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
@@ -261,7 +273,11 @@ variant: tiptap
 </tbody>
 </table>
 <hr>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
