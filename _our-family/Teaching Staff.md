@@ -118,7 +118,7 @@ variant: tiptap
 <p>1 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Desmond Lim</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Ho Huan Xin</p>
