@@ -619,8 +619,7 @@ variant: tiptap
 <p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Pierre Fong,</p>
-<p>Mrs Joelle Pek</p>
+<p>Mr Pierre Fong, Mrs Joelle Pek</p>
 </td>
 </tr>
 <tr>
