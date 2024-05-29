@@ -2,6 +2,7 @@ collections:
   our-school:
     output: true
     order:
+      - Oasis Virtual Open House.md
       - Principal's Message.md
       - School Vision, Mission & Motto.md
       - School Values.md
