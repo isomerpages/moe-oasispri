@@ -21,7 +21,7 @@ sections:
           description: ""
           url: /ops/photo-gallery/2023
   - infopic:
-      title: Oasis Virtual Open House
+      title: Oasis Virtual Open House 2024
       id: infopic
       description: OPS warmly invites all prospective Primary 1 students and parents
         to our Virtual Open House from 2nd July 2024!
