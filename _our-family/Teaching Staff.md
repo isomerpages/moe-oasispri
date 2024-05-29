@@ -594,7 +594,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="3">
 <p><strong>Year Head: </strong>Ms Tan Li Na
-<br><strong>Assistant Year Heads: </strong>Mr Shazwan, Mrs Joelle Pek</p>
+<br><strong>Assistant Year Heads: </strong>Mrs Joelle Pek</p>
 </td>
 </tr>
 <tr>
