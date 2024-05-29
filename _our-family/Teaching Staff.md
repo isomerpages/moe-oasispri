@@ -107,7 +107,7 @@ variant: tiptap
 <p>1 Noble</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Syaza</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Sindy Lai</p>
@@ -118,7 +118,7 @@ variant: tiptap
 <p>1 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Desmond Lim</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Ho Huan Xin</p>
@@ -483,7 +483,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="3">
 <p><strong>Year Head: </strong>Ms Tan Li Na
-<br><strong>Assistant Year Heads: </strong>Mr Shazwan, Mrs Joelle Pek</p>
+<br><strong>Assistant Year Heads: </strong>Mrs Joelle Pek</p>
 </td>
 </tr>
 <tr>
@@ -594,7 +594,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="3">
 <p><strong>Year Head: </strong>Ms Tan Li Na
-<br><strong>Assistant Year Heads: </strong>Mr Shazwan, Mrs Joelle Pek</p>
+<br><strong>Assistant Year Heads: </strong>Mrs Joelle Pek</p>
 </td>
 </tr>
 <tr>
