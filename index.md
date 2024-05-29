@@ -27,6 +27,5 @@ sections:
         to our Virtual Open House from 2nd July 2024!
       button: Join Us
       url: https://go.gov.sg/oasis2024
-      alt: Image alt text
       image: /images/oh2024.jpg
 ---
