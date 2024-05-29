@@ -107,7 +107,7 @@ variant: tiptap
 <p>1 Noble</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Syaza</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Sindy Lai</p>
