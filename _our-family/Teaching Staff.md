@@ -616,7 +616,7 @@ variant: tiptap
 <p>6 Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Soo Cheng</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Pierre Fong,</p>
