@@ -1,5 +1,5 @@
 collections:
-  links:
+  our-links:
     output: true
     order:
       - Oasis Virtual Open House 2024.md
