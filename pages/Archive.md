@@ -130,8 +130,3 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 	</tr>
 </tbody>
 </table>
-
-###### **Media Club**
-**Connect, Engage, Inform and Entertain.**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MMF6yJa_QqU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
