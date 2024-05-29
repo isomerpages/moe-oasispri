@@ -28,5 +28,5 @@ sections:
       button: Join Us
       url: https://go.gov.sg/oasis2024
       image: /images/oh2024.jpg
-      alt: e-Poster Virtual Open House
+      alt: Oasis Virtual Open House
 ---
