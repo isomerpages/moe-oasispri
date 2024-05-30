@@ -1,7 +1,8 @@
 ---
 title: Teachers
-permalink: /links/useful-links/
+permalink: /our-links/teachers/
 description: ""
+variant: tiptap
 ---
 1. [Oasis Service Portal](https://for.edu.sg/oasis-service-portal)
 

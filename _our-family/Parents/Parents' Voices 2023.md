@@ -1,8 +1,9 @@
 ---
-title: Parents' Voices
-permalink: /our-family/parents/parents-voices/
+title: Parents' Voices 2023
+permalink: /our-family/parents/parents-voices-2023/
 description: ""
 third_nav_title: Parents
+variant: tiptap
 ---
 <img src="/images/appreciation2.JPG" style="width:100%"> <br>
 <img src="/images/appreciation3.JPG" style="width:100%"> <br>

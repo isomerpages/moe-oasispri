@@ -1,7 +1,8 @@
 ---
 title: Students
-permalink: /links/permalink/
+permalink: /our-links/students/
 description: ""
+variant: tiptap
 ---
 1. [Student ICON](https://workspace.google.com/dashboard)
 
