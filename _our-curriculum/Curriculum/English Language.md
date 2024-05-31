@@ -181,5 +181,13 @@ opportunities to articulate their thoughts, reflections, and experiences
 of a literary work, and explain how an author makes a story effective.
 They then apply their learning through assigned tasks, presentations, or
 Values-In-Action projects.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English Language/p3charlieandthehocfactory.jpg">
+</div>
+<p>Primary 3 students explore the literature text "Charlie and the Chocolate
+Factory," where they learn how to overcome challenges they may face. They
+gain hands-on experience working in groups to design prototypes such as
+chocolate bars and chocolate bar wrappers. They then participate in activities
+that allow them to reflect on and share their experiences of overcoming
+personal challenges.</p>
 <p></p>
