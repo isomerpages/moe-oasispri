@@ -198,3 +198,10 @@ to appreciate those who may not think, look, or act the same way as they
 do. They also learn about being empathetic, accepting differences, and
 celebrating diversity. Students learn to put themselves in others’ shoes
 and extend respect and appreciation.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English Language/p5olemedia.jpg">
+</div>
+<p>During OLE Week, our Primary 5 students explore Media Literacy as part
+of the school-based curriculum. This develops our students as discerners
+of information in media and as skillful creators of information and media
+messages. It also fosters creative thinking in our students.</p>
