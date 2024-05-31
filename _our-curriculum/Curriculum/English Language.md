@@ -135,4 +135,21 @@ experiences of <strong>Discovery</strong>, <strong>Imagination</strong>,
 and <strong>Change-making</strong>. These experiences will enable students
 to apply their knowledge, skills, and demonstrate their learning by using
 the language effectively.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English Language/dlc.png">
+</div>
+<p><strong>Discovery:</strong>
+</p>
+<p>-&nbsp;&nbsp; Students’ spirit of inquisitiveness and curiosity will be
+piqued through the discovery of content from the various reading materials
+and genres.</p>
+<p>-&nbsp; Students’ competencies in communication, contribution, creativity,
+and creation will be developed through the reinforcement and extension
+of language skills such as (i) reading and viewing and (ii) speaking and
+representing.</p>
+<p><strong>Imagination:</strong>
+</p>
+<p>Students’ interest in the English language will be ignited through various
+literacy and literary programs. These programs provide students with opportunities
+to express their ideas creatively and be inventive in their thinking.</p>
 <p></p>
