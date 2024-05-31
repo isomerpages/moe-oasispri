@@ -120,7 +120,7 @@ sources</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/English Language/p2mlea.jpg">
 </div>
-<p><em>Primary 2 students making sandwiches as part of their Modified Language Learning Experience (MLEA) in preparation for their class writing</em>
+<p><em>Primary 2 students making sandwiches as part of their Modified Language Learning Experience (MLEA) in preparation for their class writing.</em>
 </p>
 <h4><strong>Our Approach:</strong></h4>
 <p>Oasians will establish a strong foundation in the English language through
@@ -133,13 +133,11 @@ the language effectively.</p>
 </div>
 <p><strong>Discovery:</strong>
 </p>
-<p>-&nbsp;&nbsp; Students’ spirit of inquisitiveness and curiosity will be
-piqued through the discovery of content from the various reading materials
-and genres.</p>
-<p>-&nbsp; Students’ competencies in communication, contribution, creativity,
-and creation will be developed through the reinforcement and extension
-of language skills such as (i) reading and viewing and (ii) speaking and
-representing.</p>
+<p>Students’ spirit of inquisitiveness and curiosity will be piqued through
+the discovery of content from the various reading materials and genres.</p>
+<p>Students’ competencies in communication, contribution, creativity, and
+creation will be developed through the reinforcement and extension of language
+skills such as (i) reading and viewing and (ii) speaking and representing.</p>
 <p><strong>Imagination:</strong>
 </p>
 <p>Students’ interest in the English language will be ignited through various
@@ -153,11 +151,9 @@ schools and communicating effectively with their friends from other countries.</
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/English Language/vsc.png">
 </div>
-<p><em>Oasians communicating and collaborating effectively with their friends from Vietnam</em>
+<p><em>Oasians communicating and collaborating effectively with their friends from Vietnam.</em>
 </p>
 <p><strong>Oasis Learning Experience and Literature is Alive</strong>
-</p>
-<p><strong><u>Literature Lessons and Oasis Learning Experience Week (OLE)</u></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/English Language/learningole.jpg">
