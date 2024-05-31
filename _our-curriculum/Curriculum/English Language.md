@@ -155,7 +155,7 @@ schools and communicating effectively with their friends from other countries.</
 </div>
 <p><em>Oasians communicating and collaborating effectively with their friends from Vietnam</em>
 </p>
-<p><strong>Celebration of Learning:</strong>
+<p><strong>Oasis Learning Experience and Literature is Alive</strong>
 </p>
 <p><strong><u>Literature Lessons and Oasis Learning Experience Week (OLE)</u></strong>
 </p>
