@@ -5,16 +5,13 @@ description: ""
 third_nav_title: Curriculum
 variant: tiptap
 ---
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/English Language/elbanner.jpg">
 </div>
 <p>Empathetic Communicators, Discerning Readers and Creative Inquirers who
 are informed, concerned and participative citizens of Singapore and the
 world</p>
-<p></p>
-<p><strong>Our Department Goals</strong>
-</p>
+<h4><strong>Our Department Goals</strong></h4>
 <p>Here at Oasis, our goals are to develop Oasians to be (i) Empathetic Communicators;</p>
 <p>(ii) Discerning Readers; and (iii) Creative Inquirers.</p>
 <p><strong>Empathetic communicators</strong> possess the values, dispositions,
@@ -27,34 +24,33 @@ as they are able to:</p>
 <p><strong>C: <u>C</u>ommunicate</strong> confidently and sensitively while
 collaborating</p>
 <p><strong>E: <u>E</u>mbody </strong>cultural awareness and foster inclusivity</p>
-<p><u>Oasis Learning Experience (OLE)</u>
+<p><strong><u>Oasis Learning Experience (OLE)</u></strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/English Language/ole.png">
 </div>
 <p><em>Teamwork in action: Students working in harmony during OLE week.</em>
 </p>
-<p><u>Tongue Twisters Recitation</u>
+<p><strong><u>Tongue Twisters Recitation</u></strong>
 </p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/me_hFQhwXEY?si=vZ-4qPcG1iEOQCO8"></iframe>
 </div>
-<p><u>Storybuzz</u>
+<p><strong><u>Storybuzz</u></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/English Language/storybuzz.png">
 </div>
 <p><em>Storybuzz aims to hone active listening and viewing skills in our students.</em>
 </p>
-<p><u>Speech and Drama</u>
+<p><strong><u>Speech and Drama</u></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/English Language/p1speechanddrama2023.jpg">
 </div>
 <p><em>Our P1 students are brimming with confidence, ready to shine on stage.</em>
 </p>
-<p><u>Show and Tell</u>
+<p><strong><u>Show and Tell</u></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/English Language/showandtell.png">
@@ -72,16 +68,14 @@ they are:</p>
 <p><strong>S: <u>S</u>killed</strong> at discerning according to purpose,
 audience, context, and culture (PACC)</p>
 <p><strong>E: <u>E</u>xperts</strong> at distinguishing fact from falsehood</p>
-<p></p>
-<p><u>Shared Book Approach (SBA)</u>
+<p><strong><u>Shared Book Approach (SBA)</u></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/English Language/sharedbookapproach.png">
 </div>
 <p><em>SBA fosters a love for reading, and cultivates critical thinking skills and empathy as students learn to appreciate diverse viewpoints.</em>
 </p>
-<p></p>
-<p><u>Literature Programmes</u>
+<p><strong><u>Literature Programmes</u></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/English Language/p3andp4litprog1.jpg">
@@ -91,7 +85,7 @@ audience, context, and culture (PACC)</p>
 </div>
 <p><em>Students developing and expanding their literary knowledge and skills through hands-on activities.</em>
 </p>
-<p><u>Be Engaged About Reading (BEAR) Programme</u>
+<p><strong><u>Be Engaged About Reading (BEAR) Programme</u></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/English Language/bearprog.jpg">
@@ -114,22 +108,21 @@ sources</p>
 <p><strong>R: <u>R</u>eflect </strong>on and evaluate gathered information</p>
 <p><strong>E: <u>E</u>xplore</strong> solutions through collaboration</p>
 <p><strong>R: <u>R</u>esolve</strong> challenges in familiar or new contexts</p>
-<p><u>Learning Journey cum Place-based Learning (P1 to P3)</u>
+<p><strong><u>Learning Journey cum Place-based Learning (P1 to P3)</u></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/English Language/p1top3ljcumpbl.jpg">
 </div>
 <p><em>Learning journeys provide a structured, immersive, and progressive approach to language acquisition tailored to individual needs and contexts.</em>
 </p>
-<p><u>Modified Language Experience Approach (MLEA)</u>
+<p><strong><u>Modified Language Experience Approach (MLEA)</u></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/English Language/p2mlea.jpg">
 </div>
 <p><em>Primary 2 students making sandwiches as part of their Modified Language Learning Experience (MLEA) in preparation for their class writing</em>
 </p>
-<p><strong>Our Approach:</strong>
-</p>
+<h4><strong>Our Approach:</strong></h4>
 <p>Oasians will establish a strong foundation in the English language through
 experiences of <strong>Discovery</strong>, <strong>Imagination</strong>,
 and <strong>Change-making</strong>. These experiences will enable students
@@ -164,7 +157,7 @@ schools and communicating effectively with their friends from other countries.</
 </p>
 <p><strong>Celebration of Learning:</strong>
 </p>
-<p><u>Literature Lessons and Oasis Learning Experience Week (OLE)</u>
+<p><strong><u>Literature Lessons and Oasis Learning Experience Week (OLE)</u></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/English Language/learningole.jpg">
