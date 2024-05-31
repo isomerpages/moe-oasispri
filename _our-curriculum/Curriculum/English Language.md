@@ -101,4 +101,38 @@ audience, context, and culture (PACC)</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/c_HNvYfrXjU?si=s7WFE9Z93Rk0p_aY"></iframe>
 </div>
+<p><strong>Creative inquirers</strong> explore and evaluate real-world issues
+and multiple perspectives, as well as gather and synthesise information
+from diverse print, non-print, and digital sources.</p>
+<p>Therefore, Oasians are inquirers as they:</p>
+<p><strong>I: <u>I</u>nvestigate</strong> real-world issues and multiple perspectives</p>
+<p><strong>N: <u>N</u>avigate</strong> diverse print, non-print, and digital
+sources</p>
+<p><strong>Q: <u>Q</u>uestion</strong> and critically assessing information</p>
+<p><strong>U: <u>U</u>tilise </strong>gathered information effectively</p>
+<p><strong>I: <u>I</u>ntegrate</strong> knowledge from various sources</p>
+<p><strong>R: <u>R</u>eflect </strong>on and evaluate gathered information</p>
+<p><strong>E: <u>E</u>xplore</strong> solutions through collaboration</p>
+<p><strong>R: <u>R</u>esolve</strong> challenges in familiar or new contexts</p>
+<p><u>Learning Journey cum Place-based Learning (P1 to P3)</u>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English Language/p1top3ljcumpbl.jpg">
+</div>
+<p><em>Learning journeys provide a structured, immersive, and progressive approach to language acquisition tailored to individual needs and contexts.</em>
+</p>
+<p><u>Modified Language Experience Approach (MLEA)</u>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English Language/p2mlea.jpg">
+</div>
+<p><em>Primary 2 students making sandwiches as part of their Modified Language Learning Experience (MLEA) in preparation for their class writing</em>
+</p>
+<p><strong>Our Approach:</strong>
+</p>
+<p>Oasians will establish a strong foundation in the English language through
+experiences of <strong>Discovery</strong>, <strong>Imagination</strong>,
+and <strong>Change-making</strong>. These experiences will enable students
+to apply their knowledge, skills, and demonstrate their learning by using
+the language effectively.</p>
 <p></p>
