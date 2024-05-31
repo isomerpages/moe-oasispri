@@ -10,16 +10,16 @@ description: ""
 environment&lt;/b&gt;&lt;/center&gt;</p>
 <p>### Department Goals</p>
 <p>To develop Oasians to be:</p>
-<p><em>   </em>*Empathetic communicators**&amp;nbsp;who possess the values,
-dispositions and skills to listen actively to different perspectives, communicate
-confidently, effectively and sensitively while collaborating with others
-to work towards shared goals.</p>
-<p><em>   </em>*Discerning readers**&amp;nbsp;who possess broad worldviews
-by staying well informed and self-directed in the use of information, and
-are able to distinguish fact from falsehood by processing and evaluating
-information critically.</p>
-<p><em>   </em>*Creative inquirers**&amp;nbsp;who explore and evaluate real-world
-issues and multiple perspectives as well as gather and synthesize information
+<p>*Empathetic communicators**&amp;nbsp;who possess the values, dispositions
+and skills to listen actively to different perspectives, communicate confidently,
+effectively and sensitively while collaborating with others to work towards
+shared goals.</p>
+<p>*Discerning readers**&amp;nbsp;who possess broad worldviews by staying
+well informed and self-directed in the use of information, and are able
+to distinguish fact from falsehood by processing and evaluating information
+critically.</p>
+<p>*Creative inquirers**&amp;nbsp;who explore and evaluate real-world issues
+and multiple perspectives as well as gather and synthesize information
 from diverse print, non-print and digital sources.</p>
 <p></p>
 <p>### Our Approach</p>
@@ -108,7 +108,7 @@ thus developing critical literacy skills in our students.</p>
 and Mother Tongue Departments would like to encourage all students to read
 more storybooks and participate in the various activities specially organized
 for them.</p>
-<p><strong>1) OASIS BOOK DONATION&amp;nbsp;(For All Staff &amp;amp; Students)</strong> 
+<p><strong>1) OASIS BOOK DONATION&amp;nbsp;(For All Staff &amp;amp; Students)</strong>
 </p>
 <p><strong>When:</strong>&amp;nbsp;T2W5-W8 (18 April to 13 May)</p>
 <p><strong>What:</strong>&amp;nbsp;Storybooks and magazines (no newspaper
