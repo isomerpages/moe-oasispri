@@ -29,3 +29,13 @@ collaborating</p>
 <p><strong>E: <u>E</u>mbody </strong>cultural awareness and foster inclusivity</p>
 <p><u>Oasis Learning Experience (OLE)</u>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English Language/ole.png">
+</div>
+<p><em>Teamwork in action: Students working in harmony during OLE week.</em>
+</p>
+<p><u>Tongue Twisters Recitation</u>
+</p>
+<p></p>
+<p></p>
