@@ -152,4 +152,34 @@ representing.</p>
 <p>Students’ interest in the English language will be ignited through various
 literacy and literary programs. These programs provide students with opportunities
 to express their ideas creatively and be inventive in their thinking.</p>
+<p><strong>Change-making:</strong>
+</p>
+<p>Students’ sense of agency and advocacy will be invoked through specially
+curated activities, such as writing notes for their pen pals from other
+schools and communicating effectively with their friends from other countries.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English Language/vsc.png">
+</div>
+<p><em>Oasians communicating and collaborating effectively with their friends from Vietnam</em>
+</p>
+<p><strong>Celebration of Learning:</strong>
+</p>
+<p><u>Literature Lessons and Oasis Learning Experience Week (OLE)</u>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English Language/learningole.jpg">
+</div>
+<p>For our Primary 3 and 4 students, literature lessons are designed to awaken
+their emotions and pique their sense of wonder. During OLE Week, the interdisciplinary
+approach taken is more focused on the learning experience than outcomes,
+and is tailored to be age-appropriate.</p>
+<p>These literature lessons are crafted to instill a sense of ownership in
+students' learning. Students' literary growth is promoted through reading,
+reflecting, and re-evaluating their responses as they share perspectives
+in group discussions. Through spoken and written forms, they are given
+opportunities to articulate their thoughts, reflections, and experiences
+of a literary work, and explain how an author makes a story effective.
+They then apply their learning through assigned tasks, presentations, or
+Values-In-Action projects.</p>
+<p></p>
 <p></p>
