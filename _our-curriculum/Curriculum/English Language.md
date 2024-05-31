@@ -190,4 +190,11 @@ gain hands-on experience working in groups to design prototypes such as
 chocolate bars and chocolate bar wrappers. They then participate in activities
 that allow them to reflect on and share their experiences of overcoming
 personal challenges.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English Language/p4wonder.jpg">
+</div>
+<p>Primary 4 students explore the literature text "Wonder," where they learn
+to appreciate those who may not think, look, or act the same way as they
+do. They also learn about being empathetic, accepting differences, and
+celebrating diversity. Students learn to put themselves in others’ shoes
+and extend respect and appreciation.</p>
