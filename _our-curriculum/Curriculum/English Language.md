@@ -12,8 +12,8 @@ variant: tiptap
 are informed, concerned and participative citizens of Singapore and the
 world</p>
 <h4><strong>Our Department Goals</strong></h4>
-<p>Here at Oasis, our goals are to develop Oasians to be (i) Empathetic Communicators;</p>
-<p>(ii) Discerning Readers; and (iii) Creative Inquirers.</p>
+<p>Here at Oasis, our goals are to develop Oasians to be (i) Empathetic Communicators;
+(ii) Discerning Readers; and (iii) Creative Inquirers.</p>
 <p><strong>Empathetic communicators</strong> possess the values, dispositions,
 and skills to listen actively to different perspectives, communicate confidently,
 effectively, and sensitively, and collaborate with others to work towards
