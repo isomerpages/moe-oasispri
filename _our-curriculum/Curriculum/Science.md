@@ -61,10 +61,9 @@ our students to be confident and effective leaders.</p>
 <img style="width:100%" height="auto" width="100%" src="/images/sciphoto2.png">
 </div>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/UNz8OsBttt4?si=3bS_eVJ-QbkDoZvr"></iframe>
+</div>
 <p><strong>Place-based Learning at Garden Sanctuary</strong>
 </p>
 <p><strong>1. Garden Sanctuary Trail (P3)</strong>
@@ -86,7 +85,7 @@ for their discussion.</p>
 <div class="isomer-image-wrapper">
 <img style="width:100%" height="auto" width="100%" src="/images/science.png">
 </div>
-<p><strong>Place-based Learning - Sustainable Singapore Story</strong>
+<p><strong>3. Place-based Learning - Sustainable Singapore Story</strong>
 </p>
 <p>Place-based Learning in Oasis incorporates inquiry activities, which enable
 students to pose questions and investigate problems based in real-world
@@ -128,6 +127,18 @@ on the biology of earthworms and the conditions required to expedite composting.
 <div class="isomer-image-wrapper">
 <img style="width:100%" height="auto" width="100%" src="/images/science%202.png">
 </div>
+<p><strong>E2K Science Programme</strong>
+</p>
+<p>The Excellence 2000 (E2K) Science Programme is an enrichment programme
+for selected Primary 4 students who demonstrate higher readiness in Science.
+This enrichment programme develops students’ scientific thinking and reasoning
+skills and deepens their conceptual understanding through an inquiry approach.</p>
+<p>Students are provided with the opportunities to collaborate with their
+peers and engage in scientific investigations involving more advanced Science
+concepts specially designed for this programme.</p>
+<p></p>
+<p></p>
+<p></p>
 <h3>Joy of Learning Science</h3>
 <p><a href="https://www.youtube.com/watch?v=JhKmgh99Ekg" rel="noopener noreferrer nofollow" target="_blank">Joy of Learning Science</a>
 </p>
