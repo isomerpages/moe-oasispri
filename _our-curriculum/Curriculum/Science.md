@@ -136,9 +136,9 @@ skills and deepens their conceptual understanding through an inquiry approach.</
 <p>Students are provided with the opportunities to collaborate with their
 peers and engage in scientific investigations involving more advanced Science
 concepts specially designed for this programme.</p>
-<p></p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/e2k.png">
+</div>
 <h3>Joy of Learning Science</h3>
 <p><a href="https://www.youtube.com/watch?v=JhKmgh99Ekg" rel="noopener noreferrer nofollow" target="_blank">Joy of Learning Science</a>
 </p>
