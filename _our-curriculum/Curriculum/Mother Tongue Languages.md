@@ -72,27 +72,45 @@ world of books, igniting minds and hearts along the way.</p>
 </div>
 <p><strong>Primary 4 Chinese Language Young Journalism Programme</strong>
 </p>
-<p>The Chinese Language department started our own Oasian Young Journalism
-Programme in 2022. This enrichment programme aims to cultivate the selected
-Primary 4 group of students to develop their observational, writing, photography
-and presentation skills, and uncover inspiring and interesting school news
-in the Oasis Community. Through the programme, young journalists learn
-how to draft interview questions, acquire the flow on an effective interview,
-conduct interviews and edit videos. The activities aim to help them learn
-how to listen, express and organise their thoughts on the go. Our students
-have become more confident in communication skills through conducting interviews
-with their peers during Mother Tongue Fortnight in April. They will also
-have a chance to interview visiting parents during Open House in July,
-which will encourage the young journalists to better appreciate the relevance
-of language learning in the real world.Do stay tune for our upcoming news
-production!</p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/H_a0YTmboPU"></iframe>
-</div>
-<p></p>
+<p>video</p>
+<p><strong>Establishing Partnership between OPS Primary 4 Chinese Language Journalists and Beijing Cuiwei Elementary School’s Journalists</strong>
+</p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/yjphoto.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL/yjp1.png">
 </div>
+<p>Oasis Primary School and Beijing’s Cuiwei Elementary School successfully
+held their first Junior Journalist exchange activity of the year online.
+This event marked the beginning of a collaborative effort to promote cultural
+exchange and mutual understanding between young journalists from both countries.</p>
+<p>Participants included Vice Principal Mrs Tan, Mother Tongue Department
+Head Mdm Ng, Senior Teacher Ms Huang, and P4 CL Journalism programme teachers
+in charge, as well as Vice Principal of Moral Education Ms Wu Jiuqin, Deputy
+Director of Moral Education Ms Liu Xi, and moral education staff&nbsp;
+from various campuses of Cuiwei Elementary School.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL/yjp2.png">
+</div>
+<p><strong>Understanding Each Other and Enhancing Friendship</strong>
+</p>
+<p>The event kicked off with speeches from the vice principals from both
+schools. Following this, representatives from both schools introduced their
+schools. Through video clips and verbal descriptions, Primary P4 CL&nbsp;
+journalists gained a deeper understanding of each school's educational
+philosophies and cultures.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL/yjp3.png">
+</div>
+<p><strong>Ice breaker Activities to Build Rapport</strong>
+</p>
+<p>During the icebreaker activities, students from both schools engaged in
+exchanges and interactions, learning about each other’s countries' histories,
+cultures, and traditions.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL/icebreaker.png">
+</div>
+<p>The first Junior Journalist exchange activity was a resounding success,
+laying a strong foundation for future collaborations. Both schools expressed
+enthusiasm for continuing the partnership and planned for future activities.</p>
 <p><strong>2024 Mother Tongue Fortnight Programme</strong>
 </p>
 <p>In line with the department’s objective to create an immersive environment
