@@ -46,24 +46,24 @@ opportunities.</p>
 <h3>Key Programmes</h3>
 <p><strong>Reading-Is-Fun Programme (RIF)</strong>
 </p>
-<p>To develop our students to be avid readers and cultivate their passion
-in reading MTL storybooks, we embarked on our “RIF” journey.</p>
-<p>Students who are passionate in reading MTL storybooks are selected to
-be our <strong>Mother Tongue Language Ambassadors (LAs)</strong>. Trainings
-were provided to equip the LAs with necessary skills to promote reading
-to their peers in OPS. They participated in different activities such as <strong>Oasis</strong>  <strong>Booktopia</strong>,
-book talks and storytelling sessions to encourage their peers to read more
-MTL storybooks.</p>
-<p>Students participate in Reading Superman, Reading Bingo and book reviews
-in the classroom and at home to arouse their interest in reading MTL storybooks. <strong>Reading badges</strong> and
-small tokens are awarded to the avid readers to motivate students to explore
-in the world of books. Students also enjoy reading their MTL storybooks
-during MTL library visits and Morning Assembly on Thursdays and Fridays.</p>
+<p>Embarking on our thrilling "Reading-Is-Fun" (RIF) Programme, we're on
+a mission to ignite a fiery passion for MTL storybooks among our students
+at OPS! Handpicking the most fervent MTL bookworms, we crown them as our
+esteemed Mother Tongue Language Ambassadors (LAs), equipping them with
+skills to dazzle and inspire their peers. Our LAs conducted captivating
+book talks and storytelling sessions for students in the Student Care Centre
+(SCC) and for Primary 3, 4 and 5 levels.</p>
+<p>But the excitement doesn't end there! Brace yourselves for the exhilarating
+challenges of the tantalizing twists of CL &amp; TL Reading Bingo cards
+and ML Reading Achievement Cards, where students delve into the depths
+of MTL storybook wonders, earning coveted reading badges, tokens and even
+certificates of recognition as they journey through literary landscapes.</p>
+<p>Not forgetting “Stories Come Alive” Carnival which will be held in Term
+3.&nbsp; Join us on this epic adventure as we dive headfirst into the boundless
+world of books, igniting minds and hearts along the way.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/rifphoto1.JPG">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/rifphoto2.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL/rif.png">
 </div>
 <p><strong>Samples of Winning Entries for OBD Competitions</strong>
 </p>
@@ -93,22 +93,36 @@ production!</p>
 <div class="isomer-image-wrapper">
 <img style="width:100%" height="auto" width="100%" src="/images/yjphoto.JPG">
 </div>
-<p><strong>2023 Mother Tongue Fortnight Programme</strong>
+<p><strong>2024 Mother Tongue Fortnight Programme</strong>
 </p>
-<p>Mother Tongue Language&nbsp;Fortnight programme aims to create an exciting
-and bustling environment for learning and appreciating Mother Tongue Languages
-and Cultures. Held over in Term 2 Week 4 and 5 this year,&nbsp;students
-were exposed to a wide variety of rich cultural activities such as traditional
-game stations, workshops, quizzes, competitions during these two eventful
-weeks to&nbsp;deepen students’ understanding of their cultural roots and
-promote the learning of Mother Tongue Language in a fun, authentic and
-engaging experience!</p>
+<p>In line with the department’s objective to create an immersive environment
+for Oasians to experience, learn and appreciate their Mother Tongue Language,
+the department organised a myriad of cultural experiences and language
+activities for the various levels.</p>
+<p>The Chinese Language students had the chance to learn about Tang Poetry
+and make their very own rod puppets, opera masks, fans, and screens with
+their peers. A variety of competitions were also held, from penmanship
+to bookmarks, mini books, postcards, and creative idioms.</p>
+<p>Additionally, students studying the Malay Language participated in a range
+of activities such as Malay traditional games, making Malay traditional
+handicrafts, and listening to Malay traditional music. They also participated
+in language competitions like spelling contests, proverb contests, and
+vocabulary contests to develop their passion for the language.</p>
+<p>Tamil language students explored the significance of the mango tree and
+performed traditional Indian dances. They also engaged in traditional games
+like Snake &amp; Ladder. Part of the program involved creating videos on
+the medicinal uses of herbs. Other activities included designing Kolam
+patterns using Tamil alphabets, making invitations, and participating in
+a quiz about Tamil fictional characters.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/mtlphoto1.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL/mtfortprog1.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/mtlphoto2.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL/mtfortprog2.png">
 </div>
+<p></p>
 <p><strong>Primary 2 Mother Tongue Language (MTL) Speech and Drama Programme</strong>
 </p>
 <p>Speech and Drama Enrichment programme aims to cultivate student’s interest
