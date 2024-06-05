@@ -75,7 +75,7 @@ audience, context, and culture (PACC)</p>
 </div>
 <p><em>SBA fosters a love for reading, and cultivates critical thinking skills and empathy as students learn to appreciate diverse viewpoints.</em>
 </p>
-<p><strong><u>Literature is Alive</u></strong>
+<p><strong><u>Literature Is Alive</u></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/English Language/p3andp4litprog1.jpg">
