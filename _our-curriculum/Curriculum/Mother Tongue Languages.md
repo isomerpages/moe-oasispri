@@ -122,18 +122,21 @@ a quiz about Tamil fictional characters.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL/mtfortprog2.png">
 </div>
-<p></p>
 <p><strong>Primary 2 Mother Tongue Language (MTL) Speech and Drama Programme</strong>
 </p>
-<p>Speech and Drama Enrichment programme aims to cultivate student’s interest
-in the learning of Mother Tongue Language and to develop them to be confident
-and eloquent speakers. The programme&nbsp;emphasizes on oral expression,
-fluency and creativity where pupils experience interactive activities such
-as story dramatisation, games and tongue twisters. At the same time, it
-also instill positive values such as teamwork, resilience and responsibility
-in the students.</p>
+<p>The Primary 2 Speech and Drama program this year took place during OLE
+week. Its purpose was to create an engaging atmosphere where students could
+confidently express themselves and communicate creatively. Additionally,
+the program sought to cultivate important values like teamwork, resilience,
+and responsibility among the students. Utilizing activities such as role-playing,
+storytelling, and performances, students were able to enhance their confidence
+in speaking their Mother Tongue language to an audience.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/speech%20and%20drama.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL/speechdramaprog1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL/speechdramaprog2.png">
 </div>
 <h3>Mother Tongue Languages Showcase</h3>
 <p>Discover the joy of learning the Mother Tongue language and culture at
