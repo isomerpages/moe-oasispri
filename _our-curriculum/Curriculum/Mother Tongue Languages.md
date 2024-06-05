@@ -111,6 +111,25 @@ cultures, and traditions.</p>
 <p>The first Junior Journalist exchange activity was a resounding success,
 laying a strong foundation for future collaborations. Both schools expressed
 enthusiasm for continuing the partnership and planned for future activities.</p>
+<p><strong><u>External MTL Competitions</u></strong>
+</p>
+<p><strong>a) <u>Tamil Language Cluster Competition</u></strong>
+</p>
+<p>On 26 April 2024, Tamil Language pupils participated in the Cluster Competition
+in conjunction with Tamil language month at Casuarina Primary School. We
+had 5 contestants from Primary 1 to 5 who competed against students from
+other schools. All of them were awarded with trophies for their victory.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL/tl.png">
+</div>
+<p><strong>b) <u>Malay Language Scrabble Competition</u></strong>
+</p>
+<p>On 18 May 2024, 5 of our P4 Malay Language students participated in Sahibba
+(ML Scrabble) Competition held at Riverside School. The students enjoyed
+the competition and they received certificates for their participation.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL/ml.png">
+</div>
 <p><strong>2024 Mother Tongue Fortnight Programme</strong>
 </p>
 <p>In line with the department’s objective to create an immersive environment
@@ -132,7 +151,6 @@ like Snake &amp; Ladder. Part of the program involved creating videos on
 the medicinal uses of herbs. Other activities included designing Kolam
 patterns using Tamil alphabets, making invitations, and participating in
 a quiz about Tamil fictional characters.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL/mtfortprog1.png">
 </div>
@@ -165,15 +183,11 @@ and culture.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WZprtgKPdLE"></iframe>
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/43iaTLKazbQ"></iframe>
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/PRdvKKg_XMk"></iframe>
 </div>
