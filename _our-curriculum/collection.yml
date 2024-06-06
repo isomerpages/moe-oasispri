@@ -2,8 +2,8 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Curriculum/Curriculum.md
       - Curriculum/.keep
+      - Curriculum/Curriculum.md
       - Curriculum/English Language.md
       - Curriculum/Mathematics.md
       - Curriculum/Mother Tongue Languages.md
@@ -13,3 +13,4 @@ collections:
       - Curriculum/Information & Communication Technology.md
       - Curriculum/Physical Education.md
       - Curriculum/Programme for Active Learning.md
+      - Curriculum/Social Studies.md
