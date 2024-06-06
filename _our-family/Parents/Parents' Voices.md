@@ -5,10 +5,6 @@ description: ""
 third_nav_title: Parents
 variant: tiptap
 ---
-<div class="iframe-wrapper">
-<iframe height="389" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR0XNm6YQWwGhdVzsfXbxVnaY2-XsrqphNBFldGAAfLPhvXdm67aBbwqJn6KxerD0OsHPNzZDXR8d1m/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
-</div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:100%" height="auto" width="100%" src="/images/01%20Salinah.jpg">
 </div>
