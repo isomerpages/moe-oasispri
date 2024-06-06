@@ -24,7 +24,7 @@ as they are able to:</p>
 <p><strong>C: <u>C</u>ommunicate</strong> confidently and sensitively while
 collaborating</p>
 <p><strong>E: <u>E</u>mbody </strong>cultural awareness and foster inclusivity</p>
-<p><strong>(i)&nbsp; &nbsp;Discerning readers </strong>possess broad worldviews
+<p><strong>(ii)&nbsp; &nbsp;Discerning readers </strong>possess broad worldviews
 by staying well-informed and self-directed in their use of information.
 They are able to distinguish fact from falsehood by processing and evaluating
 information critically.</p>
@@ -35,7 +35,7 @@ they are:</p>
 <p><strong>S: <u>S</u>killed</strong> at discerning according to purpose,
 audience, context, and culture (PACC)</p>
 <p><strong>E: <u>E</u>xperts</strong> at distinguishing fact from falsehood</p>
-<p><strong>(ii)&nbsp;&nbsp; Creative inquirers</strong> explore and evaluate
+<p><strong>(iii)&nbsp;&nbsp; Creative inquirers</strong> explore and evaluate
 real-world issues and multiple perspectives, as well as gather and synthesise
 information from diverse print, non-print, and digital sources.</p>
 <p>Therefore, Oasians are inquirers as they:</p>
