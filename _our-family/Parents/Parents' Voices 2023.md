@@ -126,7 +126,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width:100%" height="auto" width="100%" src="/images/01%20Salinah.jpg">
 </div>
-<p><strong> Salinah Binte Kasmadi</strong>
+<p><strong>Salinah Binte Kasmadi</strong>
 </p>
 <p>We are glad that we have chosen Oasis Primary School for our kids. The
 introduction of their school values &amp; 7 Habits is a great way of building
@@ -135,7 +135,7 @@ my kids and others for their future.</p>
 <div class="isomer-image-wrapper">
 <img style="width:100%" height="auto" width="100%" src="/images/02%20Anna%20Koh.jpg">
 </div>
-<p><strong> Koh Shiang Phing, Anna</strong>
+<p><strong>Koh Shiang Phing, Anna</strong>
 </p>
 <p>Initially, I thought that Oasis Pri Sch is just a neighbourhood school
 but I start to realize it is more than that. I am a PV so I am able to
@@ -147,7 +147,7 @@ Thumbs up for Oasis Pri Sch!</p>
 <div class="isomer-image-wrapper">
 <img style="width:100%" height="auto" width="100%" src="/images/07%20Susan%20Ng.jpg">
 </div>
-<p><strong> Susan Ng Siew Gek</strong>
+<p><strong>Susan Ng Siew Gek</strong>
 </p>
 <p>Both my boys enjoy school and had wonderful teachers who have been caring
 and loving throughout their school journey. My boys, who are in P6 and
@@ -158,7 +158,7 @@ developing both my boys during their formative primary school years.</p>
 <div class="isomer-image-wrapper">
 <img style="width:100%" height="auto" width="100%" src="/images/04%20Celsa.jpg">
 </div>
-<p><strong> Tow Celsa Galvez</strong>
+<p><strong>Tow Celsa Galvez</strong>
 </p>
 <p>Our son Ephraim who is in P4 this year is coping well with his studies
 and he is eager to learn more from his teachers.
@@ -177,7 +177,7 @@ that we can work together in the best interest of our child.</p>
 <div class="isomer-image-wrapper">
 <img style="width:100%" height="auto" width="100%" src="/images/03%20Rebekah.jpg">
 </div>
-<p><strong> Rebekah Seragih</strong>
+<p><strong>Rebekah Seragih</strong>
 </p>
 <p>The dedication of the teachers in Oasis Primary School never fails to
 amaze me. They always go the extra mile to help the students to ensure
@@ -304,4 +304,3 @@ moral and academic support to my son, Izz Fayyaz.
 <br>Each one of you has made a positive difference in my son's life. A true
 great teacher is hard to find and it takes a big heart to help shape little
 minds. Lots of love to the well-deserved teachers!</p>
-<p></p>
