@@ -5,7 +5,6 @@ collections:
       - Curriculum/.keep
       - Curriculum/Curriculum.md
       - Curriculum/English Language.md
-      - Curriculum/Social Studies.md
       - Curriculum/Mathematics.md
       - Curriculum/Mother Tongue Languages.md
       - Curriculum/Science.md
@@ -14,3 +13,4 @@ collections:
       - Curriculum/Information & Communication Technology.md
       - Curriculum/Physical Education.md
       - Curriculum/Programme for Active Learning.md
+      - Curriculum/Social Studies.md
