@@ -29,7 +29,7 @@ variant: markdown
 <img src="/images/CCE.png" alt="CCE" style="width:60%">
 </a>
 
-<a href="/our-curriculum/curriculum/ICT/">
+<a href="/our-curriculum/curriculum/character-n-citizenship-education/">
 <img src="/images/ICT.png" alt="ICT" style="width:60%">
 </a>
 
