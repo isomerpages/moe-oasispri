@@ -7,7 +7,7 @@ third_nav_title: Parents
 ---
 <h4><strong>Appreciation Notes for P1</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="389" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQyKnsI3kKAQAbz_Y1siljwul68XSRtqnSIZDtCbVtExtCAbebcXWUKJUDeBxqr9zxOS1dceYs79kQ1/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQyKnsI3kKAQAbz_Y1siljwul68XSRtqnSIZDtCbVtExtCAbebcXWUKJUDeBxqr9zxOS1dceYs79kQ1/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
 <h4><strong>Appreciation Notes for P2</strong></h4>
 <div class="iframe-wrapper">
