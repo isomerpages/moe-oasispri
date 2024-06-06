@@ -24,8 +24,6 @@ as they are able to:</p>
 <p><strong>C: <u>C</u>ommunicate</strong> confidently and sensitively while
 collaborating</p>
 <p><strong>E: <u>E</u>mbody </strong>cultural awareness and foster inclusivity</p>
-<p></p>
-<p></p>
 <p><strong>(i)&nbsp; &nbsp;Discerning readers </strong>possess broad worldviews
 by staying well-informed and self-directed in their use of information.
 They are able to distinguish fact from falsehood by processing and evaluating
@@ -50,8 +48,7 @@ sources</p>
 <p><strong>R: <u>R</u>eflect </strong>on and evaluate gathered information</p>
 <p><strong>E: <u>E</u>xplore</strong> solutions through collaboration</p>
 <p><strong>R: <u>R</u>esolve</strong> challenges in familiar or new contexts</p>
-<p><strong>Our Approach:</strong>
-</p>
+<h4><strong>Our Approach:</strong></h4>
 <p>Oasians will establish a strong foundation in the English language through
 experiences of <strong>Discovery</strong>, <strong>Imagination</strong>,
 and <strong>Change-making</strong>. These experiences will enable students
@@ -85,7 +82,7 @@ schools and communicating effectively with their friends from other countries.</
 </p>
 <p>To achieve our goals, we have specially curated the following language
 learning experiences for our students:</p>
-<p><u>Oasis Learning Experience (OLE Week) and Literature is Alive</u>
+<p><strong><u>Oasis Learning Experience (OLE Week) and Literature is Alive</u></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/English Language/ole.png">
