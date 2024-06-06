@@ -42,5 +42,5 @@ variant: markdown
 </a>
 
 <a href="/our-curriculum/curriculum/social-studies/">
-<img src="/images/social-studies/socialstudies.png" alt="CCE" style="width:60%">
+<img src="/images/socialstudies.png" alt="SS" style="width:60%">
 </a>
