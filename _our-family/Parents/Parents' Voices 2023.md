@@ -101,9 +101,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width:100%" height="auto" width="100%" src="/images/appreciation33.png">
 </div>
-<p>
-<br>
-</p>
 <div class="isomer-image-wrapper">
 <img style="width:100%" height="auto" width="100%" src="/images/appreciation34.png">
 </div>
