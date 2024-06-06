@@ -2,10 +2,10 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Curriculum/Social Studies.md
-      - Curriculum/Curriculum.md
       - Curriculum/.keep
+      - Curriculum/Curriculum.md
       - Curriculum/English Language.md
+      - Curriculum/Social Studies.md
       - Curriculum/Mathematics.md
       - Curriculum/Mother Tongue Languages.md
       - Curriculum/Science.md
