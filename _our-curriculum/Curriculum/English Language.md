@@ -83,14 +83,64 @@ schools and communicating effectively with their friends from other countries.</
 </div>
 <p><em>Oasians communicating and collaborating effectively with their friends from Vietnam.</em>
 </p>
-<p></p>
-<p><strong><u>Oasis Learning Experience (OLE)</u></strong>
+<p>To achieve our goals, we have specially curated the following language
+learning experiences for our students:</p>
+<p><u>Oasis Learning Experience (OLE Week) and Literature is Alive</u>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/English Language/ole.png">
 </div>
 <p><em>Teamwork in action: Students working in harmony during OLE week.</em>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English Language/learningole.jpg">
+</div>
+<p>For our Primary 3 and 4 students, literature lessons are designed to awaken
+their emotions and pique their sense of wonder. During OLE Week, the interdisciplinary
+approach taken is more focused on the learning experience than outcomes,
+and is tailored to be age-appropriate.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English Language/p3andp4litprog1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English Language/p3andp4litprog2.jpg">
+</div>
+<p><em>Students developing and expanding their literary knowledge and skills through hands-on activities.</em>
+</p>
+<p>These literature lessons are crafted to instill a sense of ownership in
+students' learning. Students' literary growth is promoted through reading,
+reflecting, and re-evaluating their responses as they share perspectives
+in group discussions. Through spoken and written forms, they are given
+opportunities to articulate their thoughts, reflections, and experiences
+of a literary work, and explain how an author makes a story effective.
+They then apply their learning through assigned tasks, presentations, or
+Values-In-Action projects.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English Language/p3charlieandthehocfactory.jpg">
+</div>
+<p>Primary 3 students explore the literature text "Charlie and the Chocolate
+Factory," where they learn how to overcome challenges they may face. They
+gain hands-on experience working in groups to design prototypes such as
+chocolate bars and chocolate bar wrappers. They then participate in activities
+that allow them to reflect on and share their experiences of overcoming
+personal challenges.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English Language/p4wonder.jpg">
+</div>
+<p>Primary 4 students explore the literature text "Wonder," where they learn
+to appreciate those who may not think, look, or act the same way as they
+do. They also learn about being empathetic, accepting differences, and
+celebrating diversity. Students learn to put themselves in others’ shoes
+and extend respect and appreciation.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English Language/p5olemedia.jpg">
+</div>
+<p>During OLE Week, our Primary 5 students explore Media Literacy as part
+of the school-based curriculum. This develops our students as discerners
+of information in media and as skillful creators of information and media
+messages. It also fosters creative thinking in our students.</p>
+<p></p>
+<p></p>
 <p><strong><u>Tongue Twisters Recitation</u></strong>
 </p>
 <div class="iframe-wrapper">
@@ -135,16 +185,7 @@ audience, context, and culture (PACC)</p>
 </div>
 <p><em>SBA fosters a love for reading, and cultivates critical thinking skills and empathy as students learn to appreciate diverse viewpoints.</em>
 </p>
-<p><strong><u>Literature Is Alive</u></strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English Language/p3andp4litprog1.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English Language/p3andp4litprog2.jpg">
-</div>
-<p><em>Students developing and expanding their literary knowledge and skills through hands-on activities.</em>
-</p>
+<p></p>
 <p><strong><u>Be Engaged About Reading (BEAR) Programme</u></strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -210,8 +251,7 @@ to express their ideas creatively and be inventive in their thinking.</p>
 curated activities, such as writing notes for their pen pals from other
 schools and communicating effectively with their friends from other countries.</p>
 <p></p>
-<p><strong>Oasis Learning Experience and Literature is Alive</strong>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/English Language/learningole.jpg">
 </div>
@@ -226,27 +266,17 @@ in group discussions. Through spoken and written forms, they are given
 opportunities to articulate their thoughts, reflections, and experiences
 of a literary work, and explain how an author makes a story effective.
 They then apply their learning through assigned tasks, presentations, or
-Values-In-Action projects.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English Language/p3charlieandthehocfactory.jpg">
-</div>
-<p>Primary 3 students explore the literature text "Charlie and the Chocolate
-Factory," where they learn how to overcome challenges they may face. They
-gain hands-on experience working in groups to design prototypes such as
-chocolate bars and chocolate bar wrappers. They then participate in activities
-that allow them to reflect on and share their experiences of overcoming
-personal challenges.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English Language/p4wonder.jpg">
-</div>
+Values-In-Action projects.Primary 3 students explore the literature text
+"Charlie and the Chocolate Factory," where they learn how to overcome challenges
+they may face. They gain hands-on experience working in groups to design
+prototypes such as chocolate bars and chocolate bar wrappers. They then
+participate in activities that allow them to reflect on and share their
+experiences of overcoming personal challenges.</p>
 <p>Primary 4 students explore the literature text "Wonder," where they learn
 to appreciate those who may not think, look, or act the same way as they
 do. They also learn about being empathetic, accepting differences, and
 celebrating diversity. Students learn to put themselves in others’ shoes
 and extend respect and appreciation.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English Language/p5olemedia.jpg">
-</div>
 <p>During OLE Week, our Primary 5 students explore Media Literacy as part
 of the school-based curriculum. This develops our students as discerners
 of information in media and as skillful creators of information and media
