@@ -25,4 +25,8 @@ third_nav_title: Parents
 <div class="iframe-wrapper">
 <iframe height="641" width="792" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSmWQ9GNJ2VvgUpc6AkuglAdlFciDrOINwSklNrmCuWpoWp3-MVXNa90aJ-vdaNmAjW0JSvr4epYXpk/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
+<h4><strong>PTC Appreciation Notes for P6</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="389" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTHW73w2gvXKxsNPog-TWD4tuZW7UtAfOchm6m8-KmfRLbMBnccFe_aqe_aezJ01qdOAAnIbhVm--3l/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+</div>
 <p></p>
