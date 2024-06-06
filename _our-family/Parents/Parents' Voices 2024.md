@@ -7,7 +7,7 @@ third_nav_title: Parents
 ---
 <h4><strong>PTC Appreciation Notes for P1</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQyKnsI3kKAQAbz_Y1siljwul68XSRtqnSIZDtCbVtExtCAbebcXWUKJUDeBxqr9zxOS1dceYs79kQ1/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe height="389" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQyKnsI3kKAQAbz_Y1siljwul68XSRtqnSIZDtCbVtExtCAbebcXWUKJUDeBxqr9zxOS1dceYs79kQ1/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
 <h4><strong>PTC Appreciation Notes for P2</strong></h4>
 <div class="iframe-wrapper">
@@ -23,7 +23,7 @@ third_nav_title: Parents
 </div>
 <h4><strong>PTC Appreciation Notes for P5</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="641" width="792" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSmWQ9GNJ2VvgUpc6AkuglAdlFciDrOINwSklNrmCuWpoWp3-MVXNa90aJ-vdaNmAjW0JSvr4epYXpk/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe height="389" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSO4gICbZNb06_eeQo8DUzzdKRNARyMtsMDvI6BN88tlUjYhbdPr_El3dv-H8zd7pgybVAWSl32X9ei/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
 <h4><strong>PTC Appreciation Notes for P6</strong></h4>
 <div class="iframe-wrapper">
