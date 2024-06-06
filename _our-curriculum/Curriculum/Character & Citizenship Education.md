@@ -3,6 +3,7 @@ title: Character & Citizenship Education
 permalink: /our-curriculum/curriculum/character-n-citizenship-education/
 description: ""
 third_nav_title: Curriculum
+variant: markdown
 ---
 <img src="/images/CCE.jpg" style="width:100%">
 <center><b>SHINE Oasians: Serve with a Heart and Inspire Everyone through words and actions</b></center>
@@ -126,45 +127,6 @@ Through the ‘Be A Blessing’ programme, our P6 students will have the opportu
 
 <br>
 <img src="/images/p6viac.png" style="width:100%">
-
-##### Social Studies in Oasis
-
-Social Studies (SS) in Oasis Primary is aligned to the national curriculum and seeks to develop students to be informed, concerned and participative citizens, competent in decision-making with an impassioned spirit to contribute responsibly to the society and world we live in.
-
-Our students’ learning is based on three broad clusters, as reflected in the SS syllabus:
-
-<table style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
- mso-border-alt:solid black .5pt;mso-yfti-tbllook:1024;mso-padding-alt:0in 5.4pt 0in 5.4pt;
- mso-border-insideh:.5pt solid black;mso-border-insidev:.5pt solid black" width="341" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:84.4pt;border:solid black 1.0pt;
-  mso-border-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="113"><p style="text-align:justify;tab-stops:178.1pt" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-size:10.5pt;font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial">Level</span></b></p></td><td style="width:171.0pt;border:solid black 1.0pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0in 5.4pt 0in 5.4pt" valign="top" width="228"><p style="text-align:justify;tab-stops:178.1pt" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-size:10.5pt;font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial">Cluster of Study</span></b></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:84.4pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0in 5.4pt 0in 5.4pt" valign="top" width="113"><p style="text-align:justify;tab-stops:178.1pt" class="MsoNormal"><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial">Primary 1 and 2</span></p></td><td style="width:171.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="228"><p style="text-align:justify;tab-stops:178.1pt" class="MsoNormal"><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial">Discovering Self and Immediate Environment</span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:84.4pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0in 5.4pt 0in 5.4pt" valign="top" width="113"><p style="text-align:justify;tab-stops:178.1pt" class="MsoNormal"><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial">Primary 3 and 4</span></p></td><td style="width:171.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="228"><p style="text-align:justify;tab-stops:178.1pt" class="MsoNormal"><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial">Understanding Singapore in the Past and Present</span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes"><td style="width:84.4pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0in 5.4pt 0in 5.4pt" valign="top" width="113"><p style="text-align:justify;tab-stops:178.1pt" class="MsoNormal"><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial">Primary 5 and 6</span></p></td><td style="width:171.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="228"><p style="text-align:justify;tab-stops:178.1pt" class="MsoNormal"><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial">Appreciating Singapore, the Region and the World We Live In</span></p></td></tr></tbody></table>
-
-<br>
-<img src="/images/cce_photo1a.png" style="width:100%">
 
 ##### NE Bulletin Discussion Lessons
 
