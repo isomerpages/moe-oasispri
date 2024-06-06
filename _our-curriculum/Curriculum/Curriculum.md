@@ -3,6 +3,7 @@ title: Curriculum
 permalink: /our-curriculum/curriculum/
 description: ""
 third_nav_title: Curriculum
+variant: markdown
 ---
 <a href="/our-curriculum/curriculum/english-language/">
 <img src="/images/english.png" alt="english" style="width:60%">
@@ -28,7 +29,7 @@ third_nav_title: Curriculum
 <img src="/images/CCE.png" alt="CCE" style="width:60%">
 </a>
 
-<a href="/our-curriculum/curriculum/character-n-citizenship-education/">
+<a href="/our-curriculum/curriculum/ICT/">
 <img src="/images/ICT.png" alt="ICT" style="width:60%">
 </a>
 
@@ -38,4 +39,8 @@ third_nav_title: Curriculum
 
 <a href="/our-curriculum/curriculum/programme-for-active-learning/">
 <img src="/images/PAL.png" alt="PAL" style="width:60%">
+</a>
+
+<a href="/our-curriculum/curriculum/social-studies/">
+<img src="/images/CCE.png" alt="CCE" style="width:60%">
 </a>
