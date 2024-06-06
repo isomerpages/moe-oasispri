@@ -139,6 +139,9 @@ concepts specially designed for this programme.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/e2k.png">
 </div>
-<h4>Joy of Learning Science</h4>
-<p><a href="https://www.youtube.com/watch?v=JhKmgh99Ekg" rel="noopener noreferrer nofollow" target="_blank">Joy of Learning Science</a>
+<p><strong>Joy of Learning Science</strong>
 </p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/JhKmgh99Ekg?si=3WFGVdX6TDLLatsf&amp;start=4"></iframe>
+</div>
+<p></p>
