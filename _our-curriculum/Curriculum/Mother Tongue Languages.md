@@ -73,7 +73,7 @@ world of books, igniting minds and hearts along the way.</p>
 <p><strong>Primary 4 Chinese Language Young Journalism Programme</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/8SNJtZdgtc4?si=tC832etpMeK0LuRI&amp;start=2"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/RJ0ZDDV6AnA?si=FzyIKoqGIHNtwhWT&amp;start=4"></iframe>
 </div>
 <p><strong>Establishing Partnership between OPS Primary 4 Chinese Language Journalists and Beijing Cuiwei Elementary School’s Journalists</strong>
 </p>
