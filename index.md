@@ -19,7 +19,7 @@ sections:
           url: /ops/info-hub/school-life/assessment-information/
         - title: Gallery
           description: ""
-          url: /ops/photo-gallery/2023
+          url: /images/oh2024.jpg
   - infopic:
       title: Oasis Virtual Open House 2024
       id: infopic

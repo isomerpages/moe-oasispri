@@ -3,207 +3,531 @@ title: Mother Tongue Languages
 permalink: /our-curriculum/curriculum/mother-tongue-language/
 description: ""
 third_nav_title: Curriculum
-variant: markdown
+variant: tiptap
 ---
-<img src="/images/MTL.jpg" style="width:100%">
-<center><b>Confident &amp; eloquent speakers in the Mother Tongue Language</b></center>
-
-### Department Goals
-
-*   To develop pupils to be proficient and confident in their command of the Mother Tongue Language
-*   To inculcate pupils’ love and passion for their own native culture
-*   To instill moral values and civic-mindedness in our students
-
-### Our Approach
-
-The MTL department key approach to make learning MTL fun &amp; applicable to real-life is through the application of E3 pedagogical approach which are mainly Engagement, Experiential &amp; Empowerment to better support the students’ learning in MTL.
-
-**Engagement**&nbsp;is an important learning condition for deep and meaningful learning. Through the use of ICT tools, pupils are engaged and actively involved in the learning activities. At the same time, assessment for learning strategies are also incorporated in these learning activities to engage pupils and provide support for their learning.
-
-To make learning MTL fun and applicable to real-life,&nbsp;**experiential**&nbsp;learning is carried out through placed-based learning whereby pupils are provided with opportunities to learn MTL in a fun way.
-
-Pupils are&nbsp;**empowered**&nbsp;to take ownership of their learning and become self-directed learners. During the learning process, pupils are involved in decision-making and also to view mistakes as learning opportunities.
-
-![](/images/approach.png)
-
-### Key Programmes
-
-**Reading-Is-Fun Programme (RIF)**  
-
-To develop our students to be avid readers and cultivate their passion in reading MTL storybooks, we embarked on our “RIF” journey.
-
-Students who are passionate in reading MTL storybooks are selected to be our **Mother Tongue Language Ambassadors (LAs)**. Trainings were provided to equip the LAs with necessary skills to promote reading to their peers in OPS. They participated in different activities such as **Oasis** **Booktopia**, book talks and storytelling sessions to encourage their peers to read more MTL storybooks.
-
-Students participate in Reading Superman, Reading Bingo and book reviews in the classroom and at home to arouse their interest in reading MTL storybooks. **Reading badges** and small tokens are awarded to the avid readers to motivate students to explore in the world of books. Students also enjoy reading their MTL storybooks during MTL library visits and Morning Assembly on Thursdays and Fridays.
-
-<img src="/images/rifphoto1.JPG" style="width:100%">
-
-<img src="/images/rifphoto2.JPG" style="width:100%">
-
-**Samples of Winning Entries for OBD Competitions**
-
-![](/images/OBD%20competition.png)
-
-**Primary 4 Chinese Language Young Journalism Programme**
-  
-The Chinese Language department started our own Oasian Young Journalism Programme in 2022. This enrichment programme aims to cultivate the selected Primary 4 group of students to develop their observational, writing, photography and presentation skills, and uncover inspiring and interesting school news in the Oasis Community. Through the programme, young journalists learn how to draft interview questions, acquire the flow on an effective interview, conduct interviews and edit videos. The activities aim to help them learn how to listen, express and organise their thoughts on the go. Our students have become more confident in communication skills through conducting interviews with their peers during Mother Tongue Fortnight in April. They will also have a chance to interview visiting parents during Open House in July, which will encourage the young journalists to better appreciate the relevance of language learning in the real world.Do stay tune for our upcoming news production!
-
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/H_a0YTmboPU" height="315" width="560"></iframe>
-
+<div class="isomer-image-wrapper">
+<img style="width:100%" height="auto" width="100%" src="/images/MTL.jpg">
+</div>
+<p><strong>Confident &amp; eloquent speakers in the Mother Tongue Language</strong>
+</p>
+<h3>Department Goals</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>To develop pupils to be proficient and confident in their command of the
+Mother Tongue Language</p>
+</li>
+<li>
+<p>To inculcate pupils’ love and passion for their own native culture</p>
+</li>
+<li>
+<p>To instill moral values and civic-mindedness in our students</p>
+</li>
+</ul>
+<h3>Our Approach</h3>
+<p>The MTL department key approach to make learning MTL fun &amp; applicable
+to real-life is through the application of E3 pedagogical approach which
+are mainly Engagement, Experiential &amp; Empowerment to better support
+the students’ learning in MTL.</p>
+<p><strong>Engagement</strong>&nbsp;is an important learning condition for
+deep and meaningful learning. Through the use of ICT tools, pupils are
+engaged and actively involved in the learning activities. At the same time,
+assessment for learning strategies are also incorporated in these learning
+activities to engage pupils and provide support for their learning.</p>
+<p>To make learning MTL fun and applicable to real-life,&nbsp;<strong>experiential</strong>&nbsp;learning
+is carried out through placed-based learning whereby pupils are provided
+with opportunities to learn MTL in a fun way.</p>
+<p>Pupils are&nbsp;<strong>empowered</strong>&nbsp;to take ownership of their
+learning and become self-directed learners. During the learning process,
+pupils are involved in decision-making and also to view mistakes as learning
+opportunities.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/approach.png">
+</div>
+<h3>Key Programmes</h3>
+<p><strong>Reading-Is-Fun Programme (RIF)</strong>
+</p>
+<p>Embarking on our thrilling "Reading-Is-Fun" (RIF) Programme, we're on
+a mission to ignite a fiery passion for MTL storybooks among our students
+at OPS! Handpicking the most fervent MTL bookworms, we crown them as our
+esteemed Mother Tongue Language Ambassadors (LAs), equipping them with
+skills to dazzle and inspire their peers. Our LAs conducted captivating
+book talks and storytelling sessions for students in the Student Care Centre
+(SCC) and for Primary 3, 4 and 5 levels.</p>
+<p>But the excitement doesn't end there! Brace yourselves for the exhilarating
+challenges of the tantalizing twists of CL &amp; TL Reading Bingo cards
+and ML Reading Achievement Cards, where students delve into the depths
+of MTL storybook wonders, earning coveted reading badges, tokens and even
+certificates of recognition as they journey through literary landscapes.</p>
+<p>Not forgetting “Stories Come Alive” Carnival which will be held in Term
+3.&nbsp; Join us on this epic adventure as we dive headfirst into the boundless
+world of books, igniting minds and hearts along the way.</p>
 <p></p>
-
-<img src="/images/yjphoto.JPG" style="width:100%">
-
-**2023 Mother Tongue Fortnight Programme**  
-
-Mother Tongue Language&nbsp;Fortnight programme aims to create an exciting and bustling environment for learning and appreciating Mother Tongue Languages and Cultures. Held over in Term 2 Week 4 and 5 this year,&nbsp;students were exposed to a wide variety of rich cultural activities such as traditional game stations, workshops, quizzes, competitions during these two eventful weeks to&nbsp;deepen students’ understanding of their cultural roots and promote the learning of Mother Tongue Language in a fun, authentic and engaging experience!
-
-<img src="/images/mtlphoto1.JPG" style="width:100%">
-
-<img src="/images/mtlphoto2.JPG" style="width:100%">
-
-**Primary 2 Mother Tongue Language (MTL) Speech and Drama Programme**
-
-Speech and Drama Enrichment programme aims to cultivate student’s interest in the learning of Mother Tongue Language and to develop them to be confident and eloquent speakers. The programme&nbsp;emphasizes on oral expression, fluency and creativity where pupils experience interactive activities such as story dramatisation, games and tongue twisters. At the same time, it also instill positive values such as teamwork, resilience and responsibility in the students.
-
-![](/images/speech%20and%20drama.png)
-
-### Mother Tongue Languages Showcase
-
-Discover the joy of learning the Mother Tongue language and culture at Oasis Primary School. Our students will share with you their fun and enriching literacy experience. They will also present programmes that develop them to become confident communicators who appreciate the beauty of their language and culture.
-
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/WZprtgKPdLE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43iaTLKazbQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PRdvKKg_XMk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
-
-### Achievements
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:15px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:15px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-67ya{background-color:#FFF;color:#002D46;text-align:left;vertical-align:middle}
-.tg .tg-dzgf{background-color:#FFF;color:#002D46;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-7rn4{background-color:#FFF;color:#002D46;text-align:center;vertical-align:middle}
-.tg .tg-ilyo{background-color:#FFF;color:#002D46;text-align:center;vertical-align:top}
-.tg .tg-vd2a{background-color:#FFF;color:#002D46;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-dzgf">Year<br></th>
-    <th class="tg-dzgf">Event<br></th>
-    <th class="tg-dzgf">Award<br></th>
-    <th class="tg-dzgf">Recipients<br></th>
-  </tr>
-</thead>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL/rif.png">
+</div>
+<p><strong>Samples of Winning Entries for OBD Competitions</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OBD%20competition.png">
+</div>
+<p><strong>Primary 4 Chinese Language Young Journalism Programme</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/RJ0ZDDV6AnA?si=FzyIKoqGIHNtwhWT&amp;start=4"></iframe>
+</div>
+<p><strong>Establishing Partnership between OPS Primary 4 Chinese Language Journalists and Beijing Cuiwei Elementary School’s Journalists</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL/yjp1.png">
+</div>
+<p>Oasis Primary School and Beijing’s Cuiwei Elementary School successfully
+held their first Junior Journalist exchange activity of the year online.
+This event marked the beginning of a collaborative effort to promote cultural
+exchange and mutual understanding between young journalists from both countries.</p>
+<p>Participants included Vice Principal Mrs Tan, Mother Tongue Department
+Head Mdm Ng, Senior Teacher Ms Huang, and P4 CL Journalism programme teachers
+in charge, as well as Vice Principal of Moral Education Ms Wu Jiuqin, Deputy
+Director of Moral Education Ms Liu Xi, and moral education staff&nbsp;
+from various campuses of Cuiwei Elementary School.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL/yjp2.png">
+</div>
+<p><strong>Understanding Each Other and Enhancing Friendship</strong>
+</p>
+<p>The event kicked off with speeches from the vice principals from both
+schools. Following this, representatives from both schools introduced their
+schools. Through video clips and verbal descriptions, Primary P4 CL&nbsp;
+journalists gained a deeper understanding of each school's educational
+philosophies and cultures.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL/yjp3.png">
+</div>
+<p><strong>Ice breaker Activities to Build Rapport</strong>
+</p>
+<p>During the icebreaker activities, students from both schools engaged in
+exchanges and interactions, learning about each other’s countries' histories,
+cultures, and traditions.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL/icebreaker.png">
+</div>
+<p>The first Junior Journalist exchange activity was a resounding success,
+laying a strong foundation for future collaborations. Both schools expressed
+enthusiasm for continuing the partnership and planned for future activities.</p>
+<p><strong><u>External MTL Competitions</u></strong>
+</p>
+<p><strong>a) <u>Tamil Language Cluster Competition</u></strong>
+</p>
+<p>On 26 April 2024, Tamil Language pupils participated in the Cluster Competition
+in conjunction with Tamil language month at Casuarina Primary School. We
+had 5 contestants from Primary 1 to 5 who competed against students from
+other schools. All of them were awarded with trophies for their victory.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL/tl.png">
+</div>
+<p><strong>b) <u>Malay Language Scrabble Competition</u></strong>
+</p>
+<p>On 18 May 2024, 5 of our P4 Malay Language students participated in Sahibba
+(ML Scrabble) Competition held at Riverside School. The students enjoyed
+the competition and they received certificates for their participation.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL/ml.png">
+</div>
+<p><strong>2024 Mother Tongue Fortnight Programme</strong>
+</p>
+<p>In line with the department’s objective to create an immersive environment
+for Oasians to experience, learn and appreciate their Mother Tongue Language,
+the department organised a myriad of cultural experiences and language
+activities for the various levels.</p>
+<p>The Chinese Language students had the chance to learn about Tang Poetry
+and make their very own rod puppets, opera masks, fans, and screens with
+their peers. A variety of competitions were also held, from penmanship
+to bookmarks, mini books, postcards, and creative idioms.</p>
+<p>Additionally, students studying the Malay Language participated in a range
+of activities such as Malay traditional games, making Malay traditional
+handicrafts, and listening to Malay traditional music. They also participated
+in language competitions like spelling contests, proverb contests, and
+vocabulary contests to develop their passion for the language.</p>
+<p>Tamil language students explored the significance of the mango tree and
+performed traditional Indian dances. They also engaged in traditional games
+like Snake &amp; Ladder. Part of the program involved creating videos on
+the medicinal uses of herbs. Other activities included designing Kolam
+patterns using Tamil alphabets, making invitations, and participating in
+a quiz about Tamil fictional characters.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL/mtfortprog1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL/mtfortprog2.png">
+</div>
+<p><strong>Primary 2 Mother Tongue Language (MTL) Speech and Drama Programme</strong>
+</p>
+<p>The Primary 2 Speech and Drama program this year took place during OLE
+week. Its purpose was to create an engaging atmosphere where students could
+confidently express themselves and communicate creatively. Additionally,
+the program sought to cultivate important values like teamwork, resilience,
+and responsibility among the students. Utilizing activities such as role-playing,
+storytelling, and performances, students were able to enhance their confidence
+in speaking their Mother Tongue language to an audience.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL/speechdramaprog1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL/speechdramaprog2.png">
+</div>
+<h3>Mother Tongue Languages Showcase</h3>
+<p>Discover the joy of learning the Mother Tongue language and culture at
+Oasis Primary School. Our students will share with you their fun and enriching
+literacy experience. They will also present programmes that develop them
+to become confident communicators who appreciate the beauty of their language
+and culture.</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WZprtgKPdLE"></iframe>
+</div>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/43iaTLKazbQ"></iframe>
+</div>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/PRdvKKg_XMk"></iframe>
+</div>
+<h3>Achievements</h3>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-7rn4" rowspan="11">2022<br></td>
-    <td class="tg-67ya" rowspan="11">National Level Inter-School (Primary School) Creative Writing Competition<br>(‘Peraduan Karya Minda Kreatif 2022’)<br></td>
-    <td class="tg-7rn4">Sliver<br></td>
-    <td class="tg-ilyo"><span style="background-color:initial">Farah Aulya Binti Nasharuddin<br>(4 Diligence)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-7rn4">Silver<br></td>
-    <td class="tg-ilyo"><span style="background-color:initial">Nur Syazrain Binte Muhammad Syahid<br>(4 Harmony)</span></td>
-  </tr>
-  <tr>
-		<td class="tg-7rn4">Silver<br></td>
-    <td class="tg-7rn4"><span style="background-color:initial">Amsyar Muzaffar Bin Ali Sufyan<br>(4 Loyalty)</span></td>
-  </tr>
-  <tr>
-		<td class="tg-7rn4">Sliver<br></td>
-    <td class="tg-7rn4"><span style="background-color:initial">Nur Afrina Keisha Binte Mohammad Hidir<br>(4 Loyalty)</span></td>
-  </tr>
-  <tr>
-		<td class="tg-7rn4">Sliver<br></td>
-    <td class="tg-7rn4"><span style="background-color:initial">Sharifah Alya Zahra Binte Syed Mohsein<br>(4 Resilience)</span></td>
-  </tr>
-  <tr>
-		<td class="tg-7rn4">Sliver<br></td>
-    <td class="tg-7rn4"><span style="background-color:initial">Nyla Adlina Binte Muhammad Azhar<br>(5 Harmony)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-7rn4">Sliver<br></td>
-    <td class="tg-7rn4"><span style="background-color:initial">Nur Iman Binte Muhammad Fadhly<br>(6 Care)</span></td>
-		</tr>
-  <tr>
-    <td class="tg-7rn4">Sliver<br></td>
-    <td class="tg-7rn4"><span style="background-color:initial">Delisha Fatima Falandri<br>(6 Diligence)</span></td>
-		</tr>
-  <tr>
-    <td class="tg-7rn4">Sliver<br></td>
-    <td class="tg-7rn4"><span style="background-color:initial">Nur Alesya Zafirah Binte Mohammad Hidir<br>(6 Diligence)</span></td>
-		</tr>
-  <tr>
-    <td class="tg-7rn4">Bronze<br></td>
-    <td class="tg-7rn4"><span style="background-color:initial">Ummie Tanisya Biinte Juhaidy<br>(5 Care)</span></td>
-		</tr>
-  <tr>
-    <td class="tg-7rn4">Bronze<br></td>
-    <td class="tg-7rn4"><span style="background-color:initial">Muhammad Danish Fitri Bin Muhammad Fadhly<br>(5 Integrity)</span></td>
-  </tr>
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:15px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:15px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-67ya{background-color:#FFF;color:#002D46;text-align:left;vertical-align:middle}
-.tg .tg-dzgf{background-color:#FFF;color:#002D46;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-7rn4{background-color:#FFF;color:#002D46;text-align:center;vertical-align:middle}
-.tg .tg-ilyo{background-color:#FFF;color:#002D46;text-align:center;vertical-align:top}
-.tg .tg-vd2a{background-color:#FFF;color:#002D46;text-align:left;vertical-align:top}
-</style>
-</tbody></table><table class="tg">
-<thead>
-  <tr>
-    <th class="tg-dzgf">Year<br></th>
-    <th class="tg-dzgf">Event<br></th>
-    <th class="tg-dzgf">Award<br></th>
-    <th class="tg-dzgf">Recipients<br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-7rn4" rowspan="7">2020<br></td>
-    <td class="tg-67ya" colspan="2">Good-In-Progress in Chinese Language by Chinese Language and Culture Fund (CLCF)<br></td>
-    <td class="tg-ilyo"><img src="/images/Benedict%20Teh%203I.jpg" alt="Benedict Teh 3I.jpeg" width="170" height="226"><span style="background-color:initial">Benedict Teh Ngien Jie (3 Integrity)</span><br><br><img src="/images/Teo%20Thoai%20Ky%204Resilience.jpg" alt="Teo Thoai Ky 4Resilience.jpg" width="170" height="226"><span style="background-color:initial">Teo Thoai Ky (4 Resilience)</span><br><br><img src="/images/Lin%20Yuan%20Hao%205H.jpg" alt="Lin Yuan Hao 5H.jpeg" width="170" height="350"><span style="background-color:initial">Lin Yuan Hao (5 Harmony)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-67ya" rowspan="4">3rd Text Recital Competition for Primary &amp; Secondary Schools<br></td>
-    <td class="tg-7rn4">Bronze<br></td>
-    <td class="tg-ilyo"><img src="/images/Bei%20Junyu_2H_Bronze.jpg" alt="Bei Junyu_2H_Bronze.jpg" width="170" height="226"><span style="background-color:initial">Bei Junyu (2 Harmony)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-7rn4">Silver<br></td>
-    <td class="tg-ilyo"><img src="/images/Lei%20Ren%20Xuan%203D-RS%20Silver.jpg" alt="Lei Ren Xuan 3D-RS Silver.jpeg" width="170" height="226"><span style="background-color:initial">Lei Ren Xuan (3 Diligence)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-7rn4">Silver<br></td>
-    <td class="tg-vd2a"><img src="/images/Tan%20Rouyi%204H_%20Silver.jpg" alt="Tan Rouyi 4H_ Silver.jpg" width="269" height="130"><span style="background-color:initial">Tan Rou Yi (4 Harmony)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-7rn4">Gold &amp; Champion<br></td>
-    <td class="tg-vd2a"><img src="/images/Wu%20Yuqi%204C%20_Gold%20Champion.jpg" alt="Wu Yuqi 4C _Gold +Champion.jpg" width="269" height="130"><span style="background-color:initial">Wu Yuqi, Yuki (4 Care)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-67ya">6th Annual Singapore Chinese Moo-O Awards<br></td>
-    <td class="tg-7rn4">Merit (Team)<br></td>
-    <td class="tg-ilyo"><img src="/images/Jiang%20YiXuan_2RP.jpg" alt="Jiang YiXuan_2RP.jpg" width="170" height="226"><span style="background-color:initial">Jiang Yixuan (2 Respect)</span><br><br><img src="/images/Xavier%20Ng%20Shao%20Ze_2L.jpg" alt="Xavier Ng Shao Ze_2L.jpg" width="170" height="226"><span style="background-color:initial">Ng Shao Ze Xavier (2 Loyalty)</span><br><br><img src="/images/Bei%20Junyu_2H_Bronze.jpg" alt="Bei Junyu_2H.jpg" width="170" height="226"><span style="background-color:initial">Bei Junyu (2 Harmony)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-67ya">“2020, Our Story of the Battling the Pandemic” National Writing Competition<br></td>
-    <td class="tg-7rn4">Merit<br></td>
-    <td class="tg-ilyo"><img src="/images/Ke%20Zhiru.jpg" alt="Ke Zhiru.jpeg" width="321" height="234">Ke Zhiru (5 Harmony)</td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Year
+<br>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Event
+<br>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Award
+<br>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Recipients
+<br>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="11" colspan="1">
+<p>2022
+<br>
+</p>
+</td>
+<td rowspan="11" colspan="1">
+<p>National Level Inter-School (Primary School) Creative Writing Competition
+<br>(‘Peraduan Karya Minda Kreatif 2022’)
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sliver
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Farah Aulya Binti Nasharuddin
+<br>(4 Diligence)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Silver
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nur Syazrain Binte Muhammad Syahid
+<br>(4 Harmony)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Silver
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Amsyar Muzaffar Bin Ali Sufyan
+<br>(4 Loyalty)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sliver
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nur Afrina Keisha Binte Mohammad Hidir
+<br>(4 Loyalty)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sliver
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sharifah Alya Zahra Binte Syed Mohsein
+<br>(4 Resilience)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sliver
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nyla Adlina Binte Muhammad Azhar
+<br>(5 Harmony)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sliver
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nur Iman Binte Muhammad Fadhly
+<br>(6 Care)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sliver
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Delisha Fatima Falandri
+<br>(6 Diligence)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sliver
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nur Alesya Zafirah Binte Mohammad Hidir
+<br>(6 Diligence)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Bronze
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ummie Tanisya Biinte Juhaidy
+<br>(5 Care)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Bronze
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Muhammad Danish Fitri Bin Muhammad Fadhly
+<br>(5 Integrity)</p>
+</td>
+</tr>
 </tbody>
 </table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Year
+<br>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Event
+<br>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Award
+<br>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Recipients
+<br>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="7" colspan="1">
+<p>2020
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Good-In-Progress in Chinese Language by Chinese Language and Culture Fund
+(CLCF)
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="226" width="170" alt="Benedict Teh 3I.jpeg" src="/images/Benedict%20Teh%203I.jpg">
+</div>
+<p>Benedict Teh Ngien Jie (3 Integrity)
+<br>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="226" width="170" alt="Teo Thoai Ky 4Resilience.jpg" src="/images/Teo%20Thoai%20Ky%204Resilience.jpg">
+</div>
+<p>Teo Thoai Ky (4 Resilience)
+<br>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="350" width="170" alt="Lin Yuan Hao 5H.jpeg" src="/images/Lin%20Yuan%20Hao%205H.jpg">
+</div>
+<p>Lin Yuan Hao (5 Harmony)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p>3rd Text Recital Competition for Primary &amp; Secondary Schools
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="226" width="170" alt="Bei Junyu_2H_Bronze.jpg" src="/images/Bei%20Junyu_2H_Bronze.jpg">
+</div>
+<p>Bei Junyu (2 Harmony)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Silver
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="226" width="170" alt="Lei Ren Xuan 3D-RS Silver.jpeg" src="/images/Lei%20Ren%20Xuan%203D-RS%20Silver.jpg">
+</div>
+<p>Lei Ren Xuan (3 Diligence)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Silver
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="130" width="269" alt="Tan Rouyi 4H_ Silver.jpg" src="/images/Tan%20Rouyi%204H_%20Silver.jpg">
+</div>
+<p>Tan Rou Yi (4 Harmony)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Gold &amp; Champion
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="130" width="269" alt="Wu Yuqi 4C _Gold +Champion.jpg" src="/images/Wu%20Yuqi%204C%20_Gold%20Champion.jpg">
+</div>
+<p>Wu Yuqi, Yuki (4 Care)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6th Annual Singapore Chinese Moo-O Awards
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit (Team)
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="226" width="170" alt="Jiang YiXuan_2RP.jpg" src="/images/Jiang%20YiXuan_2RP.jpg">
+</div>
+<p>Jiang Yixuan (2 Respect)
+<br>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="226" width="170" alt="Xavier Ng Shao Ze_2L.jpg" src="/images/Xavier%20Ng%20Shao%20Ze_2L.jpg">
+</div>
+<p>Ng Shao Ze Xavier (2 Loyalty)
+<br>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="226" width="170" alt="Bei Junyu_2H.jpg" src="/images/Bei%20Junyu_2H_Bronze.jpg">
+</div>
+<p>Bei Junyu (2 Harmony)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>“2020, Our Story of the Battling the Pandemic” National Writing Competition
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="234" width="321" alt="Ke Zhiru.jpeg" src="/images/Ke%20Zhiru.jpg">
+</div>
+<p>Ke Zhiru (5 Harmony)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
