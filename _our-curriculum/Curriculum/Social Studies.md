@@ -58,8 +58,7 @@ in the SS syllabus:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Social Studies/studentssocialstudies.png">
 </div>
-<p><strong>Learning Journeys</strong>
-</p>
+<h4><strong>Learning Journeys</strong></h4>
 <p>Each year, our students will also go on field-based learning journeys
 out of school as part of the SS curriculum in Oasis Primary School. Through
 these learning journeys, our students develop important skills and acquire
