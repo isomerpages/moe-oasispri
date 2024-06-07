@@ -82,6 +82,7 @@ schools and communicating effectively with their friends from other countries.</
 </p>
 <p>To achieve our goals, we have specially curated the following language
 learning experiences for our students:</p>
+<h4><strong>Key Programmes</strong></h4>
 <p><strong><u>Oasis Learning Experience (OLE Week) and Literature is Alive</u></strong>
 </p>
 <div class="isomer-image-wrapper">
