@@ -8,12 +8,10 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/English Language/elbanner.jpg">
 </div>
-<p>Empathetic Communicators, Discerning Readers and Creative Inquirers who
+<h4><strong>Our Department Goals</strong></h4>
+<p>Here at Oasis, our goals are to develop Oasians to be <strong>(i) Empathetic Communicators; (ii) Discerning Readers; and (iii) Creative Inquirers</strong> who
 are informed, concerned and participative citizens of Singapore and the
 world.</p>
-<h4><strong>Our Department Goals</strong></h4>
-<p>Here at Oasis, our goals are to develop Oasians to be <strong>(i) Empathetic Communicators; (ii) Discerning Readers; and (iii) Creative Inquirers.</strong>
-</p>
 <p><strong>(i)&nbsp; &nbsp;Empathetic communicators</strong> possess the values,
 dispositions, and skills to listen actively to different perspectives,
 communicate confidently, effectively, and sensitively, and collaborate
