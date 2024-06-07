@@ -32,8 +32,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" alt="PAL" src="/images/PAL.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Social Studies/nebulletin.png">
+<img style="width: 60%;" height="auto" width="100%" alt="Social Studies" src="/images/Social Studies/nebulletin.png">
 </div>
 <p></p>
