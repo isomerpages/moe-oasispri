@@ -3,44 +3,37 @@ title: Curriculum
 permalink: /our-curriculum/curriculum/
 description: ""
 third_nav_title: Curriculum
-variant: markdown
+variant: tiptap
 ---
-<a href="/our-curriculum/curriculum/english-language/">
-<img src="/images/english.png" alt="english" style="width:60%">
-</a>
-
-<a href="/our-curriculum/curriculum/mathematics/">
-<img src="/images/math.png" alt="math" style="width:60%">
-</a>
-
-<a href="/our-curriculum/curriculum/mother-tongue-language/">
-<img src="/images/MTL.png" alt="mother tongue" style="width:60%">
-</a>
-
-<a href="/our-curriculum/curriculum/science/">
-<img src="/images/sci.png" alt="science" style="width:60%">
-</a>
-
-<a href="/our-curriculum/curriculum/aesthetics/">
-<img src="/images/aesthetics.png" alt="aesthetics" style="width:60%">
-</a>
-
-<a href="/our-curriculum/curriculum/character-n-citizenship-education/">
-<img src="/images/CCE.png" alt="CCE" style="width:60%">
-</a>
-
-<a href="/our-curriculum/curriculum/character-n-citizenship-education/">
-<img src="/images/ICT.png" alt="ICT" style="width:60%">
-</a>
-
-<a href="/our-curriculum/curriculum/physical-education/">
-<img src="/images/physical%20education.png" alt="PE" style="width:60%">
-</a>
-
-<a href="/our-curriculum/curriculum/programme-for-active-learning/">
-<img src="/images/PAL.png" alt="PAL" style="width:60%">
-</a>
-
-<a href="/our-curriculum/curriculum/social-studies/">
-<img src="/images/social-studies/nebulletin.png" alt="SS" style="width:60%">
-</a>
+<div class="isomer-image-wrapper">
+<img style="width:60%" height="auto" width="100%" alt="english" src="/images/english.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width:60%" height="auto" width="100%" alt="math" src="/images/math.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width:60%" height="auto" width="100%" alt="mother tongue" src="/images/MTL.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width:60%" height="auto" width="100%" alt="science" src="/images/sci.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width:60%" height="auto" width="100%" alt="aesthetics" src="/images/aesthetics.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width:60%" height="auto" width="100%" alt="CCE" src="/images/CCE.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width:60%" height="auto" width="100%" alt="ICT" src="/images/ICT.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width:60%" height="auto" width="100%" alt="PE" src="/images/physical%20education.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width:60%" height="auto" width="100%" alt="PAL" src="/images/PAL.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Social Studies/nebulletin.png">
+</div>
+<p></p>
