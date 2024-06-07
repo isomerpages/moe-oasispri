@@ -71,7 +71,6 @@ more informed citizens who are aware of what is happening around them.</p>
 </p>
 <p><strong>1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NE Bulletin Discussion Lessons</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Social Studies/nebulletin.png">
 </div>
@@ -147,7 +146,8 @@ of SS lessons, focusing on the theme of ‘Sustainability’. It is aligned
 with the third cluster of study in SS, ‘Appreciating Singapore, the Region
 and the World We Live in”, where students learn about the diverse and global
 physical environment in the world they live in.</p>
-<p>Place-based Learning in Oasis</p>
+<p><strong>Place-based Learning in Oasis</strong>
+</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Bqn6m55OO6k?si=mnev25vGwgQ7l5Yp"></iframe>
 </div>
