@@ -192,3 +192,30 @@ messages. It also fosters creative thinking in our students.</p>
 </div>
 <p><em>Learning journeys provide a structured, immersive, and progressive approach to language acquisition tailored to individual needs and contexts.</em>
 </p>
+<h4><strong>Key Event 2024</strong></h4>
+<p><strong>Oasis in the World</strong>
+</p>
+<p>(Literature Festival cum International Friendship Day 2024)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English Language/Lit Fest/p2top4cover.png">
+</div>
+<p>During the week of April 3rd to 5th, Oasis Primary brought together its
+Literature Festival and International Friendship Day, creating an exciting
+blend of learning and unity. Parents of P2 to P4 students enthusiastically
+joined in, enriching the experience for all. The event showcased students'
+literary work, particularly from the "Literature is Alive" programme. During
+OLE Week, P3 and P4 students explored "Charlie and the Chocolate Factory"
+and "Wonder" respectively, presenting their projects at the festival. Students
+applied their 21st CC skills of communicating and collaborating effectively
+with their friends and parents through fun activities specially curated
+for them.</p>
+<p>International Friendship Day was also commemorated, infusing the event’s
+atmosphere with a profound sense of unity and understanding. This ethos
+reverberated throughout the event, nurturing a spirit of inclusivity and
+harmony within our vibrant school community. This fusion of festivities
+marks a memorable chapter for Oasis Primary, where learning and friendship
+thrive hand in hand.</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ouI_Mt50oEM?si=V1DdLHWD9QLD0Dvn&amp;start=5"></iframe>
+</div>
+<p></p>
