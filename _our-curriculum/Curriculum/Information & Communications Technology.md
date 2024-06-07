@@ -1,6 +1,6 @@
 ---
-title: Information & Communication Technology
-permalink: /our-curriculum/curriculum/information-n-communication-technology/
+title: Information & Communications Technology
+permalink: /our-curriculum/curriculum/information-n-communications-technology/
 description: ""
 third_nav_title: Curriculum
 variant: markdown

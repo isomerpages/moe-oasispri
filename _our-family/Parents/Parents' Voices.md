@@ -96,12 +96,13 @@ under her charge are able to catch up and coping well.</p>
 </p>
 <p>Aiden has been attending school at the Oasis Primary School for more than
 2 years now. He has been very blessed to have wonderful teachers especially
-his form teacher, Mrs Mey Asher See.When he was on SHN, she compiled his
-work so that he would be able to catch up on his studies.Going beyond her
-teaching responsibilities, she almost bought Aiden his favourite chicken
-rice which he was eyeing during his recess break! Aiden always speaks fondly
-of all his teachers and had told me that there is no other school he would
-like to go to than OPS!</p>
+his form teacher, Mrs Mey Asher See.</p>
+<p>When he was on SHN, she compiled his work so that he would be able to
+catch up on his studies.</p>
+<p>Going beyond her teaching responsibilities, she almost bought Aiden his
+favourite chicken rice which he was eyeing during his recess break! Aiden
+always speaks fondly of all his teachers and had told me that there is
+no other school he would like to go to than OPS!</p>
 <div class="isomer-image-wrapper">
 <img style="width:100%" height="auto" width="100%" src="/images/08%20Siti%20Jamburi.jpg">
 </div>
@@ -119,13 +120,13 @@ PSG and I look forward to be involved again when the opportunity arises!</p>
 </p>
 <p>Dear School Management Team and Teachers, we are very blessed that Si
 En enrolled into a school that focuses on character building and at the
-same time nurturing in her a keen-to-learn attitude.
-<br>The sunshine environment in Oasis Primary really helps to boost my child
+same time nurturing in her a keen-to-learn attitude.</p>
+<p>The sunshine environment in Oasis Primary really helps to boost my child
 to strive for her best in many ways. In her two years in school, we had
 observed her growth and we are especially grateful to Miss Chew of 2019/2020
 (P1 and 2 Harmony) for her love and patience for the children. She helped
-to build a good foundation on them.
-<br>Looking forward to many more fruitful years at Oasis Primary School.</p>
+to build a good foundation on them.</p>
+<p>Looking forward to many more fruitful years at Oasis Primary School.</p>
 <div class="isomer-image-wrapper">
 <img style="width:100%" height="auto" width="100%" src="/images/10%20Eileen%20Tay.jpg">
 </div>
