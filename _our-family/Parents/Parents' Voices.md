@@ -96,12 +96,13 @@ under her charge are able to catch up and coping well.</p>
 </p>
 <p>Aiden has been attending school at the Oasis Primary School for more than
 2 years now. He has been very blessed to have wonderful teachers especially
-his form teacher, Mrs Mey Asher See.When he was on SHN, she compiled his
-work so that he would be able to catch up on his studies.Going beyond her
-teaching responsibilities, she almost bought Aiden his favourite chicken
-rice which he was eyeing during his recess break! Aiden always speaks fondly
-of all his teachers and had told me that there is no other school he would
-like to go to than OPS!</p>
+his form teacher, Mrs Mey Asher See.</p>
+<p>When he was on SHN, she compiled his work so that he would be able to
+catch up on his studies.</p>
+<p>Going beyond her teaching responsibilities, she almost bought Aiden his
+favourite chicken rice which he was eyeing during his recess break! Aiden
+always speaks fondly of all his teachers and had told me that there is
+no other school he would like to go to than OPS!</p>
 <div class="isomer-image-wrapper">
 <img style="width:100%" height="auto" width="100%" src="/images/08%20Siti%20Jamburi.jpg">
 </div>
