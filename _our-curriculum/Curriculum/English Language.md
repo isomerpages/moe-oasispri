@@ -193,7 +193,7 @@ messages. It also fosters creative thinking in our students.</p>
 <h4><strong>Key Event 2024</strong></h4>
 <p><strong>Oasis in the World</strong>
 </p>
-<p>(Literature Festival cum International Friendship Day 2024)</p>
+<p>Literature Festival cum International Friendship Day 2024</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/English Language/Lit Fest/p2top4cover.png">
 </div>
