@@ -6,7 +6,7 @@ third_nav_title: Curriculum
 variant: markdown
 ---
 <div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" alt="english" src="/images/english.png">
+<img style="width:60%" height="auto" width="100%" alt="english" src="/images/English Language/elbanner.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
