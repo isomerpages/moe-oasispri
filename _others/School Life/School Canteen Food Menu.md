@@ -17,13 +17,13 @@ third_nav_title: School Life
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Canteen Food Menu 2024/stall3.jpg">
 </div>
-<h4><strong>Stall 4</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Canteen Food Menu 2024/stall4.jpg">
-</div>
 <h4><strong>Stall 5</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Canteen Food Menu 2024/stall5.jpg">
+</div>
+<h4><strong>Stall 6</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Canteen Food Menu 2024/stall6.jpg">
 </div>
 <h4><strong>Stall 8</strong></h4>
 <div class="isomer-image-wrapper">
