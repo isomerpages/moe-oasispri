@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Oasis Primary School
       background: /images/Banner/banner.gif
       url: /contact-us/
       key_highlights:
