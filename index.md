@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Oasis Primary School
-      background: /images/Banner/hero_banner.gif
+      background: /images/hero banner.gif
       url: /contact-us/
       key_highlights:
         - title: Highlights
@@ -20,6 +20,7 @@ sections:
         - title: Gallery
           description: ""
           url: /images/oh2024.jpg
+      variant: center
   - infopic:
       title: Oasis Virtual Open House 2024
       id: infopic
