@@ -141,7 +141,4 @@ concepts specially designed for this programme.</p>
 </div>
 <p><strong>Joy of Learning Science</strong>
 </p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/JhKmgh99Ekg?si=3WFGVdX6TDLLatsf&amp;start=4"></iframe>
-</div>
 <p></p>
