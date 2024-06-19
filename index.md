@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Oasis Primary School
-      background: /images/hero banner.gif
+      background: /images/Banner/hero_banner.jpg
       url: /contact-us/
       key_highlights:
         - title: Highlights
