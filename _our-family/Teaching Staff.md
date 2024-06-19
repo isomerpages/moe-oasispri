@@ -44,7 +44,7 @@ variant: tiptap
 <p>Ms Chia Wanyi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Stacey Koh</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -107,7 +107,7 @@ variant: tiptap
 <p>1 Noble</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>Ms Najma</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Sindy Lai</p>
