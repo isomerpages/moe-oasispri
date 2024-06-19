@@ -717,7 +717,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Special Educational Needs (SEN) Officer</p>
+<p>Senior Special Educational Needs (SEN) Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Wanis</p>
