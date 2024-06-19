@@ -118,7 +118,7 @@ variant: tiptap
 <p>1 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>Mrs Carine Sing</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Ho Huan Xin</p>
@@ -353,7 +353,7 @@ variant: tiptap
 <p>Mdm Lyvia Soh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>Mr Ng Yong Quan</p>
 </td>
 </tr>
 </tbody>
