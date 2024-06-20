@@ -88,6 +88,18 @@ and apply concepts through collaborative learning in class.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IDEAL.png">
 </div>
+<p><strong>Math Games &amp; Carnival</strong>
+</p>
+<p>This initiative aims to celebrate the joy and wonder of math and foster
+mathematical thinking and logical and critical thinking skills in students.
+Not only are students exposed to math puzzles such as sudoku and tangrams,
+students are also taught to design math games. Selected students also helm
+booths at our annual Math Carnival where they invite all students to play
+their self-designed math games. Our own teachers have also led the way
+by designing a board game “Math Quest Mall” as a dynamic way for students
+to apply the math concepts and skills learnt!</p>
+<p></p>
+<p></p>
 <h3>E2K Mathematics Programme</h3>
 <p>The Excellence 2000 (E2K) Mathematics Programme is an enrichment programme
 for selected Primary 4 and Primary 5 students who demonstrate interest
