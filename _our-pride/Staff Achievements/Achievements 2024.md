@@ -5,8 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Staff Achievements
 ---
-<p><strong>Reimagining Pedagogy International Conference 2024</strong>
-</p>
+<h4>Reimagining Pedagogy International Conference 2024</h4>
 <p>The Redesigning Pedagogy International Conference (RPIC), which took place
 from 28 May to 30 May 2024, is a flagship conference hosted by the National
 Institute of Education (NIE), Nanyang Technological University, Singapore.
