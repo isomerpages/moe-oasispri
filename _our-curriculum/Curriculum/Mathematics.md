@@ -90,9 +90,10 @@ and apply concepts through collaborative learning in class.</p>
 </div>
 <h3>E2K Mathematics Programme</h3>
 <p>The Excellence 2000 (E2K) Mathematics Programme is an enrichment programme
-for selected Primary 4 students who demonstrate interest and aptitude in
-Mathematics. The programme aims to develop students’ mathematical reasoning
-skills and deepens their conceptual understanding through an inquiry approach.</p>
+for selected Primary 4 and Primary 5 students who demonstrate interest
+and aptitude in Mathematics. The programme aims to develop students’ mathematical
+reasoning skills and deepens their conceptual understanding through an
+inquiry approach.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/e2k.png">
 </div>
