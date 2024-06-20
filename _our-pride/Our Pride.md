@@ -2,8 +2,9 @@
 title: Our Pride
 permalink: /our-distinctiveness/our-pride/
 description: ""
+variant: markdown
 ---
-<p><a href="https://staging.d6400o65xh90r.amplifyapp.com/our-distinctiveness/our-pride/students-achievements/achievements-2022/">
+<p><a href="https://staging.d6400o65xh90r.amplifyapp.com/our-distinctiveness/our-pride/students-achievements/">
 <img src="/images/students%20achievements.png" style="width:70%">
 </a></p>
 
