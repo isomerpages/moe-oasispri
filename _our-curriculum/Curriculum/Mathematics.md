@@ -8,7 +8,6 @@ variant: markdown
 <img style="width:100%" src="/images/Maths.jpg">
 <center><b>Nurturing confident and self-regulated problem solvers</b></center>
 
-
 ### Department Goals
 
 Develop able, confident and self-regulated problem solvers with a passion for Mathematics and critical thinking.
