@@ -13,18 +13,15 @@ third_nav_title: Students Achievements
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>Department</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Competition</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Award</strong>
-</p>
-</td>
+<th rowspan="1" colspan="1">
+<p>Department</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Competition</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Award</p>
+</th>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
@@ -39,7 +36,7 @@ third_nav_title: Students Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Raffles Institution Primary Mathematics World Contest 2024</p>
+<p>Raffles Institution Primary Mathematic World Contest 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Distinction (4)</p>
