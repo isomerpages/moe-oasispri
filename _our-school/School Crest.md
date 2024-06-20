@@ -4,8 +4,9 @@ permalink: /our-school/school-crest/
 description: ""
 variant: tiptap
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Banner/logo.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Banner/logo.png">
 </div>
 <p>The school crest conjures up a conducive environment, in which our students
 are engaged and challenged in their learning. The encompassing circles
