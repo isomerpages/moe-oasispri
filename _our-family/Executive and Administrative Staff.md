@@ -12,7 +12,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<h4>School Administration Team</h4>
+<h4><strong>School Administration Team</strong></h4>
 </td>
 </tr>
 <tr>
@@ -114,7 +114,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<h4>Support Team</h4>
+<h4><strong>Support Team</strong></h4>
 </td>
 </tr>
 <tr>
@@ -122,7 +122,15 @@ variant: tiptap
 <p>Desktop Engineer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Hazizi Bin Abd Hamid</p>
+<p>Mr Muhammad Hazizi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Desktop Engineer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -130,7 +138,7 @@ variant: tiptap
 <p>ICT Trainer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Devetharan S/O Sritharan</p>
+<p>Mr Devetharan</p>
 </td>
 </tr>
 <tr>
@@ -146,7 +154,7 @@ variant: tiptap
 <p>Library Assistant</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Frannie Chung Sau Kuen</p>
+<p>Mdm Frannie Chung</p>
 </td>
 </tr>
 <tr>
