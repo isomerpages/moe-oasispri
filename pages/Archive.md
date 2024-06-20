@@ -4,9 +4,6 @@ permalink: /permalink/
 description: ""
 variant: markdown
 ---
-### Application for eGIRO
-Please click&nbsp;[here](https://go.gov.sg/moe-online-giro-form)&nbsp;to join via FormSG.&nbsp;SingPass login is required.
-
 ##### **Achievements**
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -58,46 +55,6 @@ Please click&nbsp;[here](https://go.gov.sg/moe-online-giro-form)&nbsp;to join vi
   </tr>
 </tbody>
 </table>
-
-#### BT &amp; Tan Transport
-Contact Person: Ms Mandy Lim / Ms May Tan  
-Tel: +65 6483 7260  
-Fax: +65 6483 7261  
-Email:&nbsp;[sch2@btntan.com](mailto:sch2@btntan.com)
-
-##### **School Bus Advertisement**
-
-To apply, please refer to the Service Requirements and the Application Procedure below.
-
-##### **Service Requirements**<br>
-1\. Call for Proposal<br>
-[Attachment 1: Call for Proposals by School](/files/attachment%201%20call%20for%20proposals%20by%20school%20version%20june%202023.pdf)
-
-2\. Agreement for Appointment of School Bus Operator<br>
-[Attachment 3: Agreement for Appointment of School Bus Operator](/files/attachment%203%20agreement%20for%20appointment%20of%20school%20bus%20operator%20version%20june%202023.pdf)
-
-##### **Application Procedure**<br>
-1\. Complete the Call for Proposal - Annex A<br>
-[Attachment 2: Call for Proposal - Annex A](/files/attachment%202%20call%20for%20proposal%20annex%20a%20version%20june%202023.pdf)
-
-2\. Submit the completed Call for Proposal - Annex A by closing date, 4 August 2023 12pm, to the School's General Office.<br>
-
-\* Address: 71 Edgefield Plains, Singapore 828716<br>
-\* Contact No: +65 6320 9855<br>
-\* Email: [ops@schools.gov.sg](mailto:ops@schools.gov.sg)<br>
-\* Contact Person: Ms Pauline Ng
-
-##### **How to get there?**<br>
-\* Nearest MRT: Punggol MRT (NS10 line) - 20 minutes walking distance<br>
-\* Nearest LRT: Damai LRT (NE17) - 10 minutes walking distance<br>
-\* Bus number: 50 - 10 minutes walking distance
-
-### MOE Financial Assistance Scheme (FAS)
-
-Please visit MOE's official website&nbsp;[here](https://www.moe.gov.sg/financial-matters/financial-assistance)&nbsp;for more information. The application form can be downloaded here.
-
-[1B MOE-FAS Application Form 2023](/files/1B%20MOE-FAS%20Application%20Form%202023-1.pdf)
-*updated as of 14th October 2022
 
 ##### PRIMARY 6
 
