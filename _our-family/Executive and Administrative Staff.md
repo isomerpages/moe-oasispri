@@ -122,7 +122,7 @@ variant: tiptap
 <p>Desktop Engineer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Hazizi Bin Abd Hamid</p>
+<p>Mr Muhammad Hazizi</p>
 </td>
 </tr>
 <tr>
@@ -138,7 +138,7 @@ variant: tiptap
 <p>ICT Trainer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Devetharan S/O Sritharan</p>
+<p>Mr Devetharan</p>
 </td>
 </tr>
 <tr>
@@ -154,7 +154,7 @@ variant: tiptap
 <p>Library Assistant</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Frannie Chung Sau Kuen</p>
+<p>Mdm Frannie Chung</p>
 </td>
 </tr>
 <tr>
