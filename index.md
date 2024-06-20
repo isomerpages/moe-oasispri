@@ -2,7 +2,7 @@
 layout: homepage
 title: Oasis Primary School
 description: Brief site description here
-image: /images/Oasis.jpeg
+image: /images/Banner/logo.jpg
 permalink: /
 notification: ""
 sections:
