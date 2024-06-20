@@ -176,6 +176,10 @@ in speaking their Mother Tongue language to an audience.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL/speechdramaprog2.png">
 </div>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/CotsScoMO-A?si=1xXBRCnK9M4_AahT&amp;start=2"></iframe>
+</div>
 <h3>Mother Tongue Languages Showcase</h3>
 <p>Discover the joy of learning the Mother Tongue language and culture at
 Oasis Primary School. Our students will share with you their fun and enriching
