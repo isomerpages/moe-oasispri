@@ -49,26 +49,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ICT Manager
-<br>
-</p>
+<p>ICT Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lum Wai Hoong
-<br>
-</p>
+<p>Mr Lum Wai Hoong</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Administrative Executive
-<br>
-</p>
+<p>Administrative Executive</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Siew Hoon
-<br>
-</p>
+<p>Ms Tan Siew Hoon</p>
 </td>
 </tr>
 <tr>
@@ -89,14 +81,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Operations Support Officer
-<br>
-</p>
+<p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Ching Lean
-<br>
-</p>
+<p>Ms Tan Ching Lean</p>
 </td>
 </tr>
 <tr>
@@ -117,6 +105,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -138,21 +127,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ICT Trainer
-<br>
-</p>
+<p>ICT Trainer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Devetharan S/O Sritharan
-<br>
-</p>
+<p>Mr Devetharan S/O Sritharan</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lab Assistant
-<br>
-</p>
+<p>Lab Assistant</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Cheliboni Satyavathi</p>
@@ -160,9 +143,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Library Assistant
-<br>
-</p>
+<p>Library Assistant</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Frannie Chung Sau Kuen</p>
@@ -170,9 +151,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Receptionist
-<br>
-</p>
+<p>Receptionist</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Kartini Sahrul</p>
