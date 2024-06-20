@@ -12,7 +12,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<h4>School Administration Team</h4>
+<h4><strong>School Administration Team</strong></h4>
 </td>
 </tr>
 <tr>
@@ -114,7 +114,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<h4>Support Team</h4>
+<h4><strong>Support Team</strong></h4>
 </td>
 </tr>
 <tr>
