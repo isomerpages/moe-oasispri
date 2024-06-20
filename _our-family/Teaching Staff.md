@@ -44,7 +44,7 @@ variant: tiptap
 <p>Ms Chia Wanyi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Stacey Koh</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -107,7 +107,7 @@ variant: tiptap
 <p>1 Noble</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>Ms Najma</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Sindy Lai</p>
@@ -118,7 +118,7 @@ variant: tiptap
 <p>1 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>Mrs Carine Sing</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Ho Huan Xin</p>
@@ -353,7 +353,7 @@ variant: tiptap
 <p>Mdm Lyvia Soh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>Mr Ng Yong Quan</p>
 </td>
 </tr>
 </tbody>
@@ -616,7 +616,7 @@ variant: tiptap
 <p>6 Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>Mrs Melissa Wee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Pierre Fong, Mrs Joelle Pek</p>
@@ -717,7 +717,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Special Educational Needs (SEN) Officer</p>
+<p>Senior Special Educational Needs (SEN) Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Wanis</p>
@@ -749,4 +749,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<hr>
 <p></p>

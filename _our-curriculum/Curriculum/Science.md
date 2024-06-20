@@ -62,7 +62,7 @@ our students to be confident and effective leaders.</p>
 </div>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/UNz8OsBttt4?si=twNRxzj12-Q6pN20"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/UNz8OsBttt4?si=M54pMM2nBNWyj_nz&amp;start=5"></iframe>
 </div>
 <p><strong>Place-based Learning at Garden Sanctuary</strong>
 </p>
@@ -142,6 +142,6 @@ concepts specially designed for this programme.</p>
 <p><strong>Joy of Learning Science</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/JhKmgh99Ekg?si=3WFGVdX6TDLLatsf&amp;start=4"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/JhKmgh99Ekg?si=2FEkrRon2XXiWj6o"></iframe>
 </div>
 <p></p>

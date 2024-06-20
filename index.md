@@ -2,12 +2,11 @@
 layout: homepage
 title: Oasis Primary School
 description: Brief site description here
-image: /images/Oasis.jpeg
+image: /images/Banner/logo.jpg
 permalink: /
 notification: ""
 sections:
   - hero:
-      title: Oasis Primary School
       background: /images/hero banner.gif
       url: /contact-us/
       key_highlights:
@@ -20,6 +19,7 @@ sections:
         - title: Gallery
           description: ""
           url: /images/oh2024.jpg
+      variant: center
   - infopic:
       title: Oasis Virtual Open House 2024
       id: infopic
