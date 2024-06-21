@@ -178,7 +178,7 @@ variant: tiptap
 <p>Receptionist</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Kartini Sahrul</p>
+<p>Mdm Kartini</p>
 </td>
 </tr>
 </tbody>
