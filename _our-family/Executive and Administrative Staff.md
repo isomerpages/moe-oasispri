@@ -28,7 +28,7 @@ variant: tiptap
 <p>Administration Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>Ms Lye Sook Wan</p>
 </td>
 </tr>
 <tr>
@@ -36,7 +36,7 @@ variant: tiptap
 <p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhamad Iskandar bin Sarkawai</p>
+<p>Mr Muhamad Iskandar</p>
 </td>
 </tr>
 <tr>
@@ -100,7 +100,15 @@ variant: tiptap
 <p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Neui Yew Wing Vincent</p>
+<p>Mr Vincent Neui</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer (Adj)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Halimah</p>
 </td>
 </tr>
 </tbody>
@@ -146,7 +154,7 @@ variant: tiptap
 <p>Lab Assistant</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Cheliboni Satyavathi</p>
+<p>Mdm Cheliboni</p>
 </td>
 </tr>
 <tr>
