@@ -57,6 +57,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Administrative Executive</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Tan Siew Lian</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Administrative Executive (Adj)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -76,7 +84,7 @@ variant: tiptap
 <p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Goh Lay Hiang Eveline</p>
+<p>Ms Eveline Goh</p>
 </td>
 </tr>
 <tr>
