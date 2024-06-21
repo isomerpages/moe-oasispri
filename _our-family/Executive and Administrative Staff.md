@@ -57,7 +57,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Administrative Executive</p>
+<p>Administrative Executive (Adj)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tan Siew Hoon</p>
