@@ -61,25 +61,18 @@ classmates to be Gracious@Recess. Students are encouraged to be responsible
 in keeping their tables and floor clean. The classes will be assessed on
 the cleanliness of the tables and the floor assigned. Certificates are
 issued to classes to reaffirm the students’ effort.</p>
-<p>
-<br>
-</p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/p1viaa.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/VIA/P1VIA_1.jpg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/p1viab.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/VIA/P1VIA_2.jpg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/p1viac.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/VIA/P1VIA_3.jpg">
 </div>
-<h5>P2 VIA - Happy Toilet</h5>
+<h5><strong>P2 VIA - Happy Toilet</strong></h5>
 <p>‘Happy Toilet’, our VIA programme for Primary 2 aims to nurture socially
 responsible students who practise good toilet habits with Integrity . Students
 are ‘caught doing right’, organised with the intention of encouraging and
@@ -229,5 +222,9 @@ items and well wishes.</p>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width:100%" height="auto" width="100%" src="/images/p6viac.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VIA/P1VIA_1.jpg">
 </div>
 <p></p>
