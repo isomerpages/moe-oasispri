@@ -34,116 +34,104 @@ variant: tiptap
 <p>National Primary Schools Sport Climbing Championships (NPSSCC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Junior Girls Division (Top Rope) 5th placing</p>
-<p></p>
-<p>Junior Boys Division (Top Rope) 6th placing</p>
-<p></p>
-<p>Novice Division</p>
-<p>Gold Achievement Pins</p>
-<p>Silver Achievement Pins</p>
+<p>Junior Girls Division (Top Rope) 5th placing Junior Boys Division (Top
+Rope) 6th placing Novice Division Gold Achievement Pins Silver Achievement
+Pins</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>SYF Art Exhibition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Certificate of Recognition</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>NSG Hockey Senior Boys</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>National Runners-Up Sportsmanship Award</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>NSG Hockey Junior Boys I</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Tier 1 (4th)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>NSG Hockey Junior Boys II</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Tier 2 (2nd)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Scouts Senior Sixers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Akela Award</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Scouts</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>National Cub Scouts Gang Show Bronze Award</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>NSG Table Tennis</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Junior Boys Singles Tier 4 (1st) Junior Boys Doubles Tier 4 (1st) Sportsmanship
+Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NSG Badminton</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Sportsmanship Award Junior Division Tier 1 (3rd)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>“We Love our Planet” Storytelling Contest</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hwa Chong Info-Communication Challenge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>IDE SUMOBOT Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Participation</p>
 </td>
 </tr>
 </tbody>
 </table>
+<hr>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -178,9 +166,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National Mathematical Olympiad of Singapore 2023
-<br>
-</p>
+<p>National Mathematical Olympiad of Singapore 2023</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Silver Award (1)
@@ -211,7 +197,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Singapore Primary Science Olympiad
-<br>
 <br>
 </p>
 </td>
