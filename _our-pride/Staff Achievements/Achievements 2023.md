@@ -11,15 +11,15 @@ The Commendation Medal is awarded to a person who has distinguished himself thro
 
 The Long Service Medal is awarded to a person who is of irreproachable character and whom the President is satisfied has completed at least 25 years service in the service of the Government.
 
-<b><center>The Commendation Medal</center></b>
-<center>Mrs Lee Shi Lin</center>
-<center>Mr Ng Chu Siu</center>
-<center>Ms Tan Soo Cheng</center>
+<b><center>The Commendation Medal </center></b>
+<p></p><center>Mrs Lee Shi Lin <br>
+Mr Ng Chu Siu <br>
+Ms Tan Soo Cheng</center><p></p>
 
-<b><center>The Efficiency Medal</center></b>
+<b><center>The Efficiency Medal </center></b>
 <p></p><center>Mdm Noorwanis Binte Amir Noordin <br>
 
-<b><center>The Long Service Medal</center></b>
+<b><center>The Long Service Medal </center></b>
 <p></p><center>Mrs Tan-Koh Peck Lian <br>
 Mdm Ng Tze Ling</center><p></p>
 
