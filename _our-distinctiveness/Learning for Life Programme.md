@@ -158,26 +158,17 @@ Jing Hang
 <br><strong>Sub-area 2</strong>&nbsp;- Sharifah Alya Zahra Binte Syed Mohsein
 Albar
 <br><strong>Sub-area 3</strong>&nbsp;- Lim Pei Yu Trina</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP/prefect1.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP/prefect2.jpg">
+</div>
 <p></p>
-<p>
-<br>
-</p>
-<p>
-<br>
-</p>
-<p>
-<br>
-</p>
-<p>
-<br>
-</p>
-<p>
-<br>
-</p>
-<p>
-<br>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP/prefect3.jpg">
+</div>
 <h5>Changemaker Projects</h5>
 <p>The Changemaker Projects aim to nurture empathetic student leaders who
 are confident in leading their schoolmates in a series of impactful actions
