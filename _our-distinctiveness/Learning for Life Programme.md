@@ -301,76 +301,7 @@ Change - Be The Change competition.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/LLP/area_3f.jpg">
 </div>
-<p></p>
-<p></p>
-<h5>P5 &amp; P6 Sub-area 2 Prefects Changemaker Project - I Am An Upcyclist!</h5>
-<p>Our students noticed that single-use plastic items go to waste after food
-or products are consumed. Plastic waste is thrown at a rapid speed and
-this leads to large volume of plastic waste accumulated every day.</p>
-<p>Our sub-area 2 prefects decided to create instructional video to teach
-on how to upcycle, and hold level competitions to motivate their peers
-to start upcycling.</p>
-<p>The team put together a SLS toolkit that consist of various instructional
-videos to educate their schoolmates on the impact of plastic waste on the
-environment, as well as demonstrate ways on upcycling everyday plastic
-waste. This helped students increase their awareness and encourage positive
-steps to take in upcycling plastic packaging. Parents were very supportive
-of the project and many of them worked together with their children to
-create upcycled items to participate in the level competition.</p>
-<p>This project clinched the Silver Award in the National Youth Upcycling
-Movement 2022, and prefect representatives were also involved to present
-their project experience at the 13th Be The Change Celebration.</p>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/cce_photo16a.JPG">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/cce_photo16b.jpg">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/cce_photo16c.jpg">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/cce_photo16d.jpg">
-</div>
-<h5>P5 &amp; P6 Sub-area 3 Prefects Changemaker Project - Gift of Love</h5>
-<p>Sub-area 3 prefects conducted interviews and researched on various issues
-elderly people faced and realised that loneliness and depression are quite
-a concern in modern society, especially for elderly who are away from their
-families in elder care homes.</p>
-<p>In the spirit of creating positive impact to the community around, Sub-area
-3 prefects decided on spreading festive joy and care through designing
-and creating of Mid-autumn gifts in the form of gift bags for the elderly
-of Brighthill Evergreen Elder Care Home.</p>
-<p>The experience allowed prefects to gain understanding of societal issues
-and learn to care for the elderly.</p>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/cce_photo17a.jpg">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/cce_photo17b.jpg">
-</div>
-<h5>Achievements</h5>
-<p>
-<br>
-</p>
+<h5><strong>Achievements</strong><br></h5>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
