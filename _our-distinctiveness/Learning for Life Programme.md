@@ -204,7 +204,6 @@ for participating students to apply what they have learnt and test their
 understanding.</p>
 <p>This project clinched the Silver Award in the National Cyberwellness Advocacy
 Challenge 2024.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/LLP/area1.jpg">
 </div>
@@ -239,61 +238,53 @@ items to participate in the level competition.</p>
 teach the pre-schoolers how they can upcycle their old t-shirts.</p>
 <p>This project clinched the Silver Award in the National Youth Upcycling
 Movement 2023.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP/area_2.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/LLP/area_2.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP/area2b.jpg">
-</div>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP/area2c.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/LLP/area2b.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP/area2d.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/LLP/area2c.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP/area2e.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/LLP/area2d.jpg">
 </div>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<h5>P5 &amp; P6 Sub-area 1 Prefects Changemaker Project - Burst The Bubbles!</h5>
-<p>Technology becomes part of our lives as society progresses and people
-are exposed to real and unreal information every day. This motivates the
-P5 &amp; P6 Prefects in wanting to help others to learn about the algorithm
-of search engines, and how to avoid filter bubbles so as to avoid unreal
-information online. The team created a video toolkit with an online game
-to educate fellow schoolmates. Level competitions were held for P3, P4
-and P6 students to challenge schoolmates to participate in colouring contest,
-poster-making and comic-creation competition, to remind others to guard
-against unreal information. This project clinched the Silver Award in the
-National Cyberwellness Advocacy Challenge 2022.</p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/cce_photo15a.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/LLP/area2e.jpg">
 </div>
+<h5>P5 &amp; P6 Sub-area 3 Prefects Changemaker Project - A Healthier Me!</h5>
+<p>Our Sub-area 3 Holistic Wellbeing prefects realised that creating awareness
+in all our students on the importance of healthy diet with lower sugar
+intake is important, as we need to help students develop good dietary habits
+to help them prevent diabetes as they grow up. With the prevention of diabetes,
+they will then prevent further chronic diseases like kidney failure.</p>
+<p>Our Sub-area 3 prefects came out with a spread of ideas ranging from puppet
+show, story-telling, skit, assembly talks and poster competition to advocate
+for a less-sugary drink healthier diet, and get students and teachers to
+participate in NKF's 7-day No Sugary Drink Challenge.</p>
+<p>The team eventually decided on educating their schoolmates on the topic
+via story-telling using stick puppets, pre-assembly talks, SLS quiz and
+photo contest. The prefects also reached out to the teachers during Staff
+Contact Time to garner their support for this project too!</p>
+<p>Quoting from students' captions for their photo contest entries, they
+learned through the project that drinking water is healthier than drinking
+sugary drinks. Teachers also mentioned that the project has increased their
+awareness, and they have found that switching to non-sugary drink is not
+as difficult as they thought.</p>
+<p>This project achieved the Unity Award in the 14<sup>th</sup> Design For
+Change - Be The Change competition.</p>
+<p></p>
 <p>
 <br>
 </p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/l7vEi78cnQk"></iframe>
-</div>
 <p>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/cce_photo15b.jpg">
-</div>
 <h5>P5 &amp; P6 Sub-area 2 Prefects Changemaker Project - I Am An Upcyclist!</h5>
 <p>Our students noticed that single-use plastic items go to waste after food
 or products are consumed. Plastic waste is thrown at a rapid speed and
