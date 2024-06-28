@@ -13,6 +13,158 @@ variant: tiptap
 <tr></tr>
 </tbody>
 </table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p><strong>Achievements (2024)</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>EVENT</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>AWARD</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Primary Schools Sport Climbing Championships (NPSSCC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Junior Girls Division (Top Rope)</u></strong>
+</p>
+<p>5th placing</p>
+<p></p>
+<p><strong><u>Junior Boys Division (Top Rope)</u></strong>
+</p>
+<p>6th placing</p>
+<p></p>
+<p><strong><u>Novice Division</u></strong>
+</p>
+<p>Gold Achievement Pins</p>
+<p>Silver Achievement Pins</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SYF Art Exhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Certificate of Recognition</u></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NSG Hockey Senior Boys</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>National Runners-Up</u></strong>
+</p>
+<p><strong><u>Sportsmanship Award</u></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NSG Hockey Junior Boys I</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tier 1 (4th)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NSG Hockey Junior Boys II</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tier 2 (2nd)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Scouts Senior Sixers</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Akela Award</u></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Scouts</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>National Cub Scouts Gang Show</u></strong>
+</p>
+<p>Bronze Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NSG Table Tennis</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Junior Boys Singles</u></strong>
+</p>
+<p>Tier 4 (1st)</p>
+<p></p>
+<p><strong><u>Junior Boys Doubles</u></strong>
+</p>
+<p>Tier 4 (1st)</p>
+<p></p>
+<p><strong><u>Sportsmanship Award</u></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NSG Badminton</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Sportsmanship Award</u> <br><u>Junior Division</u></strong>
+</p>
+<p>Tier 1 (3rd)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>“We Love our Planet” Storytelling Contest</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Merit Award</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hwa Chong Info-Communication Challenge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Gold Award</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>IDE SUMOBOT Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Certificate of Participation</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <hr>
 <table style="minWidth: 50px">
 <colgroup>
