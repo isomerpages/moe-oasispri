@@ -36,7 +36,7 @@ Schools</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Individual Award - Silver (2) and Bronze (2)
-<br>Group Award- Silver (1)</p>
+<br>Group Award - Silver (1)</p>
 </td>
 </tr>
 <tr>
