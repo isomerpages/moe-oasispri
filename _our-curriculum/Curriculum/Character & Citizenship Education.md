@@ -50,7 +50,7 @@ tiers:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/key%20programmes%201.png">
 </div>
-<h5>P1 VIA - Be Gracious@Recess</h5>
+<h5><strong>P1 VIA - Be Gracious@Recess</strong></h5>
 <p>‘Be Gracious@Recess’, our VIA programme for Primary 1 aims to imbue good
 habits and table etiquette in our Oasians. They will be taught to practice
 personal hygiene by first washing their hands before taking their meals
