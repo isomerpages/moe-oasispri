@@ -44,7 +44,7 @@ variant: tiptap
 <p>Ms Chia Wanyi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>Mrs Rosenna Seah</p>
 </td>
 </tr>
 <tr>
