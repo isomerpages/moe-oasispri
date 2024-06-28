@@ -169,13 +169,20 @@ Albar
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP/prefect3.jpg">
 </div>
-<h5>Changemaker Projects</h5>
-<p>The Changemaker Projects aim to nurture empathetic student leaders who
-are confident in leading their schoolmates in a series of impactful actions
-for a meaningful cause within the school and community.</p>
-<p>In 2022, all our prefects underwent a series of Changemaker workshop.
-They learnt Design Thinking protocol during the workshop and conceptualised
-Changemaker projects to create positive changes to the people around them.</p>
+<h5><strong>Changemaker Projects</strong></h5>
+<p>Our P4 prefects exhibited their critical and creative thinking skills
+as they took charge of the Teachers’ Day Concert to show gratitude to their
+teachers. They took ownership to create their concert items collaboratively
+in their respective teams as they sharpened their leadership skills along
+the project. They showcased innovative mindsets to present creative performances.
+The project encouraged planning and decision-making as a team. Despite
+limited resources and time, the P4 prefects were able to put up an amazing
+concert successfully to celebrate the joyous day!</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP8.png">
 </div>
