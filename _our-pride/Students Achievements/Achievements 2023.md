@@ -139,15 +139,6 @@ variant: tiptap
 <p>Certificate of Participation</p>
 </td>
 </tr>
-</tbody>
-</table>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td rowspan="3" colspan="1">
 <p>Mathematics</p>
