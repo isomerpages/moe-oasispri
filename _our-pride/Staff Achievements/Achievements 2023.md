@@ -13,9 +13,6 @@ The 7th International Conference of Teaching Chinese Language as a Second Langua
 ###### **Mother Tongue Languages Symposium (MTLS) 2023**
 On 26th August 2023, the Malay Language teachers from Oasis Primary School participated in the Mother Tongue Languages Symposium (MTLS) 2023. They showcased the use of Placed-based Learning (PBL) in the Malay Language (ML) curriculum of the school. The ML teachers worked together to customise and put together differentiated and engaging resources to meet the interests and needs of the diverse visitors ranging from pre-schoolers to adults (ML-speakers as well as non-ML speakers).&nbsp;&nbsp;It was an enriching experience for all the ML teachers who shared at the symposium.
 
-![](/images/Staff%20Achievements%202023/Photo_2A.jpg)
-
-![](/images/Staff%20Achievements%202023/Photo_2B.jpg)
 
 
 
