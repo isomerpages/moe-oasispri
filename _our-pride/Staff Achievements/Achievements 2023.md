@@ -11,8 +11,8 @@ third_nav_title: Staff Achievements
 ##### **MTL Symposium**
 ![](/images/Staff%20Achievements%202023/MTL2023_slide2.jpg)
 
-
-
+##### **ML Sharing MLCS**
+![](/images/Staff%20Achievements%202023/MTL2023_slide3.jpg)
 
 ### 2023 National Day Awards
 
