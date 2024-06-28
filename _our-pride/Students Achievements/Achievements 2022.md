@@ -3,79 +3,184 @@ title: Achievements 2022
 permalink: /our-distinctiveness/our-pride/students-achievements/achievements-2022/
 description: ""
 third_nav_title: Students Achievements
+variant: tiptap
 ---
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-cly1{text-align:left;vertical-align:middle}
-.tg .tg-y93n{background-color:#c0c0c0;text-align:left;vertical-align:middle}
-.tg .tg-y6fn{background-color:#c0c0c0;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-y93n"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000">Department</span></th>
-    <th class="tg-y6fn"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000">Competition</span></th>
-    <th class="tg-y6fn"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000">Award</span></th>
-  </tr>
-</thead>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-cly1"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Chinese Language</span></td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">5th Chinese Language Text Recital Competition For Primary &amp; Secondary Schools</span></td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Individual Award - Silver (2) and Bronze (2)</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Group Award- Silver (1)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-cly1" rowspan="4"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Mathematics</span></td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Singapore Mathematical Olympiad for Primary Schools 2022</span></td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Bronze Award (2)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">National Mathematical Olympiad of Singapore 2022</span><br></td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Silver Award (1)</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Bronze Award (5)</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Honourable Mention (6)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Raffles Institution Primary Mathematics World Contest 2022</span></td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Merit Award (1)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Primary Mathematics Project Competition 2022 (Primary 4 Poster Category)</span></td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Outstanding Award</span></td>
-  </tr>
-  <tr>
-    <td class="tg-cly1"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Science</span></td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Singapore Primary Science Olympiad 2022</span><br><br></td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Bronze Award (1)</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Merit Award (1)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-cly1"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Aesthetics</span></td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">2022 SYF Arts Presentation - Guzheng<br><br>2022 SYF Arts Presentation - Dance<br><br>2022 SOTA Temasek Foundation Award For Arts Development</span></td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Certificate of Participation (19)<br><br>Certificate of Participation (23)<br><br>Dance<br>Visual Art</span></td>
-  </tr>
-  <tr>
-    <td class="tg-cly1" rowspan="5"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">CCA</span></td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">2022 NSG Hockey</span><br><br></td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">NSG Senior Boys - National Top 8<br>NSG Junior Boys (P5) - Tier 1 National 1st Runners-Up<br>NSG Junior Boys (P4) - Tier 1 National Top 6</span></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">2022 NSG Badminton</span></td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">NSG Junior Girls - Tier 3 (Champion) (East Zone)<br>NSG Junior Girls - Tier 1 (4th) (East Zone)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">2022 NSG Table Tennis</span><br><br><br></td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">NSG Junior Girls Doubles - Tier 4 (2nd)</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">NSG Junior Boys Doubles - Tier 2 (4th)<br>NSG Junior Boys Singles - Tier 4 (1st)<br>NSG Junior Boys Doubles - Tier 4 (2nd)<br>NSG Junior Girls Doubles - Tier 3 (2nd)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">2022 NSG Sportsmanship Award</span><br></td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Badminton (4)<br>Table Tennis (4)<br>Hockey (3)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">2022 National Primary Schools Sport Climbing Championships</span><br><br><br></td>
-    <td class="tg-0lax"><span style="font-weight:700;font-style:normal;text-decoration:underline;color:#000;background-color:transparent">Junior (Novice) Girls Boulder Challenge</span><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"><br>Gold Achievement Pin</span><span style="font-weight:700;font-style:normal;text-decoration:underline;color:#000;background-color:transparent"><br>Junior (Novice) Boys Boulder Challenge</span><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"><br>Gold Achievement Pin<br>Silver Achievement Pin</span></td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Department</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Competition</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Award</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5th Chinese Language Text Recital Competition For Primary &amp; Secondary
+Schools</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Individual Award - Silver (2) and Bronze (2)
+<br>Group Award- Silver (1)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p>Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Mathematical Olympiad for Primary Schools 2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze Award (2)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Mathematical Olympiad of Singapore 2022
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver Award (1)
+<br>Bronze Award (5)
+<br>Honourable Mention (6)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Raffles Institution Primary Mathematics World Contest 2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit Award (1)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary Mathematics Project Competition 2022 (Primary 4 Poster Category)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Outstanding Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Primary Science Olympiad 2022
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze Award (1)
+<br>Merit Award (1)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Aesthetics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2022 SYF Arts Presentation - Guzheng
+<br>
+<br>2022 SYF Arts Presentation - Dance
+<br>
+<br>2022 SOTA Temasek Foundation Award For Arts Development</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Participation (19)
+<br>
+<br>Certificate of Participation (23)
+<br>
+<br>Dance
+<br>Visual Art</p>
+</td>
+</tr>
+<tr>
+<td rowspan="5" colspan="1">
+<p>CCA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2022 NSG Hockey
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NSG Senior Boys - National Top 8
+<br>NSG Junior Boys (P5) - Tier 1 National 1st Runners-Up
+<br>NSG Junior Boys (P4) - Tier 1 National Top 6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2022 NSG Badminton</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NSG Junior Girls - Tier 3 (Champion) (East Zone)
+<br>NSG Junior Girls - Tier 1 (4th) (East Zone)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2022 NSG Table Tennis
+<br>
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NSG Junior Girls Doubles - Tier 4 (2nd)
+<br>NSG Junior Boys Doubles - Tier 2 (4th)
+<br>NSG Junior Boys Singles - Tier 4 (1st)
+<br>NSG Junior Boys Doubles - Tier 4 (2nd)
+<br>NSG Junior Girls Doubles - Tier 3 (2nd)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2022 NSG Sportsmanship Award
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Badminton (4)
+<br>Table Tennis (4)
+<br>Hockey (3)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2022 National Primary Schools Sport Climbing Championships
+<br>
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Junior (Novice) Girls Boulder Challenge</u></strong>
+<br>Gold Achievement Pin<strong><u><br>Junior (Novice) Boys Boulder Challenge</u></strong>
+<br>Gold Achievement Pin
+<br>Silver Achievement Pin</p>
+</td>
+</tr>
 </tbody>
 </table>
+<p></p>
