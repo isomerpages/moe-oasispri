@@ -17,6 +17,6 @@ Rui, Mrs Norhazlinda Sham and Mdm Liyana for your commitment to educational
 excellence and for your contributions in line with the conference’s theme
 of “Growing future-ready teachers and learners”!</p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Math/rpic2024.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math/pic.jpg">
 </div>
 <p></p>
