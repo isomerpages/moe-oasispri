@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Staff Achievements
 variant: markdown
 ---
-### 2021 National Day Awards
+### **2021 National Day Awards**
 
 The Commendation Medal is awarded to a person who has distinguished himself through commendable performance and conduct, or significant efficiency, competence and devotion to duty.
 
@@ -17,7 +17,7 @@ The Long Service Medal is awarded to a person who is of irreproachable character
 <b><center>The Long Service Medal</center></b>
 <center>Mrs Lee Shi Lin</center>
 
-### MOE Service Excellence Award (MSEA)
+### **MOE Service Excellence Award (MSEA)**
 
 The MOE Service Excellence Award (MSEA) is a MOE-wide Award to encourage all MOE staff to continually and consistently serve both internal and external customers with excellent service.
 
