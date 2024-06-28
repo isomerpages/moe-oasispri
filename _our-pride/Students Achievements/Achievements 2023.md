@@ -34,8 +34,10 @@ variant: tiptap
 <p>National Primary Schools Sport Climbing Championships (NPSSCC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Junior Girls Division (Top Rope) 5th placing Junior Boys Division (Top
-Rope) 6th placing</p>
+<p>Junior Girls Division (Top Rope)</p>
+<p>5th placing</p>
+<p>Junior Boys Division (Top Rope)</p>
+<p>6th placing</p>
 <p>Novice Division</p>
 <p>Gold Achievement Pins</p>
 <p>Silver Achievement Pins</p>
