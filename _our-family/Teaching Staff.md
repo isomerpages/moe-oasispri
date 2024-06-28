@@ -300,7 +300,7 @@ variant: tiptap
 <p>Mdm Wilsa Dewi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Rosenna Seah</p>
+<p>Mr Ng Yong Quan</p>
 </td>
 </tr>
 <tr>
