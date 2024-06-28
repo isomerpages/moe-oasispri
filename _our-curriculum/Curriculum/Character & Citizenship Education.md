@@ -84,32 +84,27 @@ which are framed and presented to the school cleaners.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/VIA/pic.jpg">
 </div>
-<h5>P3 VIA - Cyber Champ</h5>
+<h5><strong>P3 VIA - Cyber Champ</strong></h5>
 <p>With students’ wellbeing in mind, the P3 VIA programme titled ‘Cyber Champ’
 works towards promoting good habits in using technology and showing respect
-to self and others. After learning about Cyber Wellness during school assemblies,
-the P3 students are tasked to encourage Oasians to be a responsible and
-safe digital user, as well as a positive influence to their peers. This
-involves them getting into groups to discuss and create board games for
-play at recess.</p>
-<p>
-<br>
-</p>
+to self and others. The P3 students are tasked to encourage Oasians to
+be a responsible and safe digital user, as well as a positive influence
+to their peers. This involves them getting into groups to discuss and create
+board games for play at recess.</p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/p3viaa.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/VIA/P3_VIA_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/VIA/P3_VIA_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/VIA/P3_VIA_3.jpg">
 </div>
 <p>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/p3viab.png">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/p3viac.png">
-</div>
 <h5>P4 VIA - By My Friend</h5>
 <p>One of the VIA programmes for Primary 4 students is titled ‘Be My Buddy’,
 and they will play an important role as a buddy to our P1 students in the
