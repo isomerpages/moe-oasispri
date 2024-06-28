@@ -169,22 +169,18 @@ items and well wishes during their visit. They will also prepare special
 items such as singing oldies, doing Art/Craft or playing games with the
 residents.</p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/p6viaa.png">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/p6viab.png">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/p6viac.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/VIA/P6_VIA_4_A.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VIA/P1VIA_1.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/VIA/P6_VIA_4_B.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/VIA/P6_VIA_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/VIA/P6_VIA_2.jpg">
 </div>
 <p></p>
