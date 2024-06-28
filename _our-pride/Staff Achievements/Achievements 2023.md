@@ -19,12 +19,15 @@ Ms Tan Soo Cheng</center><p></p>
 <b><center>The Efficiency Medal </center></b>
 <p></p><center>Mdm Noorwanis Binte Amir Noordin <br>
 
-<b><center>The Long Service Medal </center></b>
+<b>The Long Service Medal</b>
 <p></p><center>Mrs Tan-Koh Peck Lian <br>
-Mdm Ng Tze Ling</center><p></p>
+Mdm Ng Tze Ling<p></p>
 
 ### MOE Service Excellence Award (MSEA)
 
+
+	
+	
 The MOE Service Excellence Award (MSEA) is a MOE-wide Award to encourage all MOE staff to continually and consistently serve both internal and external customers with excellent service.
 
 <b><center>Gold Award </center></b>
@@ -58,4 +61,4 @@ Mdm Safiah Binte Arshad <br>
 Mdm Soh Hoon Suu <br>
 Mdm Judy Tng <br>
 Ms Yim Wai Peng <br>
-Ms Si Xu Vongsuvanish</center><p></p></center>
+Ms Si Xu Vongsuvanish</center><p></p></center></center>
