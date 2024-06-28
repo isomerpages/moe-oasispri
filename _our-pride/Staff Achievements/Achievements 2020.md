@@ -15,7 +15,7 @@ The OYEA is a national award that recognises and honours the achievements of you
 
 Moving forward in these extraordinary times, I would like to seize the creative side of teaching so that I can become more effective as I reach out to students and promote holistic learning.”
 
-### 2020 National Day Award
+### **2020 National Day Award**
 
 The Long Service Medal is awarded to a person who is of irreproachable character and whom the President is satisfied has completed at least 25 years service in the service of the Government.
 
