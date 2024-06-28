@@ -92,10 +92,10 @@ in life.</p>
 at the school’s TLiM pillars to strengthen their understanding of the 7
 habits through interactive activities and manipulatives.</p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/cce_photo11a.png">
+<img style="width: 75%;" height="auto" width="100%" src="/images/cce_photo11a.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/cce_photo11b.PNG">
+<img style="width: 75%;" height="auto" width="100%" src="/images/cce_photo11b.PNG">
 </div>
 <h5><strong>TLiM Celebrations</strong></h5>
 <p>During TLiM Celebrations, students will carry out various activities to
@@ -159,15 +159,15 @@ Jing Hang
 Albar
 <br><strong>Sub-area 3</strong>&nbsp;- Lim Pei Yu Trina</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP/prefect1.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/LLP/prefect1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP/prefect2.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/LLP/prefect2.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP/prefect3.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/LLP/prefect3.jpg">
 </div>
 <h5><strong>Changemaker Projects</strong></h5>
 <p>Our P4 prefects exhibited their critical and creative thinking skills
@@ -179,8 +179,17 @@ The project encouraged planning and decision-making as a team. Despite
 limited resources and time, the P4 prefects were able to put up an amazing
 concert successfully to celebrate the joyous day!</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/LLP/changemaker1.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/LLP/changemaker2.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/LLP/changemaker3.jpg">
+</div>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
