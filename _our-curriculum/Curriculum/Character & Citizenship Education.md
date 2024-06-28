@@ -154,23 +154,20 @@ T-shirts to design and create a tote bag.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VIA/P5_VIA_2.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/VIA/P5_VIA_2.jpg">
 </div>
-<p>
-<br>
-</p>
-<p>
-<br>
-</p>
-<h5>P6 VIA - Be A Blessing</h5>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/VIA/P5_VIA_3.jpg">
+</div>
+<h5><strong>P6 VIA - Be A Blessing</strong></h5>
 <p>Through the ‘Be A Blessing’ programme, our P6 students will have the opportunity
 to reach out to the residents of Peacehaven Nursing Home and internalise
-the values of resilience, respect and care. They will also assemble a ‘Blessing’
+the values of resilience, respect and care. They will assemble a ‘Blessing’
 care package for the residents of the nursing home, which includes food
-items and well wishes.</p>
-<p>
-<br>
-</p>
+items and well wishes during their visit. They will also prepare special
+items such as singing oldies, doing Art/Craft or playing games with the
+residents.</p>
 <div class="isomer-image-wrapper">
 <img style="width:100%" height="auto" width="100%" src="/images/p6viaa.png">
 </div>
