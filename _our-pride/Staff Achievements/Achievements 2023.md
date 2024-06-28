@@ -16,9 +16,11 @@ The Long Service Medal is awarded to a person who is of irreproachable character
 <center>Mr Ng Chu Siu</center>
 <center>Ms Tan Soo Cheng</center>
 
+<b><center>The Efficiency Medal</center></b>
+<center>Mdm Noorwanis Binte Amir Noordin</center>
 
-
-
+<b><center>The Long Service Medal</center></b>
+<center>Mrs Tan-Koh Peck Lian</center><center>Mdm Ng Tze Ling</center>
 
 
 <b><center>The Long Service Medal</center></b>
