@@ -278,13 +278,31 @@ awareness, and they have found that switching to non-sugary drink is not
 as difficult as they thought.</p>
 <p>This project achieved the Unity Award in the 14<sup>th</sup> Design For
 Change - Be The Change competition.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/LLP/area_3a.jpg">
+</div>
 <p></p>
-<p>
-<br>
-</p>
-<p>
-<br>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/LLP/area_3b.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/LLP/area_3c.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/LLP/area_3d.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/LLP/area_3e.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/LLP/area_3f.jpg">
+</div>
+<p></p>
+<p></p>
 <h5>P5 &amp; P6 Sub-area 2 Prefects Changemaker Project - I Am An Upcyclist!</h5>
 <p>Our students noticed that single-use plastic items go to waste after food
 or products are consumed. Plastic waste is thrown at a rapid speed and
