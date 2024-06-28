@@ -207,15 +207,9 @@ Challenge 2024.</p>
 <p></p>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/cce_photo13a.PNG">
-</div>
 <p>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/cce_photo13b.PNG">
-</div>
 <h5>P4 Prefects Changemaker Project - Teachers’ Day Concert</h5>
 <p>Our P4 prefects exhibited their critical and creative thinking skills
 as they took charge of the Teachers’ Day Concert to show gratitude to their
