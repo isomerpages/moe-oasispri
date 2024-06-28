@@ -3,56 +3,135 @@ title: Achievements 2021
 permalink: /our-distinctiveness/our-pride/students-achievements/achievements-2021/
 description: ""
 third_nav_title: Students Achievements
+variant: tiptap
 ---
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-67ya{background-color:#FFF;color:#002D46;text-align:left;vertical-align:middle}
-.tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-vd2a{background-color:#FFF;color:#002D46;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Department</span></th>
-    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Competition</span></th>
-    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Award</span></th>
-  </tr>
-</thead>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-67ya">Chinese Language </td>
-    <td class="tg-vd2a"><span style="background-color:initial">4th Chinese Language Text Recital Competition For Primary &amp; Secondary Schools</span><br><br><span style="background-color:initial">The Chinese Language Moo-O Awards</span></td>
-    <td class="tg-vd2a"><span style="background-color:initial">Individual Award - Bronze (4)</span><br><span style="background-color:initial">Group Award - Silver (1)</span><br><br><span style="background-color:initial">Merit Award (1)</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-67ya">Mathematics</td>
-    <td class="tg-vd2a"><span style="background-color:initial">National Mathematical Olympiad of Singapore 2021</span><br><br><br><span style="background-color:initial">Singapore Mathematical Olympiad for Primary Schools 2021</span></td>
-    <td class="tg-vd2a"><span style="background-color:initial">Bronze Award (4)
-			</span><br><span style="background-color:initial">Honourable Mention (10)</span><br><br><span style="background-color:initial">Bronze Award (1)</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-67ya">Science </td>
-    <td class="tg-67ya">Singapore Primary Science Olympiad<br><br>Raffles Science Olympiad<br></td>
-    <td class="tg-67ya">Silver Award (1)<br><br>Merit Award (1)<br></td>
-  </tr>
-  <tr>
-    <td class="tg-67ya">Aesthetics</td>
-    <td class="tg-vd2a"><span style="background-color:initial">2021 SYF Arts Exhibition</span></td>
-    <td class="tg-vd2a"><span style="background-color:initial">Certificate of Recognition (4)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-67ya">CCA</td>
-    <td class="tg-vd2a"><span style="background-color:initial">2021 NSG Badminton</span><br><br><span style="background-color:initial">2021 NSG Sportsmanship Award</span><br></td>
-    <td class="tg-vd2a"><span style="background-color:initial">Bronze (Top 6) Senior Girls</span><br><br><span style="background-color:initial">Badminton (2)</span><br><br><span style="background-color:initial">Table Tennis (6)</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-67ya">Student Leadership</td>
-    <td class="tg-vd2a"><span style="background-color:initial">National Cyberwellness Advocacy Challenge</span><br><br><span style="background-color:initial">National Youth Upcycling Movement</span><br><br><span style="background-color:initial">12th Design For Change Singapore Challenge 2021</span></td>
-    <td class="tg-vd2a"><span style="background-color:initial">Silver Award (1)</span><br><br><span style="background-color:initial">Gold Award (1)</span><br><br><span style="background-color:initial">Top 3 Award (Cyberwellness Project)</span><br><span style="background-color:initial">Special Mention (Student Wellbeing Project)</span></td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Department</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Competition</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Award</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4th Chinese Language Text Recital Competition For Primary &amp; Secondary
+Schools
+<br>
+<br>The Chinese Language Moo-O Awards</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Individual Award - Bronze (4)
+<br>Group Award - Silver (1)
+<br>
+<br>Merit Award (1)
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Mathematical Olympiad of Singapore 2021
+<br>
+<br>
+<br>Singapore Mathematical Olympiad for Primary Schools 2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze Award (4)
+<br>Honourable Mention (10)
+<br>
+<br>Bronze Award (1)
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Primary Science Olympiad
+<br>
+<br>Raffles Science Olympiad
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver Award (1)
+<br>
+<br>Merit Award (1)
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Aesthetics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2021 SYF Arts Exhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Recognition (4)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CCA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2021 NSG Badminton
+<br>
+<br>2021 NSG Sportsmanship Award
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze (Top 6) Senior Girls
+<br>
+<br>Badminton (2)
+<br>
+<br>Table Tennis (6)
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Student Leadership</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Cyberwellness Advocacy Challenge
+<br>
+<br>National Youth Upcycling Movement
+<br>
+<br>12th Design For Change Singapore Challenge 2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver Award (1)
+<br>
+<br>Gold Award (1)
+<br>
+<br>Top 3 Award (Cyberwellness Project)
+<br>Special Mention (Student Wellbeing Project)</p>
+</td>
+</tr>
 </tbody>
 </table>
+<p></p>
