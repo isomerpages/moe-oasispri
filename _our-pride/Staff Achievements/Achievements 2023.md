@@ -16,11 +16,11 @@ On 26th August 2023, the Malay Language teachers from Oasis Primary School parti
 
 ###### **Perkongsian Profesional 2023**
 
+The Malay Language Centre of Singapore (MLCS), Academy of Singapore Teachers, organised an inaugural biennial Malay Language Professional Sharing on Friday, 10 March 2023 for Malay Language (ML) teachers. The theme of the sharing is&nbsp;**Classroom-based Best Practices on Effective Assessment (_Amalan Terbaik Penilaian di Bilik Darjah_).**&nbsp;The objectives of the professional sharing are: To provide an opportunity for ML teachers to share their best practices on assessment and to strengthen ML teachers’ capacity to plan, design and implement assessment practices to enhance students’ learning.
 
+Mdm Ahadrina Supri shared with the fraternity the effectiveness of using checklists in the teaching and learning comprehension in her Primary 4 lessons.
 
-
-
-
+![](/images/Staff%20Achievements%202023/Photo_3.png)
 
 ### **2023 National Day Awards**
 
