@@ -34,11 +34,18 @@ news as well as learning journeys.</p>
 <p>As the school’s Lifelong Learning Programme (LLP), our student leadership
 programme aims to nurture our Oasians to be leaders who serve and lead
 with empathy, and contribute positively to the community through the following
-tiers:</p><pre><code>	1.  Self-Leadership
-	2.  Team Leadership
-	3.  Change Leadership</code></pre>
-<p>See OPS <a href="https://www.oasispri.moe.edu.sg/our-distinctiveness/learning-for-life-programme/" rel="noopener noreferrer nofollow" target="_blank">Learning for Life Programme</a>
-</p>
+tiers:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Self- Leadership</p>
+</li>
+<li>
+<p>Team Leadership</p>
+</li>
+<li>
+<p>Change Leadership</p>
+</li>
+</ol>
 <h3><strong>Key Programmes</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/key%20programmes%201.png">
