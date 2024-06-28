@@ -6,7 +6,6 @@ description: ""
 third_nav_title: Staff Achievements
 ---
 ##### **The 7th&nbsp;International Conference of Teaching Chinese Language as a Second Language cum the 11th&nbsp;International Forum on Chinese Language Education**
-##### 
 The 7th International Conference of Teaching Chinese Language as a Second Language cum the 11th International Forum on Chinese Language Education took place from 5th&nbsp;to 6th&nbsp;Sept 2023. It is a flagship conference hosted by the National Institute of Education (NIE), Nanyang Technological University, Singapore Center for Chinese Language (SCCL) and the Singapore Chinese Teachers' Union (SCTU), Singapore. With the advice and guidance of MTL HOD Mdm Ng Tze Ling, our Senior Teachers Ms Christine Huang Rui and Mdm Cheng Yingying, presented&nbsp;**“Using Differentiated Success Criteria to Assess Students’ Writing to Enhance Their Writing Abilities**” at the conference.
 ![](/images/Staff%20Achievements%202023/Photo_1.jpg)
 
@@ -15,7 +14,6 @@ On 26th August 2023, the Malay Language teachers from Oasis Primary School parti
 ![](/images/Staff%20Achievements%202023/Photo_2AB.jpg)
 
 ##### **Perkongsian Profesional 2023**
-###### 
 The Malay Language Centre of Singapore (MLCS), Academy of Singapore Teachers, organised an inaugural biennial Malay Language Professional Sharing on Friday, 10 March 2023 for Malay Language (ML) teachers. The theme of the sharing is&nbsp;**Classroom-based Best Practices on Effective Assessment (_Amalan Terbaik Penilaian di Bilik Darjah_).**&nbsp;The objectives of the professional sharing are: To provide an opportunity for ML teachers to share their best practices on assessment and to strengthen ML teachers’ capacity to plan, design and implement assessment practices to enhance students’ learning.
 
 Mdm Ahadrina Supri shared with the fraternity the effectiveness of using checklists in the teaching and learning comprehension in her Primary 4 lessons.
