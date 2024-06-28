@@ -91,19 +91,13 @@ in life.</p>
 <p>Primary 1 and Primary 2 students also undergo TLiM Placed-Based Learning
 at the school’s TLiM pillars to strengthen their understanding of the 7
 habits through interactive activities and manipulatives.</p>
-<p>
-<br>
-</p>
 <div class="isomer-image-wrapper">
 <img style="width:100%" height="auto" width="100%" src="/images/cce_photo11a.png">
 </div>
-<p>
-<br>
-</p>
 <div class="isomer-image-wrapper">
 <img style="width:100%" height="auto" width="100%" src="/images/cce_photo11b.PNG">
 </div>
-<h5>TLiM Celebrations</h5>
+<h5><strong>TLiM Celebrations</strong></h5>
 <p>During TLiM Celebrations, students will carry out various activities to
 consolidate the learning of the 7 Habits in The Leader in Me at the end
 of each year.</p>
@@ -125,7 +119,7 @@ the activities planned by their peers from other classes.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP4.png">
 </div>
-<h5>Role Specific Training For Tier 2 Student Leaders</h5>
+<h5><strong>Role Specific Training For Tier 2 Student Leaders</strong></h5>
 <p>At Oasis Primary, we believe that every student has the potential to develop
 leadership skills, and the training of leadership skills should be intentional.</p>
 <p>Therefore, the Student Leadership Committee works closely with various
@@ -134,7 +128,7 @@ Tier 2 classroom leaders with the necessary skills to carry out their duties.</p
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP5.png">
 </div>
-<h5>Leadership Training &amp; Changemaker Workshop For Tier 3 Student Leaders</h5>
+<h5><strong>Leadership Training &amp; Changemaker Workshop For Tier 3 Student Leaders</strong></h5>
 <p>To enhance our prefects’ leadership competencies, they will have the opportunity
 to undergo a series of training sessions in order to advance in their ability
 to think critically, problem solve and resolve conflicts.</p>
@@ -144,68 +138,46 @@ facilitate the process of Changemaker projects.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP6.png">
 </div>
-<h5>Prefects Investiture 2023</h5>
-<p>Over the last 3 years, we have overcome many challenges posed by the Covid-19
-pandemic, and we came out with creative solutions to ensure all teaching
-and learning experiences were not compromised. Our prefects have also continued
-to serve the school and create positive impact to the school community
-through their Changemaker Projects despite the constraints, living up to
-the spirit of Lead With A Heart, Changemakers For The Future.</p>
-<p>This year, we are proud to appoint 111 prefects at our Prefects Investiture
-Ceremony. Among them are 8 senior prefects who have been promoted based
-on continued good performance and dedicated service, 7 Vice-Head prefects
-who were selected based on exemplary performance, and 3 Head Prefects who
-were voted in by peers and endorsed by the school staff to lead the prefects
-according to 3 sub-areas, Safe &amp; Secure@Oasis, Sustainable Oasis &amp;
-Holistic Wellbeing.</p>
+<h5><strong>Prefects Investiture 2024</strong></h5>
+<p>This year, we are proud to appoint 102 prefects and 65 CCA Leaders at
+our Student Leaders Investiture Ceremony. Among them are senior prefects
+who have been promoted based on continued good performance and dedicated
+service, 4 Vice-Head prefects who were selected based on exemplary performance,
+and 3 Head Prefects who were voted in by peers and endorsed by the school
+staff to lead the prefects according to 3 sub-areas, Safe &amp; Secure@Oasis,
+Sustainable Oasis &amp; Holistic Wellbeing.</p>
 <p><strong>Head Prefects</strong>
 </p>
-<p><strong>Sub-area 1</strong>&nbsp;- Chen Kian Kyle
-<br><strong>Sub-area 2</strong>&nbsp;- Sean Cheng Yue Kai
-<br><strong>Sub-area 3</strong>&nbsp;- Angela Oh Si Jing</p>
+<p><strong>Sub-area 1</strong>&nbsp;- Goh Yan Ze Lucas
+<br><strong>Sub-area 2</strong>&nbsp;- Kho Jun Ning
+<br><strong>Sub-area 3</strong>&nbsp;- Ng Yu Qi Angela</p>
 <p><strong>Vice-Head Prefects</strong>
 </p>
-<p><strong>Sub-area 1</strong>&nbsp;- Ng Sim Wun, Chloe &amp; Lucas Toh Jing
-Hang
-<br><strong>Sub-area 2</strong>&nbsp;- Isabelle Cheng Si Yan, Kho Jun Ning
-&amp; Sharifah Alya Zahra Binte Syed Mohsein Albar
-<br><strong>Sub-area 3</strong>&nbsp;- Ho Louis &amp; Lim Pei Yu Trina</p>
+<p><strong>Sub-area 1</strong>&nbsp;- Isadora Kok Rui En &amp; Lucas Toh
+Jing Hang
+<br><strong>Sub-area 2</strong>&nbsp;- Sharifah Alya Zahra Binte Syed Mohsein
+Albar
+<br><strong>Sub-area 3</strong>&nbsp;- Lim Pei Yu Trina</p>
+<p></p>
+<p></p>
 <p>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/cce_photo12a.jpg">
-</div>
 <p>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/cce_photo12b.jpg">
-</div>
 <p>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/cce_photo12c.jpg">
-</div>
 <p>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/cce_photo12d.jpg">
-</div>
 <p>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/cce_photo12e.jpg">
-</div>
 <p>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/cce_photo12f.jpg">
-</div>
 <h5>Changemaker Projects</h5>
 <p>The Changemaker Projects aim to nurture empathetic student leaders who
 are confident in leading their schoolmates in a series of impactful actions
