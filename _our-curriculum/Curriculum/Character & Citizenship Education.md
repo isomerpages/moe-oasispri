@@ -119,66 +119,49 @@ also guide their P1 buddy to buy food and clear their plates after eating.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/VIA/P4_VIA_Be_My_Buddy_3.jpg">
 </div>
-<p>
-<br>
-</p>
-<p>
-<br>
-</p>
-<p>Another VIA programme for our Primary 4 students is titled “Friendship
-Project” and this marks the fifth year of our collaboration with Pathlight
-School. Through our school’s English literature programme, P4 Oasians have
-the opportunity to forge friendships with students from Pathlight School
-through letter writing as well as interact with them in person through
-school visits.</p>
-<p>
-<br>
-</p>
+<hr>
+<p>Another VIA programme for our Primary 4 students is titled “The Friendship
+Project” and this marks the sixth year of our collaboration with Pathlight
+School. Through our school’s English “Literature is Alive” programme, P4
+Oasians will have the opportunity to forge friendships with students from
+Pathlight School through letter writing as well as interact with them in
+person through school visits.</p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/p4viad.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/VIA/P4_VIA_The_Friendship_Project_1.jpg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/p4viae.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/VIA/P4_VIA_The_Friendship_Project_2.jpg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/p4viaf.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/VIA/P4_VIA_The_Friendship_Project_3.jpg">
 </div>
-<h5>P5 VIA - Green Oasians</h5>
-<p>“Green Oasians” is the VIA programme for P5 students and this is done
-in partnership with the English Department and as part of the Applied Learning
-Programme (ALP). Through this programme, P5 Oasians embark on a journey
-to care for the environment and they will also visit the Sustainable Singapore
-Wall in the school (as part of Place-Based Learning) to understand about
-the environmental efforts undertaken by Singapore to promote environmental
-sustainability.</p>
+<h5><strong>P5 VIA - Green Oasians</strong></h5>
+<p>In conjunction with OPS Eco Sustainability Education, “Green Oasians”
+is the VIA programme for P5 students. This is done in partnership with
+the English Department and as part of the Applied Learning Programme (ALP).
+Through this programme, P5 Oasians embark on a journey to care for the
+environment and they will also visit the Sustainable Singapore Wall in
+the school (as part of Place-Based Learning) to understand about the environmental
+efforts undertaken by Singapore to promote environmental sustainability.</p>
 <p>To further strengthen the advocacy on caring for the environment and harmony
-in nature, the P5 students will also design and create posters advocating
-‘green’ messages. Physical posters and e-posters are also showcased and
-students will also conduct presentation to their peers.</p>
-<p>
-<br>
-</p>
+in nature, students will use the Padlet platform to document their learning
+process which involves making bags through upcycling. They will use old
+T-shirts to design and create a tote bag.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/p5viaa.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/VIA/P5_VIA_1.jpg">
 </div>
 <p>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/p5viab.png">
-</div>
 <p>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/p5viac.png">
-</div>
+<p>
+<br>
+</p>
 <h5>P6 VIA - Be A Blessing</h5>
 <p>Through the ‘Be A Blessing’ programme, our P6 students will have the opportunity
 to reach out to the residents of Peacehaven Nursing Home and internalise
