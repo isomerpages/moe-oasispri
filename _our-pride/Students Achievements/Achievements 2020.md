@@ -36,7 +36,7 @@ variant: tiptap
 <br>“2020, Our Story of the Battling the Pandemic” National Writing Competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Individual Award – Gold (1)
+<p>Individual Award - Gold (1)
 <br>Silver (1)
 <br>Bronze (2)
 <br>
