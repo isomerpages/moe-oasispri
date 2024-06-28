@@ -81,10 +81,9 @@ affirming them.</p>
 pen notes of gratitude to the cleaners for their hard work in washing and
 keeping the toilets clean every day. They will also write thank you notes,
 which are framed and presented to the school cleaners.</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VIA/pic.jpg">
+</div>
 <h5>P3 VIA - Cyber Champ</h5>
 <p>With students’ wellbeing in mind, the P3 VIA programme titled ‘Cyber Champ’
 works towards promoting good habits in using technology and showing respect
