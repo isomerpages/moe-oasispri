@@ -301,7 +301,7 @@ Change - Be The Change competition.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/LLP/area_3f.jpg">
 </div>
-<h5><strong>Achievements</strong><br></h5>
+<h5><strong>Achievements</strong></h5>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
