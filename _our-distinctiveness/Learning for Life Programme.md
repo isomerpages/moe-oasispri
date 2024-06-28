@@ -190,20 +190,8 @@ concert successfully to celebrate the joyous day!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/LLP/changemaker3.jpg">
 </div>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP8.png">
-</div>
-<h5>P3 Prefects Changemaker Project 2022 - Memory Box</h5>
-<p>Our P3 prefects decided to do a project to show appreciation towards their
-teachers in school. The prefects brainstormed the type of gifts to present
-to their teachers. After initiating a short survey with teachers to understand
-their needs, they decided to create memory boxes for the teachers, for
-them to keep thank you gifts, cards and notes from students, which will
-bring back fond memories in time to come. The prefects felt a sense of
-achievement and satisfaction as they were able to show appreciation to
-their teachers through the gifts that they prepared and presented</p>
+<h5><strong>P5 &amp; P6 Sub-area 1 Prefects Changemaker Project 2023 - Fake or Real</strong></h5>
+<h5></h5>
 <p>
 <br>
 </p>
