@@ -106,7 +106,11 @@ third_nav_title: Students Achievements
 <p>“We Love Our Planet” Storytelling Contest 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Top 5 Finalist Award</p>
+<p>• Nathaniel Navin Raj</p>
+<p>(5 Loyalty)</p>
+<p>Merit Award</p>
+<p>• Izz Rayyan Bin Muhammad Taib (6 Resilience)</p>
 </td>
 </tr>
 <tr>
@@ -114,7 +118,7 @@ third_nav_title: Students Achievements
 <p>National Primary Games Creation and Coding Competition 2024 (NPGC3 2024)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Certificate of Participation</p>
 </td>
 </tr>
 <tr>
@@ -122,7 +126,7 @@ third_nav_title: Students Achievements
 <p>IDE2024 Competition IDE Sumobot</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Certificate of Participation</p>
 </td>
 </tr>
 </tbody>
@@ -134,20 +138,6 @@ third_nav_title: Students Achievements
 <col>
 </colgroup>
 <tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>Department</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Competition</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Award</strong>
-</p>
-</th>
-</tr>
 <tr>
 <td rowspan="2" colspan="1">
 <p>Mathematics</p>
