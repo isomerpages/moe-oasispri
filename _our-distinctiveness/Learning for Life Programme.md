@@ -205,23 +205,22 @@ understanding.</p>
 <p>This project clinched the Silver Award in the National Cyberwellness Advocacy
 Challenge 2024.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/LLP/area1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/LLP/area2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/LLP/area3.jpg">
+</div>
+<h5><strong>P5 &amp; P6 Sub-area 2 Prefects Changemaker Project 2023 - Trash To Treasure</strong></h5>
+<h4></h4>
 <p></p>
 <p></p>
-<p>
-<br>
-</p>
-<h5>P4 Prefects Changemaker Project - Teachers’ Day Concert</h5>
-<p>Our P4 prefects exhibited their critical and creative thinking skills
-as they took charge of the Teachers’ Day Concert to show gratitude to their
-teachers. They took ownership to create their concert items collaboratively
-in their respective teams as they sharpened their leadership skills along
-the project. They showcased innovative mindsets to present creative performances.
-The project encouraged planning and decision-making as a team. Despite
-limited resources and time, the P4 prefects were able to put up an amazing
-concert successfully to celebrate the joyous day!</p>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:100%" height="auto" width="100%" src="/images/cce_photo14.jpg">
 </div>
