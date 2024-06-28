@@ -6,7 +6,23 @@ description: ""
 third_nav_title: Staff Achievements
 ---
 
+### 2023 National Day Awards
 
+The Commendation Medal is awarded to a person who has distinguished himself through commendable performance and conduct, or significant efficiency, competence and devotion to duty.
+
+The Long Service Medal is awarded to a person who is of irreproachable character and whom the President is satisfied has completed at least 25 years service in the service of the Government.
+
+<b><center>The Commendation Medal</center></b>
+<center>Mrs Lee Shi Lin </center>
+<center>Mr Ng Chu Siu </center>
+<center>Ms Tan Soo Cheng </center>
+
+<b><center>The Efficiency Medal</center></b>
+<center>Mdm Noorwanis Binte Amir Noordin </center>
+
+<b><center>The Long Service Medal</center></b>
+<center>Mrs Tan-Koh Peck Lian </center>
+<center>Mdm Ng Tze Ling </center>
 
 ### MOE Service Excellence Award (MSEA)
 
