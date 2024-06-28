@@ -46,20 +46,30 @@ Ms Nur Liyana Saine <br>
 Ms Yan Xiaojing</center><p></p>
 
 <b><center>Silver Award </center></b>
-<p></p><center>Mdm Abdul Majeeth Salimdeen Razia Sulthana <br>
-Mdm Ahadrina Supri <br>
-Ms Cassandra Amanda Goh <br>
-Mrs Lee Shi Lin <br>
-Ms Chia Wan Yi <br>
-Mdm Florence Ngu <br>
-Mdm Ho Huan Xin <br>
-Ms le Yayah Farida <br>
-Ms Stacey Koh <br>
-Ms Pauline Ng <br>
-Ms Norizah Binte Mohamed Akib <br>
-Mdm Nur Afiqa Binte Sauidi <br>
-Mdm Safiah Binte Arshad <br>
-Mdm Soh Hoon Suu <br>
-Mdm Judy Tng <br>
-Ms Yim Wai Peng <br>
-Ms Si Xu Vongsuvanish</center><p></p></center>
+<p></p><center>Mrs Melissa Wee <br>
+Mdm Ng Tze Ling <br>
+Ms Tan Li Na <br>
+Ms Tan Soo Cheng <br>
+Ms Tay Xiulan <br>
+Mr Christopher Cheng <br>
+Mr Muhd Shazwan Bin Shahir <br>
+Mdm Margaret Lee <br>
+Ms Nirmawati Abdul Rahman <br>
+Mr Jonathan Boey <br>
+Mrs Norhazlinda Sham <br>
+Mr Elwirandi Zakiuddin Tan <br>
+Mdm Alan Tai <br>
+Ms Ho Wan Yu <br>
+Mr Chan Yong Yan <br>
+Mrs Jaslyn Heng <br>
+Mrs Wang Hui Shan	<br>
+Ms Joyce Chew	<br>
+Mr Mohd Aizad Bin Mohtar <br>
+Ms Ann Lee Guat Chiu <br>
+Ms Yusneeta Binte Md Yusof <br>
+Mr David Lye <br>
+Mdm Hafizah Mokhtar	<br>
+Ms Nursyaza Binti Muhd Abbas Lim <br>
+Ms Tay Bee Li <br>
+Mdm Eveline Goh	<br>
+Mdm Lee Chor Yong</center><p></p></center>
