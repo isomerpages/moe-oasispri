@@ -31,7 +31,6 @@ variant: tiptap
 <p>3rd Text Recital Competition
 <br>for Primary &amp; Secondary Schools
 <br>
-<br>
 <br>The Chinese Language Moo-O Awards 2020
 <br>
 <br>“2020, Our Story of the Battling the Pandemic” National Writing Competition</p>
@@ -43,7 +42,9 @@ variant: tiptap
 <br>
 <br>Merit Award (1)
 <br>
-<br>Merit Award (1)</p>
+<br>
+</p>
+<p>Merit Award (1)</p>
 </td>
 </tr>
 <tr>
