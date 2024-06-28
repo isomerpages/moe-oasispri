@@ -35,8 +35,10 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Junior Girls Division (Top Rope) 5th placing Junior Boys Division (Top
-Rope) 6th placing Novice Division Gold Achievement Pins Silver Achievement
-Pins</p>
+Rope) 6th placing</p>
+<p>Novice Division</p>
+<p>Gold Achievement Pins</p>
+<p>Silver Achievement Pins</p>
 </td>
 </tr>
 <tr>
@@ -52,7 +54,8 @@ Pins</p>
 <p>NSG Hockey Senior Boys</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National Runners-Up Sportsmanship Award</p>
+<p>National Runners-Up</p>
+<p>Sportsmanship Award</p>
 </td>
 </tr>
 <tr>
@@ -84,7 +87,8 @@ Pins</p>
 <p>Scouts</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National Cub Scouts Gang Show Bronze Award</p>
+<p>National Cub Scouts Gang Show</p>
+<p>Bronze Award</p>
 </td>
 </tr>
 <tr>
@@ -92,8 +96,11 @@ Pins</p>
 <p>NSG Table Tennis</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Junior Boys Singles Tier 4 (1st) Junior Boys Doubles Tier 4 (1st) Sportsmanship
-Award</p>
+<p>Junior Boys Singles</p>
+<p>Tier 4 (1st)</p>
+<p>Junior Boys Doubles</p>
+<p>Tier 4 (1st)</p>
+<p>Sportsmanship Award</p>
 </td>
 </tr>
 <tr>
@@ -101,7 +108,9 @@ Award</p>
 <p>NSG Badminton</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sportsmanship Award Junior Division Tier 1 (3rd)</p>
+<p>Sportsmanship Award</p>
+<p>Junior Division</p>
+<p>Tier 1 (3rd)</p>
 </td>
 </tr>
 <tr>
@@ -130,8 +139,6 @@ Award</p>
 </tr>
 </tbody>
 </table>
-<hr>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -140,21 +147,7 @@ Award</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p><strong>Department</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Competition</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Award</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="4" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -185,20 +178,10 @@ Award</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Primary Science Olympiad
-<br>
-</p>
+<p>Singapore Primary Science Olympiad</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Merit Award (7)
@@ -207,5 +190,4 @@ Award</p>
 </tr>
 </tbody>
 </table>
-<hr>
 <p></p>
