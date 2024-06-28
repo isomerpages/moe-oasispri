@@ -82,13 +82,7 @@ pen notes of gratitude to the cleaners for their hard work in washing and
 keeping the toilets clean every day. They will also write thank you notes,
 which are framed and presented to the school cleaners.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/VIA/P2_VIA_1.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/VIA/P2_VIA_2.jpg">
-</div>
 <p></p>
 <p></p>
 <h5>P3 VIA - Cyber Champ</h5>
