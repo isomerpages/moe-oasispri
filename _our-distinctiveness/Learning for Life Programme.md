@@ -257,7 +257,7 @@ Movement 2023.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/LLP/area2e.jpg">
 </div>
-<h5>P5 &amp; P6 Sub-area 3 Prefects Changemaker Project - A Healthier Me!</h5>
+<h5><strong>P5 &amp; P6 Sub-area 3 Prefects Changemaker Project - A Healthier Me!</strong></h5>
 <p>Our Sub-area 3 Holistic Wellbeing prefects realised that creating awareness
 in all our students on the importance of healthy diet with lower sugar
 intake is important, as we need to help students develop good dietary habits
