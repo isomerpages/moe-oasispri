@@ -105,8 +105,7 @@ decision making.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ict.png">
 </div>
-<p><strong>Oasis Cyber Pals</strong>
-</p>
+<h4><strong>Oasis Cyber Pals</strong></h4>
 <p>Our Lifelong Learning Programme, Lead With A Heart, Changemakers For The
 Future, focuses on building the character of the students through harnessing
 leadership qualities in every child. The ICT Department provides training
@@ -117,8 +116,7 @@ how they can assist the teacher to set up ICT equipment in the classroom.
 They also learn how to do simple trouble shooting skills. Through the training,
 they develop confidence in managing ICT-related tasks and build their advocacy
 skills to positively influence their peers to observe good netiquette online.</p>
-<p><strong>Innovation Journey</strong>
-</p>
+<h4><strong>Innovation Journey</strong></h4>
 <p>As our students navigate the VUCA landscape, the need to possess the relevant
 mindset and skills in the domains of problem solving, collaboration and
 technological literacy become increasingly important.</p>
