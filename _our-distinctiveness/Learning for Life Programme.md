@@ -4,7 +4,7 @@ permalink: /our-distinctiveness/learning-for-life-programme/
 description: ""
 variant: tiptap
 ---
-<h4>Learning For Life Programme - ‘Lead With A Heart, Changemakers For The Future’</h4>
+<h4><strong>Learning For Life Programme - ‘Lead With A Heart, Changemakers For The Future’</strong></h4>
 <p>Oasis Primary School leverages on ‘Lead with a Heart, Changemakers for
 The Future’ to live out its mission. ‘Lead with a Heart, Changemakers for
 The Future’ - Our learning for life programme (LLP) focuses on building
@@ -28,18 +28,14 @@ lead with a heart guided by the school values of Respect, Responsibility,
 Resilience, Integrity, Care and Harmony (R3ICH values). Through the student’s
 initiated projects and other purposefully designed activities, our students
 learn to be Active Contributor and Concerned Citizens.</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP.png">
 </div>
-<h5>Start It Right! Programme</h5>
-<p>Oasians welcomed 2022 with our signature programme, Start It Right! Each
-programme was designed to meet the needs of each level. The objectives
-of these programmes were</p>
-<ul>
+<h5><strong>Start It Right! Programme</strong></h5>
+<p>Each year, Oasians welcome the new school year with our signature programme,
+Start It Right! Each module within Start It Right! was designed to meet
+the needs of each level. The objectives of these programmes were</p>
+<ul data-tight="true" class="tight">
 <li>
 <p>Self-management</p>
 </li>
@@ -53,7 +49,7 @@ of these programmes were</p>
 <p>Safe and Conducive Learning Environment</p>
 </li>
 <li>
-<p>School Wide Positive Behaviour&nbsp;</p>
+<p>School Wide Positive Behaviour</p>
 </li>
 </ul>
 <p>The Year Heads gave a Zoom talk for the respective levels where they welcomed
@@ -62,11 +58,11 @@ with their form teachers, the students planned their S.M.A.R.T goals and
 set targets for their SHINE@Oasis. Besides that, the students also decorated
 their classrooms together.</p>
 <p>The students enjoyed the programme tremendously. They looked forward to
-school and were ready for 2022.</p>
+school and were ready for the new year.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP2.png">
 </div>
-<h5>End It Well! Programme</h5>
+<h5><strong>End It Well! Programme</strong></h5>
 <p>The school was full of bustle and excitement on the second last day of
 school. All students from the six levels participated in ‘End It Well!’
 Programme and tremendously enjoyed themselves. During the ‘Sharpen the
@@ -87,7 +83,7 @@ that ended well.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP3.png">
 </div>
-<h5>TLiM Lessons &amp; TLiM Place-Based Learning</h5>
+<h5><strong>TLiM Lessons &amp; TLiM Place-Based Learning</strong></h5>
 <p>To develop Tier 1 self-leadership in all students, the school engages
 students in the learning of 7 Habits through The Leader In Me (TLiM) lessons.
 TLiM empowers students with leadership and life skills they need to thrive
