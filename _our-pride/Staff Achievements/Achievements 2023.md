@@ -17,10 +17,11 @@ The Long Service Medal is awarded to a person who is of irreproachable character
 <center>Ms Tan Soo Cheng</center>
 
 <b><center>The Efficiency Medal</center></b>
-<center>Mdm Noorwanis Binte Amir Noordin</center>
+<p></p><center>Mdm Noorwanis Binte Amir Noordin <br>
 
 <b><center>The Long Service Medal</center></b>
-<center>Mrs Tan-Koh Peck Lian</center><center>Mdm Ng Tze Ling</center>
+<p></p><center>Mrs Tan-Koh Peck Lian <br>
+Mdm Ng Tze Ling</center><p></p>
 
 ### MOE Service Excellence Award (MSEA)
 
@@ -57,4 +58,4 @@ Mdm Safiah Binte Arshad <br>
 Mdm Soh Hoon Suu <br>
 Mdm Judy Tng <br>
 Ms Yim Wai Peng <br>
-Ms Si Xu Vongsuvanish</center><p></p>
+Ms Si Xu Vongsuvanish</center><p></p></center>
