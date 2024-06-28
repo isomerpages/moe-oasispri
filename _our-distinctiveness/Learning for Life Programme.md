@@ -217,13 +217,31 @@ Challenge 2024.</p>
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/LLP/area3.jpg">
 </div>
 <h5><strong>P5 &amp; P6 Sub-area 2 Prefects Changemaker Project 2023 - Trash To Treasure</strong></h5>
-<h4></h4>
+<p>Our sub-area 2 prefects noticed that every year, old or unwanted clothing
+will be sorted out to be discarded. When they embarked on their upcycling
+project during the June holiday, excess and unwanted clothes was a common
+sight in their homes. Therefore, in order to reduce wastage and come out
+with an upcycled product that reduces burden on the environment, the team
+decided to advocate on upcycling t-shirts among the various ideas they
+had.</p>
+<p>Besides upcycling old t-shirts into t-shirt bags, the t-shirts can also
+be upcycled into pillows and cushions using similar method. Such upcycling
+efforts serve to help users reduce wastage, reduce harmful effects on the
+environment yet at the same time, bring functionality.</p>
+<p>The prefects decided to create instructional video to teach their schoolmates
+how to upcycle old t-shirts, and hold level competitions to motivate their
+peers to start upcycling.</p>
+<p>This helped students increase their awareness and encouraged them to take
+positive steps in upcycling. Parents were very supportive of the project
+and many of them worked together with their children to create upcycled
+items to participate in the level competition.</p>
+<p>The sub-area 2 prefects also outreached to neighbouring pre-schools to
+teach the pre-schoolers how they can upcycle their old t-shirts.</p>
+<p>This project clinched the Silver Award in the National Youth Upcycling
+Movement 2023.</p>
 <p></p>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/cce_photo14.jpg">
-</div>
 <h5>P5 &amp; P6 Sub-area 1 Prefects Changemaker Project - Burst The Bubbles!</h5>
 <p>Technology becomes part of our lives as society progresses and people
 are exposed to real and unreal information every day. This motivates the
