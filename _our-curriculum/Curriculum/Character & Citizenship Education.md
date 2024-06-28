@@ -74,7 +74,7 @@ issued to classes to reaffirm the students’ effort.</p>
 </div>
 <h5><strong>P2 VIA - Happy Toilet</strong></h5>
 <p>‘Happy Toilet’, our VIA programme for Primary 2 aims to nurture socially
-responsible students who practise good toilet habits with Integrity . Students
+responsible students who practise good toilet habits with Integrity. Students
 are ‘caught doing right’, organised with the intention of encouraging and
 affirming them.</p>
 <p>In collaboration with the Student Development Team, all P2 students will
