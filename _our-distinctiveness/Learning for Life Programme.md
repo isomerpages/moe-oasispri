@@ -302,9 +302,8 @@ Change - Be The Change competition.</p>
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/LLP/area_3f.jpg">
 </div>
 <h5><strong>Achievements</strong><br></h5>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -318,9 +317,29 @@ Change - Be The Change competition.</p>
 <p><strong>Event</strong>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p><strong>Award</strong>
-</p>
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>14<sup>th</sup>&nbsp;Design For Change Singapore Challenge 2023</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Cyberwellness Advocacy Challenge</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Youth Upcycling Movement</p>
 </td>
 </tr>
 <tr>
@@ -328,10 +347,7 @@ Change - Be The Change competition.</p>
 <p>2022</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>13<sup>th</sup> Design For Change Singapore Challenge 2022</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Invitation to present at 13th Be The Change Celebration (Upcycling Project)</p>
+<p>13<sup>th</sup>&nbsp;Design For Change Singapore Challenge 2022</p>
 </td>
 </tr>
 <tr>
@@ -341,9 +357,6 @@ Change - Be The Change competition.</p>
 <td rowspan="1" colspan="1">
 <p>National Cyberwellness Advocacy Challenge</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Silver Award (1)</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -352,19 +365,13 @@ Change - Be The Change competition.</p>
 <td rowspan="1" colspan="1">
 <p>National Youth Upcycling Movement</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Silver Award (1)</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>2021</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>12<sup>th</sup> Design For Change Singapore Challenge</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Top 3 Award</p>
+<p>12<sup>th</sup>&nbsp;Design For Change Singapore Challenge</p>
 </td>
 </tr>
 <tr>
@@ -374,9 +381,6 @@ Change - Be The Change competition.</p>
 <td rowspan="1" colspan="1">
 <p>National Cyberwellness Advocacy Challenge</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Silver Award</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -384,9 +388,6 @@ Change - Be The Change competition.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>National Youth Upcycling Movement</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Gold Award</p>
 </td>
 </tr>
 <tr>
@@ -394,11 +395,8 @@ Change - Be The Change competition.</p>
 <p>2020</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>11<sup>th</sup> Design For Change Singapore Challenge (COVID related projects
-category)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Special Prize</p>
+<p>11<sup>th</sup>&nbsp;Design For Change Singapore Challenge (COVID related
+projects category)</p>
 </td>
 </tr>
 <tr>
@@ -406,10 +404,7 @@ category)</p>
 <p>2019</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>10<sup>th</sup> Be The Change Celebration</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Participation</p>
+<p>10<sup>th</sup>&nbsp;Be The Change Celebration</p>
 </td>
 </tr>
 <tr>
@@ -418,9 +413,6 @@ category)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>LOO (Let’s Observe Ourselves) Award</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Platinum STAR Schools Award</p>
 </td>
 </tr>
 </tbody>
