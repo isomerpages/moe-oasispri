@@ -5,14 +5,16 @@ variant: markdown
 description: ""
 third_nav_title: Staff Achievements
 ---
-##### **The 7th International Conference of Teaching CL as a Second language cum the 11th International Forum on CL Education**
-![](/images/Staff%20Achievements%202023/MTL2023_slide1.jpg)
+**The 7th&nbsp;International Conference of Teaching Chinese Language as a Second Language cum the 11th&nbsp;International Forum on Chinese Language Education**
 
-##### **MTL Symposium**
-![](/images/Staff%20Achievements%202023/MTL2023_slide2.jpg)
+The 7th International Conference of Teaching Chinese Language as a Second Language cum the 11th International Forum on Chinese Language Education took place from 5th&nbsp;to 6th&nbsp;Sept 2023. It is a flagship conference hosted by the National Institute of Education (NIE), Nanyang Technological University, Singapore Center for Chinese Language (SCCL) and the Singapore Chinese Teachers' Union (SCTU), Singapore. With the advice and guidance of MTL HOD Mdm Ng Tze Ling, our Senior Teachers Ms Christine Huang Rui and Mdm Cheng Yingying, presented&nbsp;**“Using Differentiated Success Criteria to Assess Students’ Writing to Enhance Their Writing Abilities**” at the conference.
 
-##### **ML Sharing MLCS**
-![](/images/Staff%20Achievements%202023/MTL2023_slide3.jpg)
+
+ 
+
+
+
+
 
 ### **2023 National Day Awards**
 
