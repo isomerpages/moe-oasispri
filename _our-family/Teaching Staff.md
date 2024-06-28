@@ -311,7 +311,7 @@ variant: tiptap
 <p>Ms Afiqah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Wang Yanhua, Mr Ivan Ho</p>
+<p>Mdm Wang Yanhua</p>
 </td>
 </tr>
 <tr>
