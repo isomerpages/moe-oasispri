@@ -129,15 +129,6 @@ third_nav_title: Students Achievements
 <p>Certificate of Participation</p>
 </td>
 </tr>
-</tbody>
-</table>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td rowspan="2" colspan="1">
 <p>Mathematics</p>
