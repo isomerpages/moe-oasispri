@@ -355,7 +355,7 @@ variant: tiptap
 <p>Mdm Lyvia Soh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Yong Quan</p>
+<p>Mr Ivan Ho</p>
 </td>
 </tr>
 </tbody>
