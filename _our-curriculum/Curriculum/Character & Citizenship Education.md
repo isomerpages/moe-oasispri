@@ -108,11 +108,17 @@ and they will play an important role as a buddy to our P1 students in the
 first week of the academic year. This includes the preparation of a “Welcome”
 card for their P1 buddy and it is presented to them at recess. They will
 also guide their P1 buddy to buy food and clear their plates after eating.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/VIA/P4_VIA__Be_My_Buddy__1.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/VIA/P4_VIA__Be_My_Buddy__2.jpg">
+</div>
 <p></p>
-<p>
-<br>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/VIA/P4_VIA_Be_My_Buddy_3.jpg">
+</div>
 <p>
 <br>
 </p>
