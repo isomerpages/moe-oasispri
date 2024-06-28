@@ -149,13 +149,13 @@ efforts undertaken by Singapore to promote environmental sustainability.</p>
 in nature, students will use the Padlet platform to document their learning
 process which involves making bags through upcycling. They will use old
 T-shirts to design and create a tote bag.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/VIA/P5_VIA_1.jpg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VIA/P5_VIA_2.jpg">
+</div>
 <p>
 <br>
 </p>
