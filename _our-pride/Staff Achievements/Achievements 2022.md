@@ -5,7 +5,6 @@ variant: markdown
 description: ""
 third_nav_title: Staff Achievements
 ---
-
 ### 2022 National Day Awards
 
 The Commendation Medal is awarded to a person who has distinguished himself through commendable performance and conduct, or significant efficiency, competence and devotion to duty.
@@ -25,4 +24,3 @@ The Long Service Medal is awarded to a person who is of irreproachable character
 <center>Mr Alan Mui </center>
 <center>Ms Beryl Ng </center>
 <center>Ms Tan Li Na </center>
-
