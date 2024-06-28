@@ -22,6 +22,197 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
+<p><strong>Achievements (2024)</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>EVENT</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>AWARD</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SYF Arts Presentation - Guzheng Ensemble</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Certificate of Accomplishment</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SYF Arts Presentation - Guitar Ensemble</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Certificate of Accomplishment</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Primary Schools Sport Climbing Championships (NPSSCC) 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Junior Girls Division (Speed)</u></strong>
+</p>
+<p><strong>8<sup>th</sup> placing</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong><u>Junior Boys Division (Speed)</u></strong>
+</p>
+<p><strong>4<sup>th</sup> placing</strong>
+</p>
+<p></p>
+<p><strong><u>Senior Boys Division (Speed)</u></strong>
+</p>
+<p><strong>4<sup>th</sup> placing</strong>
+</p>
+<p><strong>8<sup>th</sup> placing</strong>
+</p>
+<p></p>
+<p><strong><u>Junior Girls Division (Bouldering)</u></strong>
+</p>
+<p><strong>7<sup>th</sup> placing</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong><u>Junior Boys Division (Bouldering)</u></strong>
+</p>
+<p><strong>6<sup>th</sup> placing</strong>
+</p>
+<p></p>
+<p><strong><u>Junior Boys Division (Top Rope)</u></strong>
+</p>
+<p><strong>4<sup>th</sup> placing</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong><u>Novice Division</u></strong>
+</p>
+<p><strong>Silver Achievement Pins</strong>
+</p>
+<p></p>
+<p><strong>Bronze Achievement Pins</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024 NSG Hockey</p>
+<p>(Senior Boys)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Tier 1</u></strong>
+</p>
+<p><strong>3<sup>rd</sup> Runners Up</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024 Raffles Institution Hockey Carnival - P5s</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Champions</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024 SYF Arts Presentation - Contemporary Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Certificate of Distinction</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024 D Show (Dance Exchange) @ Yu Neng Primary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Participation</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024 SYF Celebrations @ Gardens by the Bay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Participation</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024 Public Service Week (PSW) Opening Event @ ITE AMK</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Participation</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P6 Senior Sixers Cub Scouts</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>AKELA AWARD</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>IDE2024 Competition</p>
+<p>IDE Sumobot</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Certificate of Participation</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Primary Games Creation and Coding Competition 2024</p>
+<p>(NPGC3 2024)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Certificate of Participation</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CDL and NLB’s My Tree House “We Love Our Planet” Storytelling Contest
+2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Top 5 Finalist Award</strong>
+</p>
+<p></p>
+<p><strong>Merit Award</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
 <p><strong>Achievements (2023)</strong>
 </p>
 </th>

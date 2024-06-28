@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Staff Achievements
 ---
-<h4>Reimagining Pedagogy International Conference 2024</h4>
+<h4><strong>Reimagining Pedagogy International Conference 2024</strong></h4>
 <p>The Redesigning Pedagogy International Conference (RPIC), which took place
 from 28 May to 30 May 2024, is a flagship conference hosted by the National
 Institute of Education (NIE), Nanyang Technological University, Singapore.
@@ -17,6 +17,6 @@ Rui, Mrs Norhazlinda Sham and Mdm Liyana for your commitment to educational
 excellence and for your contributions in line with the conference’s theme
 of “Growing future-ready teachers and learners”!</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Math/rpic2024.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math/pic.jpg">
 </div>
 <p></p>

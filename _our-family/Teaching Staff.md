@@ -44,7 +44,7 @@ variant: tiptap
 <p>Ms Chia Wanyi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>Mrs Rosenna Seah</p>
 </td>
 </tr>
 <tr>
@@ -300,7 +300,7 @@ variant: tiptap
 <p>Mdm Wilsa Dewi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Rosenna Seah</p>
+<p>Mr Ng Yong Quan</p>
 </td>
 </tr>
 <tr>
@@ -311,7 +311,7 @@ variant: tiptap
 <p>Ms Afiqah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Wang Yanhua, Mr Ivan Ho</p>
+<p>Mdm Wang Yanhua</p>
 </td>
 </tr>
 <tr>
@@ -355,7 +355,7 @@ variant: tiptap
 <p>Mdm Lyvia Soh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Yong Quan</p>
+<p>Mr Ivan Ho</p>
 </td>
 </tr>
 </tbody>
