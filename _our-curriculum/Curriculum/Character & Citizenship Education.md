@@ -76,25 +76,21 @@ issued to classes to reaffirm the students’ effort.</p>
 <p>‘Happy Toilet’, our VIA programme for Primary 2 aims to nurture socially
 responsible students who practise good toilet habits with Integrity . Students
 are ‘caught doing right’, organised with the intention of encouraging and
-affirming them. A checklist is also displayed in the toilet to remind students
-to practise good toilet habits such as flushing the toilets after use and
-washing their hands with soap in the basin.</p>
+affirming them.</p>
 <p>In collaboration with the Student Development Team, all P2 students will
 pen notes of gratitude to the cleaners for their hard work in washing and
 keeping the toilets clean every day. They will also write thank you notes,
 which are framed and presented to the school cleaners.</p>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/p2viaa.PNG">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/VIA/P2_VIA_1.jpg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/p2viab.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/VIA/P2_VIA_2.jpg">
 </div>
+<p></p>
+<p></p>
 <h5>P3 VIA - Cyber Champ</h5>
 <p>With students’ wellbeing in mind, the P3 VIA programme titled ‘Cyber Champ’
 works towards promoting good habits in using technology and showing respect
