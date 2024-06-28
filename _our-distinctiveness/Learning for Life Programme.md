@@ -191,10 +191,22 @@ concert successfully to celebrate the joyous day!</p>
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/LLP/changemaker3.jpg">
 </div>
 <h5><strong>P5 &amp; P6 Sub-area 1 Prefects Changemaker Project 2023 - Fake or Real</strong></h5>
-<h5></h5>
-<p>
-<br>
-</p>
+<p>Technology becomes part of our lives as society progresses and people
+are exposed to real and unreal information every day. This motivates the
+P5 &amp; P6 Prefects in wanting to help others to learn about how to avoid
+unreal information online. The team gave pre-assembly talks and created
+a toolkit with online game to educate fellow schoolmates. Through recess
+activity, the toolkit was launched to P3, 4 and 6 students. The toolkit
+comprised of animated videos which provided information on how students
+can spot fake news, and an interactive quiz entitled 'The Fact or Fake
+Game Show’ created using Blooket. The quiz was conducted to give opportunities
+for participating students to apply what they have learnt and test their
+understanding.</p>
+<p>This project clinched the Silver Award in the National Cyberwellness Advocacy
+Challenge 2024.</p>
+<p></p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:100%" height="auto" width="100%" src="/images/cce_photo13a.PNG">
 </div>
