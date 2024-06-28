@@ -102,33 +102,23 @@ board games for play at recess.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/VIA/P3_VIA_3.jpg">
 </div>
-<p>
-<br>
-</p>
-<h5>P4 VIA - By My Friend</h5>
+<h5><strong>P4 VIA - Be My Friend (Part 1 - Be My Buddy &amp; Part 2 - The Friendship Project)</strong></h5>
 <p>One of the VIA programmes for Primary 4 students is titled ‘Be My Buddy’,
 and they will play an important role as a buddy to our P1 students in the
 first week of the academic year. This includes the preparation of a “Welcome”
 card for their P1 buddy and it is presented to them at recess. They will
 also guide their P1 buddy to buy food and clear their plates after eating.</p>
+<p></p>
+<p></p>
 <p>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/p4viaa.png">
-</div>
 <p>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/p4viab.png">
-</div>
 <p>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/p4viac.png">
-</div>
 <p>Another VIA programme for our Primary 4 students is titled “Friendship
 Project” and this marks the fifth year of our collaboration with Pathlight
 School. Through our school’s English literature programme, P4 Oasians have
