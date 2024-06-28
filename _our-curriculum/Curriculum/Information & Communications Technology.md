@@ -10,12 +10,11 @@ variant: tiptap
 </div>
 <p><strong>A community of self-directed learners and future-ready, responsible digital citizens</strong>
 </p>
-<h3>Department Goals</h3>
+<h3><strong>Department Goals</strong></h3>
 <p>To develop proficient and responsible users of technology through a quality
 ICT-based total curriculum and learner-centric environment.</p>
-<h3>Our Approach</h3>
-<p><strong>Building an ICT Enriched Learning Environment</strong>
-</p>
+<h3><strong>Our Approach</strong></h3>
+<h4><strong>Building an ICT Enriched Learning Environment</strong></h4>
 <p>Undergirding quality learning with ICT is a set of future-ready, scalable,
 and reliable infrastructure in every school. In addition to 3 computer
 laboratories in the school, full-feature laptops in mobile carts, Chromebooks
@@ -24,8 +23,7 @@ school. The learning environment at Oasis also extends beyond the physical
 one to include the virtual space. Virtual learning spaces open up new opportunities
 for learning and offer rich learning resources and information, allowing
 students to learn beyond the confines of the classrooms and textbooks.</p>
-<p><strong>Engaging Staff in Professional Development</strong>
-</p>
+<h4><strong>Engaging Staff in Professional Development</strong></h4>
 <p>In an increasingly complex and volatile world, our students need to be
 equipped with the skills to navigate, collaborate and connect in the digital
 world.</p>
@@ -35,8 +33,7 @@ Through professional development and mentoring, teachers continually deepen
 their understanding of e-Pedagogy and the effective use of ICT tools. Platforms
 are created for teachers to engage in professional discourse, learn, reflect
 and explore together, deepen their practice and hone their craft.</p>
-<p><strong>Integrating Technology to support Curriculum, Pedagogy and Assessment</strong>
-</p>
+<h4><strong>Integrating Technology to support Curriculum, Pedagogy and Assessment</strong></h4>
 <p>In alignment with MOE ICT Masterplan 4, we aim to innovatively integrate
 ICT usage into curriculum, pedagogy and assessment to deepen subject mastery
 and develop 21st Century Competencies. Learning with technology in Oasis
@@ -50,8 +47,7 @@ school.</p>
 <div class="isomer-image-wrapper">
 <img style="width:100%" height="auto" width="100%" src="/images/Website%20ICT.jpg">
 </div>
-<p><strong>Developing Responsible Users of Technology</strong>
-</p>
+<h4><strong>Developing Responsible Users of Technology</strong></h4>
 <p>The Cyber Wellness (CW) programme in Oasis aims to raise awareness and
 equip students with the understanding of how to behave online and enable
 them take responsibility of their well-being in cyberspace.</p>
@@ -64,17 +60,10 @@ group of students as Cyber Wellness Ambassadors and empower them in promoting
 positive cyber culture in school. They champion cyber wellness through
 various platforms to promote positive online experiences among fellow students.</p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/collage-CWA.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/ICT/CW2_COLLAGE.jpg">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/CWA.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/collage-cw1.jpg">
-</div>
-<h3>Key Programmes</h3>
-<p><strong>Baseline ICT Lessons and Code for Fun</strong>
-</p>
+<h3><strong>Key Programmes</strong></h3>
+<h4><strong>Baseline ICT Lessons and Code for Fun</strong></h4>
 <p>In order to prepare our students to be future-ready leaders, our ICT curriculum
 aims to equip all students with the knowledge, skills and attitudes for
 self-directed and collaborative learning through the effective and responsible
@@ -151,14 +140,10 @@ and the drive to motivate Oasians to innovate.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Hall of Fame (Level 6)
-<br>
-</p>
+<p>Hall of Fame (Level 6)</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>House of Design (Level 7)
-<br>
-</p>
+<p>House of Design (Level 7)</p>
 </th>
 </tr>
 <tr>
