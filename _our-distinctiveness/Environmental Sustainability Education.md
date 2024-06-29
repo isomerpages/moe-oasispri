@@ -11,7 +11,8 @@ education is seamlessly incorporated into our campus infrastructure, curriculum,
 culture and practices, as well as community partnerships. We are dedicated
 to cultivating the future generation of environmental stewards in Oasis
 Primary School.</p>
-<p><a href="https://youtu.be/0JFsOF0ovAs?feature=shared" rel="noopener noreferrer nofollow" target="_blank">Environmental Sustainability Education</a>
-</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/0JFsOF0ovAs?si=S0k9jwo3NmP79p3t"></iframe>
+</div>
 <hr>
 <p></p>
