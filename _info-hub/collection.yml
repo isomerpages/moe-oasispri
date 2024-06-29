@@ -2,6 +2,7 @@ collections:
   info-hub:
     output: true
     order:
+      - School Life/School Hours & Operations.md
       - School Life/Assessment Information.md
       - School Life/.keep
       - Forms & Guides/Student Learning Space (SLS).md
