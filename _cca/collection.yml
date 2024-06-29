@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - Co Curricular Activities.md
-      - Achievements.md
       - CCA Schedule 2024.md
+      - Achievements.md
       - Sports/.keep
       - Sports/Sports.md
       - Sports/Badminton.md
