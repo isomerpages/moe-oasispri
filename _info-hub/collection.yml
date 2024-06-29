@@ -2,6 +2,7 @@ collections:
   info-hub:
     output: true
     order:
+      - Forms & Guides/Parents Gateway.md
       - Forms & Guides/Application Forms.md
       - Forms & Guides/.keep
       - Student Learning Space (SLS).md
