@@ -2,6 +2,7 @@ collections:
   info-hub:
     output: true
     order:
+      - School Life/School Canteen Food Menu.md
       - School Life/School Terms & Holidays.md
       - School Life/School Hours & Operations.md
       - School Life/Assessment Information.md
