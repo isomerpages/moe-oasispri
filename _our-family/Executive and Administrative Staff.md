@@ -16,7 +16,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Administration Manager</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -25,14 +25,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Administration Manager</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Lye Sook Wan</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -40,9 +37,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Operations Manager</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>-</p>
 </td>
@@ -56,7 +50,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Administrative Executive</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -65,14 +59,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Administrative Executive (Adj)</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Tan Siew Hoon</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -81,14 +72,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Corporate Support Officer</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Tan Hui Geok</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="4" colspan="1">
 <p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -97,24 +85,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Operations Support Officer</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Lee Chor Yong</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Operations Support Officer</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Vincent Neui</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Operations Support Officer (Adj)</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Mdm Halimah</p>
 </td>
@@ -134,7 +113,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Desktop Engineer</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -142,9 +121,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Desktop Engineer</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>-</p>
 </td>
