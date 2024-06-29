@@ -15,4 +15,4 @@ The Long Service Medal is awarded to a person who is of irreproachable character
 <center>Ms Tan Li Na</center>
 
 <b><center>The Long Service Medal</center></b>
-<center>Mrs Ong–Chew Lu See</center>
+<center>Mrs Ong-Chew Lu See</center>
