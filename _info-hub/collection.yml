@@ -2,7 +2,6 @@ collections:
   info-hub:
     output: true
     order:
-      - Application Forms.md
       - Highlights.md
       - School Life.md
       - Forms & Guides.md
