@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Forms & Guides/.keep
-      - Application Forms.md
       - Parents Gateway.md
       - Student Learning Space (SLS).md
