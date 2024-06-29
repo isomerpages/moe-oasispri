@@ -13,7 +13,3 @@ The Oasis Awards Day was held on 17 November 2023. It was a joyous occasion fill
 ### Oasis Awards Day 2022
 
 The annual Oasis Awards Day was held on 18 November 2022. This year’s theme, “Together We Celebrate” commemorated the success and achievements of our students through various awards presentations. Our CCA groups ... [Read More ...](https://www.oasispri.moe.edu.sg/ops/highlights/awards-day-2022/)
-
-### Outstanding Youth in Education Award
-
-Congratulations to Mr. Desmond Lim on being selected as one of the recipients for the Outstanding Youth in Education Award (OYEA) 2020! The OYEA ... [Read More ...](https://www.oasispri.moe.edu.sg/ops/highlights/outstanding-youth-in-education-award)
