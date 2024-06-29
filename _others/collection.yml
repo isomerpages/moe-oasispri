@@ -2,7 +2,6 @@ collections:
   others:
     output: true
     order:
-      - Highlights/.keep
       - School Life/.keep
       - School Life/Assessment Information.md
       - School Life/School Hours & Operations.md
