@@ -1,5 +1,5 @@
 collections:
-  our-info-hub:
+  info-hub:
     output: true
     order:
       - Highlights.md
