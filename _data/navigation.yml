@@ -28,6 +28,12 @@ links:
     collection: our-links
   - title: Info Hub
     url: /ops/info-hub/school-life/assessment-information/
-    sublinks: []
+    sublinks:
+      - title: Highlights
+        url: /permalink
+      - title: School Life
+        url: /permalink
+      - title: Forms & Guides
+        url: /permalink
   - title: Moe Kindergarten
     collection: moe-kindergarten
