@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Banner/logo.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Banner/logo.png">
 </div>
 <p>The school crest conjures up a conducive environment, in which our students
 are engaged and challenged in their learning. The encompassing circles
