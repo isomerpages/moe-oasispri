@@ -26,14 +26,5 @@ links:
     collection: our-family
   - title: Our Links
     collection: our-links
-  - title: Info Hub
-    url: /ops/info-hub/school-life/assessment-information/
-    sublinks:
-      - title: Highlights
-        url: /ops/highlights/
-      - title: School Life
-        url: /ops/info-hub/school-life/assessment-information/
-      - title: Forms & Guides
-        url: /ops/info-hub/forms-n-guides/application-forms/
   - title: MOE Kindergarten
     collection: moe-kindergarten
