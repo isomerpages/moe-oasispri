@@ -9,10 +9,6 @@ sections:
   - hero:
       background: /images/hero banner.gif
       url: /contact-us/
-      key_highlights:
-        - title: Info Hub
-          description: ""
-          url: /ops/info-hub/school-life/
       variant: center
   - infopic:
       title: Oasis Virtual Open House 2024
