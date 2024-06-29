@@ -25,7 +25,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Administration Manager</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lye Sook Wan</p>
@@ -41,7 +41,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Operations Manager</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
