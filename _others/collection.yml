@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - School Life/.keep
-      - School Life/School Canteen.md
       - School Life/Sexuality Education.md
