@@ -1,6 +1,6 @@
 ---
-title: Teaching Staff 2024
-permalink: /our-family/teaching-staff-2024/
+title: Teaching Staff
+permalink: /our-family/teaching-staff/
 description: ""
 variant: tiptap
 ---
