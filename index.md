@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Info Hub
           description: ""
-          url: /ops/info-hub/school-life/ss
+          url: /ops/info-hub/school-life/
       variant: center
   - infopic:
       title: Oasis Virtual Open House 2024
