@@ -2,11 +2,11 @@ collections:
   info-hub:
     output: true
     order:
-      - School Life/School Canteen Food Menu.md
-      - School Life/School Terms & Holidays.md
-      - School Life/School Hours & Operations.md
-      - School Life/Assessment Information.md
       - School Life/.keep
+      - School Life/Assessment Information.md
+      - School Life/School Hours & Operations.md
+      - School Life/School Terms & Holidays.md
+      - School Life/School Canteen Food Menu.md
       - Forms & Guides/Student Learning Space (SLS).md
       - Forms & Guides/Parents Gateway.md
       - Forms & Guides/Application Forms.md
