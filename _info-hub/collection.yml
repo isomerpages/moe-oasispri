@@ -1,5 +1,4 @@
 collections:
   info-hub:
     output: true
-    order:
-      - Highlights.md
+    order: []
