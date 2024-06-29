@@ -12,6 +12,6 @@ culture and practices, as well as community partnerships. We are dedicated
 to cultivating the future generation of environmental stewards in Oasis
 Primary School.</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/trQ0yFmWAy4?si=gd50D9OURBeCnz_p"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/0JFsOF0ovAs?si=fGF6h9oVfbpZfX6-"></iframe>
 </div>
 <p></p>
