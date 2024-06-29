@@ -2,6 +2,7 @@ collections:
   info-hub:
     output: true
     order:
+      - School Life/Sexuality Education.md
       - School Life/School Canteen.md
       - School Life/School Bus Service.md
       - School Life/School Bookshop & Uniform.md
