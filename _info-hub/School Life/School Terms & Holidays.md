@@ -2,190 +2,362 @@
 title: School Terms & Holidays
 permalink: /ops/info-hub/school-life/school-terms-n-holidays/
 description: ""
-variant: markdown
+variant: tiptap
 third_nav_title: School Life
 ---
-### School Calendar
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-cly1{text-align:left;vertical-align:middle}
-.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-1wig" colspan="3">Semester 1<br></th>
-  </tr>
-</thead>
+<h3>School Calendar</h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-cly1">Term I<br></td>
-    <td class="tg-cly1" colspan="2">Tue, 2 Jan to Fri, 8 Mar<br></td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Term II<br></td>
-    <td class="tg-cly1" colspan="2">Mon, 18 Mar to Fri, 24 May<br></td>
-  </tr>
-  <tr>
-    <td class="tg-1wig" colspan="3">Semester 2<br></td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Term III<br></td>
-    <td class="tg-cly1" colspan="2">Mon, 24 Jun to Fri, 30 Aug<br></td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Term IV<br></td>
-    <td class="tg-cly1" colspan="2">Mon, 9 Sep to Fri, 15 Nov<br></td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="3">
+<p>Semester 1
+<br>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Term I
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Tue, 2 Jan to Fri, 8 Mar
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Term II
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Mon, 18 Mar to Fri, 24 May
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Semester 2
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Term III
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Mon, 24 Jun to Fri, 30 Aug
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Term IV
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Mon, 9 Sep to Fri, 15 Nov
+<br>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-### School Vacation
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-cly1{text-align:left;vertical-align:middle}
-.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-1wig" colspan="2">Semester 1<br></th>
-  </tr>
-</thead>
+<h3>School Vacation</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-cly1">Between Terms I &amp; II<br></td>
-    <td class="tg-cly1">Sat, 9 Mar to Sun, 17 Mar<br></td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Between Semesters I &amp; II<br></td>
-    <td class="tg-cly1">Sat, 25 May to Sun, 23 Jun<br></td>
-  </tr>
-  <tr>
-    <td class="tg-1wig" colspan="2">Semester 2<br></td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Between Terms III &amp; IV<br></td>
-    <td class="tg-cly1">Sat, 31 Aug to Sun, 8 Sep<br></td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">At End of School Year<br></td>
-    <td class="tg-cly1">Sat, 16 Nov to Tues, 31 Dec<br></td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="2">
+<p>Semester 1
+<br>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Between Terms I &amp; II
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sat, 9 Mar to Sun, 17 Mar
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Between Semesters I &amp; II
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sat, 25 May to Sun, 23 Jun
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Semester 2
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Between Terms III &amp; IV
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sat, 31 Aug to Sun, 8 Sep
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>At End of School Year
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sat, 16 Nov to Tues, 31 Dec
+<br>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-### Scheduled School Holidays
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-y0ep{color:#002D46;text-align:left;vertical-align:middle}
-.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-y24x{color:#002D46;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-1wig">Holiday<br></th>
-    <th class="tg-1wig">Date<br></th>
-  </tr>
-</thead>
+<h3>Scheduled School Holidays</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-y0ep">Youth Day<br></td>
-		<td class="tg-y24x"><span style="background-color:initial">Sun, 30 Jun<br>(The following Mon, 1 Jul will be a school holiday)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-y0ep">-<br></td>
-    <td class="tg-y0ep">-<br></td>
-  </tr>
-  <tr>
-    <td class="tg-y0ep">Teachers’ Day<br></td>
-    <td class="tg-y0ep">Fri, 30 Aug<br></td>
-  </tr>
-  <tr>
-    <td class="tg-y0ep">Children’s Day<br></td>
-    <td class="tg-y0ep">Fri, 4 Oct<br></td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Holiday
+<br>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Date
+<br>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Youth Day
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sun, 30 Jun
+<br>(The following Mon, 1 Jul will be a school holiday)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>-
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teachers’ Day
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fri, 30 Aug
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Children’s Day
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fri, 4 Oct
+<br>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-### Public Holidays
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-67ya{background-color:#FFF;color:#002D46;text-align:left;vertical-align:middle}
-.tg .tg-h1v5{background-color:#FFF;color:#002D46;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-vd2a{background-color:#FFF;color:#002D46;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-h1v5">Holiday<br></th>
-    <th class="tg-h1v5">Date<br></th>
-  </tr>
-</thead>
+<h3>Public Holidays</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-67ya">New Year’s Day<br></td>
-    <td class="tg-67ya">Mon, 1 Jan
-  </td></tr><tr>
-    <td class="tg-67ya" rowspan="2">Chinese New Year<br></td>
-    <td class="tg-67ya">Sat, 10 Feb<br>Sun, 11 Feb
-		<br></td>
-  </tr>
-  <tr>
-    <td class="tg-vd2a"><span style="background-color:initial">(Mon, 12 Feb will be a public holiday and Tues, 13 Feb will be a school holiday and a designated day off-in-lieu. Schools will be closed, including the General Office, Student Care Centres and Kindergarten Care (KCare) Centres.)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-67ya">Good Friday<br></td>
-    <td class="tg-67ya">Fri, 29 Mar<br></td>
-  </tr>
-  <tr>
-    <td class="tg-67ya">Hari Raya Puasa<br></td>
-	<td class="tg-vd2a"><span style="background-color:initial">Wed, 10 Apr</span></td>
-  </tr>
-  <tr>
-    <td class="tg-67ya">Labour Day<br></td>
-    <td class="tg-67ya">Wed, 1 May<br></td>
-  </tr>
-  <tr>
-    <td class="tg-67ya">Vesak Day<br></td>
-    <td class="tg-67ya">Wed, 22 May<br></td>
-  </tr>
-  <tr>
-    <td class="tg-67ya">Hari Raya Haji<br></td>
-    <td class="tg-67ya">Mon, 17 Jun<br></td>
-  </tr>
-  <tr>
-    <td class="tg-67ya">National Day<br></td>
-    <td class="tg-67ya">Fri, 9 Aug<br></td>
-  </tr>
-  <tr>
-    <td class="tg-67ya">Deepavali<br></td>
-		<td class="tg-67ya">Thu, 31 Oct<br></td>
-  </tr>
-  <tr>
-    <td class="tg-67ya">Christmas Day<br></td>
-    <td class="tg-67ya">Wed, 25 Dec</td>
-  </tr>
-	</tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Holiday
+<br>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Date
+<br>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>New Year’s Day
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mon, 1 Jan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Chinese New Year
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sat, 10 Feb
+<br>Sun, 11 Feb
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>(Mon, 12 Feb will be a public holiday and Tues, 13 Feb will be a school
+holiday and a designated day off-in-lieu. Schools will be closed, including
+the General Office, Student Care Centres and Kindergarten Care (KCare)
+Centres.)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Good Friday
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fri, 29 Mar
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hari Raya Puasa
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wed, 10 Apr</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Labour Day
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wed, 1 May
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vesak Day
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wed, 22 May
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hari Raya Haji
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mon, 17 Jun
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Day
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fri, 9 Aug
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Deepavali
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thu, 31 Oct
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Christmas Day
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wed, 25 Dec</p>
+</td>
+</tr>
+</tbody>
 </table>
+<p></p>
