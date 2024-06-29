@@ -100,7 +100,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<hr>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -159,5 +158,4 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<hr>
 <p></p>
