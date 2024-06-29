@@ -2,4 +2,5 @@ collections:
   our-info-hub:
     output: true
     order:
+      - School Life.md
       - Highlights.md
