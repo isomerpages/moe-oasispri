@@ -76,7 +76,7 @@ variant: tiptap
 <p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Hui Geok</p>
+<p>Ms Eveline Goh</p>
 </td>
 </tr>
 <tr>
@@ -84,7 +84,7 @@ variant: tiptap
 <p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Eveline Goh</p>
+<p>Ms Tan Hui Geok</p>
 </td>
 </tr>
 <tr>
