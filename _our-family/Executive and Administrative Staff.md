@@ -109,7 +109,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<h4><strong>Support Team</strong></h4>
+<h4><strong>School Support Team</strong></h4>
 </td>
 </tr>
 <tr>
