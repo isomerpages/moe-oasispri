@@ -11,8 +11,9 @@ variant: tiptap
 <p><strong>SHINE Oasians: Serve with a Heart and Inspire Everyone through words and actions</strong>
 </p>
 <h3><strong>Department Goals</strong></h3>
-<p><strong>Nurture our students to be good individuals and contributing citizens of Singapore through the teaching of values and the 7 habits of The Leader in Me (TLiM) programme, as well as developing of Socio-Emotional competencies.</strong>
-</p>
+<p>Nurture our students to be good individuals and contributing citizens
+of Singapore through the teaching of values and the 7 habits of The Leader
+in Me (TLiM) programme, as well as developing of Socio-Emotional competencies.</p>
 <h3><strong>Our Approach</strong></h3>
 <h5><strong>Character Development</strong></h5>
 <p>The CCE department customises and delivers the different components of
