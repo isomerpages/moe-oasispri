@@ -162,7 +162,7 @@ variant: tiptap
 <p>Lab Assistant</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Cheliboni</p>
+<p>Mdm Satyavathi</p>
 </td>
 </tr>
 <tr>
