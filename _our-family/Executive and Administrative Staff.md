@@ -100,6 +100,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
