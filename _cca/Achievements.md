@@ -41,8 +41,7 @@ variant: tiptap
 <p>SYF Arts Presentation - Guzheng Ensemble</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Certificate of Accomplishment</strong>
-</p>
+<p>Certificate of Accomplishment</p>
 </td>
 </tr>
 <tr>
@@ -50,8 +49,7 @@ variant: tiptap
 <p>SYF Arts Presentation - Guitar Ensemble</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Certificate of Accomplishment</strong>
-</p>
+<p>Certificate of Accomplishment</p>
 </td>
 </tr>
 <tr>
@@ -61,46 +59,36 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong><u>Junior Girls Division (Speed)</u></strong>
 </p>
-<p><strong>8<sup>th</sup> placing</strong>
-</p>
+<p>8<sup>th</sup> placing</p>
 <p><strong>&nbsp;</strong>
 </p>
 <p><strong><u>Junior Boys Division (Speed)</u></strong>
 </p>
-<p><strong>4<sup>th</sup> placing</strong>
-</p>
+<p>4<sup>th</sup> placing</p>
 <p></p>
 <p><strong><u>Senior Boys Division (Speed)</u></strong>
 </p>
-<p><strong>4<sup>th</sup> placing</strong>
-</p>
-<p><strong>8<sup>th</sup> placing</strong>
-</p>
+<p>4<sup>th</sup> placing</p>
+<p>8<sup>th</sup> placing</p>
 <p></p>
 <p><strong><u>Junior Girls Division (Bouldering)</u></strong>
 </p>
-<p><strong>7<sup>th</sup> placing</strong>
-</p>
+<p>7<sup>th</sup> placing</p>
 <p><strong>&nbsp;</strong>
 </p>
 <p><strong><u>Junior Boys Division (Bouldering)</u></strong>
 </p>
-<p><strong>6<sup>th</sup> placing</strong>
-</p>
+<p>6<sup>th</sup> placing</p>
 <p></p>
 <p><strong><u>Junior Boys Division (Top Rope)</u></strong>
 </p>
-<p><strong>4<sup>th</sup> placing</strong>
-</p>
+<p>4<sup>th</sup> placing</p>
 <p><strong>&nbsp;</strong>
 </p>
 <p><strong><u>Novice Division</u></strong>
 </p>
-<p><strong>Silver Achievement Pins</strong>
-</p>
-<p></p>
-<p><strong>Bronze Achievement Pins</strong>
-</p>
+<p>Silver Achievement Pins</p>
+<p>Bronze Achievement Pins</p>
 </td>
 </tr>
 <tr>
@@ -111,8 +99,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong><u>Tier 1</u></strong>
 </p>
-<p><strong>3<sup>rd</sup> Runners Up</strong>
-</p>
+<p>3<sup>rd</sup> Runners Up</p>
 </td>
 </tr>
 <tr>
@@ -120,8 +107,7 @@ variant: tiptap
 <p>2024 Raffles Institution Hockey Carnival - P5s</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Champions</strong>
-</p>
+<p>Champions</p>
 </td>
 </tr>
 <tr>
@@ -129,8 +115,7 @@ variant: tiptap
 <p>2024 SYF Arts Presentation - Contemporary Dance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Certificate of Distinction</strong>
-</p>
+<p>Certificate of Distinction</p>
 </td>
 </tr>
 <tr>
@@ -138,8 +123,7 @@ variant: tiptap
 <p>2024 D Show (Dance Exchange) @ Yu Neng Primary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Participation</strong>
-</p>
+<p>Participation</p>
 </td>
 </tr>
 <tr>
@@ -147,8 +131,7 @@ variant: tiptap
 <p>2024 SYF Celebrations @ Gardens by the Bay</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Participation</strong>
-</p>
+<p>Participation</p>
 </td>
 </tr>
 <tr>
@@ -156,8 +139,7 @@ variant: tiptap
 <p>2024 Public Service Week (PSW) Opening Event @ ITE AMK</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Participation</strong>
-</p>
+<p>Participation</p>
 </td>
 </tr>
 <tr>
@@ -165,8 +147,7 @@ variant: tiptap
 <p>P6 Senior Sixers Cub Scouts</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>AKELA AWARD</strong>
-</p>
+<p>AKELA Award</p>
 </td>
 </tr>
 <tr>
@@ -175,8 +156,7 @@ variant: tiptap
 <p>IDE Sumobot</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Certificate of Participation</strong>
-</p>
+<p>Certificate of Participation</p>
 </td>
 </tr>
 <tr>
@@ -185,8 +165,7 @@ variant: tiptap
 <p>(NPGC3 2024)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Certificate of Participation</strong>
-</p>
+<p>Certificate of Participation</p>
 </td>
 </tr>
 <tr>
@@ -195,11 +174,8 @@ variant: tiptap
 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Top 5 Finalist Award</strong>
-</p>
-<p></p>
-<p><strong>Merit Award</strong>
-</p>
+<p>Top 5 Finalist Award</p>
+<p>Merit Award</p>
 </td>
 </tr>
 </tbody>
@@ -251,8 +227,7 @@ variant: tiptap
 <p>SYF Art Exhibition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Certificate of Recognition</u></strong>
-</p>
+<p>Certificate of Recognition</p>
 </td>
 </tr>
 <tr>
@@ -260,10 +235,7 @@ variant: tiptap
 <p>NSG Hockey Senior Boys</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>National Runners-Up</u></strong>
-</p>
-<p><strong><u>Sportsmanship Award</u></strong>
-</p>
+<p>National Runners-Up Sportsmanship Award</p>
 </td>
 </tr>
 <tr>
@@ -287,8 +259,7 @@ variant: tiptap
 <p>Scouts Senior Sixers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Akela Award</u></strong>
-</p>
+<p>Akela Award</p>
 </td>
 </tr>
 <tr>
@@ -314,8 +285,7 @@ variant: tiptap
 </p>
 <p>Tier 4 (1st)</p>
 <p></p>
-<p><strong><u>Sportsmanship Award</u></strong>
-</p>
+<p>Sportsmanship Award</p>
 </td>
 </tr>
 <tr>
@@ -333,8 +303,7 @@ variant: tiptap
 <p>“We Love our Planet” Storytelling Contest</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Merit Award</strong>
-</p>
+<p>Merit Award</p>
 </td>
 </tr>
 <tr>
@@ -342,8 +311,7 @@ variant: tiptap
 <p>Hwa Chong Info-Communication Challenge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Gold Award</strong>
-</p>
+<p>Gold Award</p>
 </td>
 </tr>
 <tr>
@@ -351,8 +319,7 @@ variant: tiptap
 <p>IDE SUMOBOT Competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Certificate of Participation</strong>
-</p>
+<p>Certificate of Participation</p>
 </td>
 </tr>
 </tbody>
@@ -506,8 +473,7 @@ variant: tiptap
 <p>2018 SYF Arts Presentation (Contemporary Dance)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Certificate of Accomplishment</u></strong>
-</p>
+<p>Certificate of Accomplishment</p>
 </td>
 </tr>
 <tr>
@@ -554,8 +520,7 @@ variant: tiptap
 <p>2021 SYF ART EXHIBITION (Art Club)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Certificate of Recognition</u></strong>
-</p>
+<p>Certificate of Recognition</p>
 </td>
 </tr>
 </tbody>
