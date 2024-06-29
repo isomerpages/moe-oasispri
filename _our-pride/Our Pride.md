@@ -2,7 +2,12 @@
 title: Our Pride
 permalink: /our-distinctiveness/our-pride/students-achievements/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-<img src="/images/students%20achievements.png" style="width:70%">
-<img src="/images/staff%20achievements.png" style="width:70%">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" src="/images/students%20achievements.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" src="/images/staff%20achievements.png">
+</div>
+<p></p>
