@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Highlights/.keep
-      - Highlights/Oasis Awards Day 2022.md
       - School Life/.keep
       - School Life/Assessment Information.md
       - School Life/School Hours & Operations.md
