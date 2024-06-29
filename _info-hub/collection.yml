@@ -2,5 +2,6 @@ collections:
   info-hub:
     output: true
     order:
+      - Student Learning Space (SLS).md
       - Parents Gateway.md
       - Application Forms.md
