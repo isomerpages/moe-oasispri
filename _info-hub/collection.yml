@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Highlights.md
-      - School Life.md
       - Forms & Guides.md
