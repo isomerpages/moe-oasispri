@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - School Life/.keep
-      - School Life/School Terms & Holidays.md
       - School Life/School Canteen Food Menu.md
       - School Life/School Bookshop & Uniform.md
       - School Life/School Bus Service.md
