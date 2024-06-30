@@ -14,13 +14,13 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>School Term</p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p>7.00 a.m. - 5.30 p.m. (Monday to Thursday)
 <br>7.00 a.m. - 5.00 p.m. (Friday)</p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -45,13 +45,13 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Monday - Friday
-<br>(except Wednesday)</p>
-</th>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
+<p>Monday - Friday</p>
+<p>(except Wednesday)</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>7.30 a.m. - 1.30 p.m.</p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -71,7 +71,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4><strong>3. What time should my child report to school for his/her lessons?</strong></h4>
+<h4><strong>3. What time should my child report to school for his/ her lessons?</strong></h4>
 <p>All students should report to school by 7.30 a.m. for flag-raising ceremony.</p>
 <h4><strong>4. What are the recess timings for the different levels?</strong></h4>
 <table style="minWidth: 50px">
