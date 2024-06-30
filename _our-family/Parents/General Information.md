@@ -81,12 +81,12 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Primary 2</p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p>9.00 a.m. - 9.30 a.m.</p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -165,7 +165,7 @@ please call the insurer, NTUC Income, directly at +65 6332 1133.</p>
 <h4><strong>9. How should I inform school if there is a change of home and mailing address?</strong></h4>
 <p>Please inform the staff at General Office who will advise you on the form(s)
 and supporting document(s) to submit.</p>
-<h4><strong>10. What must I do if I need to bring my child/ward home early?</strong></h4>
+<h4><strong>10. What must I do if I need to bring my child/ ward home early?</strong></h4>
 <p>Parents/guardians fetching their child from school must report to the
 office and fill in the&nbsp;necessary form before leaving the school compound.
 Students will only be allowed to&nbsp;leave the school premises early if
@@ -210,8 +210,8 @@ we will respond to you.</p>
 <h4><strong>16. Does the school have a school-based Student Care Centre?</strong></h4>
 <p>Yes, YMCA is the appointed school-based Student Care Centre for the school.
 To find out more about their student care services, please contact YMCA
-at +65 6509 9557 / +65 9637 6416 or drop an email to <a href="mailto:oascc@ymca.edu.sg" rel="noopener noreferrer nofollow" target="_blank">oascc@ymca.edu.sg</a> to
-find out more about their after school care services.</p>
+at +65 6509 9557/ +65 9637 6416 or drop an email to <a href="mailto:oascc@ymca.edu.sg" rel="noopener noreferrer nofollow" target="_blank">oascc@ymca.edu.sg</a> to find out more about
+their after school care services.</p>
 <p><strong>17. What are the operating hours for the Student Care Centre?</strong>
 </p>
 <table style="minWidth: 50px">
@@ -238,8 +238,8 @@ find out more about their after school care services.</p>
 </tr>
 </tbody>
 </table>
-<p>The centre may close on certain dates. Please contact the operator at
-+65 6509 9557/&nbsp;+65 9637 6416 to confirm.</p>
+<p>The Student Care Centre may close on certain dates. Please contact the
+operator at +65 6509 9557/&nbsp;+65 9637 6416 to confirm.</p>
 <h4><strong>18. What are the components of the after-school programme?</strong></h4>
 <p>The programme consists of various components such as homework guidance
 and supervision, enrichment activities, in-house counselling for parents
