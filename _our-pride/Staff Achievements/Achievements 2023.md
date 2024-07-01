@@ -55,60 +55,156 @@ years service in the service of the Government.</p>
 <p></p>
 <p><strong>The Commendation Medal</strong>
 </p>
-<p></p>
-<p>Mrs Lee Shi Lin Mr Ng Chu Siu Ms Tan Soo Cheng</p>
+<p>Mrs Lee Shi Lin</p>
+<p>Mr Ng Chu Siu</p>
+<p>Ms Tan Soo Cheng</p>
 <p></p>
 <p><strong>The Efficiency Medal</strong>
 </p>
-<p></p>
 <p>Mdm Noorwanis Binte Amir Noordin</p>
 <p></p>
 <p><strong>The Long Service Medal</strong>
 </p>
-<p></p>
-<p>Mrs Tan-Koh Peck Lian Mdm Ng Tze Ling</p>
+<p>Mrs Tan-Koh Peck Lian</p>
+<p>Mdm Ng Tze Ling</p>
 <h3><strong>MOE Service Excellence Award (MSEA)</strong></h3>
 <p>The MOE Service Excellence Award (MSEA) is a MOE-wide Award to encourage
 all MOE staff to continually and consistently serve both internal and external
 customers with excellent service.</p>
-<p></p>
 <p><strong>Gold Award</strong>
 </p>
-<p></p>
-<p></p>
-<p>Mrs Melissa Wee
-<br>Mdm Ng Tze Ling
-<br>Mdm Teo Si Hui
-<br>Mr Lin Furong
-<br>Mr Chan Yong Yan
-<br>Mdm Cheng Yingying
-<br>Mdm Christine Huang Rui
-<br>Ms Tan Soo Cheng
-<br>Mdm Eveline Goh
-<br>Mrs Wang Hui Shan
-<br>Mdm Helen Lee
-<br>Mr Muhd Shazwan Bin Shadir</p>
-<p></p>
-<p></p>
+<hr>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Melissa Wee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Ng Tze Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Teo Si Hui</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lin Furong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chan Yong Yan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Cheng Yingying</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Christine Huang Rui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Soo Cheng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Eveline Goh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Wang Hui Shan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Helen Lee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Muhd Shazwan Bin Shadir</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
 <p><strong>Silver Award</strong>
 </p>
+<hr>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Abdul Majeeth Salimdeen Razia Sulthana</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Ahadrina Supri</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Cassandra Amanda Goh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Lee Shi Lin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Chia Wan Yi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Florence Ngu</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Ho Huan Xin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms le Yayah Farida</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Stacey Koh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Pauline Ng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Norizah Binte Mohamed Akib</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nur Afiqa Binte Sauidi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Safiah Binte Arshad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Soh Hoon Suu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Judy Tng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Yim Wai Peng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Si Xu Vongsuvanish</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
-<p></p>
-<p>Mdm Abdul Majeeth Salimdeen Razia Sulthana
-<br>Mdm Ahadrina Supri
-<br>Ms Cassandra Amanda Goh
-<br>Mrs Lee Shi Lin
-<br>Ms Chia Wan Yi
-<br>Mdm Florence Ngu
-<br>Mdm Ho Huan Xin
-<br>Ms le Yayah Farida
-<br>Ms Stacey Koh
-<br>Ms Pauline Ng
-<br>Ms Norizah Binte Mohamed Akib
-<br>Mdm Nur Afiqa Binte Sauidi
-<br>Mdm Safiah Binte Arshad
-<br>Mdm Soh Hoon Suu
-<br>Mdm Judy Tng
-<br>Ms Yim Wai Peng
-<br>Ms Si Xu Vongsuvanish</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
 <p></p>
