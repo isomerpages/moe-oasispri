@@ -98,34 +98,113 @@ customers with excellent service.</p>
 <p><strong>Silver Award</strong>
 </p>
 <hr>
-<p></p>
-<p></p>
-<p></p>
-<p>Mrs Melissa Wee
-<br>Mdm Ng Tze Ling
-<br>Ms Tan Li Na
-<br>Ms Tan Soo Cheng
-<br>Ms Tay Xiulan
-<br>Mr Christopher Cheng
-<br>Mr Muhd Shazwan Bin Shahir
-<br>Mdm Margaret Lee
-<br>Ms Nirmawati Abdul Rahman
-<br>Mr Jonathan Boey
-<br>Mrs Norhazlinda Sham
-<br>Mr Elwirandi Zakiuddin Tan
-<br>Mdm Alan Tai
-<br>Ms Ho Wan Yu
-<br>Mr Chan Yong Yan
-<br>Mrs Jaslyn Heng
-<br>Mrs Wang Hui Shan
-<br>Ms Joyce Chew
-<br>Mr Mohd Aizad Bin Mohtar
-<br>Ms Ann Lee Guat Chiu
-<br>Ms Yusneeta Binte Md Yusof
-<br>Mr David Lye
-<br>Mdm Hafizah Mokhtar
-<br>Ms Nursyaza Binti Muhd Abbas Lim
-<br>Ms Tay Bee Li
-<br>Mdm Eveline Goh
-<br>Mdm Lee Chor Yong</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Melissa Wee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Ng Tze Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Li Na</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Soo Cheng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tay Xiulan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Christopher Cheng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Muhd Shazwan Bin Shahir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Margaret Lee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nirmawati Abdul Rahman</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Jonathan Boey</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Norhazlinda Sham</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Elwirandi Zakiuddin Tan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Alan Tai</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ho Wan Yu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chan Yong Yan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Jaslyn Heng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Wang Hui Shan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Joyce Chew</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Mohd Aizad Bin Mohtar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ann Lee Guat Chiu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Yusneeta Binte Md Yusof</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr David Lye</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Hafizah Mokhtar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nursyaza Binti Muhd Abbas Lim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tay Bee Li</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Eveline Goh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Lee Chor Yong</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
 <p></p>
