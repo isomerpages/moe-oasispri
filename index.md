@@ -14,7 +14,7 @@ sections:
       title: Oasis Virtual Tour 2024
       id: infopic
       button: Click here for Virtual Tour
-      url: https://oasis828716.wixsite.com/oasis-openhouse-2024
+      url: https://for.edu.sg/oasis-virtual-tour
       image: /images/Banner/VOH2024.png
       alt: Oasis Virtual Tour 2024
   - infopic:
