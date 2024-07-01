@@ -17,8 +17,7 @@ sections:
         to our Virtual Open House from 2nd July 2024!
       button: Click here to register
       url: https://go.gov.sg/oasis2024
-      image: /images/oh2024.jpg
-      alt: Oasis Virtual Open House
+      image: /images/Banner/oh2024.jpg
   - infobar:
       title: Virtual Open House
       id: infobar
