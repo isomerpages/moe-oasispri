@@ -23,7 +23,7 @@ sections:
       title: Oasis Virtual Tour 2024
       id: infopic
       button: Click for Oasis Virtual Tour
-      url: https://www.oasispri.moe.edu.sg/
+      url: https://oasis828716.wixsite.com/oasis-openhouse-2024
       image: /images/Banner/VOH2024.png
       alt: Oasis Virtual Tour 2024
 ---
