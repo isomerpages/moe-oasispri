@@ -20,8 +20,8 @@ sections:
   - infopic:
       title: Oasis Virtual Open House 2024
       id: infopic
-      description: OPS warmly invites all prospective Primary 1 students and parents
-        to our Virtual Open House from 2nd July 2024!
+      description: OPS warmly invites all prospective parents to our e-Conversation
+        with our School Leaders on 12 July 2024.
       button: Click here to register
       url: https://go.gov.sg/oasis2024
       image: /images/Banner/oh2024.jpg
