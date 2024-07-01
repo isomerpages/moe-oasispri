@@ -37,29 +37,66 @@ customers with excellent service.</p>
 <p></p>
 <p><strong>Platinium Award</strong>
 </p>
-<p></p>
-<p></p>
 <p>Mdm Salwah binte Abdul Rahman Lajam
 <br>
 </p>
-<p></p>
 <p><strong>Gold Award</strong>
 </p>
 <p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Asher Mey See</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Fong Zhen Hsiung Pierre</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Joelle Pek</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Sharon Teo Jia Mei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Tan-Koh Peck Lian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Yap Jing Nee Celeste</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Noorwanis Binte Amir Noordin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Pang Ming Ing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Roziana Binte Rumli</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nur Liyana Saine</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Yan Xiaojing</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
-<p>Mrs Asher Mey See
-<br>Mr Fong Zhen Hsiung Pierre
-<br>Mrs Joelle Pek
-<br>Mrs Sharon Teo Jia Mei
-<br>Mrs Tan - Koh Peck Lian
-<br>Mdm Yap Jing Nee Celeste
-<br>Mdm Noorwanis Binte Amir Noordin
-<br>Mdm Pang Ming Ing
-<br>Mdm Roziana Binte Rumli
-<br>Ms Nur Liyana Saine
-<br>Ms Yan Xiaojing</p>
-<p></p>
-<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
 <p><strong>Silver Award</strong>
 </p>
 <p></p>
