@@ -18,9 +18,10 @@ sections:
       button: Click here to register
       url: https://go.gov.sg/oasis2024
       image: /images/Banner/oh2024.jpg
-  - infobar:
-      title: Virtual Open House
-      id: infobar
-      button: Click to visit our Virtual Open House
-      url: test
+  - infopic:
+      title: Oasis Virtual Tour
+      id: infopic
+      button: Click here for a Virtual Tour
+      url: https://www.oasispri.moe.edu.sg/
+      image: /images/Banner/VOH2024.png
 ---
