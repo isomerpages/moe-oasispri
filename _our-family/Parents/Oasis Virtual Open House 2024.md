@@ -13,4 +13,4 @@ third_nav_title: Parents
 Virtual Open House from 2nd July 2024!</p>
 <p><a href="https://go.gov.sg/oasis2024" rel="noopener noreferrer nofollow" target="_blank">Click here to register</a>
 </p>
-<p>Click to visit our Virtual Open House here</p>
+<p>Click to visit our Virtual Open House</p>
