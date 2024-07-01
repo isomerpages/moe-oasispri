@@ -6,7 +6,7 @@ third_nav_title: Curriculum
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/MTL.jpg">
+<img style="width: 75%;" height="auto" width="100%" src="/images/MTL.jpg">
 </div>
 <p><strong>Confident &amp; eloquent speakers in the Mother Tongue Language</strong>
 </p>
@@ -41,7 +41,7 @@ learning and become self-directed learners. During the learning process,
 pupils are involved in decision-making and also to view mistakes as learning
 opportunities.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/approach.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/approach.png">
 </div>
 <h3>Key Programmes</h3>
 <p><strong>Reading-Is-Fun Programme (RIF)</strong>
@@ -63,12 +63,12 @@ certificates of recognition as they journey through literary landscapes.</p>
 world of books, igniting minds and hearts along the way.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL/rif.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/MTL/rif.png">
 </div>
 <p><strong>Samples of Winning Entries for OBD Competitions</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OBD%20competition.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/OBD%20competition.png">
 </div>
 <p><strong>Primary 4 Chinese Language Young Journalism Programme</strong>
 </p>
@@ -78,7 +78,7 @@ world of books, igniting minds and hearts along the way.</p>
 <p><strong>Establishing Partnership between OPS Primary 4 Chinese Language Journalists and Beijing Cuiwei Elementary School’s Journalists</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL/yjp1.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/MTL/yjp1.png">
 </div>
 <p>Oasis Primary School and Beijing’s Cuiwei Elementary School successfully
 held their first Junior Journalist exchange activity of the year online.
@@ -90,7 +90,7 @@ in charge, as well as Vice Principal of Moral Education Ms Wu Jiuqin, Deputy
 Director of Moral Education Ms Liu Xi, and moral education staff&nbsp;
 from various campuses of Cuiwei Elementary School.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL/yjp2.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/MTL/yjp2.png">
 </div>
 <p><strong>Understanding Each Other and Enhancing Friendship</strong>
 </p>
@@ -100,7 +100,7 @@ schools. Through video clips and verbal descriptions, Primary P4 CL&nbsp;
 journalists gained a deeper understanding of each school's educational
 philosophies and cultures.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL/yjp3.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/MTL/yjp3.png">
 </div>
 <p><strong>Ice breaker Activities to Build Rapport</strong>
 </p>
@@ -108,7 +108,7 @@ philosophies and cultures.</p>
 exchanges and interactions, learning about each other’s countries' histories,
 cultures, and traditions.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL/icebreaker.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/MTL/icebreaker.png">
 </div>
 <p>The first Junior Journalist exchange activity was a resounding success,
 laying a strong foundation for future collaborations. Both schools expressed
@@ -122,7 +122,7 @@ in conjunction with Tamil language month at Casuarina Primary School. We
 had 5 contestants from Primary 1 to 5 who competed against students from
 other schools. All of them were awarded with trophies for their victory.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL/tl.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/MTL/tl.png">
 </div>
 <p><strong>b) <u>Malay Language Scrabble Competition</u></strong>
 </p>
@@ -130,7 +130,7 @@ other schools. All of them were awarded with trophies for their victory.</p>
 (ML Scrabble) Competition held at Riverside School. The students enjoyed
 the competition and they received certificates for their participation.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL/ml.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/MTL/ml.png">
 </div>
 <p><strong>2024 Mother Tongue Fortnight Programme</strong>
 </p>
@@ -154,11 +154,11 @@ the medicinal uses of herbs. Other activities included designing Kolam
 patterns using Tamil alphabets, making invitations, and participating in
 a quiz about Tamil fictional characters.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL/mtfortprog1.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/MTL/mtfortprog1.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL/mtfortprog2.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/MTL/mtfortprog2.png">
 </div>
 <p><strong>Primary 2 Mother Tongue Language (MTL) Speech and Drama Programme</strong>
 </p>
@@ -170,11 +170,11 @@ and responsibility among the students. Utilizing activities such as role-playing
 storytelling, and performances, students were able to enhance their confidence
 in speaking their Mother Tongue language to an audience.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL/speechdramaprog1.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/MTL/speechdramaprog1.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL/speechdramaprog2.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/MTL/speechdramaprog2.png">
 </div>
 <p></p>
 <div class="iframe-wrapper">
