@@ -19,4 +19,9 @@ sections:
       url: https://go.gov.sg/oasis2024
       image: /images/oh2024.jpg
       alt: Oasis Virtual Open House
+  - infobar:
+      title: Virtual Open House
+      id: infobar
+      button: Click to visit our Virtual Open House
+      url: test
 ---
