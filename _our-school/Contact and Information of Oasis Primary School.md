@@ -7,7 +7,7 @@ variant: tiptap
 <div class="iframe-wrapper">
 <iframe style="border:0;" height="450" width="500" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.6191870009225!2d103.90877821461417!3d1.404771498975483!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da15fedda64d61%3A0x609377487266e96a!2sOasis%20Primary%20School!5e0!3m2!1sen!2ssg!4v1665634879662!5m2!1sen!2ssg"></iframe>
 </div>
-<h5>Oasis Primary School</h5>
+<h5><strong>Oasis Primary School</strong></h5>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -15,12 +15,12 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Address:</p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p>71 Edgefield Plains, Singapore 828716</p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
