@@ -37,12 +37,10 @@ customers with excellent service.</p>
 <p></p>
 <p><strong>Platinium Award</strong>
 </p>
-<p>Mdm Salwah binte Abdul Rahman Lajam
-<br>
-</p>
+<p>Mdm Salwah binte Abdul Rahman Lajam</p>
+<hr>
 <p><strong>Gold Award</strong>
 </p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -99,6 +97,8 @@ customers with excellent service.</p>
 <hr>
 <p><strong>Silver Award</strong>
 </p>
+<hr>
+<p></p>
 <p></p>
 <p></p>
 <p>Mrs Melissa Wee
