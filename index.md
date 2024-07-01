@@ -21,7 +21,7 @@ sections:
   - infopic:
       title: Oasis Virtual Tour
       id: infopic
-      button: Click here for a Virtual Tour
+      button: Click for Oasis Virtual Tour
       url: https://www.oasispri.moe.edu.sg/
       image: /images/Banner/VOH2024.png
 ---
