@@ -11,12 +11,12 @@ sections:
       url: /contact-us/
       variant: center
   - infopic:
-      title: Oasis Virtual Tour 2024
+      title: Virtual Open House 2024
       id: infopic
-      button: Click here for Virtual Tour
+      button: Click for Virtual Open House
       url: https://for.edu.sg/oasis-virtual-tour
       image: /images/Banner/VOH2024.png
-      alt: Oasis Virtual Tour 2024
+      alt: Virtual Open House 2024
   - infopic:
       title: Oasis Virtual Open House 2024
       id: infopic
