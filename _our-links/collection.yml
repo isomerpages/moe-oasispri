@@ -2,6 +2,7 @@ collections:
   our-links:
     output: true
     order:
+      - Oasis Virtual Open House 2024.md
       - Students.md
       - Teachers.md
       - Frequently Asked Questions.md
