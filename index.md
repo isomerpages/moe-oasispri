@@ -19,7 +19,7 @@ sections:
       url: https://go.gov.sg/oasis2024
       image: /images/Banner/oh2024.jpg
   - infopic:
-      title: Oasis Virtual Tour
+      title: Oasis Virtual Tour 2024
       id: infopic
       button: Click for Oasis Virtual Tour
       url: https://www.oasispri.moe.edu.sg/
