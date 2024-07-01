@@ -16,7 +16,7 @@ of MTL HOD Mdm Ng Tze Ling, our Senior Teachers Ms Christine Huang Rui
 and Mdm Cheng Yingying, presented&nbsp;<strong>“Using Differentiated Success Criteria to Assess Students’ Writing to Enhance Their Writing Abilities</strong>”
 at the conference.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff%20Achievements%202023/Photo_1.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff%20Achievements%202023/Photo_1.jpg">
 </div>
 <h5><strong>Mother Tongue Languages Symposium (MTLS) 2023</strong></h5>
 <p>On 26th August 2023, the Malay Language teachers from Oasis Primary School
@@ -28,7 +28,7 @@ and needs of the diverse visitors ranging from pre-schoolers to adults
 (ML-speakers as well as non-ML speakers).&nbsp;&nbsp;It was an enriching
 experience for all the ML teachers who shared at the symposium.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff%20Achievements%202023/Photo_2AB.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Staff%20Achievements%202023/Photo_2AB.jpg">
 </div>
 <h5><strong>Perkongsian Profesional 2023</strong></h5>
 <p>The Malay Language Centre of Singapore (MLCS), Academy of Singapore Teachers,
@@ -43,7 +43,7 @@ to enhance students’ learning.</p>
 checklists in the teaching and learning comprehension in her Primary 4
 lessons.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff%20Achievements%202023/Photo_3.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff%20Achievements%202023/Photo_3.png">
 </div>
 <h3><strong>2023 National Day Awards</strong></h3>
 <p>The Commendation Medal is awarded to a person who has distinguished himself
