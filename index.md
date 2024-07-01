@@ -13,7 +13,7 @@ sections:
   - infopic:
       title: Virtual Open House 2024
       id: infopic
-      button: Click for Virtual Open House
+      button: Click here
       url: https://for.edu.sg/oasis-virtual-tour
       image: /images/Banner/VOH2024.png
       alt: Virtual Open House 2024
