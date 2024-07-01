@@ -4,9 +4,8 @@ permalink: /our-school/oasis-virtual-open-house-2024/
 variant: tiptap
 description: ""
 ---
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/oh2024.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banner/oh2024.jpg">
 </div>
 <p>OPS warmly invites all prospective Primary 1 students and parents to our
 Virtual Open House from 2nd July 2024!</p>

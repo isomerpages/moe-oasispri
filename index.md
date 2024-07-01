@@ -11,12 +11,19 @@ sections:
       url: /contact-us/
       variant: center
   - infopic:
+      title: Virtual Open House 2024
+      id: infopic
+      button: Virtual Open House 2024
+      url: https://for.edu.sg/oasis-virtual-tour
+      image: /images/Banner/VOH2024.png
+      alt: Virtual Open House 2024
+  - infopic:
       title: Oasis Virtual Open House 2024
       id: infopic
       description: OPS warmly invites all prospective Primary 1 students and parents
         to our Virtual Open House from 2nd July 2024!
       button: Click here to register
       url: https://go.gov.sg/oasis2024
-      image: /images/oh2024.jpg
-      alt: Oasis Virtual Open House
+      image: /images/Banner/oh2024.jpg
+      alt: Oasis Virtual Open House 2024
 ---

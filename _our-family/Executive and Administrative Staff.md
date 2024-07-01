@@ -38,7 +38,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>Mr Ryan Chee</p>
 </td>
 </tr>
 <tr>
@@ -122,7 +122,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>Mr Harul</p>
 </td>
 </tr>
 <tr>
