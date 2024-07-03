@@ -3,7 +3,7 @@ url: https://oasispri-moe-edu-sg-admin.cwp.sg
 favicon: /images/Banner/logo.jpg
 colors:
   primary-color: "#5cbe6b"
-  secondary-color: "#000000"
+  secondary-color: "#5cbe6b"
   media-colors:
     - title: media-color-one
       color: "#49759a"
