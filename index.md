@@ -4,7 +4,7 @@ title: Oasis Primary School
 description: Brief site description here
 image: /images/Banner/logo.jpg
 permalink: /
-notification: Please scroll to the bottom of the page to visit our Virtual Open House 2024.
+notification: ""
 sections:
   - hero:
       background: /images/hero banner.gif
