@@ -156,5 +156,4 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<hr>
-<p>Sahrul</p>
+<p></p>
