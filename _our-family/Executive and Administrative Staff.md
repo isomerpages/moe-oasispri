@@ -59,11 +59,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Siew Hoon</p>
+<p>Ms Jolene Tan</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -73,6 +73,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Tan Hui Geok</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Kartini</p>
 </td>
 </tr>
 <tr>
@@ -100,7 +105,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -147,14 +151,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Frannie Chung</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Receptionist</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Kartini</p>
 </td>
 </tr>
 </tbody>
