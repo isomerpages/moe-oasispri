@@ -2,6 +2,7 @@ collections:
   moe-kindergarten:
     output: true
     order:
+      - Our Uniform.md
       - Our Vision, Mission & Values.md
       - What We Offer.md
       - Our Team.md
