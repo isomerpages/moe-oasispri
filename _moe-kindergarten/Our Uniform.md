@@ -20,4 +20,7 @@ attire arrangements in advance).</p>
 <img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Mkoasis/mkuniform.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Mkoasis/price.png">
+</div>
 <p></p>
