@@ -14,5 +14,9 @@ attire arrangements in advance).</p>
 <p>We recommend that each child has at least three sets of uniform.</p>
 <p><strong>Sale of Uniform</strong>
 <br>From 1 Jul 2022, there are two appointed suppliers for MK uniform:&nbsp;
-<a href="https://www.beauvoix.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Beau Voix Uniform (Beau Voix)</a>and&nbsp;<a href="https://jeepsinguniform.com/" rel="noopener noreferrer nofollow" target="_blank">Jeep Sing Fashion (Jeep Sing)</a>.
-&nbsp;</p>
+<a href="https://www.beauvoix.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Beau Voix Uniform (Beau Voix)</a>and&nbsp;<a href="https://jeepsinguniform.com/" rel="noopener noreferrer nofollow" target="_blank">Jeep Sing Fashion (Jeep Sing)</a>.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Mkoasis/mkuniform.jpg">
+</div>
+<p></p>
+<p></p>
