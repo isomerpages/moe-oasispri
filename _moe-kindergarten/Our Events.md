@@ -4,6 +4,10 @@ permalink: /mk-at-oasis/our-events/
 variant: tiptap
 description: ""
 ---
+<h4>Special Events in Semester 1 2024</h4>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/YYlLJigxHX4?si=azaBJpmj4u4NvsnG&amp;start=4"></iframe>
+</div>
 <h4>Special Events in 2023</h4>
 <div class="iframe-wrapper">
 <iframe height="590" width="397" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ1qfOZyoYuBReL__ggwOtlPjDTdV2Rgt8is-JXhSMRmrIg1_wA8xGkWByIKtIMo4DYqS4xtYi94U4-/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
