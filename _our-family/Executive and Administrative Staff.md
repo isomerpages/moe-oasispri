@@ -81,7 +81,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="6" colspan="1">
 <p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -96,6 +96,16 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Vincent Neui</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Chong Lee Fah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Loe Kwee Lan</p>
 </td>
 </tr>
 <tr>
