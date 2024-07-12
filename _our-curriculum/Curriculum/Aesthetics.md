@@ -360,7 +360,9 @@ the following programmes are implemented in the curriculum:</p>
 <p>SYF Art Exhibition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Certificate of Recognition</p>
+<p>(Art piece selected for exhibition at Stamford Art Center with presentation
+to GOH)</p>
 </td>
 </tr>
 <tr>
