@@ -301,7 +301,7 @@ the following programmes are implemented in the curriculum:</p>
 </tbody>
 </table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/music%20curriculum.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Aesthetics/photo6.jpg">
 </div>
 <h3>Achievements</h3>
 <p><strong>Students</strong>
