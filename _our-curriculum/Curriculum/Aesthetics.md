@@ -48,9 +48,7 @@ in all arts programmes – namely, Connecting, Creating &amp; Communicating.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ARTISTIC PROCESSES
-<br>
-</p>
+<p>ARTISTIC PROCESSES</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>CONNECTING</strong>
@@ -59,9 +57,7 @@ in all arts programmes – namely, Connecting, Creating &amp; Communicating.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>CREATING</strong>
-<br>Imagining and developing new artistic ideas
-<br>
-</p>
+<br>Imagining and developing new artistic ideas</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>COMMUNICATING</strong>
@@ -110,38 +106,28 @@ our students in their arts education development:</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Stage 1 (DISCOVER)
-<br>
-</p>
+<p>Stage 1 (DISCOVER)</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Stage 2 (DEVELOP)
-<br>
-</p>
+<p>Stage 2 (DEVELOP)</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Stage 3 (DISPLAY)
-<br>
-</p>
+<p>Stage 3 (DISPLAY)</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>General Arts Exposure Programmes for All
-<br>PAL-arts (Dance, Music &amp; Visual Art)
-<br>Dance in PE curriculum</p>
+<br>PAL-arts (Dance, Music &amp; Visual Art) Dance in PE curriculum</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Art Curriculum
 <br>Music Curriculum
-<br>Minute of Fame (Performing Arts)
-<br>Art Exhibition (in-house)
-<br>ARTSpace</p>
+<br>Minute of Fame (Performing Arts) Art Exhibition (in-house) ARTSpace</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Visual and Performing Arts CCAs
-<br>Arts Enrichment for Talent Development
-<br>ArtsFest</p>
+<br>Arts Enrichment for Talent Development ArtsFest</p>
 </td>
 </tr>
 <tr>
@@ -378,8 +364,7 @@ the following programmes are implemented in the curriculum:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>East Zone Music Warriors
-<br>For Primary Schools</p>
+<p>East Zone Music Warriors For Primary Schools</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Certificate of Participation
@@ -389,8 +374,7 @@ the following programmes are implemented in the curriculum:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>East Zone Music Competition
-<br>(Piano And Singing Category)</p>
+<p>East Zone Music Competition (Piano And Singing Category)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Certificate of Participation
