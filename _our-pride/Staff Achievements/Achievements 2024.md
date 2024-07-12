@@ -39,4 +39,3 @@ also lends support for Teacher-Leaders in their professional growth.</p>
 <p>She works alongside and learns from an Art Master Teacher (MTT) through
 co-designing and co-facilitating a Networked Learning Community (NLC) focused
 on the inclusive classroom.</p>
-<p></p>
