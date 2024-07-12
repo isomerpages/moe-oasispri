@@ -32,7 +32,19 @@ and audience members and develop personal creative &amp; intellectual capacity.<
 <p>To be able to initiate, connect and serve in communities within and beyond
 school, creating a positive impact on the lives of others</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/purpose.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aesthetics/photo7.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aesthetics/photo8.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aesthetics/photo9.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aesthetics/photo10.png">
 </div>
 <p><strong>1. HOLISTIC ARTS APPROACH THROUGH CCC</strong>
 </p>
