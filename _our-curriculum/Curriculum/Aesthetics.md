@@ -315,6 +315,9 @@ the following programmes are implemented in the curriculum:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Aesthetics/photo6.jpg">
 </div>
+<h3>Annual Arts Fest</h3>
+<p></p>
+<p></p>
 <h3>Achievements</h3>
 <p><strong>Students</strong>
 </p>
