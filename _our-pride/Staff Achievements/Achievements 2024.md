@@ -5,15 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Staff Achievements
 ---
-<h4><strong>Educational Guide Writer for The Esplanade Co. Ltd.</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Aesthetics/photo1.png">
-</div>
-<p>Our music teacher, Ms Yan Xiaojing was invited to be the Educational Guide
-Writer for the accompanying children’s activity booklet for the Esplanade
-Feed Your Imagination: Day Out! @ Esplanade programme. She applied her
-music expertise and collaborated with local artistes to design the activities
-and curated videos that engaged the public who attended the programme.</p>
 <h4><strong>Reimagining Pedagogy International Conference 2024</strong></h4>
 <p>The Redesigning Pedagogy International Conference (RPIC), which took place
 from 28 May to 30 May 2024, is a flagship conference hosted by the National
@@ -28,4 +19,15 @@ of “Growing future-ready teachers and learners”!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math/pic.jpg">
 </div>
+<h4><strong>Educational Guide Writer for The Esplanade Co. Ltd.</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Aesthetics/photo1.png">
+</div>
+<p>Our music teacher, Ms Yan Xiaojing was invited to be the Educational Guide
+Writer for the accompanying children’s activity booklet for the Esplanade
+Feed Your Imagination: Day Out! @ Esplanade programme. She applied her
+music expertise and collaborated with local artistes to design the activities
+and curated videos that engaged the public who attended the programme.</p>
+<h4><strong>Senior Teacher (Art), Mdm Pang Ming Ing for the 2024 Academy Awards for Professional Development</strong></h4>
+<h4></h4>
 <p></p>
