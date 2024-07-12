@@ -315,19 +315,13 @@ the following programmes are implemented in the curriculum:</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Year
-<br>
-</p>
+<p>Year</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Event
-<br>
-</p>
+<p>Event</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Award
-<br>
-</p>
+<p>Award</p>
 </th>
 </tr>
 <tr>
