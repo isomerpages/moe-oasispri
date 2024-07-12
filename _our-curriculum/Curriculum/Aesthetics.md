@@ -3,284 +3,482 @@ title: Aesthetics
 permalink: /our-curriculum/curriculum/aesthetics/
 description: ""
 third_nav_title: Curriculum
+variant: tiptap
 ---
-<img src="/images/Aesthetics.jpg" 
-     style="width:100%">
-<center><b>Thinking artists confident in creating and expressing meaningful works</b></center>
-
-### Goal of Oasis Arts Education
-
-Develop artistically literate students who participate actively and purposefully in the arts within and beyond school
-
-### Purpose for engaging in the arts:
-
-**The arts as communication**
-
-To be able to express one’s own ideas creatively and confidently through an artistic work and respond to artistic works by analysing and interpreting artistic intents of others
-
-**The arts as social and cultural connectors**
-
-To relate the arts to daily living and see connectedness between the arts and other fields of knowledge
-
-**The arts as creative and intellectual engagement**
-
-To participate in creative work and discourse as creators, performers and audience members and develop personal creative & intellectual capacity.
-
-**The arts as developing leadership and impacting the community**
-
-To be able to initiate, connect and serve in communities within and beyond school, creating a positive impact on the lives of others
-
-![](/images/purpose.png)
-
-**1. HOLISTIC ARTS APPROACH THROUGH CCC**
-
-Pursue a holistic learning approach that incorporates 3 artistic processes in all arts programmes – namely, Connecting, Creating & Communicating.
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-dzgf{background-color:#FFF;color:#002D46;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-ivsp{background-color:#FFF;color:#002D46;font-weight:bold;text-align:center;text-decoration:underline;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <td class="tg-dzgf">ARTISTIC PROCESSES<br></td>
-    <td class="tg-ivsp"><span style="font-weight:bold">CONNECTING</span><br><span style="font-weight:400">Analysing meaning and relating </span><br><span style="font-weight:400">artistic ideas to its context (i.e. personal meaning/history/culture)</span></td>
-    <td class="tg-ivsp"><span style="font-weight:bold">CREATING</span><br><span style="font-weight:400;font-style:normal">Imagining and developing new artistic ideas</span><br></td>
-    <td class="tg-ivsp"><span style="font-weight:bold">COMMUNICATING</span><br><span style="font-weight:400;font-style:normal">Convey artistic ideas effectively</span></td>
-  </tr>
-</thead>
-</table>
-
-**2. ARTS EDUCATION TALENT PROGRESSION**
-
-Adopt a whole-school Arts Education approach in Visual Art, Music, Dance & Drama, through curricular, co-curricular and special programmes. Below is the Arts Education Talent Progression to provide arts opportunities for all and for some developing passion and mastery in an arts domain.
-
-**Stage 1: Developing Awareness**
-
-Students to become aware of the range of cultural and contemporary arts that are relevant to the diversity of our local and global cultures.
-
-<img src="/images/stage1.png" 
-     style="width:40%">
-		 
-**Stage 2: Developing Foundation**
-
-Students to learn and explore in more than 1 art forms to create, study and relate to context of art works and show developing creative works to friends.
-
-<img src="/images/stage2.png" 
-     style="width:40%">
-
-**Stage 3: Developing Mastery**
-
-Students to apply artistic tools and technique learnt in at least one art form to create, articulate connection of works to its context, and communicate and realise artistic ideas in a curated showcase.
-
-<img src="/images/stage3.png" 
-     style="width:40%">
-		 
-The following broadly categorises the arts programmes offered to support our students in their arts education development:
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-dzgf{background-color:#FFF;color:#002D46;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-h1v5{background-color:#FFF;color:#002D46;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-dzgf">Stage 1 (DISCOVER)<br></th>
-    <th class="tg-dzgf">Stage 2 (DEVELOP)<br></th>
-    <th class="tg-dzgf">Stage 3 (DISPLAY)<br></th>
-  </tr>
-</thead>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Aesthetics/photo4.jpg">
+</div>
+<p><strong>Thinking artists confident in creating and expressing meaningful works</strong>
+</p>
+<h3>Goal of Oasis Arts Education</h3>
+<p>Develop artistically literate students who participate actively and purposefully
+in the arts within and beyond school</p>
+<h3>Purpose for engaging in the arts:</h3>
+<p><strong>The arts as&nbsp;communication</strong>
+</p>
+<p>To be able to express one’s own ideas creatively and confidently through
+an artistic work and respond to artistic works by analysing and interpreting
+artistic intents of others</p>
+<p><strong>The arts as&nbsp;social and cultural connectors</strong>
+</p>
+<p>To relate the arts to daily living and see connectedness between the arts
+and other fields of knowledge</p>
+<p><strong>The arts as&nbsp;creative and intellectual engagement</strong>
+</p>
+<p>To participate in creative work and discourse as creators, performers
+and audience members and develop personal creative &amp; intellectual capacity.</p>
+<p><strong>The arts as&nbsp;developing leadership and impacting the community</strong>
+</p>
+<p>To be able to initiate, connect and serve in communities within and beyond
+school, creating a positive impact on the lives of others</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aesthetics/photo7.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aesthetics/photo8.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aesthetics/photo9.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aesthetics/photo10.png">
+</div>
+<p><strong>1. HOLISTIC ARTS APPROACH THROUGH CCC</strong>
+</p>
+<p>Pursue a holistic learning approach that incorporates 3 artistic processes
+in all arts programmes – namely, Connecting, Creating &amp; Communicating.</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-h1v5">General Arts Exposure Programmes for All<br>PAL-arts (Dance, Music &amp; Visual Art)<br>Dance in PE curriculum</td>
-    <td class="tg-h1v5">Art Curriculum<br>Music Curriculum<br>Minute of Fame (Performing Arts)<br>Art Exhibition (in-house)<br>ARTSpace</td>
-    <td class="tg-h1v5">Visual and Performing Arts CCAs<br>Arts Enrichment for Talent Development<br>ArtsFest</td>
-  </tr>
-  <tr>
-    <td class="tg-dzgf" colspan="3">Arts-in-Community</td>
-  </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ARTISTIC PROCESSES</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>CONNECTING</strong>
+<br>Analysing meaning and relating
+<br>artistic ideas to its context (i.e. personal meaning/history/culture)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>CREATING</strong>
+<br>Imagining and developing new artistic ideas</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>COMMUNICATING</strong>
+<br>Convey artistic ideas effectively</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-### Key Programmes
-
-**The Art Curriculum**
-
-
-In line with MOE’s standards, the Art Education @Oasis aims to:
-
-  
-
-*   Develop students to be visually literate to observe, understand and make meaning of what they see; and to communicate their ideas by using and creating visuals.
-*   Develop an appreciation for art by seeing the value and recognising the relevance of art in their lives.
-
-Art lessons @Oasis studies a huge range of artists’ works and its cultural contexts in different time period and location, gives students the tools to access art not just intuitively but also technically. The 3 artistic processes – Connecting, Creating and Communicating – undergird the classroom pedagogy and is in line with the skills and values standards in the MOE Art syllabus. Students are _connecting_ by analyzing meaning and relating artistic ideas to its context, _creating_ by imagining and developing new artistic ideas, and _communicating_ by presenting their artistic ideas and works through in-progress classroom gallery displays or exhibitions.
-
-Information and Communication Technology (ICT) has been infused in the teaching pedagogy not only for students to develop self-directedness in their learning, but also skillful users of technology tools in Art-learning.
-
-**Curriculum Module Highlights**
- 
-To deepen our students’ Art learning in a particular craft and/or create and/or more sensitive connections between Art and their daily living, the following programmes are implemented in the curriculum:
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ilyo{background-color:#FFF;color:#002D46;text-align:center;vertical-align:top}
-.tg .tg-vd2a{background-color:#FFF;color:#002D46;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-ilyo">P2</th>
-    <th class="tg-vd2a">A Colourful Food Culture (Interdisciplinary module)</th>
-  </tr>
-</thead>
+<p><strong>2. ARTS EDUCATION TALENT PROGRESSION</strong>
+</p>
+<p>Adopt a whole-school Arts Education approach in Visual Art, Music, Dance
+&amp; Drama, through curricular, co-curricular and special programmes.
+Below is the Arts Education Talent Progression to provide arts opportunities
+for all and for some developing passion and mastery in an arts domain.</p>
+<p><strong>Stage 1: Developing Awareness</strong>
+</p>
+<p>Students to become aware of the range of cultural and contemporary arts
+that are relevant to the diversity of our local and global cultures.</p>
+<div class="isomer-image-wrapper">
+<img style="width:40%" height="auto" width="100%" src="/images/stage1.png">
+</div>
+<p><strong>Stage 2: Developing Foundation</strong>
+</p>
+<p>Students to learn and explore in more than 1 art forms to create, study
+and relate to context of art works and show developing creative works to
+friends.</p>
+<div class="isomer-image-wrapper">
+<img style="width:40%" height="auto" width="100%" src="/images/stage2.png">
+</div>
+<p><strong>Stage 3: Developing Mastery</strong>
+</p>
+<p>Students to apply artistic tools and technique learnt in at least one
+art form to create, articulate connection of works to its context, and
+communicate and realise artistic ideas in a curated showcase.</p>
+<div class="isomer-image-wrapper">
+<img style="width:40%" height="auto" width="100%" src="/images/stage3.png">
+</div>
+<p>The following broadly categorises the arts programmes offered to support
+our students in their arts education development:</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-ilyo">P3</td>
-    <td class="tg-vd2a">Life by the River (Interdisciplinary module)</td>
-  </tr>
-  <tr>
-    <td class="tg-ilyo">P4</td>
-    <td class="tg-vd2a">Museum-based Learning</td>
-  </tr>
-  <tr>
-    <td class="tg-ilyo">P5</td>
-    <td class="tg-vd2a"><span style="background-color:initial">Ceramics;</span><br><span style="background-color:initial">Photography &amp; Animation</span></td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Stage 1 (DISCOVER)</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Stage 2 (DEVELOP)</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Stage 3 (DISPLAY)</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>General Arts Exposure Programmes for All
+<br>PAL-arts (Dance, Music &amp; Visual Art) Dance in PE curriculum</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Art Curriculum
+<br>Music Curriculum
+<br>Minute of Fame (Performing Arts) Art Exhibition (in-house) ARTSpace</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Visual and Performing Arts CCAs
+<br>Arts Enrichment for Talent Development ArtsFest</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Arts-in-Community</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-![](/images/art%20curriculum.png)
-
-**The Music Curriculum**
-
-In line with MOE’s standards, the Music Education @Oasis aims to:
-
-a.    Develop awareness and appreciation of music in local and global cultures
-
-b.    Develop ability for creative expression and communication through music
-
-c.    Provide the basis to develop an informed and life-long involvement in music
-
-  
-
-Music lessons @Oasis studies music and its cultural contexts in different time and location, gives students the tools to access music technically and intuitively, and play several instruments. The 3 artistic processes – Connecting, Creating and Communicating – undergird the classroom pedagogy. Students are _connecting_ by analyzing meaning and relating musical ideas to its context, _creating_ by imagining and developing new musical ideas, and _communicating_ by presenting their musical ideas through in-progress performances.
-
-To help our students make more sensitive connections between Music and their daily living, an interdisciplinary approach has also been incorporated into the curriculum. Information and Communication Technology (ICT) has been infused in the teaching pedagogy not only for students to develop self-directedness in their learning, but also skillful users of technology tools in Music-making.
-
-**Curriculum Module Highlights**
-
-
-To deepen our students’ Music learning in a particular craft and/or create and/or more sensitive connections between Music and their daily living, the following programmes are implemented in the curriculum:
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ilyo{background-color:#FFF;color:#002D46;text-align:center;vertical-align:top}
-.tg .tg-vd2a{background-color:#FFF;color:#002D46;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-ilyo">P1</th>
-    <th class="tg-vd2a">Boomwhackers</th>
-  </tr>
-</thead>
+<h3>Key Programmes</h3>
+<p><strong>The Art Curriculum</strong>
+</p>
+<p>In line with MOE’s standards, the Art Education @Oasis aims to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Develop students to be visually literate to observe, understand and make
+meaning of what they see; and to communicate their ideas by using and creating
+visuals.</p>
+</li>
+<li>
+<p>Develop an appreciation for art by seeing the value and recognising the
+relevance of art in their lives.</p>
+</li>
+</ul>
+<p>Art lessons @Oasis studies a huge range of artists’ works and its cultural
+contexts in different time period and location, gives students the tools
+to access art not just intuitively but also technically. The 3 artistic
+processes – Connecting, Creating and Communicating – undergird the classroom
+pedagogy and is in line with the skills and values standards in the MOE
+Art syllabus. Students are&nbsp;<em>connecting</em>&nbsp;by analyzing meaning
+and relating artistic ideas to its context,&nbsp;<em>creating</em>&nbsp;by
+imagining and developing new artistic ideas, and&nbsp;<em>communicating</em>&nbsp;by
+presenting their artistic ideas and works through in-progress classroom
+gallery displays or exhibitions.</p>
+<p>Information and Communication Technology (ICT) has been infused in the
+teaching pedagogy not only for students to develop self-directedness in
+their learning, but also skillful users of technology tools in Art-learning.</p>
+<p><strong>Curriculum Module Highlights</strong>
+</p>
+<p>To deepen our students’ Art learning in a particular craft and/or create
+and/or more sensitive connections between Art and their daily living, the
+following programmes are implemented in the curriculum:</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-ilyo">P2</td>
-    <td class="tg-vd2a">Orff Instruments<br>A Colourful Food Culture (Interdisciplinary Module)</td>
-  </tr>
-  <tr>
-    <td class="tg-ilyo">P3</td>
-    <td class="tg-vd2a">Keyboard Mania (Beginner)</td>
-  </tr>
-  <tr>
-    <td class="tg-ilyo">P4</td>
-    <td class="tg-vd2a"><span style="font-weight:normal;color:#002D46">Ukulele</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ilyo">P5</td>
-    <td class="tg-vd2a">Keyboard Pop (Intermediate);<br>Media Literacy Project (Interdisciplinary Module)</td>
-  </tr>
-  <tr>
-    <td class="tg-ilyo">P6</td>
-    <td class="tg-vd2a">Digital Music</td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>P2</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>A Colourful Food Culture (Interdisciplinary module)</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Life by the River (Interdisciplinary module)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Museum-based Learning</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ceramics;
+<br>Photography &amp; Animation</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-![](/images/music%20curriculum.png)
-
-### Achievements
-
-**Students**
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-cly1{text-align:left;vertical-align:middle}
-.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-nrix{text-align:center;vertical-align:middle}
-.tg .tg-y24x{color:#002D46;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-amwm">Year<br></th>
-    <th class="tg-amwm">Event<br></th>
-    <th class="tg-amwm">Award<br></th>
-  </tr>
-</thead>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Aesthetics/photo5.jpg">
+</div>
+<p><strong>The Music Curriculum</strong>
+</p>
+<p>In line with MOE’s standards, the Music Education @Oasis aims to:</p>
+<p>a.&nbsp;&nbsp; &nbsp;Develop awareness and appreciation of music in local
+and global cultures</p>
+<p>b.&nbsp;&nbsp; &nbsp;Develop ability for creative expression and communication
+through music</p>
+<p>c.&nbsp;&nbsp; &nbsp;Provide the basis to develop an informed and life-long
+involvement in music</p>
+<p>Music lessons @Oasis studies music and its cultural contexts in different
+time and location, gives students the tools to access music technically
+and intuitively, and play several instruments. The 3 artistic processes
+– Connecting, Creating and Communicating – undergird the classroom pedagogy.
+Students are&nbsp;<em>connecting</em>&nbsp;by analyzing meaning and relating
+musical ideas to its context,&nbsp;<em>creating</em>&nbsp;by imagining
+and developing new musical ideas, and&nbsp;<em>communicating</em>&nbsp;by
+presenting their musical ideas through in-progress performances.</p>
+<p>To help our students make more sensitive connections between Music and
+their daily living, an interdisciplinary approach has also been incorporated
+into the curriculum. Information and Communication Technology (ICT) has
+been infused in the teaching pedagogy not only for students to develop
+self-directedness in their learning, but also skillful users of technology
+tools in Music-making.</p>
+<p><strong>Curriculum Module Highlights</strong>
+</p>
+<p>To deepen our students’ Music learning in a particular craft and/or create
+and/or more sensitive connections between Music and their daily living,
+the following programmes are implemented in the curriculum:</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-nrix">2021<br></td>
-    <td class="tg-cly1">SOTA Arts Development Award<br></td>
-    <td class="tg-y24x"><span style="background-color:initial">(DANCE) Foo Chananchida Calista (4 Resilience)</span><br><span style="background-color:initial">(ART) Kasey Neo Xuan Le (4 Resilience)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-nrix" rowspan="3">2019<br></td>
-    <td class="tg-cly1">SYF Art Exhibition<br></td>
-    <td class="tg-y24x"><span style="background-color:initial">Certificate of Recognition</span><br><span style="background-color:initial">(Art piece selected for exhibition at National Gallery and AST)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-y24x"><span style="background-color:initial">East Zone Music Warriors</span><br><span style="background-color:initial">For Primary Schools</span></td>
-    <td class="tg-cly1">Certificate of Participation<br></td>
-  </tr>
-  <tr>
-    <td class="tg-y24x"><span style="background-color:initial">East Zone Music Competition</span><br><span style="background-color:initial">(Piano And Singing Category)</span></td>
-    <td class="tg-cly1">Certificate of Participation<br></td>
-  </tr>
-  <tr>
-    <td class="tg-nrix">2018<br></td>
-    <td class="tg-0lax">SYF Arts Presentation (Dance)<br></td>
-    <td class="tg-0lax">Certificate of Accomplishment<br></td>
-  </tr>
-  <tr>
-    <td class="tg-nrix">2017<br></td>
-    <td class="tg-cly1">SYF ART Exhibition<br></td>
-    <td class="tg-y24x"><span style="background-color:initial">Certificate of Recognition</span><br><span style="background-color:initial">(Artwork showcased at the SYF Art Exhibition at Scape)</span></td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>P1</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Boomwhackers</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Orff Instruments
+<br>A Colourful Food Culture (Interdisciplinary Module)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Keyboard Mania (Beginner)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ukulele</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Keyboard Pop (Intermediate);
+<br>Media Literacy Project (Interdisciplinary Module)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Digital Music</p>
+</td>
+</tr>
 </tbody>
 </table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Aesthetics/photo6.jpg">
+</div>
+<h3>Annual Arts Fest</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aesthetics/photo11.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aesthetics/photo12.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aesthetics/photo13.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aesthetics/photo14.png">
+</div>
+<h3>Achievements</h3>
+<p><strong>Students</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Year</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Event</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Award</p>
+</th>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF Art Presentation (Contemporary Dance)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Distinction</p>
+<p>(Piece selected to perform at Civil Service Week Celebration SPARK at
+ITE College Central)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SYF Arts Presentation (Guzheng Ensemble)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SYF Arts Presentation (Guitar Ensemble)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF Art Exhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Recognition</p>
+<p>(Art piece selected for exhibition at Stamford Art Center with presentation
+to GOH)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2021
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SOTA Arts Development Award
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>(DANCE) Foo Chananchida Calista (4 Resilience)
+<br>(ART) Kasey Neo Xuan Le (4 Resilience)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>2019
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF Art Exhibition
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Recognition
+<br>(Art piece selected for exhibition at National Gallery and AST)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>East Zone Music Warriors For Primary Schools</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Participation
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>East Zone Music Competition (Piano And Singing Category)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Participation
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2018
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF Arts Presentation (Dance)
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2017
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF ART Exhibition
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Recognition
+<br>(Artwork showcased at the SYF Art Exhibition at Scape)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
