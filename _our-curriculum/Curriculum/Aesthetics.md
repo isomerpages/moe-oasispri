@@ -353,8 +353,37 @@ the following programmes are implemented in the curriculum:</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="3" colspan="1">
 <p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF Art Presentation (Contemporary Dance)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Distinction</p>
+<p>(Piece selected to perform at Civil Service Week Celebration SPARK at
+ITE College Central)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SYF Arts Presentation (Guzheng Ensemble)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SYF Arts Presentation (Guitar Ensemble)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SYF Art Exhibition</p>
@@ -363,17 +392,6 @@ the following programmes are implemented in the curriculum:</p>
 <p>Certificate of Recognition</p>
 <p>(Art piece selected for exhibition at Stamford Art Center with presentation
 to GOH)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
