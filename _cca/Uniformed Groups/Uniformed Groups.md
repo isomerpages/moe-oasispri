@@ -3,7 +3,9 @@ title: Uniformed Groups
 permalink: /our-curriculum/co-curricular-activities/uniformed-groups/
 description: ""
 third_nav_title: Uniformed Groups
+variant: tiptap
 ---
-<a href="https://staging.d6400o65xh90r.amplifyapp.com/our-curriculum/co-curricular-activities/uniformed-groups/scouts/">
-<img src="/images/scouts.png" alt="scouts" style="width:70%">
-</a>
+<div class="isomer-image-wrapper">
+<img style="width:70%" height="auto" width="100%" alt="scouts" src="/images/scouts.png">
+</div>
+<p></p>
