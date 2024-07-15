@@ -2,175 +2,362 @@
 title: CCA Schedule 2024
 permalink: /our-curriculum/co-curricular-activities/cca-schedule/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-dzgf{background-color:#FFF;color:#002D46;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-h1v5{background-color:#FFF;color:#0000FF;font-size:15px;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-ilyo{background-color:#FFF;color:#002D46;text-align:center;vertical-align:middle}
-.tg .tg-vd2a{background-color:#FFF;color:#002D46;text-align:left;vertical-align:middle}
-
-</style>
-<table class="tg">
-	<thead>
-   <tr><td class="tg-h1v5" colspan="3">
-	</td>
-		</tr><tr>
-	  <th class="tg-h1v5" style="text-align: center;"></th>
-	  <th class="tg-h1v5" style="text-align: center;">Tuesday</th>
-	  <th class="tg-h1v5" style="text-align: center;">Friday</th>
-  </tr>
-</thead>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-	  <tr><td class="tg-h1v5" rowspan="4">Sports</td>
-    <td class="tg-vd2a">Badminton (Group 1 &amp; 2)</td>
-    <td class="tg-vd2a">Badminton (Group 1 only)</td>
-  </tr>
-  <tr>
-    <td class="tg-vd2a">Hockey</td>
-    <td class="tg-vd2a">Hockey</td>
-  </tr>
-  <tr>
-    <td class="tg-vd2a">Wushu</td>
-    <td class="tg-vd2a">Table Tennis</td>
-  </tr>
-  <tr>
-    <td class="tg-vd2a">Modular Sports P5 and P6<br>Sports Climbing</td>
-    <td class="tg-vd2a">Modular Sports P4<br>Modular Sports P3 (only in Term 3 &amp; Term 4)<br>Football (Girls)</td>
- </tr>
-  <tr>
-    <td class="tg-h1v5" rowspan="1">Performing Arts</td>
-    <td class="tg-vd2a">Comptemporary Dance<br>Guzheng<br>Guitar Club</td>
-    <td class="tg-vd2a">Comptemporary Dance<br>Guzheng<br>--</td>
-  </tr>
-  <tr>
-		<td class="tg-h1v5" rowspan="1">Visual Arts</td>
-    <td class="tg-vd2a">--</td>
-    <td class="tg-vd2a">Art Club</td>
-  </tr>
-  <tr>
-		<td class="tg-h1v5" rowspan="1">Uniformed Group</td>
-    <td class="tg-vd2a">Scouts</td>
-    <td class="tg-vd2a">--</td>
-  </tr>
-  <tr>
-		<td class="tg-h1v5" rowspan="1">Clubs &amp; Societies</td>
-    <td class="tg-vd2a">Drama Club<br>ICT Club<br>--</td>
-    <td class="tg-vd2a">LCC<br>Media Club<br>Greenmakers Club</td>
-  </tr><tr>
-</tr></tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Tuesday</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Friday</p>
+</th>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p><strong>Sports</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Badminton (Group 1 &amp; 2)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Badminton (Group 1 only)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hockey</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hockey</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wushu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Table Tennis</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Modular Sports P5 and P6
+<br>Sports Climbing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Modular Sports P4
+<br>Modular Sports P3 (only in Term 3 &amp; Term 4)
+<br>Football (Girls)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Performing Arts</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Comptemporary Dance
+<br>Guzheng
+<br>Guitar Club</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Comptemporary Dance
+<br>Guzheng
+<br>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Visual Arts</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Art Club</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Uniformed Group</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Scouts</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Clubs &amp; Societies</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Drama Club
+<br>ICT Club
+<br>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LCC
+<br>Media Club
+<br>Greenmakers Club</p>
+</td>
+</tr>
+</tbody>
 </table>
-
-<table class="tg">
-<thead>
-   <tr><td class="tg-h1v5" colspan="4"><br>CCAs are conducted on Tuesdays or/and Fridays from 2.00 p.m. to 4.00 p.m.
-	</td>
-		</tr><tr>
-	  <th class="tg-h1v5" style="text-align: center;">Category</th>
-    <th class="tg-h1v5" style="text-align: center;">CCA</th>
-    <th class="tg-h1v5" style="text-align: center;">OIC</th>
-    <th class="tg-h1v5" style="text-align: center;">2IC</th>
-  </tr>
-</thead>
+<hr>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-h1v5" rowspan="7">Sports</td>
-    <td class="tg-vd2a">Badminton *</td>
-    <td class="tg-vd2a">Mr Farhan</td>
-    <td class="tg-vd2a">Ms Stacey Koh</td>
-  </tr>
-  <tr>
-    <td class="tg-vd2a">Hockey (Boys) *</td>
-    <td class="tg-vd2a">Mr Aizad</td>
-    <td class="tg-vd2a">Mr Jonathan Boey</td>
-  </tr>
-  <tr>
-    <td class="tg-vd2a">Modular Sports</td>
-    <td class="tg-vd2a">Mr Yeo Yungsen</td>
-    <td class="tg-vd2a">Ms Vong</td>
-  </tr>
-  <tr>
-    <td class="tg-vd2a">Table Tennis *</td>
-    <td class="tg-vd2a">Mrs Rosenna Seah</td>
-    <td class="tg-vd2a">Mrs Alan Yeo</td>
-  </tr>
-  <tr>
-    <td class="tg-vd2a">Wushu</td>
-    <td class="tg-vd2a">Ms Zheng Rui</td>
-    <td class="tg-vd2a">Mdm Cheng Yingying</td>
-	</tr>
-  <tr>
-    <td class="tg-vd2a">Sports Climbing</td>
-    <td class="tg-vd2a">Mr Effendi</td>
-    <td class="tg-vd2a">Mdm Florence Ngu</td>
-	</tr>
-  <tr>
-    <td class="tg-vd2a">Football (Girls)</td>
-    <td class="tg-vd2a">Mr Hamzah</td>
-    <td class="tg-vd2a">Mdm Maziyah</td>
-  </tr>
-  <tr>
-    <td class="tg-h1v5" rowspan="5">Performing Arts<br>Visual Arts</td>
-    <td class="tg-vd2a">Guitar Club **</td>
-    <td class="tg-vd2a">Ms Sindy Lai</td>
-    <td class="tg-vd2a">Mrs Ng Wei Wei</td>
-  </tr>
-  <tr>
-    <td class="tg-vd2a">Drama</td>
-    <td class="tg-vd2a">Mdm Norizah</td>
-    <td class="tg-vd2a">Ms Haslinda</td>
-  </tr>
-  <tr>
-    <td class="tg-vd2a">Contemporary Dance *</td>
-    <td class="tg-vd2a">Ms Joyce Chew</td>
-    <td class="tg-vd2a">Ms Safeenah</td>
-  </tr>
-  <tr>
-    <td class="tg-vd2a">Ensemble - Guzheng *</td>
-    <td class="tg-vd2a">Ms Yan Xiaojing</td>
-    <td class="tg-vd2a">Ms Wang Yuwei</td>
-  </tr>
-  <tr>
-    <td class="tg-vd2a">Art Club **</td>
-    <td class="tg-vd2a">Mdm Pang Ming Ing</td>
-    <td class="tg-vd2a">Ms Stacey Kim</td>
-  </tr>
-  <tr>
-    <td class="tg-h1v5" rowspan="4">Clubs &amp; Societies</td>
-    <td class="tg-vd2a">Greenmakers Club</td>
-    <td class="tg-vd2a">Mdm Ahadrina</td>
-    <td class="tg-vd2a">Mrs Lau Peixia</td>
-  </tr>
-  <tr>
-    <td class="tg-vd2a">ICT (Robotics/Coding)</td>
-    <td class="tg-vd2a">Mdm Hafizah</td>
-    <td class="tg-vd2a">Mdm Atika</td>
-  </tr>
-  <tr>
-    <td class="tg-vd2a">Media Club</td>
-    <td class="tg-vd2a">Ms Goh Wan Yu</td>
-    <td class="tg-vd2a">Ms Cassandra Goh</td>
-  </tr>
-  <tr>
-    <td class="tg-vd2a">Language and<br>Cultural Club (LCC)</td>
-    <td class="tg-vd2a">Mdm Ho Huan Xin</td>
-    <td class="tg-vd2a">Ms Phoebe Tan</td>
-  </tr>
-  <tr>
-    <td class="tg-h1v5">Uniformed Group</td>
-    <td class="tg-vd2a">Scouts</td>
-    <td class="tg-vd2a">Mr Faris Fong</td>
-    <td class="tg-vd2a">Mdm Aisah</td>
-  </tr><tr>
-</tr></tbody>
+<tr>
+<td rowspan="1" colspan="4">
+<p><strong>CCAs are conducted on Tuesdays or/and Fridays from 2.00 p.m. to 4.00 p.m.</strong>
+</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Category</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>CCA</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>OIC</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>2IC</p>
+</th>
+</tr>
+<tr>
+<td rowspan="7" colspan="1">
+<p><strong>Sports</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Badminton *</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Farhan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Stacey Koh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hockey (Boys) *</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Aizad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Jonathan Boey</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Modular Sports</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Yeo Yungsen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Vong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Table Tennis *</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Rosenna Seah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Alan Yeo</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wushu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Zheng Rui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Cheng Yingying</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sports Climbing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Effendi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Florence Ngu</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Football (Girls)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Hamzah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Maziyah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="5" colspan="1">
+<p><strong>Performing Arts<br>Visual Arts</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Guitar Club **</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Sindy Lai</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Ng Wei Wei</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Drama</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Norizah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Haslinda</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Contemporary Dance *</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Joyce Chew</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Safeenah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ensemble - Guzheng *</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Yan Xiaojing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Wang Yuwei</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Art Club **</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Pang Ming Ing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Stacey Kim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p><strong>Clubs &amp; Societies</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Greenmakers Club</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Ahadrina</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Lau Peixia</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ICT (Robotics/Coding)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Hafizah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Atika</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Media Club</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Goh Wan Yu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Cassandra Goh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Language and
+<br>Cultural Club (LCC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Ho Huan Xin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Phoebe Tan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Uniformed Group</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Scouts</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Faris Fong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Aisah</p>
+</td>
+</tr>
+</tbody>
 </table>
-
-**Note:**  
-*Only Badminton, Hockey, Contemporary Dance and Guzheng will have a second session on Friday throughout the year to prepare the students potentially going for National School Games or Singapore Youth Festival Arts Presentation.
-
-** Guitar Club and Art Club will only have a second session on Friday in the lead-up months to Singapore Youth Festival Arts Presentation.
+<hr>
+<p><strong><u>Note</u>:</strong>
+<br>*Only Badminton, Hockey, Contemporary Dance and Guzheng will have a second
+session on Friday throughout the year to prepare the students potentially
+going for National School Games or Singapore Youth Festival Arts Presentation.</p>
+<p>** Guitar Club and Art Club will only have a second session on Friday
+in the lead-up months to Singapore Youth Festival Arts Presentation.</p>
