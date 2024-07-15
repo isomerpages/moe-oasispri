@@ -127,6 +127,14 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>ICT Trainer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Devetharan</p>
+</td>
+</tr>
+<tr>
 <td rowspan="2" colspan="1">
 <p>Desktop Engineer</p>
 </td>
@@ -141,26 +149,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ICT Trainer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Devetharan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Lab Assistant</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Satyavathi</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Library Assistant</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Frannie Chung</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Science Lab Assistant</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Satyavathi</p>
 </td>
 </tr>
 </tbody>
