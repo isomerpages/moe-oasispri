@@ -127,6 +127,14 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>ICT Trainer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Devetharan</p>
+</td>
+</tr>
+<tr>
 <td rowspan="2" colspan="1">
 <p>Desktop Engineer</p>
 </td>
@@ -137,14 +145,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Harul</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ICT Trainer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Devetharan</p>
 </td>
 </tr>
 <tr>
