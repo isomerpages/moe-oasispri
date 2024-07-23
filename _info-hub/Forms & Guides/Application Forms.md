@@ -35,13 +35,9 @@ school-based Student Care Centre), in Singapore or elsewhere, participating
 in school-related activities, including Co-Curricular Activities (CCA)
 and sports.</p>
 <p>For more details on the GPA Plan, please refer to this&nbsp;<a href="/files/5A%20GPA%20Plan%20Product%20Fact%20Sheet%20Dec2018.pdf" rel="noopener noreferrer nofollow" target="_blank">link</a>.</p>
-<p>Parents may submit the GPA insurance claim online (eSubmission) or manually
-(through school).</p>
+<p>Parents may submit the GPA insurance claim online (eSubmission).</p>
 <p>Click&nbsp;<a href="https://www.income.com.sg/claims/group-insurance/group-personal-accident-for-students-claim" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
 see how to submit an insurance claim online.</p>
-<p>For manual submission, the&nbsp;<a href="/files/5B%20Claim%20form%20for%20Group%20Personal%20Accident%20GPA%20Insurance%20Plan%20for%20Students_Jan%202019%201.pdf" rel="noopener noreferrer nofollow" target="_blank">Claim Form</a>&nbsp;can
-be downloaded via NTUC Income’s website. Please note that this form requires
-the signature of authorised staff of the School and School's stamp.</p>
 <h3>Student Wait List</h3>
 <p>For Singapore Citizen/Singapore Permanent Resident pupils who wish to
 apply for a place in Oasis Primary School, please click <a href="/files/Student_Wait_List_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
