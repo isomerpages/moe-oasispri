@@ -8,8 +8,7 @@ variant: tiptap
 <h5><strong>School Bus Services</strong></h5>
 <p><strong>BT &amp; TAN Transport Pte Ltd<br></strong>Contact Number: 6483
 7260</p>
-<p><strong>Bus fares applicable from 1 January 2024 to 31 December 2025:</strong>
-<br>
+<p><strong>Bus fares applicable from 1 January 2024 to 31 December 2024:</strong>
 </p>
 <table style="minWidth: 125px">
 <colgroup>
@@ -22,23 +21,13 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Distance
-<br>
-</p>
+<p>Distance</p>
 </th>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="2">
 <p>Up to 15-seater</p>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="2">
 <p>&gt; 15-seater</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>
-<br>
-</p>
 </th>
 </tr>
 <tr>
@@ -120,23 +109,6 @@ variant: tiptap
 <p>$190
 <br>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
