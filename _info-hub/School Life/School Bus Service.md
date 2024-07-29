@@ -21,23 +21,13 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Distance
-<br>
-</p>
+<p>Distance</p>
 </th>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="2">
 <p>Up to 15-seater</p>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="2">
 <p>&gt; 15-seater</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>
-<br>
-</p>
 </th>
 </tr>
 <tr>
