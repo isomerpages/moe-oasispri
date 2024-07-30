@@ -200,7 +200,7 @@ variant: tiptap
 <p>Ms Tham Hui Xia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Huang Rui</p>
+<p>Ms Huang Rui</p>
 </td>
 </tr>
 <tr>

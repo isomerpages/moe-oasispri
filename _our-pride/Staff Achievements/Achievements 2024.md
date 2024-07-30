@@ -12,8 +12,8 @@ Institute of Education (NIE), Nanyang Technological University, Singapore.
 Our staff partnered faculty from the Centre for Research in Pedagogy and
 Practice, NIE, to &nbsp;co-present a symposium titled “Sustaining idea-centric
 pedagogy through a Knowledge Building Community approach”.</p>
-<p>Congratulations to Mrs Melissa Wee, Mr Elwirandi, Mdm Christine Huang
-Rui, Mrs Norhazlinda Sham and Mdm Liyana for your commitment to educational
+<p>Congratulations to Mrs Melissa Wee, Mr Elwirandi, Ms Christine Huang Rui,
+Mrs Norhazlinda Sham and Mdm Liyana for your commitment to educational
 excellence and for your contributions in line with the conference’s theme
 of “Growing future-ready teachers and learners”!</p>
 <div class="isomer-image-wrapper">
