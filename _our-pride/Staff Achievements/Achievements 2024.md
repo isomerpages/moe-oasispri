@@ -7,8 +7,6 @@ third_nav_title: Staff Achievements
 ---
 <h4><strong>The 28<sup>th</sup> Global Chinese Conference on Computer in Education</strong></h4>
 <p></p>
-<p></p>
-<p></p>
 <p>Senior Teacher, Ms. Christine Huang Rui, presented a sharing titled <strong>“Utilize peer assessment and feedback in knowledge forums to enhance the writing skills of high readiness students</strong>”
 at the 28<sup>th</sup> Global Chinese Conference on Computer in Education
 Conference.&nbsp;</p>
