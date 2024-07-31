@@ -5,6 +5,24 @@ variant: tiptap
 description: ""
 third_nav_title: Staff Achievements
 ---
+<h4><strong>The 28<sup>th</sup> Global Chinese Conference on Computer in Education</strong></h4>
+<p></p>
+<p></p>
+<p></p>
+<p>Senior Teacher, Ms. Christine Huang Rui, presented a sharing titled <strong>“Utilize peer assessment and feedback in knowledge forums to enhance the writing skills of high readiness students</strong>”
+at the 28<sup>th</sup> Global Chinese Conference on Computer in Education
+Conference.&nbsp;</p>
+<p>The Global Chinese Conference on Computers in Education (GCCCE) was founded
+in May 1997 which is an annual event for Chinese and non-Chinese scholars,
+educators and policy makers to share and exchange the latest research findings
+in the field of computer education applications. The 28th Global Conference
+on Chinese Computer Education Applications (GCCCE 2024) took place from
+June 1 to June 5, 2024, at Southwest University, China. In response to
+the advent of the artificial intelligence era and its impact on digital
+learning environments, the theme of this year's conference is “Reshaping
+the Future Learning Spaces with Intelligent Learning Environments".</p>
+<p>Ms Huang’s sharing was well-received by the delegates at the conference
+who attended she sharing session.</p>
 <h4><strong>Reimagining Pedagogy International Conference 2024</strong></h4>
 <p>The Redesigning Pedagogy International Conference (RPIC), which took place
 from 28 May to 30 May 2024, is a flagship conference hosted by the National
