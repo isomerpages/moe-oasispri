@@ -22,7 +22,7 @@ the advent of the artificial intelligence era and its impact on digital
 learning environments, the theme of this year's conference is “Reshaping
 the Future Learning Spaces with Intelligent Learning Environments".</p>
 <p>Ms Huang’s sharing was well-received by the delegates at the conference
-who attended the sharing session.</p>
+who attended her sharing session.</p>
 <h4><strong>Reimagining Pedagogy International Conference 2024</strong></h4>
 <p>The Redesigning Pedagogy International Conference (RPIC), which took place
 from 28 May to 30 May 2024, is a flagship conference hosted by the National
