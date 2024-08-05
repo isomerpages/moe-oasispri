@@ -21,7 +21,7 @@ June 1 to June 5, 2024, at Southwest University, China. In response to
 the advent of the artificial intelligence era and its impact on digital
 learning environments, the theme of this year's conference is “Reshaping
 the Future Learning Spaces with Intelligent Learning Environments".</p>
-<p>Ms Huang’s sharing was well-received by the delegates at the conference
+<p>Ms. Huang’s sharing was well-received by the delegates at the conference
 who attended her sharing session.</p>
 <h4><strong>Reimagining Pedagogy International Conference 2024</strong></h4>
 <p>The Redesigning Pedagogy International Conference (RPIC), which took place
