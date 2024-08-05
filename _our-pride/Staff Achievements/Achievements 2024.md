@@ -9,7 +9,7 @@ third_nav_title: Staff Achievements
 <div class="isomer-image-wrapper">
 <img style="width: 15%;" height="auto" width="100%" alt="" src="/images/MTL/huangrui.png">
 </div>
-<p>Senior Teacher, Ms. Christine Huang Rui, presented a sharing titled <strong>“Utilize peer assessment and feedback in knowledge forums to enhance the writing skills of high readiness students</strong>”
+<p>Senior Teacher, Ms. Christine Huang Rui, presented a sharing titled “<strong>Utilize peer assessment and feedback in knowledge forums to enhance the writing skills of high readiness students</strong>”
 at the 28<sup>th</sup> Global Chinese Conference on Computer in Education
 Conference.&nbsp;</p>
 <p>The Global Chinese Conference on Computers in Education (GCCCE) was founded
@@ -21,7 +21,7 @@ June 1 to June 5, 2024, at Southwest University, China. In response to
 the advent of the artificial intelligence era and its impact on digital
 learning environments, the theme of this year's conference is “Reshaping
 the Future Learning Spaces with Intelligent Learning Environments".</p>
-<p>Ms Huang’s sharing was well-received by the delegates at the conference
+<p>Ms. Huang’s sharing was well-received by the delegates at the conference
 who attended her sharing session.</p>
 <h4><strong>Reimagining Pedagogy International Conference 2024</strong></h4>
 <p>The Redesigning Pedagogy International Conference (RPIC), which took place
