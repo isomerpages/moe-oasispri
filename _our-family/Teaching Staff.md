@@ -141,8 +141,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>Year Head: </strong>Mrs Mey See
-<br><strong>Assistant Year Head: </strong>Ms Ong Wei Peng</p>
+<p><strong>Year Head: </strong>Mrs Mey See</p>
 </td>
 </tr>
 <tr>
