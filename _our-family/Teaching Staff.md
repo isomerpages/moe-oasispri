@@ -142,7 +142,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="3">
 <p><strong>Year Head: </strong>Mrs Mey See</p>
-<p><strong>Assistant Year Head: </strong>-</p>
 </td>
 </tr>
 <tr>
@@ -265,7 +264,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="3">
 <p><strong>Year Head: </strong>Mrs Sharon Teo</p>
-<p><strong>Assistant Year Head: </strong>-</p>
 </td>
 </tr>
 <tr>
@@ -377,7 +375,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="3">
 <p><strong>Year Head: </strong>Mrs Sharon Teo</p>
-<p><strong>Assistant Year Head: </strong>-</p>
 </td>
 </tr>
 <tr>
