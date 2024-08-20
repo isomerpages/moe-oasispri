@@ -5,6 +5,23 @@ variant: tiptap
 description: ""
 third_nav_title: Staff Achievements
 ---
+<h3><strong>2024 National Day Awards</strong></h3>
+<p>The Commendation Medal is awarded to a person who has distinguished himself
+through commendable performance and conduct, or significant efficiency,
+competence and devotion to duty.</p>
+<p>The Long Service Medal is awarded to a person who is of irreproachable
+character and whom the President is satisfied has completed at least 25
+years service in the service of the Government.</p>
+<p></p>
+<p><strong>The Commendation Medal</strong>
+</p>
+<p>Mrs Sharon Teo</p>
+<p>Ms Pauline Ng</p>
+<p></p>
+<p><strong>The Long Service Medal</strong>
+</p>
+<p>Ms Lee Kai Sin</p>
+<p></p>
 <h4><strong>The 28<sup>th</sup> Global Chinese Conference on Computer in Education</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 15%;" height="auto" width="100%" alt="" src="/images/MTL/huangrui.png">
