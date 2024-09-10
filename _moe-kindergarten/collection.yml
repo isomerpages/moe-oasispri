@@ -2,6 +2,7 @@ collections:
   moe-kindergarten:
     output: true
     order:
+      - Celebrating 10 Years with MOE Kindergarten.md
       - Our Vision, Mission & Values.md
       - What We Offer.md
       - Our Team.md
