@@ -8,10 +8,7 @@ description: ""
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/YYlLJigxHX4?si=azaBJpmj4u4NvsnG&amp;start=4"></iframe>
 </div>
-<h4>How Did We Celebrate MK’s 10<sup>th</sup> Anniversary</h4>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/1xnbcAPd6M8?si=M2RPAkNb7SZ4shNh&amp;start=7"></iframe>
-</div>
+<h4><a href="https://drive.google.com/file/d/1BeSyzh55reAAp9r4_CXfPiffHYOooX29/view?usp=sharing" rel="noopener nofollow" target="_blank">How Did We Celebrate MK’s 10th Anniversary</a></h4>
 <h4>Transition to P1 Programme</h4>
 <p><strong><em>The transition from preschool to primary school is one of the largest and most important changes children have to encounter &amp; manage at that age.</em></strong>
 </p>
