@@ -32,8 +32,7 @@ variant: tiptap
 <p>18 October 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Halal or Non-Halal</p>
-<p>(open to proposal)</p>
+<p>Halal or Non-Halal (open to proposal)</p>
 </td>
 </tr>
 <tr>
@@ -44,8 +43,7 @@ variant: tiptap
 <p>18 October 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Halal or Non-Halal</p>
-<p>(open to proposal)</p>
+<p>Halal or Non-Halal (open to proposal)</p>
 </td>
 </tr>
 </tbody>
