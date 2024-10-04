@@ -28,10 +28,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Halal or Non-Halal stall for Korean/ Japanese</p>
 </td>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p>18 October 2024</p>
 </td>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Halal or Non-Halal</p>
 <p>(open to proposal)</p>
 </td>
@@ -39,6 +39,13 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Halal stall or Non-Halal for Chicken Rice</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>18 October 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Halal or Non-Halal</p>
+<p>(open to proposal)</p>
 </td>
 </tr>
 </tbody>
