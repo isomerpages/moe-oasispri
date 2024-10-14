@@ -7,9 +7,9 @@ variant: tiptap
 ---
 <h3>MOE Financial Assistance Scheme 2025(FAS)</h3>
 <p>Please visit MOE's official website&nbsp;<a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
-more information.&nbsp; You may also access the e-FAS form which is available
+more information.&nbsp; You may also access the e-FAS form, which is available
 on Parents Gateway (under Services tab -&gt; Financial Assistance) or via
-this link <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efas</a>.
+this <a href="https://form.gov.sg/6666a548f71e023bcbe7c9b7" rel="noopener nofollow" target="_blank">https://go.gov.sg/moe-efas</a> 
 <br><em>(updated as of 14th October 2024)</em>
 </p>
 <h3>NEU PC Plus</h3>
