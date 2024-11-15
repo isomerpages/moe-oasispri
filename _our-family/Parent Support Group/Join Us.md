@@ -5,8 +5,6 @@ description: ""
 third_nav_title: Parent Support Group
 variant: markdown
 ---
-         
-
 Seize the opportunity to join us! Through our work, we will be closer to our children, understand them better, and help them in their educational journey.
 
 As parents, we can:
