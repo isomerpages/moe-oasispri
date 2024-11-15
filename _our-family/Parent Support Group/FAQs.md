@@ -7,9 +7,9 @@ variant: markdown
 ---
 **1.&nbsp; How do I sign up for PSG?**
 
-You can drop us an email to&nbsp;[oasis.psgroup@gmail.com](mailto:oasis.psgroup@gmail.com), use this link https://tinyurl.com/PV-Registration-2025, or scan the QR code&nbsp;to register your interest as a Parent Volunteer.
+You can drop us an email to&nbsp;[oasis.psgroup@gmail.com](mailto:oasis.psgroup@gmail.com), use this link &nbsp;https://tinyurl.com/PV-Registration-2025, or scan the QR code&nbsp;to register your interest as a Parent Volunteer.
 
-<img src="/images/scan%20me%20parent.png" style="width:30%">
+![](/images/PSG_2025_Registration.png)
 		 
 **2.&nbsp; What is required to be part of the PSG?**
 
