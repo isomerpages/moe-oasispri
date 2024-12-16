@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 third_nav_title: School Life
 ---
-<h3>School Calendar</h3>
+<h3>School Calendar 2025</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -23,7 +23,7 @@ third_nav_title: School Life
 <p>Term I</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Thu, 2 Jan to Fri, 14 Mar</p>
+<p>Thu 2 Jan to Fri 14 Mar</p>
 </td>
 </tr>
 <tr>
@@ -31,7 +31,7 @@ third_nav_title: School Life
 <p>Term II</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mon, 24 Mar to Fri, 30 May</p>
+<p>Mon 24 Mar to Fri 30 May</p>
 </td>
 </tr>
 <tr>
@@ -45,7 +45,7 @@ third_nav_title: School Life
 <p>Term III</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mon, 30 Jun to Fri, 5 Sep</p>
+<p>Mon 30 Jun to Fri 5 Sep</p>
 </td>
 </tr>
 <tr>
@@ -53,12 +53,12 @@ third_nav_title: School Life
 <p>Term IV</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mon, 15 Sep to Fri, 21 Nov</p>
+<p>Mon 15 Sep to Fri 21 Nov</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h3>School Vacation</h3>
+<h3>School Vacation 2025</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -67,64 +67,45 @@ third_nav_title: School Life
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p>Semester 1
-<br>
-</p>
+<p>Semester 1</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Between Terms I &amp; II
-<br>
-</p>
+<p>Between Terms I &amp; II</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sat, 9 Mar to Sun, 17 Mar
-<br>
-</p>
+<p>Sat 15 Mar to Sun 23 Mar</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Between Semesters I &amp; II
-<br>
-</p>
+<p>Between Semesters I &amp; II</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sat, 25 May to Sun, 23 Jun
-<br>
-</p>
+<p>Sat 31 May to Sun 29 Jun</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Semester 2
-<br>
+<p><strong>Semester 2</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Between Terms III &amp; IV
-<br>
-</p>
+<p>Between Terms III &amp; IV</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sat, 31 Aug to Sun, 8 Sep
-<br>
-</p>
+<p>Sat 6 Sep to Sun 14 Sep</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>At End of School Year
-<br>
-</p>
+<p>At End of School Year</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sat, 16 Nov to Tues, 31 Dec
-<br>
-</p>
+<p>Sat 22 Nov to Wed 31 Dec</p>
 </td>
 </tr>
 </tbody>
