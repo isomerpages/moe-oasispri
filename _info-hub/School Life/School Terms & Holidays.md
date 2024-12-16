@@ -226,12 +226,17 @@ third_nav_title: School Life
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>National Day</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sat 9 Aug</p>
-<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>Mon, 11 Aug will be a school holiday and a designated day off-in-lieu (DOIL). Schools will be closed, including the General Office, Student Care Centres and KCare Centres.</em>
+</p>
 </td>
 </tr>
 <tr>
