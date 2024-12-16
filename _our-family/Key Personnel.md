@@ -69,47 +69,6 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School Staff Developer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Head of Department (English)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Munirah Eszham</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Level Head (English Language)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Carine Sing</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Level Head (English Language &amp; Social Studies)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Phoebe Tan</p>
-</td>
-</tr>
-</tbody>
-</table>
-<hr>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Head of Department (Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -372,5 +331,4 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<hr>
 <p></p>
