@@ -186,18 +186,18 @@ third_nav_title: School Life
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Good Friday</p>
+<p>Hari Raya Puasa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fri, 29 Mar</p>
+<p>Mon 31 Mar</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Hari Raya Puasa</p>
+<p>Good Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wed, 10 Apr</p>
+<p>Fri 18 Apr</p>
 </td>
 </tr>
 <tr>
@@ -205,7 +205,7 @@ third_nav_title: School Life
 <p>Labour Day</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wed, 1 May</p>
+<p>Thu 1 May</p>
 </td>
 </tr>
 <tr>
@@ -213,7 +213,7 @@ third_nav_title: School Life
 <p>Vesak Day</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wed, 22 May</p>
+<p>Mon 12 May</p>
 </td>
 </tr>
 <tr>
