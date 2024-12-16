@@ -59,6 +59,119 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="2">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Staff Developer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Head of Department (English)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Munirah Eszham</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Level Head (English Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Carine Sing</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Level Head (English Language &amp; Social Studies)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Phoebe Tan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Head of Department (Mathematics)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Melissa Wee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Level Head (Mathematic)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Safia Bte Arshad</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Head of Department (Mother Tongue)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Ng Tze Ling</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Level Head (Chinese Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Lyvia Soh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head (Malay Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nurmah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Head of Department (Science)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Teo Si Hui</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Level Head (Science)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Tan-Koh Peck Lian</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -104,9 +217,6 @@ variant: tiptap
 <p></p>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/Staff Photos/group1.jpg">
-</div>
 <div class="isomer-image-wrapper">
 <img style="width:100%" height="auto" width="100%" src="/images/Staff Photos/group2.jpg">
 </div>
