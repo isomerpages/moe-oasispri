@@ -20,4 +20,11 @@ our Oasians continue to flourish and make splashing waves in years to come!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/awardsday2023.jpg">
 </div>
-<p></p>
+<p>&lt;img style="width:100%" src="/images/Staff Photos/kpg3.jpg"&gt;</p>
+<p>&lt;img style="width:100%" src="/images/Staff Photos/group1.jpg"&gt;</p>
+<p>&lt;img style="width:100%" src="/images/Staff Photos/kpg2.jpg"&gt;</p>
+<p>&lt;img style="width:100%" src="/images/Staff Photos/group2.jpg"&gt;</p>
+<p>&lt;img style="width:100%" src="/images/Staff Photos/kpg1.jpg"&gt;</p>
+<p>&lt;img style="width:100%" src="/images/Staff Photos/Group3.jpg"&gt;</p>
+<p>&lt;img style="width:100%" src="/images/Staff Photos/kpg4.jpg"&gt;</p>
+<p>&lt;img style="width:100%" src="/images/Staff Photos/group4.jpg"&gt;</p>
