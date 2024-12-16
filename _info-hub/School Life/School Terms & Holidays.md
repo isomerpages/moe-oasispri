@@ -110,7 +110,7 @@ third_nav_title: School Life
 </tr>
 </tbody>
 </table>
-<h3>Scheduled School Holidays</h3>
+<h3>Scheduled School Holidays 2025</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -119,66 +119,40 @@ third_nav_title: School Life
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Holiday
-<br>
-</p>
+<p>Holiday</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Date
-<br>
-</p>
+<p>Date</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Youth Day
-<br>
-</p>
+<p>Youth Day</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sun, 30 Jun
-<br>(The following Mon, 1 Jul will be a school holiday)</p>
+<p>Sun 6 Jul
+<br>(The following Mon 7 Jul will be a school holiday)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>-
-<br>
-</p>
+<p>Teachers’ Day</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-
-<br>
-</p>
+<p>Fri 5 Sep</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teachers’ Day
-<br>
-</p>
+<p>Children’s Day</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fri, 30 Aug
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Children’s Day
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Fri, 4 Oct
-<br>
-</p>
+<p>Fri 3 Oct</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h3>Public Holidays</h3>
+<h3>Public Holidays 2025</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
