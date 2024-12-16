@@ -117,15 +117,11 @@ third_nav_title: School Life
 <br>@ Edgefield Plains</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>N.A.
-<br>
-</p>
+<p>N.A.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>7.00 a.m. - 7.30 a.m.
-<br>1.30 p.m. - 1.45 p.m.
-<br>
-</p>
+<br>1.30 p.m. - 1.45 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>7.00 a.m. - 7.30 a.m.
@@ -144,15 +140,11 @@ third_nav_title: School Life
 </td>
 <td rowspan="1" colspan="1">
 <p>7.00 a.m. - 7.30 a.m.
-<br>1.30 p.m. - 1.45 p.m.
-<br>
-</p>
+<br>1.30 p.m. - 1.45 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>7.00 a.m. - 7.30 a.m.
-<br>1.00 p.m. - 1.15 p.m.
-<br>
-</p>
+<br>1.00 p.m. - 1.15 p.m.</p>
 </td>
 </tr>
 </tbody>
