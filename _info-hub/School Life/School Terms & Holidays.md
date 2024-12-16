@@ -15,64 +15,45 @@ third_nav_title: School Life
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<p>Semester 1
-<br>
-</p>
+<p>Semester 1</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Term I
-<br>
-</p>
+<p>Term I</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Tue, 2 Jan to Fri, 8 Mar
-<br>
-</p>
+<p>Thu, 2 Jan to Fri, 14 Mar</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Term II
-<br>
-</p>
+<p>Term II</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mon, 18 Mar to Fri, 24 May
-<br>
-</p>
+<p>Mon, 24 Mar to Fri, 30 May</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p>Semester 2
-<br>
+<p><strong>Semester 2</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Term III
-<br>
-</p>
+<p>Term III</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mon, 24 Jun to Fri, 30 Aug
-<br>
-</p>
+<p>Mon, 30 Jun to Fri, 5 Sep</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Term IV
-<br>
-</p>
+<p>Term IV</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mon, 9 Sep to Fri, 15 Nov
-<br>
-</p>
+<p>Mon, 15 Sep to Fri, 21 Nov</p>
 </td>
 </tr>
 </tbody>
