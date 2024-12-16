@@ -263,7 +263,7 @@ variant: tiptap
 <p>Senior Teacher (Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Jonathan Boey</p>
 </td>
 </tr>
 <tr>
@@ -271,7 +271,7 @@ variant: tiptap
 <p>Senior Teacher (English)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Elwirandi</p>
 </td>
 </tr>
 <tr>
@@ -279,7 +279,7 @@ variant: tiptap
 <p>Senior Teacher (Science)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Norhazlinda Sham</p>
 </td>
 </tr>
 <tr>
@@ -287,7 +287,15 @@ variant: tiptap
 <p>Senior Teacher (Chinese)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Christine Huang Rui</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher (Chinese)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Cheng Yingying</p>
 </td>
 </tr>
 <tr>
@@ -295,7 +303,7 @@ variant: tiptap
 <p>Senior Teacher (Art)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Pang Ming Ing</p>
 </td>
 </tr>
 <tr>
@@ -303,7 +311,7 @@ variant: tiptap
 <p>Senior Teacher (Lower Primary)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Beryl Ng</p>
 </td>
 </tr>
 <tr>
@@ -311,7 +319,7 @@ variant: tiptap
 <p>Senior Teacher (Special Education Needs)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Nirmawati</p>
 </td>
 </tr>
 <tr>
@@ -319,7 +327,7 @@ variant: tiptap
 <p>Senior Teacher (Physical Education)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Effendi</p>
 </td>
 </tr>
 <tr>
@@ -327,7 +335,7 @@ variant: tiptap
 <p>Senior Teacher (Educational Support)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Helen Lee</p>
 </td>
 </tr>
 </tbody>
