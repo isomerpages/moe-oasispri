@@ -197,7 +197,7 @@ variant: tiptap
 <p>Head of Department (Character &amp; Citizenship Education)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Ivan Ho</p>
 </td>
 </tr>
 <tr>
@@ -205,7 +205,7 @@ variant: tiptap
 <p>Subject Head (Character Development)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Teo Mei Geok</p>
 </td>
 </tr>
 <tr>
@@ -213,7 +213,7 @@ variant: tiptap
 <p>Subject Head (Student Leadership)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Celeste Yap</p>
 </td>
 </tr>
 <tr>
@@ -221,7 +221,36 @@ variant: tiptap
 <p>Subject Head (Student Well-Being)</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ms Nur Fa'izah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Head of Department (Physical Education &amp; Aesthetics)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Alan Mui</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head (Physical Education &amp; Co-curricular Activities)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Christopher Cheng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head (Aesthetics)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Margaret Lee</p>
 </td>
 </tr>
 <tr>
