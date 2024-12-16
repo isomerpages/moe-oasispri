@@ -32,83 +32,53 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 way
-<br>
-</p>
+<p>1 way</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 way
-<br>
-</p>
+<p>2 way</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 way
-<br>
-</p>
+<p>1 way</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 way
-<br>
-</p>
+<p>2 way</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Up to 2km
-<br>
-</p>
+<p>Up to 2km</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$160
-<br>
-</p>
+<p>$160</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$200
-<br>
-</p>
+<p>$200</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$120
-<br>
-</p>
+<p>$120</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$160
-<br>
-</p>
+<p>$160</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&gt; 2-4km
-<br>
-</p>
+<p>&gt; 2-4km</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$180
-<br>
-</p>
+<p>$180</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$220
-<br>
-</p>
+<p>$220</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$160
-<br>
-</p>
+<p>$160</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$190
-<br>
-</p>
+<p>$190</p>
 </td>
 </tr>
 </tbody>
