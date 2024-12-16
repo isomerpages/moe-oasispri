@@ -4,20 +4,21 @@ permalink: /our-links/teachers/
 description: ""
 variant: tiptap
 ---
-1. [Oasis Service Portal](https://for.edu.sg/oasis-service-portal)
-
-2. [HRP Portal](https://www.hrp.gov.sg/hrp/#/)
-
-3. [MOE Identity Management System (MIMS)](https://idp.mims.moe.gov.sg/nidp/saml2/sso)
-
-4. [MOE Intranet](https://intranet.moe.gov.sg/)
-
-5. [OPAL2.0](https://www.opal2.moe.edu.sg/app/learner)
-
-6. [Resource Booking Service (RBS)](https://rbs.avero-tech.com/)
-
-7. [School Cockpit Plus (SC)](https://schoolcockpit.moe.gov.sg/CP/scapp/security)
-
-8. [SCMobile](https://scmobile.moe.edu.sg/login)
-
-9. [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
+<p>1.&nbsp;<a href="https://for.edu.sg/oasis-service-portal" rel="noopener noreferrer nofollow" target="_blank">Oasis Service Portal</a>
+</p>
+<p>2.&nbsp;<a href="https://www.hrp.gov.sg/hrp/#/" rel="noopener noreferrer nofollow" target="_blank">HRP Portal</a>
+</p>
+<p>3.&nbsp;<a href="https://idp.mims.moe.gov.sg/nidp/saml2/sso" rel="noopener noreferrer nofollow" target="_blank">MOE Identity Management System (MIMS)</a>
+</p>
+<p>4.&nbsp;<a href="https://intranet.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">MOE Intranet</a>
+</p>
+<p>5.&nbsp;<a href="https://www.opal2.moe.edu.sg/app/learner" rel="noopener noreferrer nofollow" target="_blank">OPAL2.0</a>
+</p>
+<p>6.&nbsp;<a href="https://rbs.avero-tech.com/" rel="noopener noreferrer nofollow" target="_blank">Resource Booking Service (RBS)</a>
+</p>
+<p>7.&nbsp;<a href="https://schoolcockpit.moe.gov.sg/CP/scapp/security" rel="noopener noreferrer nofollow" target="_blank">School Cockpit Plus (SC)</a>
+</p>
+<p>8.&nbsp;<a href="https://scmobile.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">SCMobile</a>
+</p>
+<p>9.&nbsp;<a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space (SLS)</a>
+</p>
