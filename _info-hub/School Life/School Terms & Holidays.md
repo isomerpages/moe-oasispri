@@ -19,11 +19,19 @@ third_nav_title: School Life
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Term I</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Thu 2 Jan to Fri 14 Mar</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><em>Primary 1 and Kindergarten 1 will start school on Thursday, 2 January 2025.</em>
+</p>
+<p><em>Primary 2 to 6 and Kindergarten 2 will start school on Friday, 3 January 2025.</em>
+</p>
 </td>
 </tr>
 <tr>
