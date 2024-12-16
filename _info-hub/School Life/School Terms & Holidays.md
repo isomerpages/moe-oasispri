@@ -221,7 +221,8 @@ third_nav_title: School Life
 <p>Hari Raya Haji</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon, 17 Jun</p>
+<p>Sat 7 Jun</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -229,7 +230,8 @@ third_nav_title: School Life
 <p>National Day</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fri, 9 Aug</p>
+<p>Sat 9 Aug</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -237,7 +239,7 @@ third_nav_title: School Life
 <p>Deepavali</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thu, 31 Oct</p>
+<p>Mon 20 Oct</p>
 </td>
 </tr>
 <tr>
@@ -245,7 +247,7 @@ third_nav_title: School Life
 <p>Christmas Day</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wed, 25 Dec</p>
+<p>Thu 25 Dec</p>
 </td>
 </tr>
 </tbody>
