@@ -68,11 +68,6 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="2">
-<p></p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>School Staff Developer</p>
 </td>
@@ -104,6 +99,15 @@ variant: tiptap
 <p>Ms Phoebe Tan</p>
 </td>
 </tr>
+</tbody>
+</table>
+<hr>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
 <tr>
 <td rowspan="1" colspan="2">
 <p></p>
