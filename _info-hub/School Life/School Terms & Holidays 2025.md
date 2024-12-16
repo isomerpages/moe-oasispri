@@ -139,7 +139,8 @@ third_nav_title: School Life
 </td>
 <td rowspan="1" colspan="1">
 <p>Sun 6 Jul
-<br>(The following Mon 7 Jul will be a school holiday)</p>
+<br><em>(The following Mon 7 Jul will be a school holiday)</em>
+</p>
 </td>
 </tr>
 <tr>
