@@ -23,7 +23,7 @@ variant: tiptap
 <p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohamed Imran B Mohamed Ihsan</p>
+<p>Mr Mohamed Imran Mohamed Ihsan</p>
 </td>
 </tr>
 <tr>
