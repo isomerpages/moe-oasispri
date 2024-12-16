@@ -260,7 +260,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Senior Teacher (Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -268,7 +268,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Senior Teacher (English)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -276,7 +276,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Senior Teacher (Science)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -284,7 +284,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Senior Teacher (Chinese)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -292,7 +292,39 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Senior Teacher (Art)</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher (Lower Primary)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher (Special Education Needs)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher (Physical Education)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher (Educational Support)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -304,12 +336,6 @@ variant: tiptap
 <p></p>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/Staff Photos/group2.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/Staff Photos/Group3.jpg">
-</div>
 <div class="isomer-image-wrapper">
 <img style="width:100%" height="auto" width="100%" src="/images/Staff Photos/group4.jpg">
 </div>
