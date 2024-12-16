@@ -4,9 +4,6 @@ permalink: /teaching-staff/
 variant: tiptap
 description: ""
 ---
-<p></p>
-<p></p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -708,52 +705,4 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p></p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="3">
-<h4><strong>Student Support</strong></h4>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Senior Special Educational Needs (SEN) Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Wanis</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Special Educational Needs (SEN) Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Vanessa Lam</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Special Educational Needs (SEN) Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Priya</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>School Counsellor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Yayah</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
 <p></p>
