@@ -161,21 +161,15 @@ third_nav_title: School Life
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Holiday
-<br>
-</p>
+<p>Holiday</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Date
-<br>
-</p>
+<p>Date</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>New Year’s Day
-<br>
-</p>
+<p>New Year’s Day</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mon, 1 Jan</p>
@@ -183,15 +177,11 @@ third_nav_title: School Life
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>Chinese New Year
-<br>
-</p>
+<p>Chinese New Year</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sat, 10 Feb
-<br>Sun, 11 Feb
-<br>
-</p>
+<br>Sun, 11 Feb</p>
 </td>
 </tr>
 <tr>
@@ -204,21 +194,15 @@ Centres.)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Good Friday
-<br>
-</p>
+<p>Good Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fri, 29 Mar
-<br>
-</p>
+<p>Fri, 29 Mar</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Hari Raya Puasa
-<br>
-</p>
+<p>Hari Raya Puasa</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wed, 10 Apr</p>
@@ -226,69 +210,47 @@ Centres.)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Labour Day
-<br>
-</p>
+<p>Labour Day</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wed, 1 May
-<br>
-</p>
+<p>Wed, 1 May</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vesak Day
-<br>
-</p>
+<p>Vesak Day</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wed, 22 May
-<br>
-</p>
+<p>Wed, 22 May</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Hari Raya Haji
-<br>
-</p>
+<p>Hari Raya Haji</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon, 17 Jun
-<br>
-</p>
+<p>Mon, 17 Jun</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National Day
-<br>
-</p>
+<p>National Day</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fri, 9 Aug
-<br>
-</p>
+<p>Fri, 9 Aug</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Deepavali
-<br>
-</p>
+<p>Deepavali</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thu, 31 Oct
-<br>
-</p>
+<p>Thu, 31 Oct</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Christmas Day
-<br>
-</p>
+<p>Christmas Day</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wed, 25 Dec</p>
