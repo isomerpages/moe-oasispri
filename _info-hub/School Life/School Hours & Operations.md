@@ -96,19 +96,13 @@ third_nav_title: School Life
 <br>@ Edgefield Plains</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>N.A.
-<br>
-</p>
+<p>N.A.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6.30 a.m. - 7.00 p.m.
-<br>
-</p>
+<p>6.30 a.m. - 7.00 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6.30 a.m. - 7.00 p.m.
-<br>
-</p>
+<p>6.30 a.m. - 7.00 p.m.</p>
 </td>
 </tr>
 <tr>
@@ -134,9 +128,7 @@ third_nav_title: School Life
 <br>@ Punggol Drive</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>N.A.
-<br>
-</p>
+<p>N.A.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>7.00 a.m. - 7.30 a.m.
