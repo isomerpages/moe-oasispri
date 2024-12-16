@@ -28,9 +28,7 @@ third_nav_title: School Life
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><em>Primary 1 and Kindergarten 1 will start school on Thursday, 2 January 2025.</em>
-</p>
-<p><em>Primary 2 to 6 and Kindergarten 2 will start school on Friday, 3 January 2025.</em>
+<p><em>Primary 1 and Kindergarten 1 will start school on Thursday, 2 January 2025. Primary 2 to 6 and Kindergarten 2 will start school on Friday, 3 January 2025.</em>
 </p>
 </td>
 </tr>
