@@ -172,24 +172,16 @@ third_nav_title: School Life
 <p>New Year’s Day</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon, 1 Jan</p>
+<p>Wed 1 Jan</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Chinese New Year</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sat, 10 Feb
-<br>Sun, 11 Feb</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>(Mon, 12 Feb will be a public holiday and Tues, 13 Feb will be a school
-holiday and a designated day off-in-lieu. Schools will be closed, including
-the General Office, Student Care Centres and Kindergarten Care (KCare)
-Centres.)</p>
+<p>Wed 29 Jan
+<br>Thu 30 Jan</p>
 </td>
 </tr>
 <tr>
