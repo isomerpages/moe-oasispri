@@ -146,6 +146,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Year Head</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Mrs Mey See</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Assistant Year Head</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Ms Ong Wei Peng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Class</strong>
 </p>
 </td>
@@ -261,7 +279,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Year Head:</strong>
+<p><strong>Year Head</strong>
 </p>
 </td>
 <td rowspan="1" colspan="2">
@@ -373,7 +391,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Year Head:</strong>
+<p><strong>Year Head</strong>
 </p>
 </td>
 <td rowspan="1" colspan="2">
