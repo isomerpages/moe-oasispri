@@ -4,6 +4,7 @@ permalink: /our-family/executive-and-administrative-staff/
 description: ""
 variant: tiptap
 ---
+<hr>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
