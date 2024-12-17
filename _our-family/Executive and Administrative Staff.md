@@ -117,17 +117,14 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<h4><strong>School Support Team</strong></h4>
+<hr>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
 </colgroup>
 <tbody>
-<tr>
-<td rowspan="1" colspan="2">
-<h4><strong>School Support Team</strong></h4>
-</td>
-</tr>
 <tr>
 <td rowspan="2" colspan="1">
 <p>Desktop Engineer</p>
@@ -159,5 +156,4 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<hr>
 <p></p>
