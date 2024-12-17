@@ -19,7 +19,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -27,9 +27,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Vice-Principal</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Mrs Hee</p>
 </td>
