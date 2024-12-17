@@ -4,6 +4,7 @@ permalink: /our-family/teaching-staff/
 description: ""
 variant: tiptap
 ---
+<hr>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
