@@ -117,6 +117,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<hr>
 <h4><strong>School Support Team</strong></h4>
 <hr>
 <table style="minWidth: 50px">
