@@ -4,14 +4,17 @@ permalink: /our-family/executive-and-administrative-staff/
 description: ""
 variant: tiptap
 ---
-<h4><strong>School Administration Team</strong></h4>
-<hr>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<h4><strong>School Administration Team</strong></h4>
+</td>
+</tr>
 <tr>
 <td rowspan="2" colspan="1">
 <p>Administration Manager</p>
@@ -115,23 +118,17 @@ variant: tiptap
 <p>Mdm Halimah</p>
 </td>
 </tr>
-</tbody>
-</table>
-<hr>
+<tr>
+<td rowspan="1" colspan="2">
 <h4><strong>School Support Team</strong></h4>
-<hr>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
+</td>
+</tr>
 <tr>
 <td rowspan="2" colspan="1">
 <p>Desktop Engineer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Hazizi</p>
+<p>Mr Hazizi</p>
 </td>
 </tr>
 <tr>
