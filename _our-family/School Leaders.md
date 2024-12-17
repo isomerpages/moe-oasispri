@@ -13,7 +13,8 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Principal</p>
+<p><strong>Principal</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Danny Poh</p>
@@ -21,7 +22,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>Vice-Principal</p>
+<p><strong>Vice-Principal</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Mohamed Imran Bin Mohamed Ihsan</p>
@@ -34,7 +36,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vice-Principal, Administration</p>
+<p><strong>Vice-Principal, Administration</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Linda Chua</p>
