@@ -2,7 +2,6 @@ collections:
   our-school:
     output: true
     order:
-      - Virtual Open House 2024.md
       - Principal's Message.md
       - School Vision, Mission & Motto.md
       - School Values.md

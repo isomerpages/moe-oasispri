@@ -4,6 +4,7 @@ permalink: /our-family/school-leaders/
 description: ""
 variant: tiptap
 ---
+<hr>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -12,15 +13,17 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Principal</p>
+<p><strong>Principal</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Danny Poh</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Vice-Principal</p>
+<td rowspan="2" colspan="1">
+<p><strong>Vice-Principal</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Mohamed Imran Bin Mohamed Ihsan</p>
@@ -28,15 +31,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vice-Principal</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mrs Hee</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vice-Principal, Administration</p>
+<p><strong>Vice-Principal, Administration</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Linda Chua</p>
