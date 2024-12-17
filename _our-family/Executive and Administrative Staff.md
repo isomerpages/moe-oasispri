@@ -18,7 +18,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>Administration Manager</p>
+<p><strong>Administration Manager</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Pauline Ng</p>
@@ -31,7 +32,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>Operations Manager</p>
+<p><strong>Operations Manager</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Muhamad Iskandar</p>
@@ -44,7 +46,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ICT Manager</p>
+<p><strong>ICT Manager</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lum Wai Hoong</p>
@@ -52,7 +55,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>Administrative Executive</p>
+<p><strong>Administrative Executive</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Tan Siew Lian</p>
@@ -65,7 +69,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="4" colspan="1">
-<p>Corporate Support Officer</p>
+<p><strong>Corporate Support Officer</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Eveline Goh</p>
@@ -88,7 +93,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="6" colspan="1">
-<p>Operations Support Officer</p>
+<p><strong>Operations Support Officer</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tan Ching Lean</p>
@@ -126,7 +132,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>Desktop Engineer</p>
+<p><strong>Desktop Engineer</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Hazizi</p>
@@ -139,7 +146,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Library Assistant</p>
+<p><strong>Library Assistant</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Frannie Chung</p>
@@ -147,7 +155,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Science Lab Assistant</p>
+<p><strong>Science Lab Assistant</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Satyavathi</p>
