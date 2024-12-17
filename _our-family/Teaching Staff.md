@@ -18,9 +18,21 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="3">
-<p><strong>Year Head: </strong>Mrs Mey See
-<br><strong>Assistant Year Head: </strong>Ms Ong Wei Peng</p>
+<td rowspan="1" colspan="1">
+<p><strong>Year Head</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Mrs Mey See</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Assistant Year Head</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Ms Ong Wei Peng</p>
 </td>
 </tr>
 <tr>
@@ -136,12 +148,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="3">
 <h4><strong><em>Primary 2</em></strong></h4>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p><strong>Year Head: </strong>Mrs Mey See
-<br><strong>Assistant Year Head: </strong>Ms Ong Wei Peng</p>
 </td>
 </tr>
 <tr>
