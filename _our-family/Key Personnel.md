@@ -155,7 +155,7 @@ variant: tiptap
 <p>Head of Department (Information &amp; Communications Technology)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Mong Kok Thong</p>
 </td>
 </tr>
 <tr>
