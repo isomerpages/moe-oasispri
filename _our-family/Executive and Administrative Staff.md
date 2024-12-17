@@ -4,6 +4,7 @@ permalink: /our-family/executive-and-administrative-staff/
 description: ""
 variant: tiptap
 ---
+<h4><strong>School Administration Team</strong></h4>
 <hr>
 <table style="minWidth: 50px">
 <colgroup>
@@ -11,11 +12,6 @@ variant: tiptap
 <col>
 </colgroup>
 <tbody>
-<tr>
-<td rowspan="1" colspan="2">
-<h4><strong>School Administration Team</strong></h4>
-</td>
-</tr>
 <tr>
 <td rowspan="2" colspan="1">
 <p>Administration Manager</p>
