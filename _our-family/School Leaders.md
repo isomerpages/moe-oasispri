@@ -44,4 +44,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<hr>
 <p></p>

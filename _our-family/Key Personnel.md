@@ -4,6 +4,7 @@ permalink: /our-family/key-personnel/
 description: ""
 variant: tiptap
 ---
+<hr>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -118,7 +119,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Level Head (Mathematic)</p>
+<p>Level Head (Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Safia Bte Arshad</p>

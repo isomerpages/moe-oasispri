@@ -4,6 +4,7 @@ permalink: /our-family/teaching-staff/
 description: ""
 variant: tiptap
 ---
+<hr>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -126,7 +127,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
+<hr>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -248,7 +249,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
+<hr>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -359,7 +360,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
+<hr>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -470,7 +471,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
+<hr>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -582,7 +583,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
+<hr>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -694,7 +695,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
+<hr>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -741,4 +742,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<hr>
 <p></p>
