@@ -14,13 +14,25 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<h4><strong>Primary 1</strong></h4>
+<h4><strong><em>Primary 1</em></strong></h4>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="3">
-<p><strong>Year Head: </strong>Mrs Mey See
-<br><strong>Assistant Year Head: </strong>Ms Ong Wei Peng</p>
+<td rowspan="1" colspan="1">
+<p><strong>Year Head</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Mrs Mey See</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Assistant Year Head</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Ms Ong Wei Peng</p>
 </td>
 </tr>
 <tr>
@@ -133,24 +145,27 @@ variant: tiptap
 <p></p>
 </td>
 </tr>
-</tbody>
-</table>
-<hr>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="3">
-<h4><strong>Primary 2</strong></h4>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>Year Head: </strong>Mrs Mey See</p>
+<h4><strong><em>Primary 2</em></strong></h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Year Head</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Mrs Mey See</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Assistant Year Head</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Ms Ong Wei Peng</p>
 </td>
 </tr>
 <tr>
@@ -263,24 +278,18 @@ variant: tiptap
 <p></p>
 </td>
 </tr>
-</tbody>
-</table>
-<hr>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="3">
-<h4><strong>Primary 3</strong></h4>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>Year Head: </strong>Mrs Sharon Teo</p>
+<h4><strong><em>Primary 3</em></strong></h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Year Head</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Mrs Sharon Teo</p>
 </td>
 </tr>
 <tr>
@@ -381,24 +390,18 @@ variant: tiptap
 <p></p>
 </td>
 </tr>
-</tbody>
-</table>
-<hr>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="3">
-<h4><strong>Primary 4</strong></h4>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>Year Head: </strong>Mrs Sharon Teo</p>
+<h4><strong><em>Primary 4</em></strong></h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Year Head</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Mrs Sharon Teo</p>
 </td>
 </tr>
 <tr>
@@ -499,25 +502,27 @@ variant: tiptap
 <p></p>
 </td>
 </tr>
-</tbody>
-</table>
-<hr>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="3">
-<h4><strong>Primary 5</strong></h4>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>Year Head: </strong>Ms Tan Li Na
-<br><strong>Assistant Year Heads: </strong>Mrs Joelle Pek</p>
+<h4><strong><em>Primary 5</em></strong></h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Year Head</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Ms Tan Li Na</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Assistant Year Head</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Mrs Joelle Pek</p>
 </td>
 </tr>
 <tr>
@@ -618,25 +623,27 @@ variant: tiptap
 <p></p>
 </td>
 </tr>
-</tbody>
-</table>
-<hr>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="3">
-<h4><strong>Primary 6</strong></h4>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>Year Head: </strong>Ms Tan Li Na
-<br><strong>Assistant Year Heads: </strong>Mrs Joelle Pek</p>
+<h4><strong><em>Primary 6</em></strong></h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Year Head</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Ms Tan Li Na</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Assistant Year Head</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Mrs Joelle Pek</p>
 </td>
 </tr>
 <tr>
@@ -737,20 +744,10 @@ variant: tiptap
 <p></p>
 </td>
 </tr>
-</tbody>
-</table>
-<hr>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
-<th rowspan="1" colspan="3">
-<h4><strong>Student Support</strong></h4>
-</th>
+<td rowspan="1" colspan="3">
+<h4><strong><em>Student Support</em></strong></h4>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
@@ -762,7 +759,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="2" colspan="2">
 <p><strong>Special Educational Needs (SEN) Officer</strong>
 </p>
 </td>
@@ -771,10 +768,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
-<p><strong>Special Educational Needs (SEN) Officer</strong>
-</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Ms Priya</p>
 </td>
