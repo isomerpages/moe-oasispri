@@ -638,94 +638,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<hr>
-<hr>
-<hr>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="3">
-<h4><strong>Primary 6</strong></h4>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p><strong>Year Head: </strong>Ms Tan Li Na
-<br><strong>Assistant Year Heads: </strong>Mrs Joelle Pek</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Class</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Form Teacher</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Co-Form Teacher(s)</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>6 Care</strong>
 </p>
 </td>
@@ -808,20 +720,10 @@ variant: tiptap
 <p></p>
 </td>
 </tr>
-</tbody>
-</table>
-<hr>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
-<th rowspan="1" colspan="3">
-<h4><strong>Student Support</strong></h4>
-</th>
+<td rowspan="1" colspan="3">
+<h4><strong><em>Student Support</em></strong></h4>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
@@ -833,7 +735,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="2" colspan="2">
 <p><strong>Special Educational Needs (SEN) Officer</strong>
 </p>
 </td>
@@ -842,10 +744,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
-<p><strong>Special Educational Needs (SEN) Officer</strong>
-</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Ms Priya</p>
 </td>
@@ -861,5 +759,4 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<hr>
 <p></p>
