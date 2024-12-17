@@ -21,7 +21,7 @@ variant: tiptap
 <p>Administration Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ng Pauline</p>
+<p>Ms Pauline Ng</p>
 </td>
 </tr>
 <tr>
