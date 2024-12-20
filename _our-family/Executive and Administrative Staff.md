@@ -41,7 +41,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chee Siang Yew</p>
+<p>Mr Ryan Chee</p>
 </td>
 </tr>
 <tr>
