@@ -9,7 +9,6 @@ third_nav_title: School Life
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Canteen Food Menu 2025/Stall1.jpg">
 </div>
-<hr>
 <h4><strong>Stall 2</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Canteen Food Menu 2025/Stall2_2025.jpg">
