@@ -174,11 +174,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Form Teacher</strong>
+<p><strong>Form Teacher 1</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Co-Form Teacher(s)</strong>
+<p><strong>Form Teacher 2</strong>
 </p>
 </td>
 </tr>
@@ -298,11 +298,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Form Teacher</strong>
+<p><strong>Form Teacher 1</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Co-Form Teacher(s)</strong>
+<p><strong>Form Teacher 2</strong>
 </p>
 </td>
 </tr>
@@ -410,11 +410,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Form Teacher</strong>
+<p><strong>Form Teacher 1</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Co-Form Teacher(s)</strong>
+<p><strong>Form Teacher 2</strong>
 </p>
 </td>
 </tr>
@@ -531,11 +531,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Form Teacher</strong>
+<p><strong>Form Teacher 1</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Co-Form Teacher(s)</strong>
+<p><strong>Form Teacher 2</strong>
 </p>
 </td>
 </tr>
@@ -652,11 +652,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Form Teacher</strong>
+<p><strong>Form Teacher 1</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Co-Form Teacher(s)</strong>
+<p><strong>Form Teacher 2</strong>
 </p>
 </td>
 </tr>
