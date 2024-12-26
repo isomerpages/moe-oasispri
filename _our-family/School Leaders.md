@@ -31,7 +31,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Hee</p>
+<p>Mrs Hee-Ho Jun Lynn</p>
 </td>
 </tr>
 <tr>
