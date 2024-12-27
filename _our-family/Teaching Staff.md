@@ -101,7 +101,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>1 Resilience</strong>
+<p><strong>1 Empathy</strong>
 </p>
 </td>
 <td rowspan="1" colspan="2">
