@@ -13,20 +13,11 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Subject Head (Discipline)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Year Head (Primary 1 &amp; 2)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Jeanette Tan</p>
 </td>
 </tr>
 <tr>
@@ -35,7 +26,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Mary Loh-Lim</p>
 </td>
 </tr>
 <tr>
@@ -44,25 +35,34 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Tan Li Na</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Assistant Year Head (Primary 5 &amp; 6)</strong>
+<p><strong>Assistant Year Head (Primary 1 &amp; 2)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Ong Wei Peng</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Assistant Year Head (Primary 1)</strong>
+<p><strong>Assistant Year Head (Primary 3 &amp; 4)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Charissa Choo</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Assistant Year Head (Primary 5 &amp; 6) (Internal)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Stacey Kim</p>
 </td>
 </tr>
 </tbody>
@@ -80,12 +80,12 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Aline Ng</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Head of Department (English)</strong>
+<p><strong>Head of Department (English Language)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -134,7 +134,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Safia Bte Arshad</p>
+<p>Mdm Safiah</p>
 </td>
 </tr>
 </tbody>
@@ -148,7 +148,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Head of Department (Mother Tongue)</strong>
+<p><strong>Head of Department (Mother Tongue Language)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -161,12 +161,21 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lyvia Soh</p>
+<p>Mdm Soh Hoon Suu</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Subject Head (Malay Language)</strong>
+<p><strong>Level Head (Chinese Language)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Joelle Pek</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Level Head (Malay Language)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -197,7 +206,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Roziana</p>
 </td>
 </tr>
 </tbody>
@@ -215,7 +224,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Mong Kok Thong</p>
 </td>
 </tr>
 <tr>
@@ -225,6 +234,60 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tay Xiulan</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Head of Department (Partnership &amp; Special Projects)</p>
+</th>
+<td rowspan="1" colspan="2">
+<p>Mrs Sharon Teo</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Head of Department (Special Education Needs)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Shirley Lim</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Head of Department (Student Development)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Siti Farhanah</p>
 </td>
 </tr>
 </tbody>
@@ -260,7 +323,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Celeste Yap</p>
+<p>Ms Celeste Yap</p>
 </td>
 </tr>
 <tr>
@@ -269,7 +332,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Fa'izah</p>
+<p>Ms Nur Faizah</p>
 </td>
 </tr>
 </tbody>
@@ -287,7 +350,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Alan Mui</p>
+<p>Mr Alan Mui Chee Kee</p>
 </td>
 </tr>
 <tr>
@@ -328,16 +391,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Senior Teacher (English)</strong>
+<p><strong>Senior Teacher (English Language)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Elwirandi</p>
+<p>Mr Elwirandi Tan</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Senior Teacher (Science)</strong>
+<p><strong>Senior Teacher (English Language)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -346,7 +409,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Senior Teacher (Chinese)</strong>
+<p><strong>Senior Teacher (Science)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Tan-Koh Peck Lian</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Senior Teacher (Chinese Language)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -355,7 +427,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Senior Teacher (Chinese)</strong>
+<p><strong>Senior Teacher (Chinese Language)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -400,7 +472,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Senior Teacher (Educational Support)</strong>
+<p><strong>Senior Teacher (Learning Needs-Educational Support)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">

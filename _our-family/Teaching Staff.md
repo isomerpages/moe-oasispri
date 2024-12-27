@@ -155,11 +155,8 @@ variant: tiptap
 <p><strong>2 Care</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p>Ms Chia Wanyi, Mdm Siti Nabilah</p>
 </td>
 </tr>
 <tr>
@@ -167,11 +164,8 @@ variant: tiptap
 <p><strong>2 Harmony</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p>Mrs Caroline Tay, Ms Maalini</p>
 </td>
 </tr>
 <tr>
@@ -179,11 +173,8 @@ variant: tiptap
 <p><strong>2 Integrity</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p>Mrs Chia-Ho Wan Yu, Mdm Christine Huang Rui</p>
 </td>
 </tr>
 <tr>
@@ -191,11 +182,8 @@ variant: tiptap
 <p><strong>2 Loyalty</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p>Ms Nur Haslinda, Ms Ong Wei Peng</p>
 </td>
 </tr>
 <tr>
@@ -203,11 +191,8 @@ variant: tiptap
 <p><strong>2 Diligence</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p>Mr Lim Yen Teng, Mdm Chen Rongli</p>
 </td>
 </tr>
 <tr>
@@ -215,11 +200,8 @@ variant: tiptap
 <p><strong>2 Resilience</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p>Mrs Carine Sing, Mdm Cheng Yingying</p>
 </td>
 </tr>
 <tr>
@@ -227,11 +209,8 @@ variant: tiptap
 <p><strong>2 Empathy</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p>Ms Beryl Ng, Mdm Florence Ngu</p>
 </td>
 </tr>
 <tr>
@@ -239,11 +218,8 @@ variant: tiptap
 <p><strong>2 Noble</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p>Mdm Najma, Ms Sindy Lai</p>
 </td>
 </tr>
 <tr>
@@ -284,11 +260,8 @@ variant: tiptap
 <p><strong>3 Care</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p>Ms Cassandra Goh, Ms Siti Liyana</p>
 </td>
 </tr>
 <tr>
@@ -296,11 +269,8 @@ variant: tiptap
 <p><strong>3 Harmony</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p>Ms Lau Ying Ying, Mdm Safeenah</p>
 </td>
 </tr>
 <tr>
@@ -308,11 +278,8 @@ variant: tiptap
 <p><strong>3 Integrity</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p>Ms Catherine Huang, Ms Goh Wan Yu</p>
 </td>
 </tr>
 <tr>
@@ -320,11 +287,8 @@ variant: tiptap
 <p><strong>3 Loyalty</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p>Mrs Ann Tan, Mdm Nurmah</p>
 </td>
 </tr>
 <tr>
@@ -332,11 +296,8 @@ variant: tiptap
 <p><strong>3 Diligence</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p>Ms Ng Choon Tee, Ms Charissa Choo, Mdm Soh Hoon Suu</p>
 </td>
 </tr>
 <tr>
@@ -344,11 +305,8 @@ variant: tiptap
 <p><strong>3 Resilience</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p>Ms Joyce Chew, Ms Zheng Rui</p>
 </td>
 </tr>
 <tr>
@@ -356,11 +314,8 @@ variant: tiptap
 <p><strong>3 Empathy</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p>Mrs Alan Yeo, Ms Celeste Yap</p>
 </td>
 </tr>
 <tr>
@@ -401,11 +356,8 @@ variant: tiptap
 <p><strong>4 Care</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p>Mr Ong Wei Chong, Mrs Ang-Wei Yueshan</p>
 </td>
 </tr>
 <tr>
@@ -413,11 +365,8 @@ variant: tiptap
 <p><strong>4 Harmony</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p>Mdm Helen Lee, Ms Tay Xiulan, Mdm Siti Farhanah</p>
 </td>
 </tr>
 <tr>
@@ -425,11 +374,8 @@ variant: tiptap
 <p><strong>4 Integrity</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p>Mdm Maziyah, Mdm Nur Hafizah</p>
 </td>
 </tr>
 <tr>
@@ -437,11 +383,8 @@ variant: tiptap
 <p><strong>4 Loyalty</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p>Mdm Nor Aisah, Mdm Teo Si Hui, Mdm Margaret Lee</p>
 </td>
 </tr>
 <tr>
@@ -449,11 +392,8 @@ variant: tiptap
 <p><strong>4 Diligence</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p>Mdm Wilsa Dewi, Mr Ng Yong Quan</p>
 </td>
 </tr>
 <tr>
@@ -461,11 +401,8 @@ variant: tiptap
 <p><strong>4 Resilience</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p>Mdm Yap Shu Hui, Mdm Wang Yuwei</p>
 </td>
 </tr>
 <tr>
@@ -473,11 +410,8 @@ variant: tiptap
 <p><strong>4 Empathy</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p>Mdm Ho Huan Xin, Mr Ivan Ho, Mr Yeo Yungsen</p>
 </td>
 </tr>
 <tr>
@@ -518,11 +452,8 @@ variant: tiptap
 <p><strong>5 Care</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p>Mr Effendi, Ms Aline Ng</p>
 </td>
 </tr>
 <tr>
@@ -530,11 +461,8 @@ variant: tiptap
 <p><strong>5 Harmony</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p>Ms Phoebe Tan, Mdm Wang Yanhua</p>
 </td>
 </tr>
 <tr>
@@ -542,11 +470,8 @@ variant: tiptap
 <p><strong>5 Integrity</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p>Ms Jeremin Lo, Mr Alan Mui Chee Kee</p>
 </td>
 </tr>
 <tr>
@@ -554,11 +479,8 @@ variant: tiptap
 <p><strong>5 Loyalty</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p>Mr Hamzah Bin Hussain, Mr Mong Kok Thong</p>
 </td>
 </tr>
 <tr>
@@ -566,11 +488,8 @@ variant: tiptap
 <p><strong>5 Diligence</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p>Mr Aizad, Ms Stacey Kim</p>
 </td>
 </tr>
 <tr>
@@ -578,11 +497,8 @@ variant: tiptap
 <p><strong>5 Resilience</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p>Ms Si Xu Vongsuvanish, Mr Farhan Chia</p>
 </td>
 </tr>
 <tr>
@@ -590,11 +506,8 @@ variant: tiptap
 <p><strong>5 Empathy</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p>Mdm Noriza, Mr Faris Fong, Mrs Shirley Lim</p>
 </td>
 </tr>
 <tr>
@@ -635,11 +548,8 @@ variant: tiptap
 <p><strong>6 Care</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p>Mdm Ahadrina, Mrs Munirah Eszham</p>
 </td>
 </tr>
 <tr>
@@ -647,11 +557,8 @@ variant: tiptap
 <p><strong>6 Harmony</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p>Mdm Roziana, Mr Christopher Cheng</p>
 </td>
 </tr>
 <tr>
@@ -659,11 +566,8 @@ variant: tiptap
 <p><strong>6 Integrity</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p>Mrs Wang-Lee Hui Shan, Mrs Tan-Koh Peck Lian</p>
 </td>
 </tr>
 <tr>
@@ -671,11 +575,8 @@ variant: tiptap
 <p><strong>6 Loyalty</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p>Mdm Nur Liyana, Ms Nur Faizah</p>
 </td>
 </tr>
 <tr>
@@ -683,11 +584,8 @@ variant: tiptap
 <p><strong>6 Diligence</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p>Mr Jonathan Boey, Mrs Norhazlinda Sham</p>
 </td>
 </tr>
 <tr>
@@ -695,11 +593,8 @@ variant: tiptap
 <p><strong>6 Resilience</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p>Ms Yim Wai Peng, Mrs Melissa Wee</p>
 </td>
 </tr>
 <tr>
@@ -707,11 +602,8 @@ variant: tiptap
 <p><strong>6 Empathy</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p>Mdm Safiah, Mr Elwirandi Tan, Ms Lim Zi Xiu</p>
 </td>
 </tr>
 <tr>
