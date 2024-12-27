@@ -13,20 +13,11 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Subject Head (Discipline)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Year Head (Primary 1 &amp; 2)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Jeanette Tan</p>
 </td>
 </tr>
 <tr>
@@ -35,7 +26,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Mary Loh-Lim</p>
 </td>
 </tr>
 <tr>
@@ -44,7 +35,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Tan Li Na</p>
 </td>
 </tr>
 <tr>
