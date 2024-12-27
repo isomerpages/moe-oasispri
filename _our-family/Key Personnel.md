@@ -310,15 +310,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Subject Head (Character Development)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Teo Mei Geok</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Subject Head (Student Leadership)</strong>
 </p>
 </td>
