@@ -62,7 +62,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Stacey Kim</p>
+<p>Mr Farhan</p>
 </td>
 </tr>
 </tbody>
