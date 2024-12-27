@@ -23,7 +23,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p></p>
+<p>Mrs Jeanette Tan</p>
 </td>
 </tr>
 <tr>
@@ -32,7 +32,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p></p>
+<p>Ms Ong Wei Peng</p>
 </td>
 </tr>
 <tr>
@@ -40,12 +40,8 @@ variant: tiptap
 <p><strong>Class</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>Form Teacher 1</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Form Teacher 2</strong>
+<td rowspan="1" colspan="2">
+<p><strong>Form Teachers</strong>
 </p>
 </td>
 </tr>
@@ -54,35 +50,8 @@ variant: tiptap
 <p><strong>1 Care</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>1 Diligence</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>1 Empathy</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p>Ms Nirmawati, Mrs Sharon Teo</p>
 </td>
 </tr>
 <tr>
@@ -90,11 +59,8 @@ variant: tiptap
 <p><strong>1 Harmony</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p>Ms Tham Hui Xia, Mdm Pang Ming Ing</p>
 </td>
 </tr>
 <tr>
@@ -102,11 +68,8 @@ variant: tiptap
 <p><strong>1 Integrity</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p>Ms Susanne Lim, Mdm Evon Tan</p>
 </td>
 </tr>
 <tr>
@@ -114,23 +77,17 @@ variant: tiptap
 <p><strong>1 Loyalty</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p>Mrs Gene Ang, Ms Yan Xiaojing</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>1 Noble</strong>
+<p><strong>1 Diligence</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p>Mrs Ng Wei Wei, Mdm Nurul Atika</p>
 </td>
 </tr>
 <tr>
@@ -138,11 +95,26 @@ variant: tiptap
 <p><strong>1 Resilience</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p>Ms Teo Mei Geok, Ms Zaidah Binte Ahmad</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>1 Empathy</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Mrs Mey See, Mdm Rosenna Lee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>1 Noble</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Mdm Judy Tng, Mdm Yeung Yuk</p>
 </td>
 </tr>
 <tr>
@@ -156,7 +128,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p></p>
+<p>Mrs Jeanette Tan</p>
 </td>
 </tr>
 <tr>
@@ -165,7 +137,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p></p>
+<p>Ms Ong Wei Peng</p>
 </td>
 </tr>
 <tr>
@@ -173,42 +145,14 @@ variant: tiptap
 <p><strong>Class</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>Form Teacher 1</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Form Teacher 2</strong>
+<td rowspan="1" colspan="2">
+<p><strong>Form Teachers</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>2 Care</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>2 Diligence</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>2 Empathy</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -256,7 +200,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2 Noble</strong>
+<p><strong>2 Diligence</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -279,6 +223,30 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p><strong>2 Empathy</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2 Noble</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="3">
 <h4><strong><em>Primary 3</em></strong></h4>
 </td>
@@ -289,7 +257,16 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p></p>
+<p>Mrs Mary Loh-Lim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Assistant Year Head</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Ms Charissa Choo</p>
 </td>
 </tr>
 <tr>
@@ -297,42 +274,14 @@ variant: tiptap
 <p><strong>Class</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>Form Teacher 1</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Form Teacher 2</strong>
+<td rowspan="1" colspan="2">
+<p><strong>Form Teachers</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>3 Care</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>3 Diligence</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>3 Empathy</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -380,7 +329,31 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>3 Diligence</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>3 Resilience</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>3 Empathy</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -401,7 +374,16 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p></p>
+<p>Mrs Mary Loh-Lim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Assistant Year Head</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Ms Charissa Choo</p>
 </td>
 </tr>
 <tr>
@@ -409,42 +391,14 @@ variant: tiptap
 <p><strong>Class</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>Form Teacher 1</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Form Teacher 2</strong>
+<td rowspan="1" colspan="2">
+<p><strong>Form Teachers</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>4 Care</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>4 Diligence</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>4 Empathy</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -492,7 +446,31 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>4 Diligence</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>4 Resilience</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>4 Empathy</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -513,16 +491,16 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p></p>
+<p>Ms Tan Li Na</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Assistant Year Head</strong>
+<p><strong>Assistant Year Head (Internal)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p></p>
+<p>Ms Stacey Kim</p>
 </td>
 </tr>
 <tr>
@@ -530,42 +508,14 @@ variant: tiptap
 <p><strong>Class</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>Form Teacher 1</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Form Teacher 2</strong>
+<td rowspan="1" colspan="2">
+<p><strong>Form Teachers</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>5 Care</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>5 Diligence</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>5 Empathy</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -613,7 +563,31 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>5 Diligence</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>5 Resilience</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>5 Empathy</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -634,16 +608,16 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p></p>
+<p>Ms Tan Li Na</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Assistant Year Head</strong>
+<p><strong>Assistant Year Head (Internal)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p></p>
+<p>Ms Stacey Kim</p>
 </td>
 </tr>
 <tr>
@@ -651,42 +625,14 @@ variant: tiptap
 <p><strong>Class</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>Form Teacher 1</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Form Teacher 2</strong>
+<td rowspan="1" colspan="2">
+<p><strong>Form Teachers</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>6 Care</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>6 Diligence</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>6 Empathy</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -734,7 +680,31 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>6 Diligence</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>6 Resilience</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>6 Empathy</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -755,7 +725,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Wanis</p>
+<p>Mdm Noorwanis Binte Amir Noordin</p>
 </td>
 </tr>
 <tr>
@@ -764,12 +734,12 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Vanessa Lam</p>
+<p>Mdm Vanessa Lam Jia Ai</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Priya</p>
+<p>Mdm Priyankadarishaini Puvanisavaran</p>
 </td>
 </tr>
 <tr>
@@ -778,7 +748,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Yayah</p>
+<p>Ms Ie Yayah Farida</p>
 </td>
 </tr>
 </tbody>
