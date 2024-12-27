@@ -296,7 +296,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Celeste Yap</p>
+<p>Ms Celeste Yap</p>
 </td>
 </tr>
 <tr>
@@ -436,7 +436,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Senior Teacher (Educational Support)</strong>
+<p><strong>Senior Teacher (Learning Needs-Educational Support)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
