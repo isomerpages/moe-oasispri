@@ -229,7 +229,8 @@ and parents.</p>
 </ul>
 </li>
 </ul>
-<p>Students are not allowed to bring the following items to school:</p>
+<p><strong>Students are not allowed to bring the following items to school:</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Hand-held games</p>
