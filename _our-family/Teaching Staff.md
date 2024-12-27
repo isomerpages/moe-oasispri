@@ -452,10 +452,7 @@ variant: tiptap
 <p><strong>5 Care</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p></p>
 </td>
 </tr>
@@ -464,10 +461,7 @@ variant: tiptap
 <p><strong>5 Harmony</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p></p>
 </td>
 </tr>
@@ -476,10 +470,7 @@ variant: tiptap
 <p><strong>5 Integrity</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p></p>
 </td>
 </tr>
@@ -488,10 +479,7 @@ variant: tiptap
 <p><strong>5 Loyalty</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p></p>
 </td>
 </tr>
@@ -500,10 +488,7 @@ variant: tiptap
 <p><strong>5 Diligence</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p></p>
 </td>
 </tr>
@@ -512,10 +497,7 @@ variant: tiptap
 <p><strong>5 Resilience</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p></p>
 </td>
 </tr>
@@ -524,10 +506,7 @@ variant: tiptap
 <p><strong>5 Empathy</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p></p>
 </td>
 </tr>
@@ -569,10 +548,7 @@ variant: tiptap
 <p><strong>6 Care</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p></p>
 </td>
 </tr>
@@ -581,10 +557,7 @@ variant: tiptap
 <p><strong>6 Harmony</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p></p>
 </td>
 </tr>
@@ -593,10 +566,7 @@ variant: tiptap
 <p><strong>6 Integrity</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p></p>
 </td>
 </tr>
@@ -605,10 +575,7 @@ variant: tiptap
 <p><strong>6 Loyalty</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p></p>
 </td>
 </tr>
@@ -617,10 +584,7 @@ variant: tiptap
 <p><strong>6 Diligence</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p></p>
 </td>
 </tr>
@@ -629,10 +593,7 @@ variant: tiptap
 <p><strong>6 Resilience</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p></p>
 </td>
 </tr>
@@ -641,10 +602,7 @@ variant: tiptap
 <p><strong>6 Empathy</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p></p>
 </td>
 </tr>
