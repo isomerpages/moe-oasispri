@@ -283,7 +283,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Head of Department (Student Development)</strong>
+<p><strong>Head of Department (Student Management)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
