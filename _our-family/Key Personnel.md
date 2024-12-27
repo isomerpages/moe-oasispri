@@ -341,7 +341,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Fa'izah</p>
+<p>Ms Nur Faizah</p>
 </td>
 </tr>
 </tbody>
@@ -414,6 +414,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Norhazlinda Sham</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Senior Teacher (Science)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Tan-Koh Peck Lian</p>
 </td>
 </tr>
 <tr>
