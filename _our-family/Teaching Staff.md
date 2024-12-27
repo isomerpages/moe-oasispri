@@ -393,7 +393,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p></p>
+<p>Mdm Wilsa Dewi, Mr Ng Yong Quan</p>
 </td>
 </tr>
 <tr>
@@ -402,7 +402,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p></p>
+<p>Mdm Yap Shu Hui, Mdm Wang Yuwei</p>
 </td>
 </tr>
 <tr>
@@ -411,7 +411,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p></p>
+<p>Mdm Ho Huan Xin, Mr Ivan Ho, Mr Yeo Yungsen</p>
 </td>
 </tr>
 <tr>
