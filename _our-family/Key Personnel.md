@@ -67,11 +67,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Assistant Year Head (Primary 5 &amp; 6)</strong>
+<p><strong>Assistant Year Head (Primary 5 &amp; 6) (Internal)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Stacey Kim</p>
 </td>
 </tr>
 </tbody>
@@ -89,7 +89,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Aline Ng</p>
 </td>
 </tr>
 <tr>
@@ -233,7 +233,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Mong Kok Thong</p>
 </td>
 </tr>
 <tr>
@@ -283,6 +283,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Head of Department (Student Development)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Siti Farhanah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Subject Head (Character Development)</strong>
 </p>
 </td>
@@ -323,7 +332,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Alan Mui</p>
+<p>Mr Alan Mui Chee Kee</p>
 </td>
 </tr>
 <tr>
