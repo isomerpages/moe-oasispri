@@ -230,6 +230,24 @@ variant: tiptap
 </tbody>
 </table>
 <hr>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Head of Department (Partnership &amp; Special Projects)</p>
+</th>
+<td rowspan="1" colspan="2">
+<p>Mrs Sharon Teo</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
