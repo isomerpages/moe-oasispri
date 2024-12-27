@@ -62,7 +62,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Stacey Kim</p>
+<p>Mr Farhan</p>
 </td>
 </tr>
 </tbody>
@@ -283,7 +283,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Head of Department (Student Development)</strong>
+<p><strong>Head of Department (Student Management)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -306,15 +306,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ivan Ho</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Subject Head (Character Development)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Teo Mei Geok</p>
 </td>
 </tr>
 <tr>
