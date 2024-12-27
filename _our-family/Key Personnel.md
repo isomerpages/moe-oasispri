@@ -49,7 +49,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Assistant Year Head (Primary 5 &amp; 6)</strong>
+<p><strong>Assistant Year Head (Primary 1 &amp; 2)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ong Wei Peng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Assistant Year Head (Primary 3 &amp; 4)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -58,7 +67,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Assistant Year Head (Primary 1)</strong>
+<p><strong>Assistant Year Head (Primary 5 &amp; 6)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -148,7 +157,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Head of Department (Mother Tongue)</strong>
+<p><strong>Head of Department (Mother Tongue Language)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -162,6 +171,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lyvia Soh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Level Head (Chinese Language)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Joelle Pek</p>
 </td>
 </tr>
 <tr>
@@ -364,7 +382,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Senior Teacher (Chinese)</strong>
+<p><strong>Senior Teacher (Chinese Language)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -373,7 +391,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Senior Teacher (Chinese)</strong>
+<p><strong>Senior Teacher (Chinese Language)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
