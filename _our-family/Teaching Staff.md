@@ -155,11 +155,8 @@ variant: tiptap
 <p><strong>2 Care</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p>Ms Chia Wanyi, Mdm Siti Nabilah</p>
 </td>
 </tr>
 <tr>
@@ -167,11 +164,8 @@ variant: tiptap
 <p><strong>2 Harmony</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p>Mrs Caroline Tay, Ms Maalini</p>
 </td>
 </tr>
 <tr>
@@ -179,11 +173,8 @@ variant: tiptap
 <p><strong>2 Integrity</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p>Mrs Chia-Ho Wan Yu, Mdm Christine Huang Rui</p>
 </td>
 </tr>
 <tr>
@@ -191,11 +182,8 @@ variant: tiptap
 <p><strong>2 Loyalty</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p>Ms Nur Haslinda, Ms Ong Wei Peng</p>
 </td>
 </tr>
 <tr>
@@ -203,11 +191,8 @@ variant: tiptap
 <p><strong>2 Diligence</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p>Mr Lim Yen Teng, Mdm Chen Rongli</p>
 </td>
 </tr>
 <tr>
@@ -215,11 +200,8 @@ variant: tiptap
 <p><strong>2 Resilience</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p>Mrs Carine Sing, Mdm Cheng Yingying</p>
 </td>
 </tr>
 <tr>
@@ -227,11 +209,8 @@ variant: tiptap
 <p><strong>2 Empathy</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p>Ms Beryl Ng, Mdm Florence Ngu</p>
 </td>
 </tr>
 <tr>
@@ -239,11 +218,8 @@ variant: tiptap
 <p><strong>2 Noble</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p>Mdm Najma, Ms Sindy Lai</p>
 </td>
 </tr>
 <tr>
