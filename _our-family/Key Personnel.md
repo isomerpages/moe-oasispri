@@ -193,79 +193,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Head of Department (Partnership &amp; Special Projects)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<hr>
-<p></p>
-<p></p>
-<p></p>
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Head of Department (Partnership &amp; Special Projects)</p>
-</th>
-<td rowspan="1" colspan="2">
 <p>Mrs Sharon Teo</p>
 </td>
 </tr>
-</tbody>
-</table>
-<hr>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Head of Department (Special Education Needs)</strong>
@@ -275,8 +209,40 @@ variant: tiptap
 <p>Mrs Shirley Lim</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Head of Department (Student Management)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Siti Farhanah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
+<hr>
+<p></p>
+<hr>
+<hr>
+<hr>
+<hr>
+<hr>
 <hr>
 <table style="minWidth: 50px">
 <colgroup>
@@ -286,11 +252,10 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Head of Department (Student Management)</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Farhanah</p>
+<p></p>
 </td>
 </tr>
 </tbody>
