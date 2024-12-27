@@ -502,11 +502,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Assistant Year Head</strong>
+<p><strong>Assistant Year Head (Internal)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p></p>
+<p>Ms Stacey Kim</p>
 </td>
 </tr>
 <tr>
@@ -619,11 +619,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Assistant Year Head</strong>
+<p><strong>Assistant Year Head (Internal)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p></p>
+<p>Ms Stacey Kim</p>
 </td>
 </tr>
 <tr>
