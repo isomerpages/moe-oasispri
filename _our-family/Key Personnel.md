@@ -62,7 +62,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Charissa Choo</p>
 </td>
 </tr>
 <tr>
@@ -170,7 +170,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lyvia Soh</p>
+<p>Mdm Soh Hoon Suu</p>
 </td>
 </tr>
 <tr>
@@ -184,7 +184,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Subject Head (Malay Language)</strong>
+<p><strong>Level Head (Malay Language)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
