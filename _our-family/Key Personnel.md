@@ -65,15 +65,6 @@ variant: tiptap
 <p>Mr Farhan</p>
 </td>
 </tr>
-</tbody>
-</table>
-<hr>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>School Staff Developer</strong>
@@ -110,15 +101,6 @@ variant: tiptap
 <p>Ms Phoebe Tan</p>
 </td>
 </tr>
-</tbody>
-</table>
-<hr>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Head of Department (Mathematics)</strong>
@@ -137,15 +119,6 @@ variant: tiptap
 <p>Mdm Safiah</p>
 </td>
 </tr>
-</tbody>
-</table>
-<hr>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Head of Department (Mother Tongue Language)</strong>
@@ -182,15 +155,6 @@ variant: tiptap
 <p>Mdm Nurmah</p>
 </td>
 </tr>
-</tbody>
-</table>
-<hr>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Head of Department (Science)</strong>
@@ -209,15 +173,6 @@ variant: tiptap
 <p>Mdm Roziana</p>
 </td>
 </tr>
-</tbody>
-</table>
-<hr>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Head of Department (Information &amp; Communications Technology)</strong>
@@ -236,33 +191,15 @@ variant: tiptap
 <p>Ms Tay Xiulan</p>
 </td>
 </tr>
-</tbody>
-</table>
-<hr>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Head of Department (Partnership &amp; Special Projects)</p>
-</th>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
+<p><strong>Head of Department (Partnership &amp; Special Projects)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mrs Sharon Teo</p>
 </td>
 </tr>
-</tbody>
-</table>
-<hr>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Head of Department (Special Education Needs)</strong>
@@ -272,15 +209,6 @@ variant: tiptap
 <p>Mrs Shirley Lim</p>
 </td>
 </tr>
-</tbody>
-</table>
-<hr>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Head of Department (Student Management)</strong>
@@ -290,15 +218,6 @@ variant: tiptap
 <p>Mdm Siti Farhanah</p>
 </td>
 </tr>
-</tbody>
-</table>
-<hr>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Head of Department (Character &amp; Citizenship Education)</strong>
@@ -326,15 +245,6 @@ variant: tiptap
 <p>Ms Nur Faizah</p>
 </td>
 </tr>
-</tbody>
-</table>
-<hr>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Head of Department (Physical Education &amp; Aesthetics)</strong>
@@ -362,15 +272,6 @@ variant: tiptap
 <p>Mdm Margaret Lee</p>
 </td>
 </tr>
-</tbody>
-</table>
-<hr>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Senior Teacher (Mathematics)</strong>
