@@ -94,7 +94,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Head of Department (English)</strong>
+<p><strong>Head of Department (English Language)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -215,7 +215,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Roziana</p>
 </td>
 </tr>
 </tbody>
@@ -274,13 +274,22 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Head of Department (Character &amp; Citizenship Education)</strong>
+<p><strong>Head of Department (Special Education Needs)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ivan Ho</p>
+<p>Mrs Shirley Lim</p>
 </td>
 </tr>
+</tbody>
+</table>
+<hr>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Head of Department (Student Development)</strong>
@@ -288,6 +297,24 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Siti Farhanah</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Head of Department (Character &amp; Citizenship Education)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ivan Ho</p>
 </td>
 </tr>
 <tr>
