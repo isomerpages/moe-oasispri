@@ -4,7 +4,6 @@ permalink: /our-family/school-leaders/
 description: ""
 variant: tiptap
 ---
-<hr>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -45,5 +44,4 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<hr>
 <p></p>
