@@ -383,7 +383,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mdm Nor Aisah, Mdm Teo Si Hui, Mdm Margaret Lee</p>
+<p>Mdm Nor Aisah, Mdm Teo Si Hui, Mrs Wang-Lee Hui Shan</p>
 </td>
 </tr>
 <tr>
