@@ -383,7 +383,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mdm Nor Aisah, Mdm Teo Si Hui, Mdm Margaret Lee</p>
+<p>Mdm Nor Aisah, Mdm Teo Si Hui, Mrs Wang-Lee Hui Shan</p>
 </td>
 </tr>
 <tr>
@@ -488,7 +488,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mr Aizad, Ms Stacey Kim</p>
+<p>Mdm Safiah, Ms Stacey Kim</p>
 </td>
 </tr>
 <tr>
@@ -566,7 +566,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mrs Wang-Lee Hui Shan, Mrs Tan-Koh Peck Lian</p>
+<p>Mr Elwirandi Tan, Mrs Tan-Koh Peck Lian</p>
 </td>
 </tr>
 <tr>
@@ -602,7 +602,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mdm Safiah, Mr Elwirandi Tan, Ms Lim Zi Xiu</p>
+<p>Mr Aizad, Mr Faris Fong, Ms Lim Zi Xiu</p>
 </td>
 </tr>
 <tr>
