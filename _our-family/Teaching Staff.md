@@ -77,7 +77,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mrs Gene Ang, Ms Yan Xiaojing</p>
+<p>Mrs Gena Ang, Ms Yan Xiaojing</p>
 </td>
 </tr>
 <tr>
