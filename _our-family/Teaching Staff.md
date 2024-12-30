@@ -566,7 +566,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mrs Wang-Lee Hui Shan, Mrs Tan-Koh Peck Lian</p>
+<p>Mr Elwirandi Tan, Mrs Tan-Koh Peck Lian</p>
 </td>
 </tr>
 <tr>
