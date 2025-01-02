@@ -479,7 +479,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mr Hamzah Bin Hussain, Mr Mong Kok Thong</p>
+<p>Mr Hamzah, Mr Mong Kok Thong</p>
 </td>
 </tr>
 <tr>
@@ -506,7 +506,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mdm Noriza, Mr Faris Fong, Mrs Shirley Lim</p>
+<p>Mdm Norizah, Mrs Shirley Lim</p>
 </td>
 </tr>
 <tr>
