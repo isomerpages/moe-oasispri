@@ -135,12 +135,12 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Hazizi Bin Abd Hamid</p>
+<p>Mr Hazizi</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Harul Narth Raj Selwar Raju</p>
+<p>Mr Harul</p>
 </td>
 </tr>
 <tr>
@@ -149,7 +149,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Frannie Chung Sau Kuen</p>
+<p>Mdm Frannie Chung</p>
 </td>
 </tr>
 <tr>
@@ -158,7 +158,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Maizatul</p>
 </td>
 </tr>
 </tbody>
