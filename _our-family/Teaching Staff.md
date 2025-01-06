@@ -497,7 +497,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Ms Si Xu Vongsuvanish, Mr Farhan Chia</p>
+<p>Ms Si Xu Vongsuvanish, Mr Farhan Chia, Mrs Koh-Lim Zi Xiu</p>
 </td>
 </tr>
 <tr>
