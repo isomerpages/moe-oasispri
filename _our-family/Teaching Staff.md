@@ -602,7 +602,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mr Aizad, Mr Faris Fong, Ms Lim Zi Xiu</p>
+<p>Mr Aizad, Mr Faris Fong</p>
 </td>
 </tr>
 <tr>
