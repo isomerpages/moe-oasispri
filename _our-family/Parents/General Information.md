@@ -82,18 +82,10 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Primary 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>9.00 a.m. - 9.30 a.m.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Primary 1 &amp; Primary 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9.30 a.m. - 10.00 a.m.</p>
+<p>9.00 a.m. - 9.30 a.m.</p>
 </td>
 </tr>
 <tr>
@@ -114,7 +106,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Primary 3</p>
+<p>Primary 2 &amp; Primary 3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>11.00 a.m. - 11.30 a.m.</p>
@@ -122,7 +114,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Snack Break (Primary 1, 2, 4 &amp; 6)</p>
+<p>Snack Break (Primary 1, 4 &amp; 6)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>12.00 p.m.</p>
@@ -130,7 +122,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Snack Break (Primary 3 &amp; 5)</p>
+<p>Snack Break (Primary 2, 3 &amp; 5)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9.00 a.m.</p>
