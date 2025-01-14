@@ -6,4 +6,3 @@ third_nav_title: School Life
 variant: tiptap
 ---
 <p></p>
-<p></p>
