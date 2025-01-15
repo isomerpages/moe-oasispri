@@ -328,9 +328,21 @@ and learn to behave maturely towards each other.</p>
 </tbody>
 </table>
 <h5><strong>Information for Parents</strong></h5>
-<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children
-out of Sexuality Education lessons, and/or supplementary Sexuality Education
-programmes by MOE-approved external providers.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p></p>
+<p></p>
+<p></p>
+<p>&nbsp; Parents may opt their children out of Sexuality Education lessons,
+and/or supplementary Sexuality Education programmes by MOE-approved external
+providers.</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
 out of the Sexuality Education lessons need to complete an opt-out form.
 This form will be communicated to parents at the start of the year and
