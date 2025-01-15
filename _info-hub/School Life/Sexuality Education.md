@@ -99,7 +99,6 @@ to make wise, informed and responsible decisions to keep themselves safe
 from sexuality-related risks.</p>
 </li>
 </ol>
-<p>****</p>
 <h5><strong>At Oasis Primary School, the following Sexuality Education lessons will be taught in <u>2025</u>:</strong></h5>
 <div class="isomer-image-wrapper">
 <img style="width: 25%;" height="auto" width="100%" src="/images/MOE-Logo.jpg">
