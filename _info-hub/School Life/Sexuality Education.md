@@ -328,28 +328,23 @@ and learn to behave maturely towards each other.</p>
 </tbody>
 </table>
 <h5><strong>Information for Parents</strong></h5>
+<ol start="8" data-tight="true" class="tight">
+<li>
+<p>Parents may opt their children out of Sexuality Education lessons, and/or
+supplementary Sexuality Education programmes by MOE-approved external providers.</p>
 <p></p>
+</li>
+<li>
+<p>Parents who wish to opt their children out of the Sexuality Education
+lessons need to complete an opt-out form. This form will be communicated
+&nbsp;to parents at the start of the year and is also downloadable <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/opssed2025</a><u>.</u> The
+completed opt-out form is to be submitted by 21 Jan 2025.</p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p></p>
-<p></p>
-<p></p>
-<p>&nbsp; Parents may opt their children out of Sexuality Education lessons,
-and/or supplementary Sexuality Education programmes by MOE-approved external
-providers.</p>
-<p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
-out of the Sexuality Education lessons need to complete an opt-out form.
-This form will be communicated to parents at the start of the year and
-is also downloadable <a href="https://go.gov.sg/optoutsed2024" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed opt-out
-form is to be submitted by <strong>12/1/2024</strong>.</p>
-<p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at
-<a href="mailto:oasis_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">oasis_ps@moe.edu.sg</a>or 6320 9855 for discussion or to seek clarification
-about the school’s Sexuality Education programme.</p>
-<hr>
+</li>
+<li>
+<p>Parents can contact the school at <a href="mailto:oasis_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">oasis_ps@moe.edu.sg</a> or 6320 9855 for
+discussion or to seek clarification about the school’s Sexuality Education
+programme.</p>
+</li>
+</ol>
 <p></p>
