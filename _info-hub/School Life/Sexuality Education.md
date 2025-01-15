@@ -131,6 +131,39 @@ from sexuality-related risks.</p>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p>Growing Years</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -194,11 +227,10 @@ and how to seek help for themselves and their friends.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:30%" height="auto" width="100%" src="/images/MOE-Logo.jpg">
+<img style="width: 25%;" height="auto" width="100%" src="/images/MOE-Logo.jpg">
 </div>
-<h5><strong>2024 Sexuality Education Lessons in CCE 2021</strong></h5>
+<h5><strong>2025 Sexuality Education Lessons in CCE 2021</strong></h5>
 <h5><strong>PRIMARY 6</strong></h5>
 <table style="minWidth: 100px">
 <colgroup>
@@ -220,6 +252,7 @@ and how to seek help for themselves and their friends.</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>TIME PERIOD</p>
+<p>(e.g. Term 1 Week 2)</p>
 </th>
 </tr>
 <tr>
@@ -291,5 +324,5 @@ form is to be submitted by <strong>12/1/2024</strong>.</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at
 <a href="mailto:oasis_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">oasis_ps@moe.edu.sg</a>or 6320 9855 for discussion or to seek clarification
 about the school’s Sexuality Education programme.</p>
-<p></p>
+<hr>
 <p></p>
