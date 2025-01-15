@@ -54,7 +54,7 @@ ones.</p>
 </ol>
 <p></p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> (
-<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-sexuality-education</a>) for more information on
+<a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-sexuality-education</a>) for more information on
 MOE Sexuality Education.</p>
 <h4><strong>Overview of&nbsp; OASIS PRIMARY SCHOOL’S Sexuality Education Programme for 2025</strong></h4>
 <ol start="4" data-tight="true" class="tight">
