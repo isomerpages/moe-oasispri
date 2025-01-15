@@ -257,6 +257,35 @@ and how to seek help for themselves and their friends.</p>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p>Growing Years</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -266,16 +295,16 @@ and how to seek help for themselves and their friends.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>In this lesson, students will learn to distinguish between the characteristics
-of love and infatuation and identify the strong emotions that may arise
+of love and infatuation, and identify the strong emotions that may arise
 from experiencing the feelings of infatuation. They will recognise that
 experiencing feelings of infatuation is part of growing up and becoming
 infatuated with someone does not mean that they should be involved in a
 romantic relationship. Instead, they should focus on building strong and
 healthy friendships with their circles of friends.</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1
-<br>Week 4</p>
+<p>Term 1 Week 4</p>
 </td>
 </tr>
 <tr>
@@ -290,24 +319,10 @@ arising from infatuation and recognise the importance of respecting the
 boundaries of any relationship. They will also recognise the negative impact
 of teasing their peers who may be experiencing the feelings of infatuation
 and learn to behave maturely towards each other.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 1
-<br>Week 5</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Term 1 Week 5</p>
 </td>
 </tr>
 </tbody>
