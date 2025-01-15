@@ -72,6 +72,7 @@ on the scope of Sexuality Education in the school curriculum.</p>
 </li>
 <li>
 <p>The subjects that incorporate topics on sexuality include:</p>
+<p></p>
 <p>a. Science</p>
 <p>b. Character and Citizenship Education (CCE)</p>
 </li>
@@ -100,6 +101,7 @@ years. They learn to build healthy and rewarding relationships with others,
 including those with members of the opposite sex. Students are also guided
 to make wise, informed and responsible decisions to keep themselves safe
 from sexuality-related risks.</p>
+<p></p>
 </li>
 </ol>
 <h5><strong>At Oasis Primary School, the following Sexuality Education lessons will be taught in <u>2025</u>:</strong></h5>
@@ -133,8 +135,6 @@ from sexuality-related risks.</p>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p></p>
-<p></p>
 <p></p>
 <p></p>
 <p></p>
