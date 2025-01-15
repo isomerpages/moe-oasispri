@@ -126,6 +126,7 @@ from sexuality-related risks.</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>TIME PERIOD</p>
+<p>(e.g. Term 1 Week 2)</p>
 </th>
 </tr>
 <tr>
