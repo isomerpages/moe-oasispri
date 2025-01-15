@@ -73,4 +73,21 @@ on the scope of Sexuality Education in the school curriculum.</p>
 <p>b. Character and Citizenship Education (CCE)</p>
 </li>
 </ol>
+<h4><strong><u>Sexuality Education Lessons</u></strong>:</h4>
+<ol start="6" data-tight="true" class="tight">
+<li>
+<p>The upper primary years mark the onset of puberty. With better nutrition
+and improved health care, children are reaching puberty at a younger age
+and have to grapple with physical, emotional and psychological changes
+in themselves. The implication is that our children are becoming biologically
+ready for sexual activity sooner without necessarily having the corresponding
+cognitive or emotional maturity to modulate their behaviours. Furthermore,
+our young are also exposed to a wide range of influences that could endanger
+health and undermine the integrity of the family. Our students require
+close guidance so that they can respond with discernment to the sexual
+messages in the media and other sources.</p>
+</li>
+</ol>
+<p></p>
+<p></p>
 <p></p>
