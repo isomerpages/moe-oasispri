@@ -5,8 +5,8 @@ description: ""
 third_nav_title: School Life
 variant: tiptap
 ---
-<h4>OASIS PRIMARY SCHOOL</h4>
-<h4>Moe Sexuality Education in Schools</h4>
+<h4><strong>OASIS PRIMARY SCHOOL</strong></h4>
+<h4><strong>Moe Sexuality Education in Schools</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>Sexuality Education (SEd) in schools aims to enable students to understand
@@ -35,7 +35,6 @@ others by having positive mainstream values and attitudes about sexuality
 that are premised on the family as the basic unit of society.</p>
 </li>
 </ol>
-<p></p>
 <ol start="3" data-tight="true" class="tight">
 <li>
 <p>The <strong>Key Messages</strong> of Sexuality Education are:</p>
@@ -57,4 +56,21 @@ ones.</p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> (
 <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-sexuality-education</a>) for more information on
 MOE Sexuality Education.</p>
+<h4><strong>Overview of&nbsp; OASIS PRIMARY SCHOOL’S Sexuality Education Programme for 2025</strong></h4>
+<ol start="4" data-tight="true" class="tight">
+<li>
+<p>Sexuality Education is delivered in a holistic manner through the school
+curriculum. The content for Sexuality Education is grouped into five main
+themes: Human Development, Interpersonal Relationships, Sexual Health,
+Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a> (
+<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-sexuality-education-scope</a>) for more information
+on the scope of Sexuality Education in the school curriculum.</p>
+<p></p>
+</li>
+<li>
+<p>The subjects that incorporate topics on sexuality include:</p>
+<p>a. Science</p>
+<p>b. Character and Citizenship Education (CCE)</p>
+</li>
+</ol>
 <p></p>
