@@ -106,7 +106,7 @@ from sexuality-related risks.</p>
 </ol>
 <h5><strong>At Oasis Primary School, the following Sexuality Education lessons will be taught in <u>2025</u>:</strong></h5>
 <div class="isomer-image-wrapper">
-<img style="width: 25%;" height="auto" width="100%" src="/images/MOE-Logo.jpg">
+<img style="width: 20%;" height="auto" width="100%" src="/images/MOE-Logo.jpg">
 </div>
 <h5><strong>2025 Sexuality Education Lessons in CCE 2021</strong></h5>
 <h5><strong>PRIMARY 5</strong></h5>
@@ -230,7 +230,7 @@ and how to seek help for themselves and their friends.</p>
 </tbody>
 </table>
 <div class="isomer-image-wrapper">
-<img style="width: 25%;" height="auto" width="100%" src="/images/MOE-Logo.jpg">
+<img style="width: 20%;" height="auto" width="100%" src="/images/MOE-Logo.jpg">
 </div>
 <h5><strong>2025 Sexuality Education Lessons in CCE 2021</strong></h5>
 <h5><strong>PRIMARY 6</strong></h5>
