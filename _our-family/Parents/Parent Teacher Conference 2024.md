@@ -26,4 +26,7 @@ third_nav_title: Parents
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/9n_xtGiY1lQ?si=VvVuGf6Fj6nb9z7m"></iframe>
 </div>
 <h4><strong>Appreciation Notes for P6</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/wttgV74lKbk?si=jk29nA5a7HN335kr"></iframe>
+</div>
 <p></p>
