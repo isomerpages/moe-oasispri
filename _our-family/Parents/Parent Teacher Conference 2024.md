@@ -22,10 +22,8 @@ third_nav_title: Parents
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/El_NM8eXJPY?si=JpR7EBnFcTI70XK9"></iframe>
 </div>
 <h4><strong>Appreciation Notes for P5</strong></h4>
-<p></p>
-<h4><strong>Appreciation Notes for P6</strong></h4>
-<p></p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/El_NM8eXJPY?si=JpR7EBnFcTI70XK9"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/9n_xtGiY1lQ?si=VvVuGf6Fj6nb9z7m"></iframe>
 </div>
+<h4><strong>Appreciation Notes for P6</strong></h4>
 <p></p>
