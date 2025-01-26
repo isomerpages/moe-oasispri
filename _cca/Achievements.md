@@ -10,6 +10,10 @@ variant: tiptap
 <tr></tr>
 </tbody>
 </table>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/_fDA0eDvSrI?si=42CdIeOyJtNP_nVo"></iframe>
+</div>
+<hr>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
