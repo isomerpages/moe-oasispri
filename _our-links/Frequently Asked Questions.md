@@ -10,7 +10,7 @@ variant: tiptap
 this link (<a href="http://bit.ly/NewPVWeb" rel="noopener noreferrer nofollow" target="_blank">http://bit.ly/NewPVWeb</a>),
 or scan the QR code&nbsp; to register your interest as a Parent Volunteer.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 25%;" height="auto" width="100%" src="/images/scan%20me%20parent.png">
+<img style="width: 20%;" height="auto" width="100%" src="/images/scan%20me%20parent.png">
 </div>
 <p><strong>2.&nbsp; What is required to be part of the PSG?</strong>
 </p>
