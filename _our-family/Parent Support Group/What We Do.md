@@ -13,7 +13,7 @@ volunteers to be a:</p>
 <p>The PSG complements the school by aligning with the school’s objectives,
 supporting and strengthening the school’s programmes to improve our children’s
 well-being and learning. We partner and support the school by volunteering
-our 3 Ts – Time, Talent, Thoughts.</p>
+our 3 Ts - Time, Talent, Thoughts.</p>
 <p><strong>Bridge Between Parents and School</strong>
 </p>
 <p>The PSG listens to parents’ feedback on school operations, practices and
