@@ -28,8 +28,8 @@ inspiring self and others to lead with a heart.”</p>
 </li>
 </ul>
 <p>To find out more about their student care services, please contact YMCA
-at +65 6509 9557 / +65 9637 6416 or drop an email to&nbsp;<a href="mailto:oascc@ymca.edu.sg" rel="noopener noreferrer nofollow" target="_blank">oascc@ymca.edu.sg</a>&nbsp;to
-find out more about their after school care services.</p>
+at 6509 9557 / 9637 6416 or drop an email to&nbsp;<a href="mailto:oascc@ymca.edu.sg" rel="noopener noreferrer nofollow" target="_blank">oascc@ymca.edu.sg</a>&nbsp;to find out
+more about their after school care services.</p>
 <h3><strong>Our Activities</strong></h3>
 <h4><strong>1. Showing our support during Covid-19 Circuit Breaker</strong></h4>
 <p>As a form of encouragement to the frontline workers such as healthcare
