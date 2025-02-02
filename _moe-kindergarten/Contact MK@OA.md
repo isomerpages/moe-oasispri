@@ -1,5 +1,5 @@
 ---
-title: Contact MK @ OA
+title: Contact MK@OA
 permalink: /mk-at-oasis/contact-mk-oa/
 description: ""
 variant: tiptap
