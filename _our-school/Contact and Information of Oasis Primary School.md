@@ -49,8 +49,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>
-<br>Photograph(s), video recording (s)of students and their parents/ guardians
+<p>Photograph(s), video recording (s)of students and their parents/ guardians
 may be captured during school activities and events such as classroom lessons,
 CCA, cohort programmes, performances and learning journeys. The school
 may use and publish such photographic images and/or video recordings in
