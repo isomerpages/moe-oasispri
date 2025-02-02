@@ -25,7 +25,7 @@ and wish to give consent to use the same GIRO arrangement to pay for the
 enrichment programme and school charges under School Bill, you may scan
 the QR code below or click <a href="https://go.gov.sg/moe-giro-option" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" src="/images/moe_giro_option.jpg">
+<img style="width: 20%;" height="auto" width="100%" src="/images/moe_giro_option.jpg">
 </div>
 <h3>Giro Termination Form</h3>
 <p>Click&nbsp;<a href="/files/4%20GIRO_Termination_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
