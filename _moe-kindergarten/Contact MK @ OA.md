@@ -1,6 +1,6 @@
 ---
-title: Contact MK@Oasis
-permalink: /mk-at-oasis/contact-mk-oasis/
+title: Contact MK @ OA
+permalink: /mk-at-oasis/contact-mk-oa/
 description: ""
 variant: tiptap
 ---
