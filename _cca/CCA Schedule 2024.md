@@ -154,7 +154,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Badminton *</p>
+<p>Badminton*</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Farhan</p>
@@ -165,7 +165,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Hockey (Boys) *</p>
+<p>Hockey (Boys)*</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Aizad</p>
@@ -187,7 +187,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Table Tennis *</p>
+<p>Table Tennis*</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Rosenna Seah</p>
@@ -235,7 +235,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Guitar Club **</p>
+<p>Guitar Club**</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Sindy Lai</p>
@@ -257,7 +257,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Contemporary Dance *</p>
+<p>Contemporary Dance*</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Joyce Chew</p>
@@ -268,7 +268,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ensemble - Guzheng *</p>
+<p>Ensemble - Guzheng*</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Yan Xiaojing</p>
@@ -279,7 +279,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Art Club **</p>
+<p>Art Club**</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Pang Ming Ing</p>
@@ -359,5 +359,5 @@ variant: tiptap
 <br>*Only Badminton, Hockey, Contemporary Dance and Guzheng will have a second
 session on Friday throughout the year to prepare the students potentially
 going for National School Games or Singapore Youth Festival Arts Presentation.</p>
-<p>** Guitar Club and Art Club will only have a second session on Friday
-in the lead-up months to Singapore Youth Festival Arts Presentation.</p>
+<p>**Guitar Club and Art Club will only have a second session on Friday in
+the lead-up months to Singapore Youth Festival Arts Presentation.</p>
