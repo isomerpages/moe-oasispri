@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Forms & Guides
 variant: tiptap
 ---
-<h3>MOE Financial Assistance Scheme 2025(FAS)</h3>
+<h3>MOE Financial Assistance Scheme 2025 (FAS)</h3>
 <p>Please visit MOE's official website&nbsp;<a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
 more information.&nbsp; You may also access the e-FAS form, which is available
 on Parents Gateway (under Services tab -&gt; Financial Assistance) or via
@@ -25,7 +25,7 @@ and wish to give consent to use the same GIRO arrangement to pay for the
 enrichment programme and school charges under School Bill, you may scan
 the QR code below or click <a href="https://go.gov.sg/moe-giro-option" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <div class="isomer-image-wrapper">
-<img style="width:30%" height="auto" width="100%" src="/images/moe_giro_option.jpg">
+<img style="width: 20%;" height="auto" width="100%" src="/images/moe_giro_option.jpg">
 </div>
 <h3>Giro Termination Form</h3>
 <p>Click&nbsp;<a href="/files/4%20GIRO_Termination_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
