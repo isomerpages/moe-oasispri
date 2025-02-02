@@ -12,7 +12,7 @@ initiatives to transform the learning experiences of Singaporean students
 through the purposeful use of technology. All school leaders, teachers
 and students in the national school system have access to the SLS.</p>
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/SLS.png">
+<img style="width: 50%;" height="auto" width="100%" src="/images/SLS.png">
 </div>
 <p><strong>Transforming Teaching and Learning</strong>
 </p>
