@@ -231,7 +231,7 @@ their after school care services.</p>
 </tbody>
 </table>
 <p>The Student Care Centre may close on certain dates. Please contact the
-operator at +65 6509 9557/&nbsp;+65 9637 6416 to confirm.</p>
+operator at 6509 9557/&nbsp;9637 6416 to confirm.</p>
 <h4><strong>18. What are the components of the after-school programme?</strong></h4>
 <p>The programme consists of various components such as homework guidance
 and supervision, enrichment activities, in-house counselling for parents
