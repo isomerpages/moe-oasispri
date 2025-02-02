@@ -23,8 +23,8 @@ All rights, titles and interests in the Contents are owned by, licensed
 to or controlled by Oasis Primary School.</p>
 <p><strong>Privacy Policy</strong>
 </p>
-<p>4. Click <a href="https://staging.d6400o65xh90r.amplifyapp.com/privacy/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-review this website’s&nbsp;<a href="https://staging.d6400o65xh90r.amplifyapp.com/privacy/" rel="noopener noreferrer nofollow" target="_blank">Privacy Statement</a>.</p>
+<p>4. Click <a href="https://www.oasispri.moe.edu.sg/privacy/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+review this website’s&nbsp;<a href="https://www.oasispri.moe.edu.sg/privacy/" rel="noopener noreferrer nofollow" target="_blank">Privacy Statement</a>.</p>
 <p><strong>Restrictions on use of the Contents</strong>
 </p>
 <p>5. Except as otherwise provided, the Contents of this website shall not
