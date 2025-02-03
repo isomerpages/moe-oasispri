@@ -35,9 +35,9 @@ scan the QR code below for more information on our admission process.</p>
 <p>Should parents require a full-day service, we offer Kindergarten Care
 (KCare) in our MK.</p>
 <p>If you register for KCare services, your child will be in KCare before
-and after your selected MK session, providing a full-day programme for
-your child within the same premises.</p>
+and after their MK session, providing a full-day programme for your child
+within the same premises.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Mkoasis/pic1.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Mkoasis/pic1.jpg">
 </div>
 <p></p>
