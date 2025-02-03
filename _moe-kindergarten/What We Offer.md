@@ -4,4 +4,40 @@ permalink: /mk-at-oasis/what-we-offer/
 variant: tiptap
 description: ""
 ---
-<h4>Kindergarten 1 &amp; 2 Programme</h4><p>We offer 4-hour K1 and K2 programmes for children. Parents can choose from the following options:</p><ul data-tight="true" class="tight"><li><p>Morning session (8am to 12pm)</p></li><li><p>Afternoon session (1pm to 5pm)</p></li></ul><p>MK@OA children are eligible for priority admission to Oasis Primary School under Phase 2A in the P1 Registration Exercise. Like all children who may be eligible for priority admissions, placement into our primary school is not guaranteed and depends on the number of applicants and vacancies at the school during the P1 Registration Exercise.</p><h4>How to register</h4><p>You can register your child for the <strong>2025</strong> Kindergarten 1 (K1) admission to an MOE Kindergarten (MK) if your child is a <strong>Singapore Citizen (SC) or Permanent Resident (PR)</strong> born between <strong>2 January 2020 and 1 January 2021 (both dates inclusive)</strong>.</p><p>Online registration for <strong>2025 K1 admissions</strong> for both Open Admissions (OA) and Early Years Centre (EYC) children will open from <strong>9am on Friday, 16 February 2024 and close at 4pm on Tuesday, 20 February 2024</strong>.</p><p>&nbsp;Visit <a href="https://www.moe.gov.sg/preschool/moe-kindergarten/register" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/preschool/moe-kindergarten/register</a> for more information on our admission process.</p><h4>Kindergarten Care (KCare)</h4><p>Should parents require a full-day service, we offer Kindergarten Care (KCare) in our MK.</p><p>If you register for KCare services, your child will be in KCare before and after your selected MK session, providing a full-day programme for your child within the same premises.</p><div class="isomer-image-wrapper"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Mkoasis/pic1.jpg"></div><p></p>
+<h4>Kindergarten 1 &amp; 2 Programmes</h4>
+<p>We offer 4-hour K1 and K2 programmes for children in the <strong>morning from 8.00am to 12noon</strong>.</p>
+<p>MK@OA children are eligible for <strong>priority admission</strong> to Oasis
+Primary School under <strong>Phase 2A in the P1 Registration Exercise.</strong> Like
+all children who may be eligible for priority admissions, placement into
+our primary school is not guaranteed and depends on the number of applicants
+and vacancies at the school during the P1 Registration Exercise.</p>
+<h4>How to register</h4>
+<p>You can register your child for the 2026 Kindergarten 1 (K1) admission
+to an MOE Kindergarten (MK) if your child is:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>A Singapore Citizen (SC) or Permanent Resident (PR); and</p>
+</li>
+<li>
+<p>Born <strong>between 2 January 2021 and 1 January 2022</strong>, both dates
+inclusive.</p>
+</li>
+</ul>
+<p>Online registration for 2026 Kindergarten 1 (K1) admissions for both Open
+Admissions (OA) and Early Years Centre (EYC) children will open from&nbsp;<strong>9am on Friday, 7 February 2025 and close at 4pm on Monday, 17 February 2025</strong>.</p>
+<p>Visit <strong><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/preschool/moe-kindergarten/register</a></strong> or
+scan the QR code below for more information on our admission process.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<h4>Kindergarten Care (KCare)</h4>
+<p>Should parents require a full-day service, we offer Kindergarten Care
+(KCare) in our MK.</p>
+<p>If you register for KCare services, your child will be in KCare before
+and after your selected MK session, providing a full-day programme for
+your child within the same premises.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Mkoasis/pic1.jpg">
+</div>
+<p></p>
