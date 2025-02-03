@@ -25,7 +25,7 @@ inclusive.</p>
 </ul>
 <p>Online registration for 2026 Kindergarten 1 (K1) admissions for both Open
 Admissions (OA) and Early Years Centre (EYC) children will open from&nbsp;<strong>9am on Friday, 7 February 2025 and close at 4pm on Monday, 17 February 2025</strong>.</p>
-<p>Visit <strong><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/preschool/moe-kindergarten/register</a></strong> or
+<p>Visit <strong><a href="https://www.moe.gov.sg/preschool/moe-kindergarten/register" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/preschool/moe-kindergarten/register</a></strong> or
 scan the QR code below for more information on our admission process.</p>
 <p></p>
 <p></p>
