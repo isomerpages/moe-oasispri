@@ -29,4 +29,7 @@ in planned (structured) activities and routines.</p>
 <p>Click on this <a href="https://www.moe.gov.sg/-/media/files/mk/first-flight-12.pdf" rel="noopener noreferrer nofollow" target="_blank">link</a> to
 find out how the MOE Kindergarten (<strong>MK</strong>) curriculum supports
 children in their transition to Primary&nbsp;<strong>1</strong>&nbsp;(P1).</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/hcxMR0E7BIk?si=1qY6QRBFuaNxlIPM"></iframe>
+</div>
 <p></p>
