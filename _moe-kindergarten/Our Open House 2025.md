@@ -15,10 +15,9 @@ description: ""
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/SfAewgUfkeM?si=LhglLcUGeZRQabM2"></iframe>
 </div>
-<p></p>
 <p>Click to see our curriculum.</p>
-<p>&nbsp;</p>
-<p>&nbsp;Click to watch, “A Day at an MOE Kindergarten”.</p>
+<p></p>
+<p>Click to watch, “A Day at an MOE Kindergarten”.</p>
 <p></p>
 <p></p>
 <div class="iframe-wrapper">
