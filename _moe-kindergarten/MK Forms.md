@@ -4,7 +4,7 @@ permalink: /mk-at-oasis/mk-forms/
 description: ""
 variant: tiptap
 ---
-<p>1) <a href="https://form.gov.sg/65b33360dcfcdeddf9fde579" rel="noopener noreferrer nofollow" target="_blank">MK Waitlist Application Form</a>
+<p>1) <a href="https://form.gov.sg/67a1b060aab040341588a199" rel="noopener noreferrer nofollow" target="_blank">MK Waitlist Application Form</a>
 </p>
 <p>2) <a href="/files/MOE%20Kindergarten%20Transfer%20Request%20Form.pdf" rel="noopener noreferrer nofollow" target="_blank">MK Transfer Request Form</a>
 </p>

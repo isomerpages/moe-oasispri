@@ -95,7 +95,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Ms Teo Mei Geok, Ms Zaidah Binte Ahmad</p>
+<p>Ms Teo Mei Geok, Ms Zahidah Binte Ahmad</p>
 </td>
 </tr>
 <tr>
