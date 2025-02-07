@@ -12,6 +12,13 @@ description: ""
 </div>
 <h4>Open House 2025 Presentation</h4>
 <p>Click to view our <strong>Open House 2025 Presentation</strong> slides.</p>
+<p></p>
+<p></p>
+<p>Click to see our curriculum.</p>
+<p>&nbsp;</p>
+<p>&nbsp;Click to watch, “A Day at an MOE Kindergarten”.</p>
+<p></p>
+<p></p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/tqBSeKf_bUQ?si=Wi2hprDif7rEaVP5"></iframe>
 </div>
