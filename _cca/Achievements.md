@@ -13,7 +13,6 @@ variant: tiptap
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/_fDA0eDvSrI?si=42CdIeOyJtNP_nVo"></iframe>
 </div>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -34,6 +33,15 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>AWARD</strong>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hockey NSG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Junior 1 (P4) - National Champions (Tier 1)</p>
+<p>Junior 2 (P5) - National Champions (Tier 1)</p>
 </td>
 </tr>
 <tr>
