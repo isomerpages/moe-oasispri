@@ -36,11 +36,22 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Hockey NSG</p>
+<p>2024 NSG Hockey (Junior Boys 1 - P4)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Junior 1 (P4) - National Champions (Tier 1)</p>
-<p>Junior 2 (P5) - National Champions (Tier 1)</p>
+<p><strong><u>Tier 1</u></strong>
+</p>
+<p>National Champions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024 NSG Hockey (Junior Boys 2 - P5)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Tier 1</u></strong>
+</p>
+<p>National Champions</p>
 </td>
 </tr>
 <tr>
