@@ -15,5 +15,7 @@ in the hall for a grand celebration, enjoying a fantastic concert to warmly
 welcome the Year of the Snake. For the first time, students from MOE Kindergarten
 joined in, performing in the concert and taking part in the recess games.
 All students had a wonderful time, making this celebration truly memorable!</p>
-<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/IDs15M6fDDA?si=y9mhIxiK2g5IoSdO"></iframe>
+</div>
 <p></p>
