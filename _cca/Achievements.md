@@ -316,7 +316,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<hr>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -325,8 +324,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p><strong>CCA Achievements (2022)</strong>
-</p>
+<h4><strong>CCA Achievements (2022)</strong></h4>
 </th>
 </tr>
 <tr>
@@ -367,10 +365,8 @@ variant: tiptap
 <p><strong><u>Junior Boys Doubles </u></strong>
 <br>Tier 2 (4th)
 <br>Tier 4 (2nd)
-<br>
 <br><strong><u>Junior Boys Singles </u></strong>
 <br>Tier 4 (1st)
-<br>
 <br><strong><u>Junior Girls Doubles </u></strong>
 <br>Tier 3 (2nd)
 <br>Tier 4 (2nd)</p>
@@ -420,7 +416,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong><u>Junior (Novice) Girls Boulder Challenge </u></strong>
 <br>Gold Achievement Pin
-<br>
 <br><strong><u>Junior (Novice) Boys Boulder Challenge </u></strong>
 <br>Gold Achievement Pin
 <br>Silver Achievement Pin</p>
@@ -428,7 +423,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<hr>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -437,8 +431,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p><strong>CCA Achievements (2017 - 2021)</strong>
-</p>
+<h4><strong>CCA Achievements (2017 - 2021)</strong></h4>
 </th>
 </tr>
 <tr>
@@ -517,5 +510,4 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<hr>
 <p></p>
