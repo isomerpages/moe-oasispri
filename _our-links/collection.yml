@@ -2,8 +2,8 @@ collections:
   our-links:
     output: true
     order:
-      - Chinese New Year 2025/Gallery.md
-      - Chinese New Year 2025/.keep
+      - Gallery/Gallery.md
+      - Gallery/.keep
       - Students.md
       - Teachers.md
       - Frequently Asked Questions.md
