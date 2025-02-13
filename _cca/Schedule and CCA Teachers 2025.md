@@ -122,7 +122,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<hr>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -133,8 +132,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="4">
-<p><strong>CCAs are conducted on Tuesdays or/and Fridays from 2.00 p.m. to 4.00 p.m.</strong>
-</p>
+<h4><strong>CCA Teachers - OIC/2IC</strong></h4>
 </td>
 </tr>
 <tr>
