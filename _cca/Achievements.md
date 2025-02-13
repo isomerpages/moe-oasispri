@@ -21,8 +21,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p><strong>Achievements (2024)</strong>
-</p>
+<h4><strong>Achievements (2024)</strong></h4>
 </th>
 </tr>
 <tr>
@@ -68,31 +67,22 @@ variant: tiptap
 <p><strong><u>Junior Girls Division (Speed)</u></strong>
 </p>
 <p>8<sup>th</sup> placing</p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong><u>Junior Boys Division (Speed)</u></strong>
 </p>
 <p>4<sup>th</sup> placing</p>
-<p></p>
 <p><strong><u>Senior Boys Division (Speed)</u></strong>
 </p>
 <p>4<sup>th</sup> placing</p>
 <p>8<sup>th</sup> placing</p>
-<p></p>
 <p><strong><u>Junior Girls Division (Bouldering)</u></strong>
 </p>
 <p>7<sup>th</sup> placing</p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong><u>Junior Boys Division (Bouldering)</u></strong>
 </p>
 <p>6<sup>th</sup> placing</p>
-<p></p>
 <p><strong><u>Junior Boys Division (Top Rope)</u></strong>
 </p>
 <p>4<sup>th</sup> placing</p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong><u>Novice Division</u></strong>
 </p>
 <p>Silver Achievement Pins</p>
@@ -188,7 +178,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<hr>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -197,8 +186,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p><strong>Achievements (2023)</strong>
-</p>
+<h4><strong>Achievements (2023)</strong></h4>
 </th>
 </tr>
 <tr>
@@ -219,11 +207,9 @@ variant: tiptap
 <p><strong><u>Junior Girls Division (Top Rope)</u></strong>
 </p>
 <p>5th placing</p>
-<p></p>
 <p><strong><u>Junior Boys Division (Top Rope)</u></strong>
 </p>
 <p>6th placing</p>
-<p></p>
 <p><strong><u>Novice Division</u></strong>
 </p>
 <p>Gold Achievement Pins</p>
@@ -288,11 +274,9 @@ variant: tiptap
 <p><strong><u>Junior Boys Singles</u></strong>
 </p>
 <p>Tier 4 (1st)</p>
-<p></p>
 <p><strong><u>Junior Boys Doubles</u></strong>
 </p>
 <p>Tier 4 (1st)</p>
-<p></p>
 <p>Sportsmanship Award</p>
 </td>
 </tr>
