@@ -1,6 +1,6 @@
 ---
-title: CCA Schedule 2024
-permalink: /our-curriculum/co-curricular-activities/cca-schedule/
+title: Schedule and CCA Teachers 2025
+permalink: /our-curriculum/co-curricular-activities/schedule-and-cca-teachers-2025/
 description: ""
 variant: tiptap
 ---
@@ -11,6 +11,11 @@ variant: tiptap
 <col>
 </colgroup>
 <tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<h4><strong><em>Schedule 2025</em></strong></h4>
+</th>
+</tr>
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -107,120 +112,117 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Drama Club
-<br>ICT Club
-<br>-</p>
+<p>ICT Club</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LCC
+<p>Language and Drama Club
 <br>Media Club
 <br>Greenmakers Club</p>
 </td>
 </tr>
 </tbody>
 </table>
-<hr>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="4">
-<p><strong>CCAs are conducted on Tuesdays or/and Fridays from 2.00 p.m. to 4.00 p.m.</strong>
+<td rowspan="1" colspan="3">
+<h4><strong><em>2025 CCA Teachers - OIC/2IC</em></strong></h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>OIC</u></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>2IC</u></strong>
 </p>
 </td>
 </tr>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Category</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>CCA</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>OIC</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>2IC</p>
-</th>
-</tr>
-<tr>
-<td rowspan="7" colspan="1">
-<p><strong>Sports</strong>
+<td rowspan="1" colspan="1">
+<p><strong>Badminton</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Badminton*</p>
+<p>Mr Ng Yong Quan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Farhan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Stacey Koh</p>
+<p>Mdm Najma Begum</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Hockey (Boys)*</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Aizad</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Jonathan Boey</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Modular Sports</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Yeo Yungsen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Vong</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Table Tennis*</p>
+<p><strong>Table Tennis</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Rosenna Seah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Alan Yeo</p>
+<p>Ms Wei Yue Shan</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wushu</p>
+<p><strong>Hockey (Boys)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Aizad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ong Wei Chong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Wushu</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Zheng Rui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Cheng Yingying</p>
+<p>Mdm Cheng Ying Ying</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sports Climbing</p>
+<p><strong>Modular Sports</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Yeo Yungsen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Vong Sixu</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sports Climbing</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Effendi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Florence Ngu</p>
+<p>Mdm Wilsa Dewi</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Football (Girls)</p>
+<p><strong>Football (Girls)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Hamzah</p>
@@ -230,12 +232,21 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="5" colspan="1">
-<p><strong>Performing Arts<br>Visual Arts</strong>
+<td rowspan="1" colspan="1">
+<p><strong>Contemporary Dance</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Guitar Club**</p>
+<p>Ms Safeenah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Ann Lee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Guitar Club</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Sindy Lai</p>
@@ -246,40 +257,32 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Drama</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Norizah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Haslinda</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Contemporary Dance*</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Joyce Chew</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Safeenah</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ensemble - Guzheng*</p>
+<p><strong>Ensemble - Guzheng</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Yan Xiaojing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Wang Yuwei</p>
+<p>Ms Tham Hui Xia</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Art Club**</p>
+<p><strong>Language &amp; Drama Club</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nur Haslinda</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Jeremin Lo</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Art Club</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Pang Ming Ing</p>
@@ -289,72 +292,55 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
-<p><strong>Clubs &amp; Societies</strong>
-</p>
-</td>
 <td rowspan="1" colspan="1">
-<p>Greenmakers Club</p>
+<p><strong>Greenmakers Club</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Ahadrina</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Lau Peixia</p>
+<p>Mdm Koh Peck Lian</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ICT (Robotics/Coding)</p>
+<p><strong>ICT (Robotics/Coding)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Hafizah</p>
+<p>Mdm Nur Hafizah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Atika</p>
+<p>Mdm Nurul Atika</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Media Club</p>
+<p><strong>Media Club</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Goh Wan Yu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Cassandra Goh</p>
+<p>Mdm Huang Rui</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Language and
-<br>Cultural Club (LCC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Ho Huan Xin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Phoebe Tan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Uniformed Group</strong>
+<p><strong>Scouts</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Scouts</p>
+<p>Mdm Nor Aisah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Faris Fong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Aisah</p>
+<p>Ms Maalini</p>
 </td>
 </tr>
 </tbody>
 </table>
-<hr>
 <p><strong><u>Note</u>:</strong>
 <br>*Only Badminton, Hockey, Contemporary Dance and Guzheng will have a second
 session on Friday throughout the year to prepare the students potentially
