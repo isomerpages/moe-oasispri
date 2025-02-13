@@ -36,7 +36,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2024 NSG Hockey (Junior Boys 1 - P4)</p>
+<p>2024 NSG Hockey (Junior 1 - P4)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Tier 1</u></strong>
@@ -46,7 +46,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2024 NSG Hockey (Junior Boys 2 - P5)</p>
+<p>2024 NSG Hockey (Junior 2 - P5)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Tier 1</u></strong>
