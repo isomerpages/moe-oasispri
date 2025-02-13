@@ -149,7 +149,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>BADMINTON</strong>
+<p><strong>Badminton</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -161,7 +161,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>TABLE TENNIS</strong>
+<p><strong>Table Tennis</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -173,7 +173,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>HOCKEY (BOYS)</strong>
+<p><strong>Hockey (Boys)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -185,7 +185,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>WUSHU</strong>
+<p><strong>Wushu</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -197,7 +197,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MODULAR SPORTS</strong>
+<p><strong>Modular Sports</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -209,7 +209,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SPORTS CLIMBING</strong>
+<p><strong>Sports Climbing</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -221,7 +221,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>FOOTBALL (GIRLS)</strong>
+<p><strong>Football (Girls)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -233,7 +233,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>CONTEMPORARY DANCE</strong>
+<p><strong>Contemporary Dance</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -245,7 +245,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>GUITAR CLUB</strong>
+<p><strong>Guitar Club</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -257,7 +257,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>ENSEMBLE - GUZHENG</strong>
+<p><strong>Ensemble - Guzheng</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -269,7 +269,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>LANGUAGE &amp; DRAMA CLUB</strong>
+<p><strong>Language &amp; Drama Club</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -281,7 +281,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>ART CLUB</strong>
+<p><strong>Art Club</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -293,7 +293,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>GREENMAKERS CLUB</strong>
+<p><strong>Greenmakers Club</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -305,7 +305,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>ICT (ROBOTICS/CODING)</strong>
+<p><strong>ICT (Robotics/Coding)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -317,7 +317,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MEDIA CLUB</strong>
+<p><strong>Media Club</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -329,7 +329,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SCOUTS</strong>
+<p><strong>Scouts</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
