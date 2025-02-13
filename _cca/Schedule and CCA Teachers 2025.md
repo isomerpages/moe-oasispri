@@ -355,7 +355,14 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<hr>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p><strong><u>Note</u>:</strong>
 <br>*Only Badminton, Hockey, Contemporary Dance and Guzheng will have a second
 session on Friday throughout the year to prepare the students potentially
