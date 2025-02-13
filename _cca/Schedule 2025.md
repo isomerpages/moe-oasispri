@@ -107,12 +107,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Drama Club
-<br>ICT Club
+<p>ICT Club
 <br>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LCC
+<p>Language and Drama Club
 <br>Media Club
 <br>Greenmakers Club</p>
 </td>
