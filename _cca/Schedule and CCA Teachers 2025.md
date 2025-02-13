@@ -173,7 +173,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>HOCKEY <br>(BOYS)</strong>
+<p><strong>HOCKEY (BOYS)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -221,7 +221,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>FOOTBALL <br>(GIRLS)</strong>
+<p><strong>FOOTBALL (GIRLS)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
