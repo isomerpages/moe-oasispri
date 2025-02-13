@@ -156,7 +156,7 @@ variant: tiptap
 <p>Mr Ng Yong Quan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MDM NAJMA BEGUM</p>
+<p>Mdm Najma Begum</p>
 </td>
 </tr>
 <tr>
@@ -165,10 +165,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs ROSENNA SEAH</p>
+<p>Mrs Rosenna Seah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS WEI YUE SHAN</p>
+<p>Ms Wei Yue Shan</p>
 </td>
 </tr>
 <tr>
@@ -180,7 +180,7 @@ variant: tiptap
 <p>Mr Aizad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MR ONG WEI CHONG</p>
+<p>Mr Ong Wei Chong</p>
 </td>
 </tr>
 <tr>
@@ -192,7 +192,7 @@ variant: tiptap
 <p>Ms Zheng Rui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;MDM CHENG YING YING</p>
+<p>Mdm Cheng Ying Ying</p>
 </td>
 </tr>
 <tr>
@@ -204,7 +204,7 @@ variant: tiptap
 <p>Mr Yeo Yungsen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS VONG SIXU</p>
+<p>Ms Vong Sixu</p>
 </td>
 </tr>
 <tr>
@@ -216,7 +216,7 @@ variant: tiptap
 <p>Mr Effendi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MDM WILSA DEWI</p>
+<p>Mdm Wilsa Dewi</p>
 </td>
 </tr>
 <tr>
@@ -228,7 +228,7 @@ variant: tiptap
 <p>Mr Hamzah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MDM MAZIYAH</p>
+<p>Mdm Maziyah</p>
 </td>
 </tr>
 <tr>
@@ -240,7 +240,7 @@ variant: tiptap
 <p>Ms Safeenah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MDM ANN LEE</p>
+<p>Mdm Ann Lee</p>
 </td>
 </tr>
 <tr>
@@ -252,7 +252,7 @@ variant: tiptap
 <p>Ms Sindy Lai</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MRS NG WEI WEI</p>
+<p>Mrs Ng Wei Wei</p>
 </td>
 </tr>
 <tr>
@@ -264,7 +264,7 @@ variant: tiptap
 <p>Ms Yan Xiaojing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS THAM HUI XIA</p>
+<p>Ms Tham Hui Xia</p>
 </td>
 </tr>
 <tr>
@@ -276,7 +276,7 @@ variant: tiptap
 <p>Ms Nur Haslinda</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS JEREMIN LO</p>
+<p>Ms Jeremin Lo</p>
 </td>
 </tr>
 <tr>
@@ -288,7 +288,7 @@ variant: tiptap
 <p>Mdm Pang Ming Ing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS STACEY KIM</p>
+<p>Ms Stacey Kim</p>
 </td>
 </tr>
 <tr>
@@ -300,7 +300,7 @@ variant: tiptap
 <p>Mdm Ahadrina</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MDM KOH PECK LIAN</p>
+<p>Mdm Koh Peck Lian</p>
 </td>
 </tr>
 <tr>
@@ -312,7 +312,7 @@ variant: tiptap
 <p>Mdm Nur Hafizah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MDM NURUL ATIKA</p>
+<p>Mdm Nurul Atika</p>
 </td>
 </tr>
 <tr>
@@ -324,7 +324,7 @@ variant: tiptap
 <p>Ms Goh Wan Yu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MDM HUANG RUI</p>
+<p>Mdm Huang Rui</p>
 </td>
 </tr>
 <tr>
@@ -336,7 +336,7 @@ variant: tiptap
 <p>Mdm Nor Aisah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS MAALINI</p>
+<p>Ms Maalini</p>
 </td>
 </tr>
 </tbody>
