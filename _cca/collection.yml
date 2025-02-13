@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - Co Curricular Activities.md
-      - Schedule 2025.md
       - Achievements.md
+      - Schedule 2025.md
       - Sports/.keep
       - Sports/Sports.md
       - Sports/Badminton.md
