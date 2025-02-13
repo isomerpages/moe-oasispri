@@ -130,6 +130,11 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="3">
+<h4><strong>2025 CCA Teachers - OIC/2IC</strong></h4>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
 </td>
@@ -144,7 +149,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>BADMINTON</p>
+<p><strong>BADMINTON</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MR NG YONG QUAN</p>
@@ -155,7 +161,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>TABLE TENNIS</p>
+<p><strong>TABLE TENNIS</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MRS ROSENNA SEAH</p>
@@ -166,8 +173,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOCKEY
-<br>(BOYS)</p>
+<p><strong>HOCKEY <br>(BOYS)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MR AIZAD</p>
@@ -178,22 +185,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>WUSHU</p>
+<p><strong>WUSHU</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MS ZHENG RUI</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<p>MDM CHENG YING YING
-<br>
-<br>
-</p>
+<p>&nbsp;MDM CHENG YING YING</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MODULAR SPORTS</p>
+<p><strong>MODULAR SPORTS</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MR YEO YUNGSEN</p>
@@ -204,7 +209,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SPORTS CLIMBING</p>
+<p><strong>SPORTS CLIMBING</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MR EFFENDI</p>
@@ -215,21 +221,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>FOOTBALL
-<br>(GIRLS)</p>
+<p><strong>FOOTBALL <br>(GIRLS)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MR HAMZAH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>MDM MAZIYAH</p>
-<p>&nbsp;</p>
+<p>MDM MAZIYAH</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CONTEMPORARY DANCE</p>
+<p><strong>CONTEMPORARY DANCE</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MS SAFEENAH</p>
@@ -240,7 +245,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GUITAR CLUB</p>
+<p><strong>GUITAR CLUB</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MS SINDY LAI</p>
@@ -251,7 +257,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ENSEMBLE - GUZHENG</p>
+<p><strong>ENSEMBLE - GUZHENG</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MS YAN XIAOJING</p>
@@ -262,7 +269,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LANGUAGE &amp; DRAMA CLUB</p>
+<p><strong>LANGUAGE &amp; DRAMA CLUB</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MS NUR HASLINDA</p>
@@ -273,7 +281,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ART CLUB</p>
+<p><strong>ART CLUB</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MDM PANG MING ING</p>
@@ -284,20 +293,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GREENMAKERS CLUB</p>
+<p><strong>GREENMAKERS CLUB</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>MDM AHADRINA</p>
+<p>MDM AHADRINA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>MDM KOH PECK LIAN</p>
+<p>MDM KOH PECK LIAN</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ICT (ROBOTICS/CODING)</p>
+<p><strong>ICT (ROBOTICS/CODING)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MDM NUR HAFIZAH</p>
@@ -308,7 +317,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MEDIA CLUB</p>
+<p><strong>MEDIA CLUB</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MS GOH WAN YU</p>
@@ -319,7 +329,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SCOUTS</p>
+<p><strong>SCOUTS</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MDM NOR AISAH</p>
