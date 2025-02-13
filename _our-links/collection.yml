@@ -2,7 +2,7 @@ collections:
   our-links:
     output: true
     order:
-      - Gallery.md
       - Students.md
       - Teachers.md
       - Frequently Asked Questions.md
+      - Gallery.md
