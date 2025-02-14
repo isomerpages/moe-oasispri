@@ -13,7 +13,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<h4><strong><em>Schedule 2025</em></strong></h4>
+<h4><strong>Schedule 2025</strong></h4>
 </th>
 </tr>
 <tr>
@@ -131,7 +131,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
-<h4><strong><em>2025 CCA Teachers - OIC/2IC</em></strong></h4>
+<h4><strong>2025 CCA Teachers - OIC/2IC</strong></h4>
 </td>
 </tr>
 <tr>
