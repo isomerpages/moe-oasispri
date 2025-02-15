@@ -23,19 +23,13 @@ and community.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Phase
-<br>
-</p>
+<p>Phase</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Levels
-<br>
-</p>
+<p>Levels</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Learning Experiences
-<br>
-</p>
+<p>Learning Experiences</p>
 </th>
 </tr>
 <tr>
