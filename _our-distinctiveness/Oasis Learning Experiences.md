@@ -4,7 +4,7 @@ permalink: /our-distinctiveness/oasis-learning-experiences/
 description: ""
 variant: tiptap
 ---
-<h3>The Unique Oasis Learning Experiences</h3>
+<h4><strong>The Unique Oasis Learning Experiences</strong></h4>
 <p>The school has thoughtfully designed its curriculum, physical space and
 environment to pique students’ spirit of inquisitiveness, harness creative
 and critical thinking and create platforms for innovative contributions.
@@ -15,15 +15,15 @@ the school’s vision of nurturing Passionate Learners, Caring Leaders. Some
 examples are Speech and Drama Programme for EL and MT, Math Around Us,
 Literature is Alive, Health Funanza, school camps and Student Leadership
 programmes.</p>
-<h3>Championing Changemaking</h3>
+<h4><strong>Championing Changemaking</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/learning%20experience%201.png">
 </div>
-<h3>Deepening Discoveries</h3>
+<h4><strong>Deepening Discoveries</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/learning%20experience%202.png">
 </div>
-<h3>Igniting Imagination</h3>
+<h4><strong>Igniting Imagination</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/learning%20experience%203.png">
 </div>
