@@ -40,8 +40,8 @@ and community.</p>
 </tr>
 <tr>
 <td rowspan="6" colspan="1">
-<p>1
-<br>(School)</p>
+<p><strong>1 (School)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Storey 1</p>
@@ -84,7 +84,7 @@ and community.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Storey 6 &amp; 7</p>
+<p>Storey 6 and 7</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Innovation Journey</p>
@@ -92,8 +92,8 @@ and community.</p>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>2
-<br>(Neighbourhood)</p>
+<p><strong>2 (Neighbourhood)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Coney Island</p>
@@ -111,8 +111,8 @@ and community.</p>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>3
-<br>(Community)</p>
+<p><strong>3 (Community)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Pathlight School</p>
@@ -130,7 +130,7 @@ and community.</p>
 </tr>
 </tbody>
 </table>
-<h3>The School Environment and Learning Spaces</h3>
+<h4><strong>The School Environment and Learning Spaces</strong></h4>
 <p>The school believes that a vibrant and conducive environment has a positive
 impact in our students’ holistic well-being and development. Hence, we
 take pride and joy in designing the physical learning environment and spaces
