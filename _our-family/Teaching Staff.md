@@ -13,7 +13,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<h4><strong><em>Primary 1</em></strong></h4>
+<h4><strong>Primary 1</strong></h4>
 </th>
 </tr>
 <tr>
@@ -118,7 +118,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<h4><strong><em>Primary 2</em></strong></h4>
+<h4><strong>Primary 2</strong></h4>
 </td>
 </tr>
 <tr>
@@ -223,7 +223,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<h4><strong><em>Primary 3</em></strong></h4>
+<h4><strong>Primary 3</strong></h4>
 </td>
 </tr>
 <tr>
@@ -319,7 +319,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<h4><strong><em>Primary 4</em></strong></h4>
+<h4><strong>Primary 4</strong></h4>
 </td>
 </tr>
 <tr>
@@ -415,7 +415,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<h4><strong><em>Primary 5</em></strong></h4>
+<h4><strong>Primary 5</strong></h4>
 </td>
 </tr>
 <tr>
@@ -511,7 +511,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<h4><strong><em>Primary 6</em></strong></h4>
+<h4><strong>Primary 6</strong></h4>
 </td>
 </tr>
 <tr>
@@ -607,7 +607,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<h4><strong><em>Student Support</em></strong></h4>
+<h4><strong>Student Support</strong></h4>
 </td>
 </tr>
 <tr>
