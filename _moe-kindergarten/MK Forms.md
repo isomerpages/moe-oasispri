@@ -16,7 +16,7 @@ variant: tiptap
 </p>
 <p>6) <a href="/files/KF3-Withdrawal-from-Kindergarten-or-KiFAS-29-Apr-2019.pdf" rel="noopener noreferrer nofollow" target="_blank">KF3 - Withdrawal from Kindergarten or KiFAS&nbsp; (29 Apr 2019)</a>
 </p>
-<p>7) <a href="/files/KiFAS%20Explanatory%20Notes%20Jan%202022.pdf" rel="noopener noreferrer nofollow" target="_blank">KiFAS Explanatory Notes</a>
+<p>7) <a href="/files/KiFAS%20Explanatory%20Notes%20Jan%202022.pdf" rel="noopener noreferrer nofollow" target="_blank">KiFAS Explanatory Notes (wef 7 Feb 2025)</a>
 </p>
-<p>8) <a href="/files/Supporting%20Documents%20Checklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Supporting Documents Checklist</a>
+<p>8) <a href="/files/Supporting%20Documents%20Checklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Supporting Documents Checklist (wef 7 Feb 2025)</a>
 </p>
