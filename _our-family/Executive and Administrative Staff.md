@@ -154,11 +154,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Lab Assistant</strong>
+<p><strong>Science and Math Assistant</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Maizatul</p>
+<p>-</p>
 </td>
 </tr>
 </tbody>
