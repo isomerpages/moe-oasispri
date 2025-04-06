@@ -67,7 +67,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="5" colspan="1">
 <p><strong>Corporate Support Officer</strong>
 </p>
 </td>
@@ -88,6 +88,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Norafizah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Noriz Affendi</p>
 </td>
 </tr>
 <tr>
