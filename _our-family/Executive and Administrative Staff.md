@@ -21,12 +21,12 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Pauline Ng</p>
+<p>Ms Lye Sook Wan</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lye Sook Wan</p>
+<p>Ms Pauline Ng</p>
 </td>
 </tr>
 <tr>
@@ -72,7 +72,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="5" colspan="1">
+<td rowspan="4" colspan="1">
 <p><strong>Corporate Support Officer</strong>
 </p>
 </td>
@@ -83,11 +83,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Tan Hui Geok</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Kartini</p>
 </td>
 </tr>
 <tr>
