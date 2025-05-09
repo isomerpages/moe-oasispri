@@ -11,11 +11,6 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="2">
-<h4><strong>School Administration Team</strong></h4>
-</td>
-</tr>
-<tr>
 <td rowspan="2" colspan="1">
 <p><strong>Administration Manager</strong>
 </p>
