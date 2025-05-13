@@ -130,7 +130,7 @@ third_nav_title: Students Achievements
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -138,6 +138,15 @@ third_nav_title: Students Achievements
 </td>
 <td rowspan="1" colspan="1">
 <p>Bronze Award (3)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Mathematical Olympiad of Singapore 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze Award (7)</p>
+<p>Honourable Mention (16)</p>
 </td>
 </tr>
 <tr>
