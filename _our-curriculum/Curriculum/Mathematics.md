@@ -140,6 +140,258 @@ skills.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
+<p><strong>Singapore Mathematical Olympiad for Primary Schools 2025</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p>Bronze Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kyvus Goh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ler Jia He, Denzel</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Thia Wen Le</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wong Sheng En</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p>Raffles Institution Primary Mathematics World Contest 2025</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Distinction (Junior Category)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lee Jia Ying</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p>Merit Award (Junior Category)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Beh Jun Hao</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Koh Huixin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lee Yu Jie Jay</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mohamed Afif</p>
+</td>
+</tr>
+<tr>
+<td rowspan="5" colspan="1">
+<p>Distinction (Open Category)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bryan Ho</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chan Jing Heng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hany Nur Alisya Binte Muhammad Fareez</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Thia Wen Le</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Zhu Leishen Jayden</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Merit Award (Open Category)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wong Sheng En</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p><strong>National Mathematical Olympiad of Singapore 2024</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="7" colspan="1">
+<p>Bronze Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chan Jing Heng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Daniel Dunstan Lim Yuhong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hany Nur Alisya Binte Muhammad Fareez</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Koh Yu Jie</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ler Jia He, Denzel</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Muhammad Izz Danial Bin Iskandar</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Su Jia Yun</p>
+</td>
+</tr>
+<tr>
+<td rowspan="16" colspan="1">
+<p>Honourable Mention</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>April Wong Zi Xuan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Bryan Ho</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chan Jing Xuan Vanness</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Elena Chwa Yi En</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Eugene Foo Zhi Xian</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Goh Yan Ze Lucas</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Isadora Kok Rui En</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Leong Jia Cai Eden</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Liora Esabelle Yong Kai En</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lua Zhi Zhong Lucas</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ng Kah Wun Chloelle</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ng Yu Herng Leonel</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Thia Wen Le</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wong Jyn An Eden</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wong Sheng En</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Zhu Leishen Jayden</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
 <p><strong>Singapore Mathematical Olympiad for Primary Schools 2024</strong>
 </p>
 </th>
@@ -164,7 +416,6 @@ skills.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -250,7 +501,6 @@ skills.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -389,7 +639,6 @@ skills.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -412,7 +661,6 @@ skills.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -458,7 +706,6 @@ skills.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -492,7 +739,6 @@ skills.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -576,7 +822,6 @@ skills.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
