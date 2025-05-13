@@ -13,6 +13,20 @@ third_nav_title: Students Achievements
 </colgroup>
 <tbody>
 <tr>
+<th rowspan="1" colspan="1">
+<p><strong>Department</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Competition</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Award</strong>
+</p>
+</th>
+</tr>
+<tr>
 <td rowspan="3" colspan="1">
 <p>Mathematics</p>
 </td>
