@@ -140,7 +140,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -167,6 +167,14 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Distinction (1)
 <br>Merit Award (4)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary Mathematics Project Competition 2023 (Primary 4 Poster Category)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Commendation Award</p>
 </td>
 </tr>
 <tr>
