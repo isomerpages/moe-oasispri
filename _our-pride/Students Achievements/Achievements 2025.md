@@ -33,7 +33,7 @@ third_nav_title: Students Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Raffles Institution Primary Mathematics World Contest 2024</p>
+<p>Raffles Institution Primary Mathematics World Contest 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Distinction (6)
