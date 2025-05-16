@@ -1,6 +1,6 @@
 ---
-title: Executive and Administrative Staff
-permalink: /our-family/executive-and-administrative-staff/
+title: School Administration Team
+permalink: /our-family/school-admin-team/
 description: ""
 variant: tiptap
 ---

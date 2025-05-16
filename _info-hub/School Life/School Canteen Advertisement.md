@@ -32,7 +32,8 @@ variant: tiptap
 <p>30 June 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Halal (open to proposal)</p>
+<p>Halal</p>
+<p>(open to proposal)</p>
 </td>
 </tr>
 </tbody>
@@ -77,5 +78,6 @@ Food Hygiene Certificate.</p>
 <p>* Possess catering experience or experience operating in a school environment.</p>
 <p>* Successful applicant is required to apply for a food stall license from
 Singapore Food Agency (SFA).</p>
+<p></p>
 <p><strong><em>Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense.</em></strong>
 </p>
