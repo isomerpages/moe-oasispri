@@ -5,7 +5,6 @@ description: ""
 third_nav_title: School Life
 variant: tiptap
 ---
-<h5><strong>School Canteen Advertisement</strong></h5>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -32,8 +31,7 @@ variant: tiptap
 <p>30 June 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Halal</p>
-<p>(open to proposal)</p>
+<p>Halal (open to proposal)</p>
 </td>
 </tr>
 </tbody>
