@@ -24,13 +24,13 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Halal Rice</p>
+<p>Muslim Cooked Rice</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>30 June 2025</p>
+<p>31 May 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Halal (open to proposal)</p>
+<p>Muslim (open to proposal)</p>
 </td>
 </tr>
 </tbody>
