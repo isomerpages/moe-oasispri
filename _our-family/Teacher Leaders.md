@@ -11,11 +11,6 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="2">
-<h4><strong>Teacher Leaders</strong></h4>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p><strong>Senior Teacher (Mathematics)</strong>
 </p>
