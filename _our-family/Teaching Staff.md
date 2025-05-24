@@ -607,6 +607,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
+<p></p>
 <h4><strong>Student Support</strong></h4>
 </td>
 </tr>
