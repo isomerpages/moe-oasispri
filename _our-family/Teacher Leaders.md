@@ -57,15 +57,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Senior Teacher (Chinese Language)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Cheng Yingying</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Senior Teacher (Art)</strong>
 </p>
 </td>
