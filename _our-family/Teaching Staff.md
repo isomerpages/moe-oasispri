@@ -298,7 +298,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Ms Ng Choon Tee, Ms Charissa Choo, Mdm Soh Hoon Suu</p>
+<p>Ms Ng Choon Tee, Ms Charissa Choo</p>
 </td>
 </tr>
 <tr>
