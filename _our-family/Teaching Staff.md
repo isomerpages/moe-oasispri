@@ -200,7 +200,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mrs Carine Sing, Mdm Cheng Yingying</p>
+<p>Mrs Carine Sing</p>
 </td>
 </tr>
 <tr>
