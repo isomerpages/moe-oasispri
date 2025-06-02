@@ -316,7 +316,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mrs Alan Yeo, Ms Celeste Yap</p>
+<p>Ms Celeste Yap</p>
 </td>
 </tr>
 <tr>
