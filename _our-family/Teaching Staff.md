@@ -118,6 +118,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
+<p></p>
 <h4><strong>Primary 2</strong></h4>
 </td>
 </tr>
@@ -200,7 +201,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mrs Carine Sing, Mdm Cheng Yingying</p>
+<p>Mrs Carine Sing</p>
 </td>
 </tr>
 <tr>
@@ -223,6 +224,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
+<p></p>
 <h4><strong>Primary 3</strong></h4>
 </td>
 </tr>
@@ -296,7 +298,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Ms Ng Choon Tee, Ms Charissa Choo, Mdm Soh Hoon Suu</p>
+<p>Ms Ng Choon Tee, Ms Charissa Choo</p>
 </td>
 </tr>
 <tr>
@@ -314,11 +316,12 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mrs Alan Yeo, Ms Celeste Yap</p>
+<p>Ms Celeste Yap</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
+<p></p>
 <h4><strong>Primary 4</strong></h4>
 </td>
 </tr>
@@ -415,6 +418,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
+<p></p>
 <h4><strong>Primary 5</strong></h4>
 </td>
 </tr>
@@ -511,6 +515,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
+<p></p>
 <h4><strong>Primary 6</strong></h4>
 </td>
 </tr>
