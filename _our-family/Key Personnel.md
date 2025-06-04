@@ -133,15 +133,6 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Soh Hoon Suu</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Level Head (Chinese Language)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mrs Joelle Pek</p>
 </td>
 </tr>
