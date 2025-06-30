@@ -12,6 +12,15 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Lead Teacher (Science)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Soh Lee Yoong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Senior Teacher (Mathematics)</strong>
 </p>
 </td>
