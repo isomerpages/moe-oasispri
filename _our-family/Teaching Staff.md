@@ -456,7 +456,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mr Effendi, Ms Aline Ng</p>
+<p>Mr Effendi, Ms Pamela Yeoh</p>
 </td>
 </tr>
 <tr>
@@ -474,7 +474,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Ms Jeremin Lo</p>
+<p>Ms Jeremin Lo, Ms Ivy Choi</p>
 </td>
 </tr>
 <tr>
@@ -483,7 +483,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mr Hamzah, Mr Mong Kok Thong</p>
+<p>Mr Hamzah, Ms Maalini</p>
 </td>
 </tr>
 <tr>
@@ -501,7 +501,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Ms Si Xu Vongsuvanish, Mr Farhan Chia, Mrs Koh-Lim Zi Xiu</p>
+<p>Ms Si Xu Vongsuvanish, Mr Farhan Chia</p>
 </td>
 </tr>
 <tr>
@@ -510,7 +510,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mdm Norizah, Mrs Shirley Lim</p>
+<p>Mdm Norizah, Mdm Margaret Lee</p>
 </td>
 </tr>
 <tr>
@@ -553,7 +553,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mdm Ahadrina, Mrs Munirah Eszham</p>
+<p>Mdm Ahadrina, Ms Lam May Yuen</p>
 </td>
 </tr>
 <tr>
@@ -589,7 +589,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mr Jonathan Boey, Mrs Norhazlinda Sham</p>
+<p>Mrs Norhazlinda Sham, Mr Jonathan Boey</p>
 </td>
 </tr>
 <tr>
@@ -598,7 +598,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mrs Melissa Wee</p>
+<p>Ms Soh Lee Yoong, Mr Ng Yong Quan</p>
 </td>
 </tr>
 <tr>
@@ -607,7 +607,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mr Aizad</p>
+<p>Mr Aizad, Mr Sunesh</p>
 </td>
 </tr>
 </tbody>
