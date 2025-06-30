@@ -174,7 +174,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mrs Chia-Ho Wan Yu, Mdm Joelle Kwa</p>
+<p>Mrs Chia-Ho Wan Yu, Mrs Joelle Pek</p>
 </td>
 </tr>
 <tr>
