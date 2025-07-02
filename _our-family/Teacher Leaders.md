@@ -109,6 +109,15 @@ description: ""
 <p>Mdm Helen Lee</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Senior Teacher (Character &amp; Citizenship Education)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Ang-Wei Yueshan</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
