@@ -16,7 +16,8 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Address:</p>
+<p><strong>Address:</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>71 Edgefield Plains, Singapore 828716</p>
@@ -24,7 +25,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tel:</p>
+<p><strong>Tel:</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>+65 6320 9855</p>
@@ -32,15 +34,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Fax:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>+65 6320 9856</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Email:</p>
+<p><strong>Email:</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:oasis_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">oasis_ps@moe.edu.sg</a>
