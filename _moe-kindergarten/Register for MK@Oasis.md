@@ -4,6 +4,39 @@ permalink: /mk-at-oasis/register-for-mk-at-oasis/
 variant: tiptap
 description: ""
 ---
+<h4><strong>WHAT WE OFFER</strong></h4>
+<h4><strong>Kindergarten 1 &amp; 2 Programmes</strong></h4>
+<p>We offer 4-hour K1 and K2 programmes for children in the <strong>morning from 8.00am to 12noon</strong>.</p>
+<p></p>
+<p>MK@OA children are eligible for <strong>priority admission</strong> to Oasis
+Primary School under <strong>Phase 2A in the P1 Registration Exercise.</strong> Like
+all children who may be eligible for priority admissions, placement into
+our primary school is not guaranteed and depends on the number of applicants
+and vacancies at the school during the P1 Registration Exercise.</p>
+<p></p>
+<h4><strong>How to register</strong></h4>
+<p>You can register your child for the 2026 Kindergarten 1 (K1) admission
+to an MOE Kindergarten (MK) if your child is:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>A Singapore Citizen (SC) or Permanent Resident (PR); and</p>
+</li>
+<li>
+<p>Born <strong>between 2 January 2021 and 1 January 2022</strong>, both dates
+inclusive.</p>
+</li>
+</ul>
+<p>If you have <strong>missed the online registration</strong> exercise and
+are keen to place your child in our Kindergarten 1 (K1) next year, please
+email us at <a href="mailto:mk_oasis@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mk_oasis@moe.edu.sg</a> or
+call us at <strong>6320 9855.</strong>
+</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <h4>Kindergarten 1 &amp; 2 Programmes</h4>
 <p>We offer 4-hour K1 and K2 programmes for children in the <strong>morning from 8.00am to 12noon</strong>.</p>
 <p>MK@OA children are eligible for <strong>priority admission</strong> to Oasis
