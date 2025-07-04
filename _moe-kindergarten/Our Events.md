@@ -36,6 +36,9 @@ to Primary&nbsp;<strong><em>1</em></strong>&nbsp;(P1).</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mkoasis/Our Events 2025/ourevents2.png">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mkoasis/Our Events 2025/ourevents3.png">
+</div>
 <p></p>
 <p></p>
 <p></p>
@@ -67,4 +70,5 @@ children in their transition to Primary&nbsp;<strong>1</strong>&nbsp;(P1).</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/hcxMR0E7BIk?si=1qY6QRBFuaNxlIPM"></iframe>
 </div>
+<p></p>
 <p></p>
