@@ -4,7 +4,7 @@ permalink: /mk-at-oasis/our-events/
 variant: tiptap
 description: ""
 ---
-<h4><strong>On-going Transition to P1 Programme in MK@Oasis</strong></h4>
+<h4>On-going Transition to P1 Programme in MK@Oasis</h4>
 <p><strong><em>The transition from preschool to primary school is one of the largest and most important changes children have to encounter &amp; manage at that age.</em></strong>
 </p>
 <p><em>Fabian &amp; Dunlop, 2006</em>
@@ -28,7 +28,7 @@ to Primary&nbsp;<strong><em>1</em></strong>&nbsp;(P1).</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/hcxMR0E7BIk?si=PcmOc2goY3wil8DJ"></iframe>
 </div>
-<h4><strong>Special Events in Semester One 2025</strong></h4>
+<h4>Special Events in Semester One 2025</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Mkoasis/Our Events 2025/ourevents1.png">
 </div>
@@ -44,7 +44,7 @@ to Primary&nbsp;<strong><em>1</em></strong>&nbsp;(P1).</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mkoasis/Our Events 2025/ourevents4.png">
 </div>
-<h4><strong>Special Events in 2024</strong></h4>
+<h4>Special Events in 2024</h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/EeeLMXzK3Vo?si=2Ql0DIhu6ntMepi7"></iframe>
 </div>
