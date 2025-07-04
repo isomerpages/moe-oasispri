@@ -25,8 +25,9 @@ in planned (structured) activities and routines.</p>
 <p>Watch the <strong>video</strong> below to find out how the MOE Kindergarten
 (<strong><em>MK</em></strong>) curriculum supports children in their transition
 to Primary&nbsp;<strong><em>1</em></strong>&nbsp;(P1).</p>
-<p><a href="https://www.youtube.com/watch?v=hcxMR0E7BIk" rel="noopener noreferrer nofollow" target="_blank"><u>Transition Programme 2024</u></a>
-</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/hcxMR0E7BIk?si=PcmOc2goY3wil8DJ"></iframe>
+</div>
 <h4><strong>Special Events in Semester One 2025</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Mkoasis/Our Events 2025/ourevents1.png">
