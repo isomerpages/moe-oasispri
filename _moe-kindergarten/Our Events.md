@@ -28,7 +28,13 @@ to Primary&nbsp;<strong><em>1</em></strong>&nbsp;(P1).</p>
 <p><a href="https://www.youtube.com/watch?v=hcxMR0E7BIk" rel="noopener noreferrer nofollow" target="_blank"><u>Transition Programme 2024</u></a>
 </p>
 <h4><strong>Special Events in Semester One 2025</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Mkoasis/Our Events 2025/ourevents1.png">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mkoasis/Our Events 2025/ourevents2.png">
+</div>
 <p></p>
 <p></p>
 <p></p>
