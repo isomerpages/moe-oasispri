@@ -56,7 +56,7 @@ committed, competent, and passionate care for your child.</p>
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/8Nv9GAjOpio?si=v6jjDjdYsYjDWxBD"></iframe>
 </div>
 <h4>How to Register for our KCare Services</h4>
-<p>If your child is not yet enrolled in an MK, indicate your preference for
-KCare&nbsp;<a href="https://www.moe.gov.sg/preschool/moe-kindergarten/register" rel="noopener noreferrer nofollow" target="_blank">when registering for MK</a>.</p>
-<p>If your child is already enrolled, speak with your MK Centre Head to find
-out more.</p>
+<p>If your child is not yet enrolled in our MK, indicate your preference
+for KCare&nbsp;<a href="https://www.moe.gov.sg/preschool/moe-kindergarten/register" rel="noopener noreferrer nofollow" target="_blank">when registering for MK</a>.</p>
+<p>If your child is already enrolled, please approach our Centre Head to
+find out more.</p>
