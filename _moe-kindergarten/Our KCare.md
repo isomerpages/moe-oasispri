@@ -4,16 +4,16 @@ permalink: /mk-at-oasis/our-kcare/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Our KCare</strong></h4>
+<h4>Our KCare</h4>
 <p>Kindergarten Care (KCare) is&nbsp;a care service available in all MOE
 Kindergartens (MK). KCare operates from Monday to Friday, 7am to 7pm, including
 school holidays. It is closed on public holidays and up to 6 additional
 days each year.</p>
-<h4><strong>Our KCare Programme</strong></h4>
+<h4>Our KCare Programme</h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/_SSjOYBiE-A?si=zo8QFh5keuk3YZ9I"></iframe>
 </div>
-<h4><strong>Our KCare Provider</strong></h4>
+<h4>Our KCare Provider</h4>
 <p>Established in 1902, the YMCA of Singapore is a Christian, volunteer-driven
 organization committed to serving and making a positive impact on the entire
 community, regardless of race, language, or religion. Through a variety
@@ -25,7 +25,7 @@ individuals. As a social enterprise, the surpluses generated from YMCA
 Education Services support YMCA’s community service programmes.</p>
 <p>Currently, the YMCA of Singapore operates 5 Kindergarten Care centres
 and 20 Student Care Centres across the island.</p>
-<h4><strong>Philosophy, Mission, Aims &amp; Objectives</strong></h4>
+<h4>Philosophy, Mission, Aims &amp; Objectives</h4>
 <p>We believe every child is unique and every family is distinctive.</p>
 <p>We recognize the importance of meeting the individual needs of each child.</p>
 <p>We focus on each child's social, emotional, cognitive, physical and aesthetic
@@ -51,11 +51,11 @@ and interactions with both adults and children. Our goal is to provide
 committed, competent, and passionate care for your child.</p>
 <p><em>~ By KCare Supervisor</em>
 </p>
-<h4><strong>Our KCare Memories</strong></h4>
+<h4>Our KCare Memories</h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/8Nv9GAjOpio?si=v6jjDjdYsYjDWxBD"></iframe>
 </div>
-<h4><strong>How to Register for our KCare Services</strong></h4>
+<h4>How to Register for our KCare Services</h4>
 <p>If your child is not yet enrolled in an MK, indicate your preference for
 KCare&nbsp;<a href="https://www.moe.gov.sg/preschool/moe-kindergarten/register" rel="noopener noreferrer nofollow" target="_blank">when registering for MK</a>.</p>
 <p>If your child is already enrolled, speak with your MK Centre Head to find
