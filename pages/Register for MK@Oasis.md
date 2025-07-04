@@ -1,6 +1,6 @@
 ---
-title: What We Offer
-permalink: /mk-at-oasis/what-we-offer/
+title: Register for MK@Oasis
+permalink: /register-for-mk-oasis/
 variant: tiptap
 description: ""
 ---

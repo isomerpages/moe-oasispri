@@ -1,6 +1,6 @@
 ---
-title: What Parents & Children Say
-permalink: /mk-at-oasis/what-parents-and-children-say/
+title: Testimonials
+permalink: /testimonials/
 variant: tiptap
 description: ""
 ---

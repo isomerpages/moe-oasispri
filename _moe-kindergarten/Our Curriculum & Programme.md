@@ -1,6 +1,6 @@
 ---
-title: Our Curriculum & Programmes
-permalink: /mk-at-oasis/our-curriculum-and-programmes/
+title: Our Curriculum & Programme
+permalink: /mk-at-oasis/our-curriculum-and-programme/
 variant: tiptap
 description: ""
 ---
