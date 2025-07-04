@@ -10,7 +10,9 @@ Kindergartens (MK). KCare operates from Monday to Friday, 7am to 7pm, including
 school holidays. It is closed on public holidays and up to 6 additional
 days each year.</p>
 <h4><strong>Our KCare Programme</strong></h4>
-<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/_SSjOYBiE-A?si=zo8QFh5keuk3YZ9I"></iframe>
+</div>
 <h4><strong>Our KCare Provider</strong></h4>
 <p>Established in 1902, the YMCA of Singapore is a Christian, volunteer-driven
 organization committed to serving and making a positive impact on the entire
@@ -28,6 +30,10 @@ and 20 Student Care Centres across the island.</p>
 <p>We recognize the importance of meeting the individual needs of each child.</p>
 <p>We focus on each child's social, emotional, cognitive, physical and aesthetic
 development.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Mkoasis/Our KCare/ourkcare.png">
+</div>
 <p>YMCA KCARE @OASIS aims to provide a safe and conducive environment for
 children to play, explore and discover the world around them.</p>
 <p>We help to build your child’s sense of self-worth and help him/her develop
