@@ -30,7 +30,6 @@ and 20 Student Care Centres across the island.</p>
 <p>We recognize the importance of meeting the individual needs of each child.</p>
 <p>We focus on each child's social, emotional, cognitive, physical and aesthetic
 development.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Mkoasis/Our KCare/ourkcare.png">
 </div>
@@ -53,7 +52,9 @@ committed, competent, and passionate care for your child.</p>
 <p><em>~ By KCare Supervisor</em>
 </p>
 <h4><strong>Our KCare Memories</strong></h4>
-<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/8Nv9GAjOpio?si=v6jjDjdYsYjDWxBD"></iframe>
+</div>
 <h4><strong>How to Register for our KCare Services</strong></h4>
 <p>If your child is not yet enrolled in an MK, indicate your preference for
 KCare&nbsp;<a href="https://www.moe.gov.sg/preschool/moe-kindergarten/register" rel="noopener noreferrer nofollow" target="_blank">when registering for MK</a>.</p>
