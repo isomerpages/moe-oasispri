@@ -1,5 +1,4 @@
 collections:
   our-links:
     output: true
-    order:
-      - Frequently Asked Questions.md
+    order: []
