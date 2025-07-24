@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Our Events/.keep
-      - Our Events/Chinese New Year 2025.md
       - Students.md
       - Teachers.md
       - Frequently Asked Questions.md
