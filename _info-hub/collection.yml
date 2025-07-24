@@ -2,6 +2,7 @@ collections:
   info-hub:
     output: true
     order:
+      - Teachers.md
       - Students.md
       - School Life/.keep
       - School Life/Assessment Information.md
