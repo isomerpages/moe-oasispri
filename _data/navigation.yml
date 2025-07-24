@@ -15,8 +15,6 @@ links:
         url: /our-distinctiveness/place-based-learning/
       - title: Our Pride
         url: /our-distinctiveness/our-pride/our-pride/
-  - title: Our Pride
-    collection: our-pride
   - title: Our Curriculum
     url: /our-curriculum/curriculum/
     sublinks:
@@ -26,6 +24,8 @@ links:
         url: /our-curriculum/co-curricular-activities/
   - title: Our Family
     collection: our-family
+  - title: Our Pride
+    collection: our-pride
   - title: Info Hub
     collection: info-hub
   - title: MK@OA
