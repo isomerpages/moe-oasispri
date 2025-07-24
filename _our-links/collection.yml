@@ -2,6 +2,5 @@ collections:
   our-links:
     output: true
     order:
-      - Students.md
       - Teachers.md
       - Frequently Asked Questions.md
