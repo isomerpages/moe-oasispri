@@ -1,8 +1,8 @@
 ---
 title: Teachers
-permalink: /our-links/teachers/
-description: ""
+permalink: /info-hub/teachers/
 variant: tiptap
+description: ""
 ---
 <p>1.&nbsp;<a href="https://for.edu.sg/oasis-service-portal" rel="noopener noreferrer nofollow" target="_blank">Oasis Service Portal</a>
 </p>

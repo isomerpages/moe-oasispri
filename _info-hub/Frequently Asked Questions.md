@@ -1,8 +1,8 @@
 ---
 title: Frequently Asked Questions
-permalink: /our-links/faq/
-description: ""
+permalink: /info-hub/frequently-asked-questions/
 variant: tiptap
+description: ""
 ---
 <p><strong>1.&nbsp; How do I sign up for PSG?</strong>
 </p>
