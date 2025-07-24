@@ -2,6 +2,7 @@ collections:
   info-hub:
     output: true
     order:
+      - Our Links/.keep
       - School Life/.keep
       - School Life/Assessment Information.md
       - School Life/School Hours & Operations.md
