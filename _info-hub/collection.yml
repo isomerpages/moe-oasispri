@@ -2,6 +2,7 @@ collections:
   info-hub:
     output: true
     order:
+      - Chinese New Year 2025.md
       - School Life/.keep
       - School Life/Assessment Information.md
       - School Life/School Hours & Operations.md
