@@ -30,6 +30,7 @@ description: ""
 </p>
 <p>9.&nbsp;<a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space (SLS)</a>
 </p>
-<p>Frequently Asked Questions</p>
+<p><strong>Frequently Asked Questions</strong>
+</p>
 <p></p>
 <p></p>
