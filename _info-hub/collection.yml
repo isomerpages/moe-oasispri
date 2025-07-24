@@ -2,6 +2,7 @@ collections:
   info-hub:
     output: true
     order:
+      - Our Events/Chinese New Year 2025.md
       - Our Events/.keep
       - Our Events.md
       - School Life/.keep
