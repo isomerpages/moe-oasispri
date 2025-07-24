@@ -2,7 +2,6 @@ collections:
   info-hub:
     output: true
     order:
-      - Our Links.md
       - School Life/.keep
       - School Life/Assessment Information.md
       - School Life/School Hours & Operations.md
@@ -16,3 +15,4 @@ collections:
       - Forms & Guides/Application Forms.md
       - Forms & Guides/Parents Gateway.md
       - Forms & Guides/Student Learning Space (SLS).md
+      - Our Links.md
