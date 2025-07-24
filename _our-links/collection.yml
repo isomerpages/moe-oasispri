@@ -2,7 +2,6 @@ collections:
   our-links:
     output: true
     order:
-      - Our Events/.keep
       - Students.md
       - Teachers.md
       - Frequently Asked Questions.md
