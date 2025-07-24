@@ -1,6 +1,6 @@
 ---
 title: Our Pride
-permalink: /our-distinctiveness/our-pride/our-pride/
+permalink: /our-pride/our-pride/
 description: ""
 variant: tiptap
 ---
