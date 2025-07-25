@@ -21,5 +21,5 @@ sections:
       button: Click here
       alt: Image alt text
       image: /images/Banner/banner.jpg
-      url: "-"
+      url: /education-minister-visit
 ---
