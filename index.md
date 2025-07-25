@@ -15,10 +15,11 @@ sections:
           description: ""
           url: ""
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: Education Minister Desmond Lee’s inaugural school visit to OPS and
+        MK@Oasis
+      button: Click here
       alt: Image alt text
+      image: /images/Banner/banner.jpg
+      url: "-"
 ---
