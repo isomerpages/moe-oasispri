@@ -16,10 +16,9 @@ sections:
           url: ""
   - infopic:
       id: infopic
-      description: Education Minister Desmond Lee’s inaugural school visit to OPS and
-        MK@Oasis
+      description: Minister Lee’s inaugural school visit on 8 July 2025
       button: Click here
       alt: Image alt text
       image: /images/Banner/banner.jpg
-      url: /education-minister-visit
+      url: /minister-visit/
 ---
