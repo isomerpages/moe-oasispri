@@ -11,7 +11,7 @@ sections:
       url: /contact-us/
       variant: center
       key_highlights:
-        - title: Education Minister Desmond Lee’s inaugural school visit
+        - title: Minister Lee’s inaugural school visit on 8 July 2025
           description: ""
           url: ""
   - infopic:
