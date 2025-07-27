@@ -1,5 +1,5 @@
 collections:
-  education-minister-visit:
+  minister-visit:
     output: true
     order:
       - Minister Visit.md
