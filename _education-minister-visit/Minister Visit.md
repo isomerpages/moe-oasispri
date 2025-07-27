@@ -10,3 +10,5 @@ visit since taking office, choosing Oasis Primary School and its MOE Kindergarte
 (MK@Oasis) as the first stop. His visit focused on how the school is nurturing
 students beyond academic abilities to include essential social-emotional
 skills and preparing students for a future shaped by AI and digital transformation.</p>
+<p></p>
+<p></p>
