@@ -2,4 +2,4 @@ collections:
   education-minister-visit:
     output: true
     order:
-      - Education Minister Visit.md
+      - Minister Visit.md
