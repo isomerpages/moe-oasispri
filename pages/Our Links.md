@@ -4,6 +4,11 @@ permalink: /our-links/
 variant: tiptap
 description: ""
 ---
+<h4><strong>Our Pride</strong></h4><a class="isomer-image-wrapper" href="https://www.oasispri.moe.edu.sg/our-pride/students-achievements/achievements-2024/"><img style="width: 75%;" height="auto" width="100%" src="/images/students%20achievements.png"></a>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <h4><strong>Frequently Asked Questions</strong></h4>
 <p><strong>1.&nbsp; How do I sign up for PSG?</strong>
 </p>
