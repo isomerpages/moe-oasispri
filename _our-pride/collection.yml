@@ -2,8 +2,8 @@ collections:
   our-pride:
     output: true
     order:
-      - Our Pride.md
       - Minister Visit.md
+      - Our Pride.md
       - Students Achievements/.keep
       - Students Achievements/Achievements 2025.md
       - Students Achievements/Achievements 2024.md
