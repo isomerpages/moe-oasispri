@@ -2,6 +2,7 @@ collections:
   our-pride:
     output: true
     order:
+      - Test/In the News.md
       - Test/.keep
       - Students Achievements/.keep
       - Students Achievements/Achievements 2025.md
