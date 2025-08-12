@@ -1,5 +1,4 @@
 collections:
   minister-visit:
     output: true
-    order:
-      - Minister Visit.md
+    order: []
