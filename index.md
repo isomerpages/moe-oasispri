@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: Minister Lee’s inaugural school visit on 8 July 2025
           description: ""
-          url: /minister-visit/
+          url: /our-pride/in-the-news/minister-visit/
   - infopic:
       id: infopic
       button: Click here
