@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Test/.keep
-      - In the News.md
       - Students Achievements/.keep
       - Students Achievements/Achievements 2025.md
       - Students Achievements/Achievements 2024.md
