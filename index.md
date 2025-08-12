@@ -18,7 +18,7 @@ sections:
       id: infopic
       button: Click here
       image: /images/Banner/banner.jpg
-      url: /minister-visit/
+      url: /our-pride/in-the-news/minister-visit/
       title: Minister Lee’s inaugural school visit on 8 July 2025
       alt: minister visit
 ---
