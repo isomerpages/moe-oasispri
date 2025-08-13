@@ -13,10 +13,9 @@ third_nav_title: In the News
 <div class="iframe-wrapper">
 <iframe height="480" width="640" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/G-2PN0L96Oc?si=ugcUpYz84ofQ4vUY&amp;start=396"></iframe>
 </div>
-<p><strong><em>Watch the video till 05:22 to hear about Minister Lee's Oasis Experience!</em></strong>
+<p><em>Watch the video till 05:22 to hear about Minister Lee's Oasis Experience!</em>
 </p>
-<p><strong>李智陞盼从三方面 改善我国教育制度</strong>
-</p>
+<h4><strong>李智陞盼从三方面 改善我国教育制度</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="480" width="640" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/UM0FMFiEBbA?si=a5HDsGQAPjwYlXZy&amp;controls=0"></iframe>
 </div>
