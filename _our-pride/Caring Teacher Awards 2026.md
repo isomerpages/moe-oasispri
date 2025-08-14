@@ -9,9 +9,8 @@ description: ""
 <p>The nominations for the <strong>16th Caring Teacher Awards (CTA) 2026</strong> organised
 biennially by NIE/NTU is now open from <strong>1 Aug 2025 to 31 Dec 2025</strong>.</p>
 <p>If you would like to nominate any teachers, do check out the information
-in the poster, and all nominations can be submitted online,</p>
-<p>pls click &nbsp;<a href="https://www.cta.nie.edu.sg/nominate" rel="noopener noreferrer nofollow" target="_blank">CTA 2026 | NOMINATE</a> or scan
-the QR Code below for more information.</p>
+in the poster, and all nominations can be submitted online, pls click &nbsp;
+<a href="https://www.cta.nie.edu.sg/nominate" rel="noopener noreferrer nofollow" target="_blank">CTA 2026 | NOMINATE</a>or scan the QR Code below for more information.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 35%;" height="auto" width="100%" alt="" src="/images/CTA 2026/cta2026.png">
 </div>
