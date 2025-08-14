@@ -17,4 +17,9 @@ sections:
       url: /our-pride/in-the-news/minister-visit/
       title: Minister Lee’s inaugural school visit on 8 July 2025
       alt: minister visit
+  - infopic:
+      title: Nomination for Caring Teacher Awards 2026
+      id: infopic
+      button: Button Text
+      alt: Image alt text
 ---
