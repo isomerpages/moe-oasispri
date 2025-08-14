@@ -15,10 +15,9 @@ in the poster, and all nominations can be submitted online, please click
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/CTA 2026/cta2026.png">
 </div>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p>&lt;Insert Poster – see attached&gt;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CTA 2026/cta2026poster.jpg">
+</div>
 <p>Thank you for your time and attention!</p>
 <p><strong><em>United We Rise</em></strong>
 </p>
