@@ -2,6 +2,7 @@ collections:
   our-pride:
     output: true
     order:
+      - Caring Teacher Awards 2026.md
       - In the News/Minister Visit.md
       - In the News/.keep
       - Students Achievements/.keep
