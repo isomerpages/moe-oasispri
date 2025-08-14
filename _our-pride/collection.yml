@@ -2,11 +2,12 @@ collections:
   our-pride:
     output: true
     order:
-      - Our Pride.md
+      - In the News/Minister Visit.md
+      - In the News/.keep
+      - Students Achievements/.keep
       - Students Achievements/Achievements 2025.md
       - Students Achievements/Achievements 2024.md
       - Students Achievements/Achievements 2023.md
-      - Students Achievements/.keep
       - Students Achievements/Achievements 2022.md
       - Students Achievements/Achievements 2021.md
       - Students Achievements/Achievements 2020.md
