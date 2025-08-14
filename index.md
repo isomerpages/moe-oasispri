@@ -20,6 +20,8 @@ sections:
   - infopic:
       title: Nomination for Caring Teacher Awards 2026
       id: infopic
-      button: Button Text
-      alt: Image alt text
+      button: Click here
+      alt: caring teacher awards 2026
+      url: /our-pride/caring-teacher-awards-2026/
+      image: /images/CTA 2026/cta2026poster.jpg
 ---
