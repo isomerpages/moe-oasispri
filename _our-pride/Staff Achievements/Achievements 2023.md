@@ -105,7 +105,7 @@ customers with excellent service.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Christine Huang Rui</p>
+<p>Ms Christine Huang Rui</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tan Soo Cheng</p>
