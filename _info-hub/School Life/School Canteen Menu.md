@@ -5,5 +5,4 @@ variant: tiptap
 description: ""
 third_nav_title: School Life
 ---
-<p><strong><em>work in progress ...</em></strong>
-</p>
+<p></p>
