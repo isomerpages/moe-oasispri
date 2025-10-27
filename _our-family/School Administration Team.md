@@ -11,17 +11,12 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p><strong>Administration Manager</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lye Sook Wan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
