@@ -39,7 +39,7 @@ variant: tiptap
 <h5><strong>Application Procedure</strong></h5>
 <p>1. Download and complete the application form. You may also request for
 a hardcopy from the School’s General Office.</p>
-<p><a href="/files/canteen_application_form.pdf" rel="noopener noreferrer nofollow" target="_blank">Canteen Application Form</a>
+<p><a href="/files/application_for_canteen_stall_in_existing_school.pdf" rel="noopener nofollow" target="_blank">Canteen Application Form</a>
 </p>
 <p>2. Attached the following documents together with the application form:
 <br>* Photocopy of the NRIC (front and back)
