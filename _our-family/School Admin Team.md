@@ -1,5 +1,5 @@
 ---
-title: School Administration Team
+title: School Admin Team
 permalink: /our-family/school-admin-team/
 description: ""
 variant: tiptap
