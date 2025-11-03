@@ -4,7 +4,7 @@ permalink: /info-hub/students/
 variant: tiptap
 description: ""
 ---
-<p>1.&nbsp;<a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">Student MIMS</a>
+<p>1.&nbsp;<a href="https://idp.mims.moe.gov.sg/nidp/saml2/sso" rel="noopener noreferrer nofollow" target="_blank">Student MIMS</a>
 </p>
 <p>2.&nbsp;<a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">Student ICON</a>
 </p>
