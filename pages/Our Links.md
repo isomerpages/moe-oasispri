@@ -90,7 +90,3 @@ specified, i.e. 4 hours.</p>
 </p>
 <p>We can always find an area where you can contribute. All we need is your
 commitment and time to make each programme a success.</p>
-<p></p>
-<p>&lt;a href="<a href="https://staging.d6400o65xh90r.amplifyapp.com/our-curriculum/co-curricular-activities/clubs-n-societies/language-n-cultural-club/" rel="noopener noreferrer nofollow" target="_blank">https://staging.d6400o65xh90r.amplifyapp.com/our-curriculum/co-curricular-activities/clubs-n-societies/language-n-cultural-club/</a>"&gt;</p>
-<p>&lt;img style="width:70%" alt="language and cultural club" src="/images/LCC3.png"&gt;</p>
-<p>&lt;/a&gt;</p>
