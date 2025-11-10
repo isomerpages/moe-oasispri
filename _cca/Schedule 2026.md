@@ -121,6 +121,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<hr>
 <p><strong><u>Note</u>:</strong>
 <br>*Only Badminton, Hockey, Contemporary Dance and Guzheng will have two
 regular training sessions per week throughout the year to prepare the students
