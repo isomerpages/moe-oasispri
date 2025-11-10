@@ -13,7 +13,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<h4><strong>Schedule 2025</strong></h4>
+<h4><strong>Schedule 2026</strong></h4>
 </th>
 </tr>
 <tr>
@@ -57,12 +57,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Modular Sports P5 and P6
-<br>Sports Climbing</p>
+<p>Sports Climbing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Modular Sports P4
-<br>Modular Sports P3 (only in Term 3 &amp; Term 4)
+<p>Modular Sports P4, P5, P6 (Semester 1)
+<br>Modular Sports P3, P4, P5 (Semester 2)
 <br>Football (Girls)</p>
 </td>
 </tr>
