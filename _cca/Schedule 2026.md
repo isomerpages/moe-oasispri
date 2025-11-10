@@ -71,12 +71,12 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Comptemporary Dance
+<p>Contemporary Dance
 <br>Guzheng
 <br>Guitar Club</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Comptemporary Dance
+<p>Contemporary Dance
 <br>Guzheng
 <br>-</p>
 </td>
@@ -114,7 +114,7 @@ variant: tiptap
 <p>ICT Club</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Language and Drama Club
+<p>Drama Club
 <br>Media Club
 <br>Greenmakers Club</p>
 </td>
