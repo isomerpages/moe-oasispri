@@ -4,12 +4,12 @@ permalink: /our-curriculum/co-curricular-activities/
 description: ""
 variant: tiptap
 ---
-<h3>CCAs Learning Outcomes</h3>
-<p>CCAs are an integral part of our students’ holistic education. Through
+<h3>CCA Learning Outcomes</h3>
+<p>CCA are an integral part of our students’ holistic education. Through
 CCA, students discover their interests and talents while developing values
-and competencies that will prepare them for a rapidly changing world. CCAs
+and competencies that will prepare them for a rapidly changing world. CCA
 also promotes friendships among students from diverse backgrounds as they
-learn, play and grow together. Participation in CCAs foster social integration
+learn, play and grow together. Participation in CCA foster social integration
 and deepens students’ sense of belonging, commitment and sense of responsibility
 to school, community and nation.</p>
 <h3>CCA Policy</h3>
