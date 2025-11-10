@@ -1,127 +1,9 @@
 ---
-title: Schedule and CCA Teachers 2025
-permalink: /our-curriculum/co-curricular-activities/schedule-and-cca-teachers-2025/
-description: ""
+title: Archive
+permalink: /archive/
 variant: tiptap
+description: ""
 ---
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="3">
-<h4><strong>Schedule 2025</strong></h4>
-</th>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Tuesday</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Friday</p>
-</th>
-</tr>
-<tr>
-<td rowspan="4" colspan="1">
-<p><strong>Sports</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Badminton (Group 1 &amp; 2)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Badminton (Group 1 only)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Hockey</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Hockey</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Wushu</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Table Tennis</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Modular Sports P5 and P6
-<br>Sports Climbing</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Modular Sports P4
-<br>Modular Sports P3 (only in Term 3 &amp; Term 4)
-<br>Football (Girls)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Performing Arts</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Comptemporary Dance
-<br>Guzheng
-<br>Guitar Club</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Comptemporary Dance
-<br>Guzheng
-<br>-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Visual Arts</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Art Club</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Uniformed Group</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Scouts</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Clubs &amp; Societies</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ICT Club</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Language and Drama Club
-<br>Media Club
-<br>Greenmakers Club</p>
-</td>
-</tr>
-</tbody>
-</table>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -341,9 +223,72 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong><u>Note</u>:</strong>
-<br>*Only Badminton, Hockey, Contemporary Dance and Guzheng will have a second
-session on Friday throughout the year to prepare the students potentially
-going for National School Games or Singapore Youth Festival Arts Presentation.</p>
-<p>**Guitar Club and Art Club will only have a second session on Friday in
-the lead-up months to Singapore Youth Festival Arts Presentation.</p>
+<h4><strong>Stall 1</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Canteen Food Menu 2024/stall1.jpg">
+</div>
+<h4><strong>Stall 2</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Canteen Food Menu 2024/stall2.jpg">
+</div>
+<h4><strong>Stall 3</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Canteen Food Menu 2024/stall3.jpg">
+</div>
+<h4><strong>Stall 4</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Canteen Food Menu 2024/stall4.jpg">
+</div>
+<h4><strong>Stall 5</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Canteen Food Menu 2024/stall5.jpg">
+</div>
+<h4><strong>Stall 6</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Canteen Food Menu 2024/stall6.jpg">
+</div>
+<h4><strong>Stall 8</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Canteen Food Menu 2024/stall8a.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Canteen Food Menu 2024/stall8b.jpg">
+</div>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="3">
+<h4><strong>Student Support</strong></h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Senior Special Educational Needs (SEN) Officer</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Noorwanis Binte Amir Noordin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="2">
+<p><strong>Special Educational Needs (SEN) Officer</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Vanessa Lam Jia Ai</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Priyankadarishaini Puvanisavaran</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
