@@ -27,7 +27,7 @@ we have indicated some areas in which parents can support.</p>
 </p>
 <p>You are not required to volunteer for every event. All the volunteering
 hours will be recorded by PSG and School. Every PVs is required to contribute
-to at least <strong>12</strong> hours per year.</p>
+to at least <strong>6</strong> hours per year.</p>
 <p><strong>5. How far ahead will I know of the upcoming events that I can help?</strong>
 </p>
 <p>In general, the parent volunteers will be informed of the events at least
