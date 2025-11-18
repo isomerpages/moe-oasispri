@@ -76,7 +76,7 @@ However, we are welcome to provide feedback to make things better in school.</p>
 <p><strong>14.&nbsp; Is there a Committee or a group of existing Parents Volunteers whom I can speak to later?</strong>
 </p>
 <p>We have a team of Parent Volunteers whom you can always speak to. You
-can also drop us an email at oasis.psgroup@gmail.com.</p>
+can also drop us an email at <a href="mailto:oasis.psgroup@gmail.com" rel="noopener noreferrer nofollow" target="_blank">oasis.psgroup@gmail.com</a>.</p>
 <p><strong>15. Can I still sign up to be a Parent Volunteer later during the school term instead of now?</strong>
 </p>
 <p>Yes, you can. However, you will need to meet the minimum number of hours
