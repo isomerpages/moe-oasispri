@@ -10,7 +10,7 @@ variant: tiptap
 <p>You can either drop us an <a href="oasis.psgroup@gmail.com" rel="noopener noreferrer nofollow" target="_blank">email</a>, use this <a href="https://tinyurl.com/PV-Registration-2026" rel="noopener noreferrer nofollow" target="_blank">link</a> or scan the QR
 code to register your interest as a Parent Volunteer.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/psg_reg_2025.png">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/qrpsg2026.png">
 </div>
 <p><strong>2. What is required to be part of the PSG?</strong>
 </p>
