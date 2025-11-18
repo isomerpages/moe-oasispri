@@ -27,7 +27,7 @@ we have indicated some areas in which parents can support.</p>
 </p>
 <p>You are not required to volunteer for every event. All the volunteering
 hours will be recorded by PSG and School. Every PVs is required to contribute
-to at least <strong>12</strong> hours per year.</p>
+to at least <strong>6</strong> hours per year.</p>
 <p><strong>5. How far ahead will I know of the upcoming events that I can help?</strong>
 </p>
 <p>In general, the parent volunteers will be informed of the events at least
@@ -76,7 +76,7 @@ However, we are welcome to provide feedback to make things better in school.</p>
 <p><strong>14.&nbsp; Is there a Committee or a group of existing Parents Volunteers whom I can speak to later?</strong>
 </p>
 <p>We have a team of Parent Volunteers whom you can always speak to. You
-can also drop us an email at oasis.psgroup@gmail.com.</p>
+can also drop us an email at <a href="mailto:oasis.psgroup@gmail.com" rel="noopener noreferrer nofollow" target="_blank">oasis.psgroup@gmail.com</a>.</p>
 <p><strong>15. Can I still sign up to be a Parent Volunteer later during the school term instead of now?</strong>
 </p>
 <p>Yes, you can. However, you will need to meet the minimum number of hours
