@@ -22,7 +22,8 @@ third_nav_title: School Life
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Monday, Tuesday, Thursday &amp; Friday</p>
+<p><strong>Monday, Tuesday, Thursday &amp; Friday</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>7.30 a.m. - 1.30 p.m.</p>
@@ -30,7 +31,8 @@ third_nav_title: School Life
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wednesday</p>
+<p><strong>Wednesday</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>7.30 a.m. - 1.00 p.m.</p>
@@ -38,7 +40,8 @@ third_nav_title: School Life
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tuesday &amp; Friday (CCA)</p>
+<p><strong>Tuesday &amp; Friday (CCA)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2.00 p.m. - 4.00 p.m.</p>
@@ -72,9 +75,7 @@ third_nav_title: School Life
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Main Gate
-<br>@ Edgefield Plains
-<br>
+<p><strong>Main Gate <br>@ Edgefield Plains <br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -92,8 +93,8 @@ third_nav_title: School Life
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Gate 1
-<br>@ Edgefield Plains</p>
+<p><strong>Gate 1 <br>@ Edgefield Plains</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>N.A.</p>
@@ -107,8 +108,8 @@ third_nav_title: School Life
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Gate 2
-<br>@ Edgefield Plains</p>
+<p><strong>Gate 2 <br>@ Edgefield Plains</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>N.A.</p>
@@ -124,8 +125,8 @@ third_nav_title: School Life
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Gate 4
-<br>@ Punggol Drive</p>
+<p><strong>Gate 4 <br>@ Punggol Drive</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>N.A.</p>
