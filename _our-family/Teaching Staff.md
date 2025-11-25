@@ -210,7 +210,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mrs Mey See, Mdm Rosenna Lee/ Mdm Amutha</p>
+<p>Mrs Mey See, Mdm Rosenna Lee/Mdm Amutha</p>
 </td>
 </tr>
 <tr>
@@ -219,7 +219,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p></p>
+<p>Mdm Judy Tng, Ti Tat Hua</p>
 </td>
 </tr>
 <tr>
@@ -612,4 +612,4 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>Ms Ong Wei Peng</p>
+<p>Ms Ong Wei PengMdm Judy Tng</p>
