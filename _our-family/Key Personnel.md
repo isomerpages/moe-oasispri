@@ -52,16 +52,16 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Charissa Choo</p>
+<p>Mr Farhan Chia</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Assistant Year Head (Primary 5 &amp; 6)</strong>
+<p><strong>Assistant Year Head (Primary 5 &amp; 6) (Internal)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Farhan Chia</p>
+<p>Mr Aizad</p>
 </td>
 </tr>
 <tr>
