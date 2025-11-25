@@ -280,7 +280,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p></p>
+<p>Mdm Florence Ngu, Mr Farhan Chia</p>
 </td>
 </tr>
 <tr>
@@ -289,7 +289,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p></p>
+<p>Ms Lim Zi Xiu, Ms Lam May Yuen</p>
 </td>
 </tr>
 <tr>
@@ -612,4 +612,4 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>Ms Ong Wei PengMdm Judy Tng</p>
+<p>Ms Ong Wei PengMdm Judy TngMdm Florence Ngu</p>
