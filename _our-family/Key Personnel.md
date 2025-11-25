@@ -57,7 +57,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Assistant Year Head (Primary 5 &amp; 6) (Internal)</strong>
+<p><strong>Assistant Year Head (Primary 5 &amp; 6)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
