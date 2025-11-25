@@ -50,7 +50,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p></p>
+<p>Mr Lim Yen Teng, Mdm Ahadrina</p>
 </td>
 </tr>
 <tr>
@@ -59,7 +59,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p></p>
+<p>Mrs Caroline Tay, Ms Zahidah Binte Ahmad/ Zulkefe</p>
 </td>
 </tr>
 <tr>
