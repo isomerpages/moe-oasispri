@@ -81,7 +81,7 @@ third_nav_title: School Life
 <p>Between Terms I &amp; II</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sat 15 Mar to Sun 23 Mar</p>
+<p>Sat 14 Mar to Sun 22 Mar</p>
 </td>
 </tr>
 <tr>
@@ -89,7 +89,7 @@ third_nav_title: School Life
 <p>Between Semesters I &amp; II</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sat 31 May to Sun 29 Jun</p>
+<p>Sat 30 May to Sun 28 Jun</p>
 </td>
 </tr>
 <tr>
@@ -103,7 +103,7 @@ third_nav_title: School Life
 <p>Between Terms III &amp; IV</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sat 6 Sep to Sun 14 Sep</p>
+<p>Sat 5 Sep to Sun 13 Sep</p>
 </td>
 </tr>
 <tr>
@@ -111,12 +111,12 @@ third_nav_title: School Life
 <p>At End of School Year</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sat 22 Nov to Wed 31 Dec</p>
+<p>Sat 21 Nov to Thu 31 Dec</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h3>Scheduled School Holidays 2025</h3>
+<h3>Scheduled School Holidays 2026</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
