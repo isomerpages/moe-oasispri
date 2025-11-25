@@ -41,7 +41,7 @@ the total final weighting</p>
 <p><strong>D. Absence for weighted assessment</strong>
 </p>
 <p>1. Students who miss a weighted summative assessment through ill-health
-are required to provide a doctor’s certificate i.e MC confirming this.
+are required to provide a doctor’s certificate i.e. MC confirming this.
 MC should be obtained from a&nbsp;<strong>medical practitioner approved by MOH only</strong>.
 “MC” would be entered in the School Cockpit for the absentees.</p>
 <p>2. Students who miss a weighted summative assessment for other legitimate
@@ -57,6 +57,7 @@ assessments will not be able to sit for the assessment as there is&nbsp;<strong>
 written papers in the National Examination. The following cases highlight
 the action to be taken by teachers for students who miss the main written
 papers:</p>
+<p></p>
 <p><u>Case 1: Students who miss one or more of the language papers with valid reason</u>
 </p>
 <table style="minWidth: 125px">
@@ -70,9 +71,7 @@ papers:</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Paper 1 (Compo)
-<br>
-</p>
+<p>Paper 1 (Compo)</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Paper 2(Main Paper)</p>
@@ -84,9 +83,7 @@ papers:</p>
 <p>Paper 4(LC)</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Action
-<br>
-</p>
+<p>Action</p>
 </th>
 </tr>
 <tr>
@@ -94,49 +91,33 @@ papers:</p>
 <p>x</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>√
-<br>
-</p>
+<p>√</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>√
-<br>
-</p>
+<p>√</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>√
-<br>
-</p>
+<p>√</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>VR for Paper 1
-<br>
-</p>
+<p>VR for Paper 1</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>√
-<br>
-</p>
+<p>√</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>x</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>√
-<br>
-</p>
+<p>√</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>√
-<br>
-</p>
+<p>√</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>VR for all components
-<br>
-</p>
+<p>VR for all components</p>
 </td>
 </tr>
 <tr>
@@ -147,81 +128,55 @@ papers:</p>
 <p>x</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>√
-<br>
-</p>
+<p>√</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>√
-<br>
-</p>
+<p>√</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>VR for all components
-<br>
-</p>
+<p>VR for all components</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>√
-<br>
-</p>
+<p>√</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>√
-<br>
-</p>
+<p>√</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>x</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>√
-<br>
-</p>
+<p>√</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>VR for Paper 3
-<br>
-</p>
+<p>VR for Paper 3</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>√
-<br>
-</p>
+<p>√</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>√
-<br>
-</p>
+<p>√</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>√
-<br>
-</p>
+<p>√</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>x</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>VR for Paper 4
-<br>
-</p>
+<p>VR for Paper 4</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>√
-<br>
-</p>
+<p>√</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>√
-<br>
-</p>
+<p>√</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>x</p>
@@ -230,14 +185,13 @@ papers:</p>
 <p>x</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>VR for Paper 3 &amp; 4
-<br>
-</p>
+<p>VR for Paper 3 &amp; 4</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p>*VR = Valid Reason such as MC*</p>
+<p></p>
 <p><u>Case 2: Students who miss Science or Mathematics papers</u>
 </p>
 <table style="minWidth: 50px">
@@ -248,19 +202,16 @@ papers:</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Scenario
-<br>
-</p>
+<p>Scenario</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Action
-<br>
-</p>
+<p>Action</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MC</p>
+<p><strong>MC</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Key in MC (obtain documentation proof)</p>
@@ -268,20 +219,16 @@ papers:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Parent letter / Absent without MC
-<br>
+<p><strong>Parent letter / Absent without MC</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Key in 0
-<br>
-</p>
+<p>Key in 0</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Valid Reasons (e.g. Bereavement) with Principal’s approval
-<br>
+<p><strong>Valid Reasons (e.g. Bereavement) with Principal’s approval</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
