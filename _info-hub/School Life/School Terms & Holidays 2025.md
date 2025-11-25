@@ -20,7 +20,8 @@ third_nav_title: School Life
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>Term I</p>
+<p><strong>Term I</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Fri 2 Jan to Fri 13 Mar</p>
@@ -34,7 +35,8 @@ third_nav_title: School Life
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Term II</p>
+<p><strong>Term II</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Mon 23 Mar to Fri 29 May</p>
@@ -48,7 +50,8 @@ third_nav_title: School Life
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Term III</p>
+<p><strong>Term III</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Mon 29 Jun to Fri 4 Sep</p>
@@ -56,7 +59,8 @@ third_nav_title: School Life
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Term IV</p>
+<p><strong>Term IV</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Mon 14 Sep to Fri 20 Nov</p>
@@ -78,7 +82,8 @@ third_nav_title: School Life
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Between Terms I &amp; II</p>
+<p><strong>Between Terms I &amp; II</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sat 14 Mar to Sun 22 Mar</p>
@@ -86,7 +91,8 @@ third_nav_title: School Life
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Between Semesters I &amp; II</p>
+<p><strong>Between Semesters I &amp; II</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sat 30 May to Sun 28 Jun</p>
@@ -100,7 +106,8 @@ third_nav_title: School Life
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Between Terms III &amp; IV</p>
+<p><strong>Between Terms III &amp; IV</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sat 5 Sep to Sun 13 Sep</p>
@@ -108,7 +115,8 @@ third_nav_title: School Life
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>At End of School Year</p>
+<p><strong>At End of School Year</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sat 21 Nov to Thu 31 Dec</p>
@@ -133,33 +141,36 @@ third_nav_title: School Life
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Youth Day</p>
+<p><strong>Youth Day</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sun 6 Jul
-<br><em>(The following Mon 7 Jul will be a school holiday)</em>
+<p>Sun 5 Jul
+<br><em>(The following Mon 6 Jul will be a school holiday)</em>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teachers’ Day</p>
+<p><strong>Teachers’ Day</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fri 5 Sep</p>
+<p>Fri 4 Sep</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Children’s Day</p>
+<p><strong>Children’s Day</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fri 3 Oct</p>
+<p>Fri 2 Oct</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h3>Public Holidays 2025</h3>
+<h3>Public Holidays 2026</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -176,56 +187,75 @@ third_nav_title: School Life
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>New Year’s Day</p>
+<p><strong>New Year’s Day</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wed 1 Jan</p>
+<p>Thu 1 Jan</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chinese New Year</p>
+<p><strong>Chinese New Year</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wed 29 Jan
-<br>Thu 30 Jan</p>
+<p>Tue 17 Feb
+<br>Wed 18 Feb</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Hari Raya Puasa</p>
+<p><strong>Hari Raya Puasa</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon 31 Mar</p>
+<p>Sat 21 Mar</p>
+<p><em>As Saturday, 21 March 2026 is a Public Holiday, Monday, 23 March 2026 will be a designated day off-in-lieu for schools (i.e. Schools, including the General Office, Student Care Centres and KCare Centres, will be closed.</em>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Good Friday</p>
+<p><strong>Good Friday</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fri 18 Apr</p>
+<p>Fri 3 Apr</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Labour Day</p>
+<p><strong>Labour Day</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thu 1 May</p>
+<p>Fri 1 May</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vesak Day</p>
+<p><strong>Hari Raya Haji</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon 12 May</p>
+<p>Wed 27 May</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
-<p>Hari Raya Haji</p>
+<td rowspan="1" colspan="1">
+<p><strong>Vesak Day</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sun 31 May</p>
+<p><em>Monday, 1 June 2026 will be a public holiday</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sat 7 Jun</p>
@@ -233,38 +263,33 @@ third_nav_title: School Life
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>Mon, 9 Jun will be a designated day off-in-lieu (DOIL). Schools will be closed, including the General Office, Student Care Centres and KCare Centres.</em>
+<p><strong>National Day</strong>
 </p>
 </td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>National Day</p>
-</td>
 <td rowspan="1" colspan="1">
-<p>Sat 9 Aug</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><em>Mon, 11 Aug will be a school holiday and a designated day off-in-lieu (DOIL). Schools will be closed, including the General Office, Student Care Centres and KCare Centres.</em>
+<p>Sun 9 Aug</p>
+<p><em>Monday, 10 August 2026 will be a public holiday</em>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Deepavali</p>
+<p><strong>Deepavali</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon 20 Oct</p>
+<p>Sun 8 Nov</p>
+<p><em>Monday, 9 November 2026 will be a public holiday</em>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Christmas Day</p>
+<p><strong>Christmas Day</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thu 25 Dec</p>
+<p>Fri 25 Dec</p>
 </td>
 </tr>
 </tbody>
