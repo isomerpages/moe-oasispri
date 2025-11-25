@@ -456,7 +456,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p></p>
+<p>Mr Elwirandi Tan, Ms Nur Faizah</p>
 </td>
 </tr>
 <tr>
@@ -465,7 +465,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p></p>
+<p>Ms Soh Lee Yoong, Ms Yan Xiaojing</p>
 </td>
 </tr>
 <tr>
