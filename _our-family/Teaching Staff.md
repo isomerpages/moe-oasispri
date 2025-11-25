@@ -174,7 +174,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Ms Amanda Yong, Mdm Huang Rui</p>
+<p>Ms Amanda Yong, Ms Christine Huang Rui</p>
 </td>
 </tr>
 <tr>
