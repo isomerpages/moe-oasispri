@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 third_nav_title: School Life
 ---
-<h3>School Calendar 2025</h3>
+<h3>School Calendar 2026</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -23,12 +23,12 @@ third_nav_title: School Life
 <p>Term I</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Thu 2 Jan to Fri 14 Mar</p>
+<p>Fri 2 Jan to Fri 13 Mar</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><em>Primary 1 and Kindergarten 1 will start school on Thursday, 2 January 2025. Primary 2 to 6 and Kindergarten 2 will start school on Friday, 3 January 2025.</em>
+<p><em>Primary 1 and Kindergarten 1 will start school on Friday, 2 January 2026. Primary 2 to 6 and Kindergarten 2 will start school on Monday, 5 January 2026.</em>
 </p>
 </td>
 </tr>
@@ -37,7 +37,7 @@ third_nav_title: School Life
 <p>Term II</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mon 24 Mar to Fri 30 May</p>
+<p>Mon 23 Mar to Fri 29 May</p>
 </td>
 </tr>
 <tr>
@@ -51,7 +51,7 @@ third_nav_title: School Life
 <p>Term III</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mon 30 Jun to Fri 5 Sep</p>
+<p>Mon 29 Jun to Fri 4 Sep</p>
 </td>
 </tr>
 <tr>
@@ -59,12 +59,12 @@ third_nav_title: School Life
 <p>Term IV</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mon 15 Sep to Fri 21 Nov</p>
+<p>Mon 14 Sep to Fri 20 Nov</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h3>School Vacation 2025</h3>
+<h3>School Vacation 2026</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
