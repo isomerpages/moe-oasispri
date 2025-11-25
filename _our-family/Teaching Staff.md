@@ -377,7 +377,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p></p>
+<p>Ms Goh Wan Yu, Madeline Lim</p>
 </td>
 </tr>
 <tr>
