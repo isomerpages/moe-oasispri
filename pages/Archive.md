@@ -347,7 +347,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mrs Caroline Tay, Ms Zahidah Binte Ahmad/ Zulkefe</p>
+<p>Mrs Caroline Tay, Ms Zahidah Binte Ahmad / Zulkefe</p>
 </td>
 </tr>
 <tr>
@@ -365,7 +365,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Ms Cassandra Goh, Ms Evon Tan/Ms Ivy Choi</p>
+<p>Ms Cassandra Goh, Ms Evon Tan / Ms Ivy Choi</p>
 </td>
 </tr>
 <tr>
@@ -498,7 +498,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mrs Mey See, Mdm Rosenna Lee/Mdm Amutha</p>
+<p>Mrs Mey See, Mdm Rosenna Lee / Mdm Amutha</p>
 </td>
 </tr>
 <tr>
