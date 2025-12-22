@@ -243,7 +243,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Ms Charissa Choo</p>
+<p>Mr Farhan Chia</p>
 </td>
 </tr>
 <tr>
@@ -340,7 +340,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Ms Charissa Choo</p>
+<p>Mr Farhan Chia</p>
 </td>
 </tr>
 <tr>
@@ -437,7 +437,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mr Farhan Chia</p>
+<p>Mr Aizad</p>
 </td>
 </tr>
 <tr>
@@ -534,7 +534,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mr Farhan Chia</p>
+<p>Mr Aizad</p>
 </td>
 </tr>
 <tr>
