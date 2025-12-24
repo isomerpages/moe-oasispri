@@ -562,7 +562,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p></p>
+<p>Ms Phoebe Tan, Mr Ivan Ho</p>
 </td>
 </tr>
 <tr>
