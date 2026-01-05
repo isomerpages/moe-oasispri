@@ -59,7 +59,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mrs Caroline Tay, Ms Zahidah Binte Ahmad, Mr Zulkefe</p>
+<p>Mrs Caroline Tay, Ms Zahidah, Mr Zulkefe</p>
 </td>
 </tr>
 <tr>
@@ -68,7 +68,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Ms Angeline Ong, Mrs Ang-Wei Yuesha</p>
+<p>Mdm Angeline Ong, Mrs Ang-Wei Yueshan</p>
 </td>
 </tr>
 <tr>
@@ -77,7 +77,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Ms Cassandra Goh, Ms Evon Tan, Ms Ivy Choi</p>
+<p>Ms Cassandra Goh, Mdm Evon Tan, Ms Ivy Choi</p>
 </td>
 </tr>
 <tr>
@@ -95,7 +95,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Ms Nur Haslinda, Ms Zhang Jin Ling</p>
+<p>Ms Nur Haslinda, Mdm Zhang Jin Ling</p>
 </td>
 </tr>
 <tr>
@@ -201,7 +201,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Ms Teo Mei Geok, Mdm Nurmah</p>
+<p>Ms Teo Mei Geok, Mdm Nurmah, Mdm Lu Jing</p>
 </td>
 </tr>
 <tr>
