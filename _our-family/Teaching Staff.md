@@ -95,7 +95,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Ms Haslinda, Mdm Zhang Jin Ling</p>
+<p>Ms Haslinda, Mdm Zhang Jinling</p>
 </td>
 </tr>
 <tr>
@@ -201,7 +201,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Ms Teo Mei Geok, Mdm Nurmah</p>
+<p>Ms Teo Mei Geok, Mdm Nurmah, Lu Jing</p>
 </td>
 </tr>
 <tr>
@@ -262,7 +262,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Ms Chia Wanyi, Ms Tay Xiulan</p>
+<p>Ms Chia Wan Yi, Ms Tay Xiulan</p>
 </td>
 </tr>
 <tr>
@@ -298,7 +298,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mdm Hafizah, Ms Emy</p>
+<p>Mdm Hafizah, Ms Erny</p>
 </td>
 </tr>
 <tr>
