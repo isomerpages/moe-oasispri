@@ -59,7 +59,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mrs Caroline Tay, Ms Zahidah, Mr Zulkefe</p>
+<p>Mrs Caroline Tay, Mr Zulkefe</p>
 </td>
 </tr>
 <tr>
@@ -68,7 +68,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mdm Angeline Ong, Mrs Ang-Wei Yueshan</p>
+<p>Mrs Angeline Ng, Mrs Ang-Wei Yueshan</p>
 </td>
 </tr>
 <tr>
@@ -77,7 +77,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Ms Cassandra Goh, Mdm Evon Tan, Ms Ivy Choi</p>
+<p>Ms Cassandra Goh, Mdm Ivy Choi</p>
 </td>
 </tr>
 <tr>
@@ -95,7 +95,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Ms Nur Haslinda, Mdm Zhang Jin Ling</p>
+<p>Ms Haslinda, Mdm Zhang Jin Ling</p>
 </td>
 </tr>
 <tr>
@@ -104,7 +104,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Ms Beryl Ng, Ms Phyllis Tan</p>
+<p>Ms Beryl Ng, Mdm Phyllis Tan</p>
 </td>
 </tr>
 <tr>
@@ -113,7 +113,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mdm Nurmala, Ms Safeenah</p>
+<p>Mdm Nurmala, Mdm Safeenah</p>
 </td>
 </tr>
 <tr>
@@ -174,7 +174,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Ms Amanda Yong, Ms Christine Huang Rui</p>
+<p>Ms Amanda Yong, Mdm Huang Rui</p>
 </td>
 </tr>
 <tr>
@@ -183,7 +183,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mrs Gena Ang, Mr Ong Wee Fong</p>
+<p>Mrs Gena Ang, Mdm Ong Wee Fong</p>
 </td>
 </tr>
 <tr>
@@ -192,7 +192,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mrs Ng Wei Wei, Mdm Nurul Atika</p>
+<p>Mrs Ng Wei Wei, Mdm Atika</p>
 </td>
 </tr>
 <tr>
@@ -201,7 +201,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Ms Teo Mei Geok, Mdm Nurmah, Mdm Lu Jing</p>
+<p>Ms Teo Mei Geok, Mdm Nurmah</p>
 </td>
 </tr>
 <tr>
@@ -210,7 +210,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mrs Mey See, Mdm Rosenna Lee, Mdm Amutha</p>
+<p>Mrs Mey See, Mrs Rosenna Seah, Mdm Amutha</p>
 </td>
 </tr>
 <tr>
@@ -219,7 +219,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mdm Judy Tng, Mr Ti</p>
+<p>Mdm Judy Tng, Mr Ti Tat Hua</p>
 </td>
 </tr>
 <tr>
