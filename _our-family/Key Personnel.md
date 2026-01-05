@@ -21,11 +21,29 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Assistant Year Head (Primary 1 &amp; 2)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ong Wei Peng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Year Head (Primary 3 &amp; 4)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Mary Loh-Lim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Assistant Year Head (Primary 3 &amp; 4)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Farhan Chia</p>
 </td>
 </tr>
 <tr>
@@ -39,29 +57,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Assistant Year Head (Primary 1 &amp; 2)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Ong Wei Peng</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Assistant Year Head (Primary 3 &amp; 4)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Assistant Year Head (Primary 5 &amp; 6) (Internal)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Farhan Chia</p>
+<p>Mr Aizad</p>
 </td>
 </tr>
 <tr>
