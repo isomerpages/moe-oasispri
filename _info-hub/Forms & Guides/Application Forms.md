@@ -36,7 +36,7 @@ worldwide accident coverage while they are at the school premises (including
 school-based Student Care Centre), in Singapore or elsewhere, participating
 in school-related activities, including Co-Curricular Activities (CCA)
 and sports.</p>
-<p>For more details on the GPA Plan, please refer to this <a href="/files/productfactsheet2026.pdf" rel="noopener nofollow" target="_blank">link</a>
+<p>For more details on the GPA Plan, please refer to this <a href="/files/productfactsheet2026.pdf" rel="noopener nofollow" target="_blank">lilinknk</a>
 </p>
 <p>Parents may submit the GPA insurance claim online (eSubmission).</p>
 <p>Click&nbsp;<a href="https://www.income.com.sg/claims/group-insurance/group-personal-accident-for-students-claim" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
