@@ -280,7 +280,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mdm Florence Ngu, Mr Farhan Chia</p>
+<p>Mdm Florence Ngu, Ms Pamela Yeoh</p>
 </td>
 </tr>
 <tr>
@@ -289,7 +289,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Ms Lim Zi Xiu, Ms Lam May Yuen</p>
+<p>Mdm Hairon Bibi, Ms Lam May Yuen, Mr Farhan Chia</p>
 </td>
 </tr>
 <tr>
@@ -298,7 +298,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mdm Nur Hafizah, Ms Ng Guek Hua</p>
+<p>Mdm Nur Hafizah</p>
 </td>
 </tr>
 <tr>
@@ -307,7 +307,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mdm Najma, Tan Leng Leong</p>
+<p>Mdm Najma, Mr Tan Leng Leong</p>
 </td>
 </tr>
 <tr>
