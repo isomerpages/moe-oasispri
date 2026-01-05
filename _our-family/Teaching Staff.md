@@ -553,7 +553,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mr Effendi, Mrs Shirley Lim</p>
+<p>Mr Effendi, Mr Ivan Ho</p>
 </td>
 </tr>
 <tr>
@@ -562,7 +562,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Ms Phoebe Tan, Mr Ivan Ho</p>
+<p>Ms Phoebe Tan, Mr Christopher Cheng</p>
 </td>
 </tr>
 <tr>
@@ -571,7 +571,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Ms Jeremin Lo, Ms Zheng Rui</p>
+<p>Ms Jeremin Lo, Mdm Lim Zi Xiu</p>
 </td>
 </tr>
 <tr>
