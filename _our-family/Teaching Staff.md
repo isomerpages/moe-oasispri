@@ -501,7 +501,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mdm Maziyah, Ms Teresa Wong</p>
+<p>Mdm Maziyah, Mdm Teresa Wong</p>
 </td>
 </tr>
 <tr>
