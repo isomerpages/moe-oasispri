@@ -201,7 +201,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Ms Teo Mei Geok, Mdm Nurmah, Ms Lu Jing</p>
+<p>Ms Teo Mei Geok, Mdm Nurmah, Mdm Lu Jing</p>
 </td>
 </tr>
 <tr>
@@ -298,7 +298,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mdm Hafizah, Ms Erny</p>
+<p>Mdm Hafizah, Miss Erny</p>
 </td>
 </tr>
 <tr>
@@ -492,7 +492,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mrs Hazlinda Sham, Ms Hillary Kwok</p>
+<p>Mrs Hazlinda Sham, Miss Hillary Kwok</p>
 </td>
 </tr>
 <tr>
@@ -501,7 +501,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mdm Maziyah, Ms Teresa Wong</p>
+<p>Mdm Maziyah, Mdm Teresa Wong</p>
 </td>
 </tr>
 <tr>
