@@ -100,43 +100,14 @@ years. They learn to build healthy and rewarding relationships with others,
 including those with members of the opposite sex. Students are also guided
 to make wise, informed and responsible decisions to keep themselves safe
 from sexuality-related risks.</p>
-</li>
-<li>
-<p></p>
-</li>
-<li>
-<p></p>
-</li>
-<li>
-<p>The upper primary years mark the onset of puberty. With better nutrition
-and improved health care, children are reaching puberty at a younger age
-and have to grapple with physical, emotional and psychological changes
-in themselves. The implication is that our children are becoming biologically
-ready for sexual activity sooner without necessarily having the corresponding
-cognitive or emotional maturity to modulate their behaviours. Furthermore,
-our young are also exposed to a wide range of influences that could endanger
-health and undermine the integrity of the family. Our students require
-close guidance so that they can respond with discernment to the sexual
-messages in the media and other sources.</p>
-</li>
-</ol>
-<ol start="7" data-tight="true" class="tight">
-<li>
-<p>Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at
-Primary 5 and 6. Through these lessons, students will learn healthy ways
-to manage the physiological, social and emotional changes in their growing
-years. They learn to build healthy and rewarding relationships with others,
-including those with members of the opposite sex. Students are also guided
-to make wise, informed and responsible decisions to keep themselves safe
-from sexuality-related risks.</p>
 <p></p>
 </li>
 </ol>
-<h5><strong>At Oasis Primary School, the following Sexuality Education lessons will be taught in <u>2025</u>:</strong></h5>
+<h5><strong>At Oasis Primary School, the following Sexuality Education lessons will be taught in <u>2026</u>:</strong></h5>
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" src="/images/MOE-Logo.jpg">
 </div>
-<h5><strong>2025 Sexuality Education Lessons in CCE 2021</strong></h5>
+<h5><strong>2026 Sexuality Education Lessons in CCE 2021</strong></h5>
 <h5><strong>PRIMARY 5</strong></h5>
 <table style="minWidth: 100px">
 <colgroup>
