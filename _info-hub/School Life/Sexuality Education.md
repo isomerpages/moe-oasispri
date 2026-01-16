@@ -196,8 +196,7 @@ affected, even when one’s body is experiencing changes due to puberty.</p>
 it can affect themselves and others. Students will learn about the dangers
 of being exposed to sexually explicit materials and reject the viewing
 and/or reading of pornographic materials. They will learn to evaluate their
-own responses when they encounter pornography by applying the strategy <strong>‘Stop-Think-Do’.</strong>
-</p>
+own responses when they encounter pornography by applying the strategy <strong>‘Stop-Think-Do’</strong>.</p>
 <p></p>
 <p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
 </p>
