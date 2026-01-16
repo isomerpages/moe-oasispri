@@ -30,7 +30,7 @@ on sexuality issues.</p>
 changes as they grow up and develop safe and healthy relationships.</p>
 <p></p>
 <p>(b) Guide students to make wise, informed and responsible decisions on
-sexuality matters</p>
+sexuality matters.</p>
 <p></p>
 <p>(c) Help students develop a moral compass and respect for themselves and
 others by having positive mainstream values and attitudes about sexuality
@@ -53,31 +53,31 @@ and</p>
 <p>(d)&nbsp;Abstinence before marriage is the best protection against STIs/HIV
 and unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
+<p></p>
 </li>
 </ol>
-<p></p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> (
-<a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-sexuality-education</a>) for more information on
+<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-sexuality-education</a>) for more information on
 MOE Sexuality Education.</p>
-<h4><strong>Overview of&nbsp; OASIS PRIMARY SCHOOL’S Sexuality Education Programme for 2025</strong></h4>
+<p></p>
+<h4><strong>Overview of&nbsp; OASIS PRIMARY SCHOOL’S Sexuality Education Programme for 2026</strong></h4>
 <ol start="4" data-tight="true" class="tight">
 <li>
 <p>Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
 Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a> (
-<a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-sexuality-education-scope</a>) for more information
+<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-sexuality-education-scope</a>) for more information
 on the scope of Sexuality Education in the school curriculum.</p>
 <p></p>
 </li>
 <li>
 <p>The subjects that incorporate topics on sexuality include:</p>
-<p></p>
 <p>a. Science</p>
 <p>b. Character and Citizenship Education (CCE)</p>
 </li>
 </ol>
-<h4><strong><u>Sexuality Education Lessons</u></strong>:</h4>
+<h4><strong>Sexuality Education Lessons</strong></h4>
 <ol start="6" data-tight="true" class="tight">
 <li>
 <p>The upper primary years mark the onset of puberty. With better nutrition
