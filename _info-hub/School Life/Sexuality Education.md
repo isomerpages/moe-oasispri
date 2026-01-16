@@ -342,9 +342,9 @@ The completed opt-out form is to be submitted by 28 Jan 2026.</p>
 <p></p>
 </li>
 <li>
-<p>Parents can contact the school at <a rel="noopener noreferrer nofollow" target="_blank">oasis_ps@moe.edu.sg</a> or
-6320 9855 for discussion or to seek clarification about the school’s Sexuality
-Education programme.</p>
+<p>Parents can contact the school at <a href="mailto:oasis_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">oasis_ps@moe.edu.sg</a> or 6320 9855 for
+discussion or to seek clarification about the school’s Sexuality Education
+programme.</p>
 </li>
 </ol>
 <p></p>
