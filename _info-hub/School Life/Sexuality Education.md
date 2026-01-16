@@ -304,7 +304,7 @@ healthy friendships with their circles of friends.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 4</p>
+<p>Term 1 Week 9</p>
 </td>
 </tr>
 <tr>
@@ -322,7 +322,7 @@ and learn to behave maturely towards each other.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 5</p>
+<p>Term 1 Week 10</p>
 </td>
 </tr>
 </tbody>
