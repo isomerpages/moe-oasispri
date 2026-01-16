@@ -337,14 +337,14 @@ supplementary Sexuality Education programmes by MOE-approved external providers.
 <li>
 <p>Parents who wish to opt their children out of the Sexuality Education
 lessons need to complete an opt-out form. This form will be communicated
-&nbsp;to parents at the start of the year and is also downloadable <a href="https://go.gov.sg/opssed2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/opssed2025</a>.
-The completed opt-out form is to be submitted by 21 Jan 2025.</p>
+&nbsp;to parents at the start of the year and is also downloadable <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2026opssed.The</a> completed
+opt-out form is to be submitted by 28 Jan 2026.</p>
 <p></p>
 </li>
 <li>
-<p>Parents can contact the school at <a href="mailto:oasis_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">oasis_ps@moe.edu.sg</a> or 6320 9855 for
-discussion or to seek clarification about the school’s Sexuality Education
-programme.</p>
+<p>Parents can contact the school at <a rel="noopener noreferrer nofollow" target="_blank">oasis_ps@moe.edu.sg</a> or
+6320 9855 for discussion or to seek clarification about the school’s Sexuality
+Education programme.</p>
 </li>
 </ol>
 <p></p>
