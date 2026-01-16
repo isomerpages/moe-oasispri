@@ -230,7 +230,7 @@ and how to seek help for themselves and their friends.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" src="/images/MOE-Logo.jpg">
 </div>
-<h5><strong>2025 Sexuality Education Lessons in CCE 2021</strong></h5>
+<h5><strong>2026 Sexuality Education Lessons in CCE 2021</strong></h5>
 <h5><strong>PRIMARY 6</strong></h5>
 <table style="minWidth: 100px">
 <colgroup>
