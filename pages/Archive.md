@@ -65,4 +65,8 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p></p>
+<h3>NEU PC Plus</h3>
+<p>The NEU PC Plus Programme offers low-income households with student or
+person with disabilities the opportunity to own a brand new computer at
+an affordable price.</p>
+<p>For forms and details, click <a href="https://www.digitalaccess.gov.sg" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
