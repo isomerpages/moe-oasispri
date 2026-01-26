@@ -5,12 +5,12 @@ description: ""
 third_nav_title: Forms & Guides
 variant: tiptap
 ---
-<h3>MOE Financial Assistance Scheme 2025 (FAS)</h3>
+<h3>MOE Financial Assistance Scheme 2026 (FAS)</h3>
 <p>Please visit MOE's official website&nbsp;<a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
-more information.&nbsp; You may also access the e-FAS form, which is available
+more information.&nbsp;You may also access the e-FAS form, which is available
 on Parents Gateway (under Services tab -&gt; Financial Assistance) or via
-<a href="https://form.gov.sg/6666a548f71e023bcbe7c9b7" rel="noopener nofollow" target="_blank">https://go.gov.sg/moe-efas</a>
-<br><em>(updated as of 14th October 2024)</em>
+<a href="https://form.gov.sg/68f6ebe3b483709b618276c7" rel="noopener nofollow" target="_blank">https://go.gov.sg/moe-efas</a>
+<br><em>(updated as of 29 October 2025)</em>
 </p>
 <h3>NEU PC Plus</h3>
 <p>The NEU PC Plus Programme offers low-income households with student or
