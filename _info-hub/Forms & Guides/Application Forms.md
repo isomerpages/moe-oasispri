@@ -17,11 +17,6 @@ on Parents Gateway (under Services tab &gt; Financial Assistance) or via
 (laptops/tablets) to lower-income families.</p>
 <p>For forms &amp; details, click <a href="https://eservice.imda.gov.sg/das/homepage" rel="noopener noreferrer nofollow" target="_blank">https://eservice.imda.gov.sg/das/homepage</a>
 </p>
-<h3>NEU PC Plus</h3>
-<p>The NEU PC Plus Programme offers low-income households with student or
-person with disabilities the opportunity to own a brand new computer at
-an affordable price.</p>
-<p>For forms and details, click <a href="https://www.digitalaccess.gov.sg" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <h3>Application for eGIRO</h3>
 <p>Through Parents Gateway -&gt; Services tab "GIRO setup" or click <a href="https://www.moe.gov.sg/financial-matters/fees/egiro" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p>For DBS/POSB, OCBC, UOB, BOC, MayBank, HSBC and SCB</p>
