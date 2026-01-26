@@ -43,7 +43,7 @@ and sports.</p>
 see how to submit an insurance claim online.</p>
 <h3>Student Wait List</h3>
 <p>For Singapore Citizen/Singapore Permanent Resident pupils who wish to
-apply for a place in Oasis Primary School, please click <a href="/files/Student_Wait_List_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+apply for a place in Oasis Primary School, please click <a href="/files/OPS_Student_Wait_List_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 access the Waiting List Online Application Form.</p>
 <p>Please complete the form and hand it to the staff in the General Office.
 Alternatively, you may email the completed form to us at&nbsp;<a href="mailto:oasis_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">oasis_ps@moe.edu.sg</a>.</p>
