@@ -19,7 +19,7 @@ on Parents Gateway (under Services tab &gt; Financial Assistance) or via
 </p>
 <h3>Application for eGIRO</h3>
 <p>Through Parents Gateway -&gt; Services tab "GIRO setup" or click <a href="https://www.moe.gov.sg/financial-matters/fees/egiro" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<p>For DBS/POSB, OCBC, UOB, BOC, MayBank, HSBC and SCB</p>
+<p>For DBS/POSB, OCBC, UOB, BOC, MayBank, HSBC and SCB.</p>
 <p>For parents who already have GIRO arrangement with MOE for school fees
 and wish to give consent to use the same GIRO arrangement to pay for the
 enrichment programme and school charges under School Bill, you may scan
