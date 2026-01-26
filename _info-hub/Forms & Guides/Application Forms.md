@@ -8,9 +8,14 @@ variant: tiptap
 <h3>MOE Financial Assistance Scheme 2026 (FAS)</h3>
 <p>Please visit MOE's official website&nbsp;<a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
 more information.&nbsp;You may also access the e-FAS form, which is available
-on Parents Gateway (under Services tab -&gt; Financial Assistance) or via
+on Parents Gateway (under Services tab &gt; Financial Assistance) or via
 <a href="https://form.gov.sg/68f6ebe3b483709b618276c7" rel="noopener nofollow" target="_blank">https://go.gov.sg/moe-efas</a>
 <br><em>(updated as of 29 October 2025)</em>
+</p>
+<h3>DigitalAccess@Home Scheme</h3>
+<p>IMDA’s DigitalAccess@Home scheme offers subsidized home wi-fi and devices
+(laptops/tablets) to lower-income families.</p>
+<p>For forms &amp; details, click <a href="https://eservice.imda.gov.sg/das/homepage" rel="noopener noreferrer nofollow" target="_blank">https://eservice.imda.gov.sg/das/homepage</a>
 </p>
 <h3>NEU PC Plus</h3>
 <p>The NEU PC Plus Programme offers low-income households with student or
