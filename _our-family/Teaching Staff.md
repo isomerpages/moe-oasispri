@@ -262,7 +262,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Ms Chia Wan Yi, Ms Tay Xiulan</p>
+<p>Ms Chia Wanyi, Ms Tay Xiulan</p>
 </td>
 </tr>
 <tr>
