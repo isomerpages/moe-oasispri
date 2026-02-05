@@ -7,10 +7,9 @@ variant: tiptap
 ---
 <h4><strong>School Uniform Supplier</strong></h4>
 <h4><a href="https://www.khuniform.com/" rel="noopener noreferrer nofollow" target="_blank">KH Uniform Pte Ltd</a></h4>
-<p>8 Boon Lay Way, 8@TradeHub 21, #03-14, Singapore 609964</p>
-<p>Email: <a href="sales@khuniform.com" rel="noopener noreferrer nofollow" target="_blank">sales@khuniform.com</a>
+<p>8 Boon Lay Way, 8 @ TradeHub 21, #03-14, Singapore 609964
+<br>Email: <a href="sales@khuniform.com" rel="noopener noreferrer nofollow" target="_blank">sales@khuniform.com</a>
 </p>
-<p></p>
 <h4><strong>School Bookshop</strong></h4>
 <h4><a href="https://thecontinental.sg/" rel="noopener nofollow" target="_blank">The Continental Book Centre</a></h4>
 <p>Blk 1013, Geylang East Ave 3, #02-154, Singapore 389728
