@@ -5,19 +5,16 @@ variant: tiptap
 description: ""
 ---
 <p>Scan to register now! Registration closes on 6th March 2026</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Mkoasis/QRCode.png">
+<img style="width: 55%;" height="auto" width="100%" alt="" src="/images/Mkoasis/QRCode.png">
 </div>
-<p></p>
 <h4>Open House 2026</h4>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Mkoasis/OHPoster1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Mkoasis/OHPoster3.png">
+</div>
 <p>Click to see our curriculum.</p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/7d9bhL16ahA?si=FDvw5f0OODgFgSj-"></iframe>
