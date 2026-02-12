@@ -6,7 +6,7 @@ description: ""
 ---
 <p>Scan to register now! Registration closes on 6th March 2026</p>
 <div class="isomer-image-wrapper">
-<img style="width: 55%;" height="auto" width="100%" alt="" src="/images/Mkoasis/QRCode.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Mkoasis/QRCode.png">
 </div>
 <h4>Open House 2026</h4>
 <div class="isomer-image-wrapper">
