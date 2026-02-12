@@ -4,10 +4,16 @@ permalink: /mk-at-oasis/our-open-house/
 variant: tiptap
 description: ""
 ---
+<p>Scan to register now! Registration closes on 6th March 2026</p>
+<p></p>
+<p></p>
 <h4>Open House 2026</h4>
 <p></p>
 <p></p>
-<p>Scan to register now! Registration closes on 6th March 2026</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p>Click to see our curriculum.</p>
 <div class="iframe-wrapper">
