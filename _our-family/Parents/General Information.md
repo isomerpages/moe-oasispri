@@ -172,7 +172,7 @@ the opportunity to complete their education. Eligible families may submit
 an application form and the required supporting documents to the school.
 The school will process your application and inform you on the outcome
 of your application.</p>
-<p>For further information, please visit&nbsp;<a href="https://www.moe.gov.sg/education/financial-assistance/" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/education/financial-assistance/</a>
+<p>For further information, please visit&nbsp;<a href="https://www.moe.gov.sg/financial-matters/financial-assistance/" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance/</a>
 </p>
 <h3><strong>School Admissions/ Transfers</strong></h3>
 <h4><strong>12. How can I register my child for the Primary One Registration Exercise in the school?</strong></h4>
@@ -187,7 +187,7 @@ website for information on the&nbsp;registration phases&nbsp;and procedures.</p>
 <p>You may obtain a form from the General Office and submit the completed
 form to the school. As admission is subject to availability of vacancies,
 the school will contact you if there is a vacancy for your child.</p>
-<p>Alternatively, you may wish to refer to&nbsp;<a href="https://beta.moe.gov.sg/primary/transfers/" rel="noopener noreferrer nofollow" target="_blank">https://beta.moe.gov.sg/primary/transfers/</a>&nbsp;and
+<p>Alternatively, you may wish to refer to&nbsp;<a href="https://moe.gov.sg/primary/transfers/" rel="noopener noreferrer nofollow" target="_blank">https://moe.gov.sg/primary/transfers/</a>&nbsp;and
 MOE will assist in the facilitation of the school transfer.</p>
 <h3><strong>Parent Support Group (PSG)</strong></h3>
 <h4><strong>14. My child is currently studying in the school and I wish to contribute my service as a parent volunteer. How can I join the PSG?</strong></h4>
