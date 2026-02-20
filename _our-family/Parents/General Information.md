@@ -172,7 +172,7 @@ the opportunity to complete their education. Eligible families may submit
 an application form and the required supporting documents to the school.
 The school will process your application and inform you on the outcome
 of your application.</p>
-<p>For further information, please visit&nbsp;<a href="https://www.moe.gov.sg/education/financial-assistance/" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/education/financial-assistance/</a>
+<p>For further information, please visit&nbsp;<a href="https://www.moe.gov.sg/financial-matters/financial-assistance/" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance/</a>
 </p>
 <h3><strong>School Admissions/ Transfers</strong></h3>
 <h4><strong>12. How can I register my child for the Primary One Registration Exercise in the school?</strong></h4>
