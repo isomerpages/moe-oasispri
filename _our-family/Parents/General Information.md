@@ -187,7 +187,7 @@ website for information on the&nbsp;registration phases&nbsp;and procedures.</p>
 <p>You may obtain a form from the General Office and submit the completed
 form to the school. As admission is subject to availability of vacancies,
 the school will contact you if there is a vacancy for your child.</p>
-<p>Alternatively, you may wish to refer to&nbsp;<a href="https://beta.moe.gov.sg/primary/transfers/" rel="noopener noreferrer nofollow" target="_blank">https://beta.moe.gov.sg/primary/transfers/</a>&nbsp;and
+<p>Alternatively, you may wish to refer to&nbsp;<a href="https://moe.gov.sg/primary/transfers/" rel="noopener noreferrer nofollow" target="_blank">https://beta.moe.gov.sg/primary/transfers/</a>&nbsp;and
 MOE will assist in the facilitation of the school transfer.</p>
 <h3><strong>Parent Support Group (PSG)</strong></h3>
 <h4><strong>14. My child is currently studying in the school and I wish to contribute my service as a parent volunteer. How can I join the PSG?</strong></h4>
