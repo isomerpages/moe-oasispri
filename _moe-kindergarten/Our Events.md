@@ -26,7 +26,7 @@ in planned (structured) activities and routines.</p>
 (<strong><em>MK</em></strong>) curriculum supports children in their transition
 to Primary&nbsp;<strong><em>1</em></strong>&nbsp;(P1).</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/hcxMR0E7BIk?si=PcmOc2goY3wil8DJ"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/hcxMR0E7BIk?si=PcmOc2goY3wil8DJ"></iframe>
 </div>
 <h4>Special Events in Semester One 2025</h4>
 <div class="isomer-image-wrapper">
@@ -43,9 +43,5 @@ to Primary&nbsp;<strong><em>1</em></strong>&nbsp;(P1).</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mkoasis/Our Events 2025/ourevents4.png">
-</div>
-<h4>Special Events in 2024</h4>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/EeeLMXzK3Vo?si=2Ql0DIhu6ntMepi7"></iframe>
 </div>
 <p></p>
