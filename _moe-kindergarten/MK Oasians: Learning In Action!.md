@@ -5,10 +5,9 @@ variant: tiptap
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Mkoasis/hilight.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mkoasis/LIA1.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Mkoasis/starlight.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mkoasis/LIA2.png">
 </div>
 <p></p>
