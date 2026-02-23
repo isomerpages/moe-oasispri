@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Oasis Primary School
-description: Brief site description here
+description: Passionate Learners, Compassionate Changemakers
 image: /images/Banner/logo.jpg
 permalink: /
 notification: ""
