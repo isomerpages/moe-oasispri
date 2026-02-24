@@ -1,4 +1,4 @@
-title: Oasis Primary School
+title: Passionate Learners, Compassionate Changemakers
 url: https://oasispri-moe-edu-sg-admin.cwp.sg
 favicon: /images/Banner/logo.jpg
 colors:
@@ -52,7 +52,7 @@ plugins:
 staging: https://staging.d6400o65xh90r.amplifyapp.com
 prod: https://master.d6400o65xh90r.amplifyapp.com
 shareicon: /images/Banner/logo.jpg
-is_government: true
+is_government: false
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
