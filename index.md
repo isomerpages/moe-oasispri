@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Oasis Primary School
+title: Passionate Learners, Compassionate Changemakers
 description: Passionate Learners, Compassionate Changemakers
 image: /images/Banner/logo.jpg
 permalink: /
