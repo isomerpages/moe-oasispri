@@ -4,30 +4,6 @@ permalink: /archive/
 variant: tiptap
 description: ""
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Canteen Food Menu 2024/stall1.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Canteen Food Menu 2024/stall2.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Canteen Food Menu 2024/stall3.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Canteen Food Menu 2024/stall4.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Canteen Food Menu 2024/stall5.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Canteen Food Menu 2024/stall6.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Canteen Food Menu 2024/stall8a.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Canteen Food Menu 2024/stall8b.jpg">
-</div>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
