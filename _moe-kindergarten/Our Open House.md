@@ -15,11 +15,15 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Mkoasis/OHPoster3.png">
 </div>
-<p>Click to see our curriculum.</p>
+<p>Click to see the Open House Presentation Slides</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/T825Z_bi3pQ?si=CUCj9EJ5QYYGNyl0"></iframe>
+</div>
+<p>Click to see our curriculum</p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/7d9bhL16ahA?si=FDvw5f0OODgFgSj-"></iframe>
 </div>
-<p>Click to watch, “A Day at an MOE Kindergarten”.</p>
+<p>Click to watch, “A Day at an MOE Kindergarten”</p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/oe_238gMozQ?si=RDbWL8ehNu6QMQyQ"></iframe>
 </div>
