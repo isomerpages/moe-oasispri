@@ -34,12 +34,18 @@ third_nav_title: School Life
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p><strong>Term II</strong>
 </p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Mon 23 Mar to Fri 29 May</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><em>As Saturday, 21 March 2026 is a Public Holiday, Monday, 23 March 2026 will be a designated day off-in-lieu for schools (i.e. Schools, including the General Office, Student Care Centres and KCare Centres, will be closed).</em>
+</p>
 </td>
 </tr>
 <tr>
