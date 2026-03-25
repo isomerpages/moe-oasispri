@@ -182,7 +182,7 @@ between July and August each year. You can register your child for the
 Primary One Registration Exercise only during the period of exercise and
 the phase that you are eligible for registration. Please refer to the MOE
 website for information on the&nbsp;registration phases&nbsp;and procedures.</p>
-<p>(<a href="http://www.moe.gov.sg/education/admissions/primary-one-registration/phases/" rel="noopener noreferrer nofollow" target="_blank">http://www.moe.gov.sg/education/admissions/primary-one-registration/phases/</a>)</p>
+<p>(<a href="http://www.moe.gov.sg/education/admissions/primary-one-registration/phases/" rel="noopener noreferrer nofollow" target="_blank">http://www.moe.gov.sg/primary/p1-registration/phases/</a>)</p>
 <h4><strong>13. How can I request a transfer of my child to the school?</strong></h4>
 <p>You may obtain a form from the General Office and submit the completed
 form to the school. As admission is subject to availability of vacancies,
