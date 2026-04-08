@@ -104,7 +104,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Ms Beryl Ng, Mdm Phyllis Tan</p>
+<p>Ms Beryl Ng</p>
 </td>
 </tr>
 <tr>
@@ -280,7 +280,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mdm Florence Ngu, Mrs Pamela Chow</p>
+<p>Mdm Florence Ngu</p>
 </td>
 </tr>
 <tr>
@@ -289,7 +289,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mdm Bibi, Mrs Hing May Yuen, Mr Farhan</p>
+<p>Mrs Hing May Yuen, Mr Farhan</p>
 </td>
 </tr>
 <tr>
