@@ -27,7 +27,7 @@ third_nav_title: Students Achievements
 </th>
 </tr>
 <tr>
-<td rowspan="10" colspan="1">
+<td rowspan="15" colspan="1">
 <p>CCA</p>
 <p>
 <br>
@@ -54,6 +54,22 @@ third_nav_title: Students Achievements
 </td>
 <td rowspan="1" colspan="1">
 <p>Certificate of Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024 NSG Hockey (Junior 1 - P4)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tier 1 - National Champions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024 NSG Hockey (Junior 2 - P5)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tier 1 - National Champions</p>
 </td>
 </tr>
 <tr>
@@ -127,6 +143,30 @@ third_nav_title: Students Achievements
 </td>
 <td rowspan="1" colspan="1">
 <p>Certificate of Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024 D Show (Dance Exchange) @ Yu Neng Primary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024 SYF Celebrations @ Gardens by the Bay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024 Public Service Week (PSW) Opening Event @ ITE AMK</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
 </td>
 </tr>
 <tr>

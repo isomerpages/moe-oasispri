@@ -14,17 +14,88 @@ third_nav_title: Students Achievements
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>Department</strong>
-</p>
+<p>Department</p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>Competition</strong>
-</p>
+<p>Competition</p>
 </th>
 <th rowspan="1" colspan="1">
 <p><strong>Award</strong>
 </p>
 </th>
+</tr>
+<tr>
+<td rowspan="8" colspan="1">
+<p>CCA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2025 Raffles Hockey Carnival</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6 (2nd Runner Up) &amp;</p>
+<p>P5 (1st Place)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025 NSG Hockey Senior Boys</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tier 1 - 2nd Runner Up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025 NSG Hockey J2 (P5) Boys</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tier 1 - 2nd Runner Up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025 NSG Hockey J1 (P4) Boys</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tier 1 - Champions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025 SYF Art Exhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Recognition (Special Mention)</p>
+<p>- Category B</p>
+<p>Certificate of Recognition</p>
+<p>- Category A</p>
+<p>Certificate of Participation</p>
+<p>- Category C</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Showcase of SYF Celebrations 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025 NSG Basketball Junior Boys</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tier 4 - 1st Runner Up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025 Lion Recycling Challenge (CORA ENVIRONMENT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 5</p>
+</td>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
