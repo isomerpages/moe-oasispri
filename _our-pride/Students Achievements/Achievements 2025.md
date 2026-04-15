@@ -166,7 +166,7 @@ third_nav_title: Students Achievements
 <td rowspan="1" colspan="2">
 <ol start="8" data-tight="true" class="tight">
 <li>
-<p>Lion Cycling Challenge (CORA Environment)</p>
+<p>Lion Recycling Challenge (CORA ENVIRONMENT)</p>
 </li>
 </ol>
 </td>
@@ -176,9 +176,4 @@ third_nav_title: Students Achievements
 </tr>
 </tbody>
 </table>
-<ol start="6" data-tight="true" class="tight">
-<li>
-<p></p>
-</li>
-</ol>
 <p></p>
