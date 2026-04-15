@@ -65,7 +65,7 @@ third_nav_title: Students Achievements
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p>2025 CCA Achievements</p>
+<p>Event</p>
 </th>
 <th rowspan="1" colspan="1">
 <p><strong>Award</strong>
@@ -76,7 +76,7 @@ third_nav_title: Students Achievements
 <td rowspan="1" colspan="2">
 <ol data-tight="true" class="tight">
 <li>
-<p>Raffles Hockey Carnival</p>
+<p>2025 Raffles Hockey Carnival</p>
 </li>
 </ol>
 </td>
@@ -89,7 +89,7 @@ third_nav_title: Students Achievements
 <td rowspan="1" colspan="2">
 <ol start="2" data-tight="true" class="tight">
 <li>
-<p>NSG Hockey Senior Boys</p>
+<p>2025 NSG Hockey Senior Boys</p>
 </li>
 </ol>
 </td>
@@ -101,7 +101,7 @@ third_nav_title: Students Achievements
 <td rowspan="1" colspan="2">
 <ol start="3" data-tight="true" class="tight">
 <li>
-<p>NSG Hockey J2 (P5) Boys</p>
+<p>2025 NSG Hockey J2 (P5) Boys</p>
 </li>
 </ol>
 </td>
@@ -113,7 +113,7 @@ third_nav_title: Students Achievements
 <td rowspan="1" colspan="2">
 <ol start="4" data-tight="true" class="tight">
 <li>
-<p>NSG Hockey J1 (P4) Boys</p>
+<p>2025 NSG Hockey J1 (P4) Boys</p>
 </li>
 </ol>
 </td>
@@ -125,7 +125,7 @@ third_nav_title: Students Achievements
 <td rowspan="1" colspan="2">
 <ol start="5" data-tight="true" class="tight">
 <li>
-<p>SYF Art Exhibition</p>
+<p>2025 SYF Art Exhibition</p>
 </li>
 </ol>
 </td>
@@ -142,7 +142,7 @@ third_nav_title: Students Achievements
 <td rowspan="1" colspan="2">
 <ol start="6" data-tight="true" class="tight">
 <li>
-<p>Showcase of SYF Celebrations</p>
+<p>Showcase of SYF Celebrations 2025</p>
 </li>
 </ol>
 </td>
@@ -154,7 +154,7 @@ third_nav_title: Students Achievements
 <td rowspan="1" colspan="2">
 <ol start="7" data-tight="true" class="tight">
 <li>
-<p>NSG Basketball Junior Boys</p>
+<p>2025 NSG Basketball Junior Boys</p>
 </li>
 </ol>
 </td>
@@ -166,7 +166,7 @@ third_nav_title: Students Achievements
 <td rowspan="1" colspan="2">
 <ol start="8" data-tight="true" class="tight">
 <li>
-<p>Lion Recycling Challenge (CORA ENVIRONMENT)</p>
+<p>2025 Lion Recycling Challenge (CORA ENVIRONMENT)</p>
 </li>
 </ol>
 </td>
