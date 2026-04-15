@@ -11,7 +11,11 @@ variant: tiptap
 </tbody>
 </table>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/_fDA0eDvSrI?si=42CdIeOyJtNP_nVo"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/TW4ipA4MtHI?si=G5o7AYE3ZedM84TN"></iframe>
+</div>
+<p></p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/_fDA0eDvSrI?si=42CdIeOyJtNP_nVo"></iframe>
 </div>
 <table style="minWidth: 50px">
 <colgroup>
