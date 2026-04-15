@@ -25,12 +25,11 @@ third_nav_title: Students Achievements
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
-<ol data-tight="true" class="tight">
-<li>
+<td rowspan="8" colspan="1">
+<p>CCA</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>2025 Raffles Hockey Carnival</p>
-</li>
-</ol>
 </td>
 <td rowspan="1" colspan="1">
 <p>P6 (2nd Runner Up) &amp;</p>
@@ -38,48 +37,32 @@ third_nav_title: Students Achievements
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
-<ol start="2" data-tight="true" class="tight">
-<li>
+<td rowspan="1" colspan="1">
 <p>2025 NSG Hockey Senior Boys</p>
-</li>
-</ol>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tier 1 - 2nd Runner Up</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
-<ol start="3" data-tight="true" class="tight">
-<li>
+<td rowspan="1" colspan="1">
 <p>2025 NSG Hockey J2 (P5) Boys</p>
-</li>
-</ol>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tier 1 - 2nd Runner Up</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
-<ol start="4" data-tight="true" class="tight">
-<li>
+<td rowspan="1" colspan="1">
 <p>2025 NSG Hockey J1 (P4) Boys</p>
-</li>
-</ol>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tier 1 - Champions</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
-<ol start="5" data-tight="true" class="tight">
-<li>
+<td rowspan="1" colspan="1">
 <p>2025 SYF Art Exhibition</p>
-</li>
-</ol>
 </td>
 <td rowspan="1" colspan="1">
 <p>Certificate of Recognition (Special Mention)</p>
@@ -91,36 +74,24 @@ third_nav_title: Students Achievements
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
-<ol start="6" data-tight="true" class="tight">
-<li>
+<td rowspan="1" colspan="1">
 <p>Showcase of SYF Celebrations 2025</p>
-</li>
-</ol>
 </td>
 <td rowspan="1" colspan="1">
 <p>Certificate of Participation</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
-<ol start="7" data-tight="true" class="tight">
-<li>
+<td rowspan="1" colspan="1">
 <p>2025 NSG Basketball Junior Boys</p>
-</li>
-</ol>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tier 4 - 1st Runner Up</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
-<ol start="8" data-tight="true" class="tight">
-<li>
+<td rowspan="1" colspan="1">
 <p>2025 Lion Recycling Challenge (CORA ENVIRONMENT)</p>
-</li>
-</ol>
 </td>
 <td rowspan="1" colspan="1">
 <p>Top 5</p>
