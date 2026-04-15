@@ -195,22 +195,6 @@ third_nav_title: Students Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
 <p>2024 D Show (Dance Exchange) @ Yu Neng Primary</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -228,14 +212,6 @@ third_nav_title: Students Achievements
 <tr>
 <td rowspan="1" colspan="2">
 <p>2024 Public Service Week (PSW) Opening Event @ ITE AMK</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
