@@ -65,7 +65,7 @@ third_nav_title: Students Achievements
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p>2925 CCA Achievements</p>
+<p>2025 CCA Achievements</p>
 </th>
 <th rowspan="1" colspan="1">
 <p><strong>Award</strong>
@@ -107,6 +107,57 @@ third_nav_title: Students Achievements
 </td>
 <td rowspan="1" colspan="1">
 <p>Tier 1 - 2nd Runner Up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<ol start="4" data-tight="true" class="tight">
+<li>
+<p>NSG Hockey J1 (P4) Boys</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tier 1 - Champions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<ol start="5" data-tight="true" class="tight">
+<li>
+<p>SYF Art Exhibition</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Recognition (Special Mention)</p>
+<p>- Category B</p>
+<p>Certificate of Recognition</p>
+<p>- Category A</p>
+<p>Certificate of Participation</p>
+<p>- Category C</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
