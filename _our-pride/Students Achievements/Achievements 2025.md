@@ -81,7 +81,7 @@ third_nav_title: Students Achievements
 </ol>
 </td>
 <td rowspan="1" colspan="1">
-<p>P6 (2nd Runner Up)</p>
+<p>P6 (2nd Runner Up) &amp;</p>
 <p>P5 (1st Place)</p>
 </td>
 </tr>
@@ -154,7 +154,7 @@ third_nav_title: Students Achievements
 <td rowspan="1" colspan="2">
 <ol start="7" data-tight="true" class="tight">
 <li>
-<p>NSG Basket ball Junior Boys</p>
+<p>NSG Basketball Junior Boys</p>
 </li>
 </ol>
 </td>
