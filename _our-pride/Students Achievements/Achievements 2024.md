@@ -27,7 +27,7 @@ third_nav_title: Students Achievements
 </th>
 </tr>
 <tr>
-<td rowspan="10" colspan="1">
+<td rowspan="12" colspan="1">
 <p>CCA</p>
 <p>
 <br>
@@ -54,6 +54,22 @@ third_nav_title: Students Achievements
 </td>
 <td rowspan="1" colspan="1">
 <p>Certificate of Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024 NSG Hockey (Junior 1 - P4)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tier 1 - National Champions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024 NSG Hockey (Junior 2 - P5)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tier 1 - National Champions</p>
 </td>
 </tr>
 <tr>
@@ -179,7 +195,7 @@ third_nav_title: Students Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>2024 NSG Hockey (Junior 1 - P4)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -187,7 +203,7 @@ third_nav_title: Students Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>2024 NSG Hockey (Junior 2 - P5)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -195,7 +211,7 @@ third_nav_title: Students Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>SYF Arts Presentation - Guzheng Ensemble</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -203,7 +219,7 @@ third_nav_title: Students Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>SYF Arts Presentation - Guitar Ensemble</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -211,7 +227,7 @@ third_nav_title: Students Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>National Primary Schools Sport Climbing Championships (NPSSCC) 2024</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -219,7 +235,7 @@ third_nav_title: Students Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>2024 NSG Hockey (Senior Boys)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
