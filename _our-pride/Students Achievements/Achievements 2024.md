@@ -161,3 +161,143 @@ third_nav_title: Students Achievements
 </tbody>
 </table>
 <p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p>Event</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Award</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>2024 NSG Hockey (Junior 1 - P4)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>2024 NSG Hockey (Junior 2 - P5)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>SYF Arts Presentation - Guzheng Ensemble</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>SYF Arts Presentation - Guitar Ensemble</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>National Primary Schools Sport Climbing Championships (NPSSCC) 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>2024 NSG Hockey (Senior Boys)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>2024 Raffles Institution Hockey Carnival - P5s</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>2024 SYF Arts Presentation - Contemporary Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>2024 D Show (Dance Exchange) @ Yu Neng Primary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>2024 SYF Celebrations @ Gardens by the Bay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>2024 Public Service Week (PSW) Opening Event @ ITE AMK</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>P6 Senior Sixers Cub Scouts</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>IDE2024 Competition IDE Sumobot</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>National Primary Games Creation and Coding Competition 2024 (NPGC3 2024)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>CDL and NLB’s My Tree House “We Love Our Planet” Storytelling Contest
+2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
