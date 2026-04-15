@@ -65,12 +65,9 @@ third_nav_title: Students Achievements
 <p>2025 SYF Art Exhibition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Certificate of Recognition (Special Mention)</p>
-<p>- Category B</p>
-<p>Certificate of Recognition</p>
-<p>- Category A</p>
-<p>Certificate of Participation</p>
-<p>- Category C</p>
+<p>Certificate of Recognition (Special Mention) - Category B</p>
+<p>Certificate of Recognition - Category A</p>
+<p>Certificate of Participation - Category C</p>
 </td>
 </tr>
 <tr>
