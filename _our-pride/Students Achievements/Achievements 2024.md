@@ -27,7 +27,7 @@ third_nav_title: Students Achievements
 </th>
 </tr>
 <tr>
-<td rowspan="12" colspan="1">
+<td rowspan="15" colspan="1">
 <p>CCA</p>
 <p>
 <br>
@@ -146,6 +146,30 @@ third_nav_title: Students Achievements
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>2024 D Show (Dance Exchange) @ Yu Neng Primary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024 SYF Celebrations @ Gardens by the Bay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024 Public Service Week (PSW) Opening Event @ ITE AMK</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+</tr>
+<tr>
 <td rowspan="3" colspan="1">
 <p>Mathematics</p>
 </td>
@@ -172,49 +196,6 @@ third_nav_title: Students Achievements
 <td rowspan="1" colspan="1">
 <p>Distinction (4)
 <br>Merit Award (8)</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="2">
-<p>Event</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Award</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>2024 D Show (Dance Exchange) @ Yu Neng Primary</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>2024 SYF Celebrations @ Gardens by the Bay</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>2024 Public Service Week (PSW) Opening Event @ ITE AMK</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
