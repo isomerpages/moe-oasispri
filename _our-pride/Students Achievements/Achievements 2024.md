@@ -211,54 +211,6 @@ third_nav_title: Students Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>2024 Raffles Institution Hockey Carnival - P5s</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>2024 SYF Arts Presentation - Contemporary Dance</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
 <p>2024 D Show (Dance Exchange) @ Yu Neng Primary</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -283,32 +235,7 @@ third_nav_title: Students Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>P6 Senior Sixers Cub Scouts</p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>IDE2024 Competition IDE Sumobot</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>National Primary Games Creation and Coding Competition 2024 (NPGC3 2024)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>CDL and NLB’s My Tree House “We Love Our Planet” Storytelling Contest
-2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
