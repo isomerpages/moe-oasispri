@@ -51,7 +51,6 @@ in the poster, and all nominations can be submitted online, please click
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/CTA 2026/cta2026.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/CTA 2026/cta2026poster.jpg">
 </div>
