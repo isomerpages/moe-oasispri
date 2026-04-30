@@ -465,7 +465,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Ms Soh Lee Yoong, Ms Yan Xiaojing</p>
+<p>Ms Yan Xiaojing</p>
 </td>
 </tr>
 <tr>
