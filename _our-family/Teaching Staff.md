@@ -280,7 +280,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mdm Florence Ngu</p>
+<p>Mdm Florence Ngu, Ms Teo Mei Geok</p>
 </td>
 </tr>
 <tr>
