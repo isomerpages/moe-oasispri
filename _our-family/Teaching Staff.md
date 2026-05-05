@@ -289,7 +289,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mrs Hing May Yuen, Mr Farhan</p>
+<p>Mrs Hing May Yuen, Mr Farhan, Mrs Chan Hwee Khoon</p>
 </td>
 </tr>
 <tr>
