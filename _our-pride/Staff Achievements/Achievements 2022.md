@@ -35,7 +35,7 @@ years service in the service of the Government.</p>
 all MOE staff to continually and consistently serve both internal and external
 customers with excellent service.</p>
 <p></p>
-<p><strong>Platinium Award</strong>
+<p><strong>Platinum Award</strong>
 </p>
 <p>Mdm Salwah binte Abdul Rahman Lajam</p>
 <hr>
