@@ -386,7 +386,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mrs Ann Tan, Mdm Yueng Yuk</p>
+<p>Mrs Ann Tan, Mdm Yeung Yuk</p>
 </td>
 </tr>
 <tr>
