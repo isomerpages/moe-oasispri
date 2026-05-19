@@ -3,16 +3,15 @@ title: Clubs & Societies
 permalink: /our-curriculum/co-curricular-activities/clubs-n-societies/
 description: ""
 third_nav_title: Clubs & Societies
-variant: markdown
+variant: tiptap
 ---
-<a href="https://staging.d6400o65xh90r.amplifyapp.com/our-curriculum/co-curricular-activities/clubs-n-societies/green-makers/">
-<img src="/images/greenmakers6.png" alt="green makers" style="width:70%">
-</a>
-
-<a href="https://staging.d6400o65xh90r.amplifyapp.com/our-curriculum/co-curricular-activities/clubs-n-societies/ict-club/">
-<img src="/images/ICT3.png" alt="ICT" style="width:70%">
-</a>
-
-<a href="https://staging.d6400o65xh90r.amplifyapp.com/our-curriculum/co-curricular-activities/clubs-n-societies/media-club/">
-<img src="/images/mediaclub3.png" alt="media club" style="width:70%">
-</a>
+<div class="isomer-image-wrapper">
+<img style="width:70%" height="auto" width="100%" alt="green makers" src="/images/greenmakers6.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width:70%" height="auto" width="100%" alt="ICT" src="/images/ICT3.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width:70%" height="auto" width="100%" alt="media club" src="/images/mediaclub3.png">
+</div>
+<p></p>
