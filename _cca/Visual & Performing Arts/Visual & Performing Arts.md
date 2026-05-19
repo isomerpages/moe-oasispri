@@ -3,23 +3,21 @@ title: Visual & Performing Arts
 permalink: /our-curriculum/co-curricular-activities/visual-n-performing-arts/
 description: ""
 third_nav_title: Visual & Performing Arts
+variant: tiptap
 ---
-<a href="https://staging.d6400o65xh90r.amplifyapp.com/our-curriculum/co-curricular-activities/visual-n-performing-arts/guitar-club/">
-<img src="/images/guitar%20club%202.png" alt="guitar club" style="width:70%">
-</a>
-
-<a href="https://staging.d6400o65xh90r.amplifyapp.com/our-curriculum/co-curricular-activities/visual-n-performing-arts/drama/">
-<img src="/images/drama3.png" alt="drama" style="width:70%">
-</a>
-
-<a href="https://staging.d6400o65xh90r.amplifyapp.com/our-curriculum/co-curricular-activities/visual-n-performing-arts/contemporary-dance/">
-<img src="/images/contemporary%20dance.png" alt="contemporary dance" style="width:70%">
-</a>
-
-<a href="https://staging.d6400o65xh90r.amplifyapp.com/our-curriculum/co-curricular-activities/visual-n-performing-arts/guzheng/">
-<img src="/images/guzheng3.png" alt="guzheng" style="width:70%">
-</a>
-
-<a href="https://staging.d6400o65xh90r.amplifyapp.com/our-curriculum/co-curricular-activities/visual-n-performing-arts/visual-arts/">
-<img src="/images/art%20club.png" alt="visual arts" style="width:70%">
-</a>
+<div class="isomer-image-wrapper">
+<img style="width:70%" height="auto" width="100%" alt="guitar club" src="/images/guitar%20club%202.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width:70%" height="auto" width="100%" alt="drama" src="/images/drama3.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width:70%" height="auto" width="100%" alt="contemporary dance" src="/images/contemporary%20dance.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width:70%" height="auto" width="100%" alt="guzheng" src="/images/guzheng3.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width:70%" height="auto" width="100%" alt="visual arts" src="/images/art%20club.png">
+</div>
+<p></p>
