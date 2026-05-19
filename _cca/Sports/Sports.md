@@ -3,7 +3,7 @@ title: Sports
 permalink: /our-curriculum/co-curricular-activities/sports/
 description: ""
 third_nav_title: Sports
-variant: markdown
+variant: tiptap
 ---
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" alt="badminton" src="/images/badminton.png">
