@@ -11,6 +11,13 @@ sections:
       url: /contact-us/
       variant: center
   - infopic:
+      title: 2026 Open House
+      id: infopic
+      button: Click here
+      url: oasispri.moe.edu.sg
+      image: /images/Banner/logo.jpg
+      alt: open house
+  - infopic:
       id: infopic
       button: Click here
       image: /images/Banner/banner.jpg
