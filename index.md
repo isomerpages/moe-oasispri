@@ -13,7 +13,6 @@ sections:
   - infopic:
       title: Open House 2026
       id: infopic
-      description: Infopic description
       button: Button Text
       image: /images/Banner/openhousee_brochure2026.png
       alt: open house
