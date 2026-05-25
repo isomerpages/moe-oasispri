@@ -11,6 +11,11 @@ sections:
       url: /contact-us/
       variant: center
   - infopic:
+      title: Open House 2026
+      id: infopic
+      image: /images/Banner/openhousee_brochure2026.png
+      alt: open house
+  - infopic:
       id: infopic
       button: Click here
       image: /images/Banner/banner.jpg
