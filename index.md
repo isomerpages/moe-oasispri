@@ -11,7 +11,7 @@ sections:
       url: /contact-us/
       variant: center
   - infopic:
-      title: Open House 2026
+      title: Open House 2026 on 3 July 2026
       id: infopic
       image: /images/Banner/openhousee_brochure2026.png
       alt: open house
