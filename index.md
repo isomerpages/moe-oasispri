@@ -15,6 +15,8 @@ sections:
       id: infopic
       image: /images/Banner/openhousee_brochure2026.png
       alt: open house
+      button: Click here
+      url: /our-school/open-house-2026/
   - infopic:
       id: infopic
       button: Click here
