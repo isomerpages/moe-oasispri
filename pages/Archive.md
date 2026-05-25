@@ -8,6 +8,7 @@ description: ""
 <p>Communicate Effectively</p>
 <p>Contribute Actively</p>
 <p>Create Responsibly</p>
+<h3><strong>Student Care Centre</strong></h3>
 <h3><strong>YMCA Student Care Centre (SCC) @ Oasis</strong></h3>
 <p>At YMCA SCCs, our aim to provide a holistic education that focuses on
 character development and ensures that our children learn to look beyond
