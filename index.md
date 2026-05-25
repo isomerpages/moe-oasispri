@@ -11,10 +11,12 @@ sections:
       url: /contact-us/
       variant: center
   - infopic:
-      title: Open House 2026
+      title: Oasis Primary School's Open House on 3 July 2026
       id: infopic
       image: /images/Banner/openhousee_brochure2026.png
       alt: open house
+      button: Click here
+      url: /our-school/open-house-2026/
   - infopic:
       id: infopic
       button: Click here
