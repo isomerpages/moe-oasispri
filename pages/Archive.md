@@ -261,5 +261,29 @@ All students had a wonderful time, making this celebration truly memorable!</p>
 </div>
 <p></p>
 <h4><strong>Info Hub</strong></h4>
-<h4></h4>
+<p><strong>Students</strong>
+<br>1.&nbsp;<a href="https://idp.mims.moe.gov.sg/nidp/saml2/sso" rel="noopener noreferrer nofollow" target="_blank">Student MIMS</a>
+</p>
+<p>2.&nbsp;<a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">Student ICON</a>
+</p>
+<p>3.&nbsp;<a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space (SLS)</a>
+</p>
+<p><strong>Teachers</strong>
+</p>
+<p>1.&nbsp;<a href="https://www.hrp.gov.sg/hrp/#/" rel="noopener noreferrer nofollow" target="_blank">HRP Portal</a>
+</p>
+<p>2.&nbsp;<a href="https://idp.mims.moe.gov.sg/nidp/saml2/sso" rel="noopener noreferrer nofollow" target="_blank">MOE Identity Management System (MIMS)</a>
+</p>
+<p>3.&nbsp;<a href="https://intranet.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">MOE Intranet</a>
+</p>
+<p>4.&nbsp;<a href="https://www.opal2.moe.edu.sg/app/learner" rel="noopener noreferrer nofollow" target="_blank">OPAL2.0</a>
+</p>
+<p>5.&nbsp;<a href="https://rbs.avero-tech.com/" rel="noopener noreferrer nofollow" target="_blank">Resource Booking Service (RBS)</a>
+</p>
+<p>6.&nbsp;<a href="https://schoolcockpit.moe.gov.sg/CP/scapp/security" rel="noopener noreferrer nofollow" target="_blank">School Cockpit Plus (SC)</a>
+</p>
+<p>7.&nbsp;<a href="https://scmobile.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">SCMobile</a>
+</p>
+<p>8.&nbsp;<a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space (SLS)</a>
+</p>
 <p></p>
