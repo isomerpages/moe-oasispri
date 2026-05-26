@@ -5,7 +5,7 @@ links:
   - title: Our Family
     collection: our-family
   - title: OPS Experience
-    url: /ops-experience/curriculum/
+    url: /ops-experience/
     sublinks:
       - title: Curriculum
         url: /our-curriculum/curriculum/
