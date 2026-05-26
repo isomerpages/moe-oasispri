@@ -54,19 +54,16 @@ character and whom the President is satisfied has completed at least 25
 years service in the service of the Government.</p>
 <p></p>
 <p><strong>The Commendation Medal</strong>
-</p>
-<p>Mrs Lee Shi Lin</p>
-<p>Mr Ng Chu Siu</p>
-<p>Ms Tan Soo Cheng</p>
+<br>Mrs Lee Shi Lin
+<br>Mr Ng Chu Siu
+<br>Ms Tan Soo Cheng</p>
 <p></p>
 <p><strong>The Efficiency Medal</strong>
-</p>
-<p>Mdm Noorwanis Binte Amir Noordin</p>
+<br>Mdm Noorwanis Binte Amir Noordin</p>
 <p></p>
 <p><strong>The Long Service Medal</strong>
-</p>
-<p>Mrs Tan-Koh Peck Lian</p>
-<p>Mdm Ng Tze Ling</p>
+<br>Mrs Tan-Koh Peck Lian
+<br>Mdm Ng Tze Ling</p>
 <h3><strong>MOE Service Excellence Award (MSEA)</strong></h3>
 <p>The MOE Service Excellence Award (MSEA) is a MOE-wide Award to encourage
 all MOE staff to continually and consistently serve both internal and external
@@ -206,5 +203,4 @@ customers with excellent service.</p>
 </tr>
 </tbody>
 </table>
-<hr>
 <p></p>
