@@ -3,4 +3,5 @@ collections:
     output: true
     order:
       - Department.md
+      - Co Curricular Activities/Sports.md
       - Co Curricular Activities/.keep
