@@ -2,6 +2,7 @@ collections:
   info-hub:
     output: true
     order:
+      - Assessment Information.md
       - Parents Info Hub/.keep
       - Parents Info Hub/School Hours.md
       - Parents Info Hub/School Terms & Holidays 2026.md
