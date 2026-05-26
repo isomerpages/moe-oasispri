@@ -148,6 +148,6 @@ physical environment in the world they live in.</p>
 <p><strong>Place-based Learning in Oasis</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/if0MVBuq8zo?si=C6XXK6HnZCCQrlNw&amp;start=3"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/if0MVBuq8zo?si=C6XXK6HnZCCQrlNw&amp;start=3"></iframe>
 </div>
 <p></p>
