@@ -23,4 +23,7 @@ the power of partnership in shaping every child’s learning journey.</p>
 <br><strong>4.00 p.m. - 4.20 p.m.</strong>
 </p>
 <p>*Registration required. Please scan the QR code to register.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Banner/qrcode.png">
+</div>
 <p></p>
