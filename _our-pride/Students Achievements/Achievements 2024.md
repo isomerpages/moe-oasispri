@@ -28,9 +28,9 @@ third_nav_title: Students Achievements
 </tr>
 <tr>
 <td rowspan="15" colspan="1">
-<p>CCA</p>
-<p>
-<br>
+<p><strong>CCA</strong>
+</p>
+<p><strong><br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -171,7 +171,8 @@ third_nav_title: Students Achievements
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>Mathematics</p>
+<p><strong>Mathematics</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Singapore Mathematical Olympiad for Primary Schools 2024</p>
