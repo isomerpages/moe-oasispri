@@ -9,10 +9,10 @@ variant: tiptap
 </div>
 <p><strong>Nurturing confident and self-regulated problem solvers</strong>
 </p>
-<h3>Department Goals</h3>
+<h3><strong>Department Goals</strong></h3>
 <p>Develop able, confident and self-regulated problem solvers with a passion
 for Mathematics and critical thinking.</p>
-<h3>Our Approach</h3>
+<h3><strong>Our Approach</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width:100%" height="auto" width="100%" src="/images/maths.png">
 </div>
@@ -46,9 +46,9 @@ manipulatives to understand different concepts. After this, the students
 move on to pictorial and/or abstract to develop strong foundation and ensure
 early success.</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/O3UdraytU5U"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/O3UdraytU5U"></iframe>
 </div>
-<h3>Key Programmes</h3>
+<h3><strong>Key Programmes</strong></h3>
 <p><strong>Math Around Us</strong>
 </p>
 <p>Math Around Us uses the Place-based Learning approach to provide students
@@ -63,7 +63,7 @@ mathematical vocabulary to communicate and reason.</p>
 <p><strong>Strengthening Mathematical Learning through Integration of Literature Experiences (SMILE)</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/8w5NKNMEHKQ"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/8w5NKNMEHKQ"></iframe>
 </div>
 <p>SMILE is a literature-based approach to develop strong conceptual understanding,
 reasoning and communication in Mathematics. Through authentic contexts
@@ -112,7 +112,7 @@ to apply the math concepts and skills learnt!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Math/mc5.jpg">
 </div>
-<h3>E2K Mathematics Programme</h3>
+<h3><strong>E2K Mathematics Programme</strong></h3>
 <p>The Excellence 2000 (E2K) Mathematics Programme is an enrichment programme
 for selected Primary 4 and Primary 5 students who demonstrate interest
 and aptitude in Mathematics. The programme aims to develop students’ mathematical
@@ -124,13 +124,13 @@ inquiry approach.</p>
 <p>Students collaborating with their peers and engaging in problem-solving
 through mathematical experiences specially designed for the E2K Mathematics
 programme.</p>
-<h3>Math Olympiad Programme</h3>
+<h3><strong>Math Olympiad Programme</strong></h3>
 <p>The Math Olympiad Programme is an enrichment programme for selected Primary
 4 to Primary 6 students who demonstrate interest and aptitude in Mathematics.
 This programme aims to prepare students for Primary Math Olympiad competitions
 and develop students’ mathematical thinking and creative problem-solving
 skills.</p>
-<h3>Achievements</h3>
+<h3><strong>Achievements</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -145,7 +145,8 @@ skills.</p>
 </tr>
 <tr>
 <td rowspan="4" colspan="1">
-<p>Bronze Award</p>
+<p><strong>Bronze Award</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Kyvus Goh</p>
@@ -182,7 +183,8 @@ skills.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Distinction (Junior Category)</p>
+<p><strong>Distinction (Junior Category)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lee Jia Ying</p>
@@ -190,7 +192,8 @@ skills.</p>
 </tr>
 <tr>
 <td rowspan="4" colspan="1">
-<p>Merit Award (Junior Category)</p>
+<p><strong>Merit Award (Junior Category)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Beh Jun Hao</p>
@@ -213,7 +216,8 @@ skills.</p>
 </tr>
 <tr>
 <td rowspan="5" colspan="1">
-<p>Distinction (Open Category)</p>
+<p><strong>Distinction (Open Category)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Bryan Ho</p>
@@ -241,7 +245,8 @@ skills.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Merit Award (Open Category)</p>
+<p><strong>Merit Award (Open Category)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wong Sheng En</p>
@@ -264,7 +269,8 @@ skills.</p>
 </tr>
 <tr>
 <td rowspan="7" colspan="1">
-<p>Bronze Award</p>
+<p><strong>Bronze Award</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chan Jing Heng</p>
@@ -302,7 +308,8 @@ skills.</p>
 </tr>
 <tr>
 <td rowspan="16" colspan="1">
-<p>Honourable Mention</p>
+<p><strong>Honourable Mention</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>April Wong Zi Xuan</p>
@@ -400,7 +407,8 @@ skills.</p>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>Bronze Award</p>
+<p><strong>Bronze Award</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ambravani Manas</p>
@@ -432,7 +440,8 @@ skills.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Distinction (Junior Category)</p>
+<p><strong>Distinction (Junior Category)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Thia Wen Le</p>
@@ -440,7 +449,8 @@ skills.</p>
 </tr>
 <tr>
 <td rowspan="5" colspan="1">
-<p>Merit Award (Junior Category)</p>
+<p><strong>Merit Award (Junior Category)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chan Jing Xuan, Vanness</p>
@@ -468,7 +478,8 @@ skills.</p>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>Distinction (Open Category)</p>
+<p><strong>Distinction (Open Category)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Soh Wei Yu, Daryl</p>
@@ -486,7 +497,8 @@ skills.</p>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>Merit Award (Open Category)</p>
+<p><strong>Merit Award (Open Category)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Foo Le Xi</p>
@@ -519,7 +531,8 @@ skills.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sliver Award</p>
+<p><strong>Sliver Award</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ambravani Manas</p>
@@ -527,7 +540,8 @@ skills.</p>
 </tr>
 <tr>
 <td rowspan="10" colspan="1">
-<p>Bronze Award</p>
+<p><strong>Bronze Award</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Foo Le Xi</p>
@@ -580,7 +594,8 @@ skills.</p>
 </tr>
 <tr>
 <td rowspan="12" colspan="1">
-<p>Honourable Mention</p>
+<p><strong>Honourable Mention</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Bei Junyu</p>
@@ -658,7 +673,8 @@ skills.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sliver Award</p>
+<p><strong>Sliver Award</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Pay Qee Jun</p>
@@ -681,7 +697,8 @@ skills.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Distinction (Junior Category)</p>
+<p><strong>Distinction (Junior Category)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Thakur Ashvik Rajeshkumar</p>
@@ -689,7 +706,8 @@ skills.</p>
 </tr>
 <tr>
 <td rowspan="4" colspan="1">
-<p>Merit Award (Open Category)</p>
+<p><strong>Merit Award (Open Category)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chen Kian Kyle</p>
@@ -728,7 +746,8 @@ skills.</p>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>Outstanding Award</p>
+<p><strong>Outstanding Award</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Jerean Xue Yu Xuan</p>
@@ -761,7 +780,8 @@ skills.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sliver Award</p>
+<p><strong>Sliver Award</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Pay Qee Jun</p>
@@ -769,7 +789,8 @@ skills.</p>
 </tr>
 <tr>
 <td rowspan="5" colspan="1">
-<p>Bronze Award</p>
+<p><strong>Bronze Award</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chen Kian Kyle</p>
@@ -797,7 +818,8 @@ skills.</p>
 </tr>
 <tr>
 <td rowspan="6" colspan="1">
-<p>Honourable Mention</p>
+<p><strong>Honourable Mention</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chua Meng Kiat</p>
@@ -845,7 +867,8 @@ skills.</p>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>Bronze Award</p>
+<p><strong>Bronze Award</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ng Yong En</p>
@@ -864,7 +887,8 @@ skills.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Certificate of Merit</p>
+<p><strong>Certificate of Merit</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Brayden Lai Zhixuan</p>
@@ -878,7 +902,8 @@ skills.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Bronze Award</p>
+<p><strong>Bronze Award</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chan Heng Li</p>
@@ -892,7 +917,8 @@ skills.</p>
 </tr>
 <tr>
 <td rowspan="4" colspan="1">
-<p>Bronze Award</p>
+<p><strong>Bronze Award</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ng Yong En</p>
@@ -915,7 +941,8 @@ skills.</p>
 </tr>
 <tr>
 <td rowspan="10" colspan="1">
-<p>Honourable Mention</p>
+<p><strong>Honourable Mention</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Brayden Ng</p>
