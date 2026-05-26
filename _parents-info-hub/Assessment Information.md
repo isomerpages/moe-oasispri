@@ -73,13 +73,13 @@ papers:</p>
 <p>Paper 1 (Compo)</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Paper 2(Main Paper)</p>
+<p>Paper 2 (Main Paper)</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Paper 3(Oral)</p>
+<p>Paper 3 (Oral)</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Paper 4(LC)</p>
+<p>Paper 4 (LC)</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Action</p>
