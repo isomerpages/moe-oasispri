@@ -59,7 +59,8 @@ in all arts programmes – namely, Connecting, Creating &amp; Communicating.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ARTISTIC PROCESSES</p>
+<p><strong>ARTISTIC PROCESSES</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>CONNECTING</strong>
