@@ -4,6 +4,13 @@ links:
     collection: our-school
   - title: Our Family
     collection: our-family
+  - title: OPS Experience
+    url: /ops-experience/curriculum/
+    sublinks:
+      - title: Curriculum
+        url: /our-curriculum/curriculum/
+      - title: Co-Curriculum Activities
+        url: /our-curriculum/co-curricular-activities/
   - title: Our Distinctiveness
     url: /our-distinctiveness/environmental-sustainability-education/
     sublinks:
@@ -15,13 +22,6 @@ links:
         url: /our-distinctiveness/oasis-learning-experiences/
       - title: Place Based Learning
         url: /our-distinctiveness/place-based-learning/
-  - title: Our Curriculum
-    url: /our-curriculum/curriculum/
-    sublinks:
-      - title: Curriculum
-        url: /our-curriculum/curriculum/
-      - title: Co-Curriculum Activities
-        url: /our-curriculum/co-curricular-activities/
   - title: Our Pride
     collection: our-pride
   - title: Parents Info-Hub
