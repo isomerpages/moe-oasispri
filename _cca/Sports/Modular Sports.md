@@ -6,7 +6,9 @@ third_nav_title: Sports
 variant: tiptap
 ---
 <p><strong>7 days without sports makes one weak (week)!</strong>
-<br>Oasis Modular Sports Club was founded in 2020 to cater to the students
+<br>
+</p>
+<p>Oasis Modular Sports Club was founded in 2020 to cater to the students
 with diverse interests in a variety of sports. Students who attend Modular
 Sports club will learn advanced skills of each sport and apply them to
 the actual or modified games situation. Students will engage in team games
