@@ -2,6 +2,8 @@ logo: /images/Banner/logo.jpg
 links:
   - title: Our School
     collection: our-school
+  - title: Our Family
+    collection: our-family
   - title: Our Distinctiveness
     url: /our-distinctiveness/environmental-sustainability-education/
     sublinks:
@@ -20,8 +22,6 @@ links:
         url: /our-curriculum/curriculum/
       - title: Co-Curriculum Activities
         url: /our-curriculum/co-curricular-activities/
-  - title: Our Family
-    collection: our-family
   - title: Our Pride
     collection: our-pride
   - title: Parents Info-Hub
