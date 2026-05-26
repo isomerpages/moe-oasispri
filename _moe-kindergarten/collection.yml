@@ -2,10 +2,10 @@ collections:
   moe-kindergarten:
     output: true
     order:
-      - Info Hub.md
-      - Our Partners.md
-      - MK Experience.md
       - About Us.md
+      - MK Experience.md
+      - Our Partners.md
+      - Info Hub.md
       - Our Vision, Mission & Values.md
       - Register for MK@Oasis.md
       - Our Team.md
