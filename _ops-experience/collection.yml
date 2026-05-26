@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Department/.keep
-      - Department/Curriculum.md
       - Department/English Language.md
       - Department/Mathematics.md
       - Department/Mother Tongue Languages.md
