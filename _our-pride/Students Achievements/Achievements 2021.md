@@ -14,122 +14,79 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Department</p>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Competition</p>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Award</p>
+<p></p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chinese Language</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4th Chinese Language Text Recital Competition For Primary &amp; Secondary
-Schools
-<br>
-<br>The Chinese Language Moo-O Awards</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Individual Award - Bronze (4)
-<br>Group Award - Silver (1)
-<br>
-<br>Merit Award (1)
-<br>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mathematics</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National Mathematical Olympiad of Singapore 2021
-<br>
-<br>
-<br>Singapore Mathematical Olympiad for Primary Schools 2021</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Bronze Award (4)
-<br>Honourable Mention (10)
-<br>
-<br>Bronze Award (1)
-<br>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Science</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Primary Science Olympiad
-<br>
-<br>Raffles Science Olympiad
-<br>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Silver Award (1)
-<br>
-<br>Merit Award (1)
-<br>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Aesthetics</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2021 SYF Arts Exhibition</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Certificate of Recognition (4)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>CCA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2021 NSG Badminton
-<br>
-<br>2021 NSG Sportsmanship Award
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Bronze (Top 6) Senior Girls
-<br>
-<br>Badminton (2)
-<br>
-<br>Table Tennis (6)
-<br>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Student Leadership</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National Cyberwellness Advocacy Challenge
-<br>
-<br>National Youth Upcycling Movement
-<br>
-<br>12th Design For Change Singapore Challenge 2021</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Silver Award (1)
-<br>
-<br>Gold Award (1)
-<br>
-<br>Top 3 Award (Cyberwellness Project)
-<br>Special Mention (Student Wellbeing Project)</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
