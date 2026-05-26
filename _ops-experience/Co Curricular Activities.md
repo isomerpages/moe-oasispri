@@ -17,32 +17,17 @@ description: ""
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department &amp; CCA/badminton.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.oasispri.moe.edu.sg/cca/sports/badminton/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department &amp; CCA/badminton.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department &amp; CCA/hockey.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.oasispri.moe.edu.sg/cca/sports/hockey/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department &amp; CCA/hockey.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department &amp; CCA/Modular sports.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.oasispri.moe.edu.sg/cca/sports/modular-sports/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department &amp; CCA/Modular sports.png"></a>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department &amp; CCA/table tennis.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.oasispri.moe.edu.sg/cca/sports/table-tennis/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department &amp; CCA/table tennis.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department &amp; CCA/wushu.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.oasispri.moe.edu.sg/cca/sports/wushu/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department &amp; CCA/wushu.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
