@@ -2,6 +2,7 @@ collections:
   moe-kindergarten:
     output: true
     order:
+      - "MK Experience/MK Oasians: Learning In Action!.md"
       - MK Experience/Our Learning Environment.md
       - MK Experience/.keep
       - About Us/Our Curriculum & Programme.md
