@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/CCE.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Department &amp; CCA/CCE.jpg">
 </div>
 <p><strong>SHINE Oasians: Serve with a Heart and Inspire Everyone through words and actions</strong>
 </p>
