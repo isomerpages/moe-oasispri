@@ -2,7 +2,6 @@ collections:
   ops-experience:
     output: true
     order:
-      - Department/.keep
       - Learning for Life Programme.md
       - Co Curricular Activities/.keep
       - Co Curricular Activities/Co Curricular Activities.md
