@@ -101,19 +101,19 @@ third_nav_title: Students Achievements
 <p>National Primary Schools Sport Climbing Championships (NPSSCC) 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Junior Girls Division (Speed)</p>
-<p>8th placing</p>
-<p>Junior Boys Division (Speed)</p>
-<p>4th placing</p>
-<p>Senior Boys Division (Speed)</p>
-<p>4th placing</p>
-<p>8th placing</p>
-<p>Junior Girls Division (Bouldering)</p>
-<p>7th placing</p>
-<p>Junior Boys Division (Speed)</p>
-<p>6th placing</p>
-<p>Junior Boys Division (Top Rope)</p>
-<p>4th placing</p>
+<p>Junior Girls Division (Speed)
+<br>8th placing</p>
+<p>Junior Boys Division (Speed)
+<br>4th placing</p>
+<p>Senior Boys Division (Speed)
+<br>4th placing
+<br>8th placing</p>
+<p>Junior Girls Division (Bouldering)
+<br>7th placing</p>
+<p>Junior Boys Division (Speed)
+<br>6th placing</p>
+<p>Junior Boys Division (Top Rope)
+<br>4th placing</p>
 <p>Novice Division Silver Achievement Pins Bronze Achievement Pins</p>
 </td>
 </tr>
@@ -122,11 +122,12 @@ third_nav_title: Students Achievements
 <p>“We Love Our Planet” Storytelling Contest 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Top 5 Finalist Award</p>
-<p>• Nathaniel Navin Raj</p>
-<p>(5 Loyalty)</p>
-<p>Merit Award</p>
-<p>• Izz Rayyan Bin Muhammad Taib (6 Resilience)</p>
+<p>Top 5 Finalist Award
+<br>• Nathaniel Navin Raj
+<br>(5 Loyalty)
+<br>Merit Award</p>
+<p>• Izz Rayyan Bin Muhammad Taib
+<br>(6 Resilience)</p>
 </td>
 </tr>
 <tr>
@@ -186,8 +187,8 @@ third_nav_title: Students Achievements
 <p>National Mathematical Olympiad of Singapore 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Bronze Award (7)</p>
-<p>Honourable Mention (16)</p>
+<p>Bronze Award (7)
+<br>Honourable Mention (16)</p>
 </td>
 </tr>
 <tr>
