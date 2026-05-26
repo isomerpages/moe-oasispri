@@ -3,4 +3,4 @@ collections:
     output: true
     order:
       - Department.md
-      - CCA/.keep
+      - Co Curricular Activities/.keep
