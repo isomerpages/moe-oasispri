@@ -2,10 +2,6 @@ collections:
   ops-experience:
     output: true
     order:
-      - Place Based Learning.md
-      - Oasis Learning Experiences.md
-      - Learning for Life Programme.md
-      - Environmental Sustainability Education.md
       - Curriculum/.keep
       - Curriculum/Curriculum.md
       - Curriculum/English Language.md
@@ -18,3 +14,7 @@ collections:
       - Curriculum/Physical Education.md
       - Curriculum/Programme for Active Learning.md
       - Curriculum/Social Studies.md
+      - Place Based Learning.md
+      - Oasis Learning Experiences.md
+      - Learning for Life Programme.md
+      - Environmental Sustainability Education.md
