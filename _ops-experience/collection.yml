@@ -4,7 +4,6 @@ collections:
     order:
       - Example Title.md
       - Department/.keep
-      - Department/Character & Citizenship Education.md
       - Department/Information & Communications Technology.md
       - Department/Physical Education.md
       - Department/Programme for Active Learning.md
