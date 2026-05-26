@@ -9,11 +9,8 @@ third_nav_title: Co Curricular Activities
 <p></p><a class="isomer-image-wrapper" href="https://www.oasispri.moe.edu.sg/cca/visual-n-performing-arts/drama/"><img style="width: 75%;" height="auto" width="100%" alt="drama" src="/images/drama3.png"></a>
 <a class="isomer-image-wrapper" href="https://www.oasispri.moe.edu.sg/cca/visual-n-performing-arts/contemporary-dance/">
 <img style="width: 75%;" height="auto" width="100%" alt="contemporary dance" src="/images/contemporary%20dance.png">
-</a>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="guzheng" src="/images/guzheng3.png">
-</div>
-<div class="isomer-image-wrapper">
+</a><a class="isomer-image-wrapper" href="https://www.oasispri.moe.edu.sg/cca/visual-n-performing-arts/guzheng/"><img style="width: 75%;" height="auto" width="100%" alt="guzheng" src="/images/guzheng3.png"></a>
+<a class="isomer-image-wrapper" href="https://www.oasispri.moe.edu.sg/cca/visual-n-performing-arts/art-club/">
 <img style="width: 75%;" height="auto" width="100%" alt="visual arts" src="/images/art%20club.png">
-</div>
+</a>
 <p></p>
