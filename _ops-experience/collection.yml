@@ -2,9 +2,6 @@ collections:
   ops-experience:
     output: true
     order:
-      - Schedule 2026.md
-      - Achievements.md
-      - Co Curricular Activities.md
       - Department/.keep
       - Department/Curriculum.md
       - Department/English Language.md
@@ -18,6 +15,9 @@ collections:
       - Department/Programme for Active Learning.md
       - Department/Social Studies.md
       - Learning for Life Programme.md
+      - Co Curricular Activities.md
+      - Schedule 2026.md
+      - Achievements.md
       - Place Based Learning.md
       - Oasis Learning Experiences.md
       - Environmental Sustainability Education.md
