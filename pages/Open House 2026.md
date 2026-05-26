@@ -9,8 +9,9 @@ description: ""
 </div>
 <h4><strong>Open House 2026</strong><br></h4>
 <p>Join us at our Open House to learn more about our school programmes and
-what we offer our K2 prospective students and parents.</p>
-<p>&nbsp;</p>
+what we offer our K2 prospective students and parents.
+<br>
+</p>
 <h4><strong>Programme Highlights</strong></h4>
 <p><strong>2.30 p.m. - 4.30 p.m.</strong>
 <br>Explore our student learning experience.</p>
