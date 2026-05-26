@@ -2,7 +2,6 @@ collections:
   our-pride:
     output: true
     order:
-      - Parents' Voices.md
       - In the News/.keep
       - In the News/Minister Visit.md
       - Students Achievements/.keep
@@ -20,3 +19,4 @@ collections:
       - Staff Achievements/Achievements 2021.md
       - Staff Achievements/Achievements 2020.md
       - Staff Achievements/Achievements 2019.md
+      - Parents' Voices.md
