@@ -14,15 +14,9 @@ description: ""
 <tr>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.oasispri.moe.edu.sg/dept/english-language/"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/English Language/engbanner.png"></a>
 </th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department &amp; CCA/math.png">
-</div>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.oasispri.moe.edu.sg/dept/mathematics/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department &amp; CCA/math.png"></a>
 </th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department &amp; CCA/MTL.png">
-</div>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.oasispri.moe.edu.sg/dept/mother-tongue-language/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department &amp; CCA/MTL.png"></a>
 </th>
 </tr>
 <tr>
