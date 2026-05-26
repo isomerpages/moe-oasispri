@@ -2,6 +2,7 @@ collections:
   ops-experience:
     output: true
     order:
+      - CCAs/Co Curricular Activities.md
       - CCAs/.keep
       - Department/.keep
       - Department/Curriculum.md
