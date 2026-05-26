@@ -79,7 +79,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p></p>
+<h4><strong>Visual &amp; Performing Arts</strong></h4>
 </td>
 </tr>
 <tr>
