@@ -6,7 +6,9 @@ third_nav_title: Sports
 variant: tiptap
 ---
 <p><strong>Serve it, Spin it, Smash it, Love it!</strong>
-<br>Table Tennis in Oasis provides opportunities for students to develop their
+<br>
+</p>
+<p>Table Tennis in Oasis provides opportunities for students to develop their
 character and leadership quality through learning to cooperate with one
 another, work together for a common goal, respond appropriately to victory
 and defeat, and grow in virtues like courage, integrity, determination
