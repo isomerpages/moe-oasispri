@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - About Us/.keep
-      - About Us/Our Curriculum & Programme.md
-      - About Us/Our Team.md
       - About Us/Our Vision, Mission & Values.md
+      - About Us/Our Team.md
+      - About Us/Our Curriculum & Programme.md
       - MK Experience/.keep
       - MK Experience/Our Events.md
       - "MK Experience/MK Oasians: Learning In Action!.md"
