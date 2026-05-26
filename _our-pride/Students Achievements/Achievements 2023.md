@@ -28,7 +28,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="12" colspan="1">
-<p>CCA</p>
+<p><strong>CCA</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>National Primary Schools Sport Climbing Championships (NPSSCC)</p>
@@ -141,7 +142,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="4" colspan="1">
-<p>Mathematics</p>
+<p><strong>Mathematics</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Singapore Mathematical Olympiad for Primary Schools 2023</p>
@@ -179,7 +181,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Science</p>
+<p><strong>Science</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Singapore Primary Science Olympiad</p>
