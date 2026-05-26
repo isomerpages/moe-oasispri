@@ -35,13 +35,13 @@ variant: tiptap
 <p>National Primary Schools Sport Climbing Championships (NPSSCC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Junior Girls Division (Top Rope)</p>
-<p>5th placing</p>
-<p>Junior Boys Division (Top Rope)</p>
-<p>6th placing</p>
-<p>Novice Division</p>
-<p>Gold Achievement Pins</p>
-<p>Silver Achievement Pins</p>
+<p>Junior Girls Division (Top Rope)
+<br>5th placing</p>
+<p>Junior Boys Division (Top Rope)
+<br>6th placing</p>
+<p>Novice Division
+<br>Gold Achievement Pins
+<br>Silver Achievement Pins</p>
 </td>
 </tr>
 <tr>
@@ -57,8 +57,8 @@ variant: tiptap
 <p>NSG Hockey Senior Boys</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National Runners-Up</p>
-<p>Sportsmanship Award</p>
+<p>National Runners-Up
+<br>Sportsmanship Award</p>
 </td>
 </tr>
 <tr>
@@ -90,8 +90,8 @@ variant: tiptap
 <p>Scouts</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National Cub Scouts Gang Show</p>
-<p>Bronze Award</p>
+<p>National Cub Scouts Gang Show
+<br>Bronze Award</p>
 </td>
 </tr>
 <tr>
@@ -99,10 +99,10 @@ variant: tiptap
 <p>NSG Table Tennis</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Junior Boys Singles</p>
-<p>Tier 4 (1st)</p>
-<p>Junior Boys Doubles</p>
-<p>Tier 4 (1st)</p>
+<p>Junior Boys Singles
+<br>Tier 4 (1st)</p>
+<p>Junior Boys Doubles
+<br>Tier 4 (1st)</p>
 <p>Sportsmanship Award</p>
 </td>
 </tr>
@@ -112,8 +112,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Sportsmanship Award</p>
-<p>Junior Division</p>
-<p>Tier 1 (3rd)</p>
+<p>Junior Division
+<br>Tier 1 (3rd)</p>
 </td>
 </tr>
 <tr>
