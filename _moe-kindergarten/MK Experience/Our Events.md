@@ -5,10 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: MK Experience
 ---
-<h4>On-going Transition to P1 Programme in MK@Oasis</h4>
+<h4><strong>On-going Transition to P1 Programme in MK@Oasis</strong></h4>
 <p><strong><em>The transition from preschool to primary school is one of the largest and most important changes children have to encounter &amp; manage at that age.</em></strong>
-</p>
-<p><em>Fabian &amp; Dunlop, 2006</em>
+<br><em>Fabian &amp; Dunlop, 2006</em>
 </p>
 <p>A successful transition to Primary 1 has a positive impact on the children's
 academic performance, social and emotional development. Children who are
@@ -29,7 +28,7 @@ to Primary&nbsp;<strong><em>1</em></strong>&nbsp;(P1).</p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/hcxMR0E7BIk?si=PcmOc2goY3wil8DJ"></iframe>
 </div>
-<h4>Special Events in Semester Two 2025</h4>
+<h4><strong>Special Events in Semester Two 2025</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mkoasis/Our Events 2025/1__Earth_Week_2025.png">
 </div>
@@ -42,7 +41,7 @@ to Primary&nbsp;<strong><em>1</em></strong>&nbsp;(P1).</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mkoasis/Our Events 2025/4__K2_Celebrates_2025.png">
 </div>
-<h4>Special Events in Semester One 2025</h4>
+<h4><strong>Special Events in Semester One 2025</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Mkoasis/Our Events 2025/ourevents1.png">
 </div>
