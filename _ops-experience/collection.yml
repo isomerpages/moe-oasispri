@@ -2,6 +2,7 @@ collections:
   ops-experience:
     output: true
     order:
+      - Schedule 2026.md
       - Achievements.md
       - Co Curricular Activities.md
       - Department/.keep
