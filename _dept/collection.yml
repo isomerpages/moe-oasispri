@@ -2,13 +2,13 @@ collections:
   dept:
     output: true
     order:
-      - Social Studies.md
-      - Programme for Active Learning.md
-      - Physical Education.md
-      - Information & Communications Technology.md
-      - Character & Citizenship Education.md
-      - Aesthetics.md
-      - Science.md
-      - Mother Tongue Languages.md
-      - Mathematics.md
       - English Language.md
+      - Mathematics.md
+      - Mother Tongue Languages.md
+      - Science.md
+      - Aesthetics.md
+      - Character & Citizenship Education.md
+      - Information & Communications Technology.md
+      - Physical Education.md
+      - Programme for Active Learning.md
+      - Social Studies.md
