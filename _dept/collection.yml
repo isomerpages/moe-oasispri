@@ -2,6 +2,7 @@ collections:
   dept:
     output: true
     order:
+      - Physical Education.md
       - Information & Communications Technology.md
       - Character & Citizenship Education.md
       - Aesthetics.md
