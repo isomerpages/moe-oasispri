@@ -2,10 +2,10 @@ collections:
   info-hub:
     output: true
     order:
-      - Parents Gateway.md
-      - Applications Forms.md
-      - Sexuality Education.md
-      - School Partners.md
-      - School Terms & Holidays 2026.md
-      - School Hours.md
       - Assessment Information.md
+      - School Hours.md
+      - School Terms & Holidays 2026.md
+      - School Partners.md
+      - Sexuality Education.md
+      - Applications Forms.md
+      - Parents Gateway.md
