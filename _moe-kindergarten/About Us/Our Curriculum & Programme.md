@@ -6,7 +6,7 @@ description: ""
 third_nav_title: About Us
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Mkoasis/pic3.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Mkoasis/pic3.jpg">
 </div>
 <h4>Our Curriculum</h4>
 <p>The MK curriculum is designed by preschool specialists to nurture children
