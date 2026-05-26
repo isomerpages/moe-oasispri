@@ -123,25 +123,25 @@ up neatly.</p>
 <p>No other accessories are allowed.</p>
 </li>
 </ul>
-<h3>Primary 1 and Primary 2</h3>
+<h3><strong>Primary 1 and Primary 2</strong></h3>
 <p>Primary 1 and Primary 2 students are to wear Junior uniform every day,
 including days with PE lessons.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/p1p2uniform.png">
 </div>
-<h3>Primary 3 to Primary 6</h3>
+<h3><strong>Primary 3 to Primary 6</strong></h3>
 <p>Primary 3 to Primary 6 students are to wear their school uniform on days
 with no House Practice, CCA and PE lessons.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/p3p6uniform.png">
 </div>
-<h3>PE Attire</h3>
+<h3><strong>PE Attire</strong></h3>
 <p>Primary 3 to Primary 6 students are to wear PE attire for PE lessons,
 House Practice and Sports CCA.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/p3p6peattire.png">
 </div>
-<h3>Conduct</h3>
+<h3><strong>Conduct</strong></h3>
 <p><strong><u>Attendance and Punctuality</u></strong>
 </p>
 <ul data-tight="true" class="tight">
