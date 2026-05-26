@@ -4,16 +4,11 @@ links:
     collection: our-school
   - title: Our Family
     collection: our-family
-  - title: OPS Experience
-    url: /ops-experience/
-    sublinks:
-      - title: Curriculum
-        url: /our-curriculum/curriculum/
-      - title: Co-Curriculum Activities
-        url: /our-curriculum/co-curricular-activities/
   - title: Our Pride
     collection: our-pride
   - title: Parents Info-Hub
     collection: parents-info-hub
   - title: MK@OA
     collection: moe-kindergarten
+  - title: OPS Experience
+    collection: ops-experience
