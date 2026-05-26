@@ -2,6 +2,7 @@ collections:
   moe-kindergarten:
     output: true
     order:
+      - Our Partners/Our KCare.md
       - Our Partners/Testimonials.md
       - Our Partners/.keep
       - MK Experience/Our Events.md
