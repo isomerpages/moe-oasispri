@@ -34,7 +34,7 @@ of Oasis Primary School through thoughtfully designed activities and programmes.
 To nurture Oasisans into shining stars.</p>
 </li>
 </ul>
-<p><strong>Values:</strong>PSG@Oasis is grounded on the four values, which
+<p><strong>Values: </strong>PSG@Oasis is grounded on the four values, which
 serve as the compass for all our work.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" src="/images/psg.png">
