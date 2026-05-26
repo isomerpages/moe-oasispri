@@ -1,0 +1,11 @@
+collections:
+  parents-info-hub:
+    output: true
+    order:
+      - Assessment Information.md
+      - School Hours.md
+      - School Terms & Holidays 2026.md
+      - School Partners.md
+      - Sexuality Education.md
+      - Applications Forms.md
+      - Parents Gateway.md

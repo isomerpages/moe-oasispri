@@ -2,18 +2,22 @@ collections:
   moe-kindergarten:
     output: true
     order:
-      - Our Vision, Mission & Values.md
-      - Register for MK@Oasis.md
-      - Our Team.md
-      - Our Curriculum & Programme.md
-      - Our Learning Environment.md
-      - "MK Oasians: Learning In Action!.md"
-      - Our Events.md
-      - Testimonials.md
-      - Our KCare.md
-      - Our Early Years Centre Partner.md
-      - Our Uniform.md
-      - MK Forms.md
-      - Contact Us.md
+      - About Us/.keep
+      - About Us/Our Vision, Mission & Values.md
+      - About Us/Our Team.md
+      - About Us/Our Curriculum & Programme.md
+      - MK Experience/.keep
+      - MK Experience/Our Learning Environment.md
+      - "MK Experience/MK Oasians: Learning In Action!.md"
+      - MK Experience/Our Events.md
+      - Our Partners/.keep
+      - Our Partners/Testimonials.md
+      - Our Partners/Our KCare.md
+      - Our Partners/Our Early Years Centre Partner.md
+      - Info Hub/.keep
+      - Info Hub/Register for MK@Oasis.md
+      - Info Hub/MK Forms.md
+      - Info Hub/Our Uniform.md
+      - Info Hub/Contact Us.md
       - Celebrating 10 Years with MOE Kindergarten.md
       - Our Open House.md

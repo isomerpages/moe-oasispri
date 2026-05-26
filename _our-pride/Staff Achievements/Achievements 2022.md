@@ -206,5 +206,4 @@ customers with excellent service.</p>
 </tr>
 </tbody>
 </table>
-<hr>
 <p></p>

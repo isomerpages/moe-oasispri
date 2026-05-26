@@ -1,0 +1,20 @@
+collections:
+  ops-experience:
+    output: true
+    order:
+      - Department/.keep
+      - Department/Curriculum.md
+      - Department/English Language.md
+      - Department/Mathematics.md
+      - Department/Mother Tongue Languages.md
+      - Department/Science.md
+      - Department/Aesthetics.md
+      - Department/Character & Citizenship Education.md
+      - Department/Information & Communications Technology.md
+      - Department/Physical Education.md
+      - Department/Programme for Active Learning.md
+      - Department/Social Studies.md
+      - Learning for Life Programme.md
+      - Co Curricular Activities.md
+      - Schedule 2026.md
+      - Achievements.md
