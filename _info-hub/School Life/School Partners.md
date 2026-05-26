@@ -53,10 +53,10 @@ No: 65099557 / 96376416
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School days:
+<p><strong>School days:</strong>
 <br>Afterschool to 7.00pm
 <br>
-<br>Non-school days:
+<br><strong>Non-school days:</strong>
 <br>7.30am to 7.00pm</p>
 </td>
 </tr>
@@ -70,10 +70,10 @@ No: 65099557 / 96376416
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>For students:
+<p><strong>For students:</strong>
 <br>9.00am to 3.00pm
 <br>
-<br>For parents:
+<br><strong>For parents:</strong>
 <br>2.00pm to 3.00pm</p>
 </td>
 </tr>
@@ -82,23 +82,20 @@ No: 65099557 / 96376416
 <p><strong>Bus Operator</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p><a href="http://btntan.com/" rel="noopener noreferrer nofollow" target="_blank">BT &amp; Tan Transport Pte Ltd</a>
 </p>
-</td>
-<td rowspan="2" colspan="1">
-<p>8.30am to 6.00pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Contact Person: Ms May&nbsp; / Ms Samantha
 <br>Tel No: 64837260 (Main Office) / 84841266
 <br>Email:
 <br>1) <a href="mailto:sch2@btntan.com" rel="noopener noreferrer nofollow" target="_blank">sch2@btntan.com</a> (Operation)
 <br>2) <a href="mailto:schl@btntan.com" rel="noopener noreferrer nofollow" target="_blank">schl@btntan.com</a> (Collection)</p>
 </td>
+<td rowspan="2" colspan="1">
+<p>8.30am to 6.00pm</p>
+</td>
 </tr>
+<tr></tr>
 </tbody>
 </table>
 <p></p>
