@@ -2,5 +2,4 @@ collections:
   our-distinctiveness:
     output: true
     order:
-      - Oasis Learning Experiences.md
       - Place Based Learning.md
