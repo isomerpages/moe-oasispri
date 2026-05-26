@@ -23,6 +23,6 @@ are self-fulfilled as individuals and play a constructive role in society.</p>
 </div>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/PV12Evd-vLk"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/PV12Evd-vLk"></iframe>
 </div>
 <p></p>
