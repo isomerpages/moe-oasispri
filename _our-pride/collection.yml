@@ -2,6 +2,7 @@ collections:
   our-pride:
     output: true
     order:
+      - Parents' Voices.md
       - In the News/.keep
       - In the News/Minister Visit.md
       - Students Achievements/.keep
