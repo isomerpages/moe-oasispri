@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Environmental Sustainability Education.md
       - Curriculum/.keep
       - Curriculum/Curriculum.md
       - Curriculum/English Language.md
