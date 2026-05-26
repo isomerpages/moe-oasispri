@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Oasis Learning Experiences.md
       - Learning for Life Programme.md
       - Environmental Sustainability Education.md
       - Curriculum/.keep
