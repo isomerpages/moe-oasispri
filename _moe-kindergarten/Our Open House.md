@@ -8,7 +8,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Mkoasis/QRCode.png">
 </div>
-<h4>Open House 2026</h4>
+<h4><strong>Open House 2026</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Mkoasis/OHPoster1.png">
 </div>
