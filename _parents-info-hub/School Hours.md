@@ -4,7 +4,7 @@ permalink: /parents-info-hub/school-hours/
 description: ""
 variant: tiptap
 ---
-<h3>School Hours</h3>
+<h3><strong>School Hours</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -48,7 +48,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3>School Gates Opening Hours</h3>
+<h3><strong>School Gates Opening Hours</strong></h3>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
