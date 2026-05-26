@@ -2,6 +2,7 @@ collections:
   dept:
     output: true
     order:
+      - Social Studies.md
       - Programme for Active Learning.md
       - Physical Education.md
       - Information & Communications Technology.md
