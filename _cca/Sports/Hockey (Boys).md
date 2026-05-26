@@ -6,7 +6,9 @@ third_nav_title: Sports
 variant: tiptap
 ---
 <p><strong>Teamwork makes the dream work!</strong>
-<br>Oasis Hockey CCA provides students opportunities for character and leadership
+<br>
+</p>
+<p>Oasis Hockey CCA provides students opportunities for character and leadership
 development, while inculcating social and co-operative skills. Students
 learn through working together as a team, taking on personal and collective
 challenges, towards individual growth in virtues like teamwork, discipline
