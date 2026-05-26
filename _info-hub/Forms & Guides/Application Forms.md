@@ -33,8 +33,7 @@ access the Giro Termination Form.</p>
 (laptops/tablets) to lower-income families.</p>
 <p>For forms &amp; details, click <a href="https://eservice.imda.gov.sg/das/homepage" rel="noopener noreferrer nofollow" target="_blank">https://eservice.imda.gov.sg/das/homepage</a>
 </p>
-<h3></h3>
-<h3>Group Personal Accident Insurance for Students</h3>
+<h4><strong>2) Group Personal Accident Insurance for Students</strong></h4>
 <p>All students are covered under the GPA Insurance Plan which provides 24-hour
 worldwide accident coverage while they are at the school premises (including
 school-based Student Care Centre), in Singapore or elsewhere, participating
@@ -45,9 +44,9 @@ and sports.</p>
 <p>Parents may submit the GPA insurance claim online (eSubmission).</p>
 <p>Click&nbsp;<a href="https://www.income.com.sg/claims/group-insurance/group-personal-accident-for-students-claim" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
 see how to submit an insurance claim online.</p>
-<h3>Student Wait List</h3>
+<h4><strong>3) Student Wait List</strong></h4>
 <p>For Singapore Citizen/Singapore Permanent Resident pupils who wish to
-apply for a place in Oasis Primary School, please click <a href="/files/OPS_Student_Wait_List_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-access the Waiting List Online Application Form.</p>
+apply for a place in Oasis Primary School, please click here to access
+the Waiting List Online Application Form.</p>
 <p>Please complete the form and hand it to the staff in the General Office.
 Alternatively, you may email the completed form to us at&nbsp;<a href="mailto:oasis_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">oasis_ps@moe.edu.sg</a>.</p>
