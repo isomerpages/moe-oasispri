@@ -68,9 +68,8 @@ years service in the service of the Government.</p>
 <p>The MOE Service Excellence Award (MSEA) is a MOE-wide Award to encourage
 all MOE staff to continually and consistently serve both internal and external
 customers with excellent service.</p>
-<p><strong>Gold Award</strong>
+<p><strong><u>Gold Award</u></strong>
 </p>
-<hr>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -124,10 +123,8 @@ customers with excellent service.</p>
 </tr>
 </tbody>
 </table>
-<hr>
-<p><strong>Silver Award</strong>
+<p><strong><u>Silver Award</u></strong>
 </p>
-<hr>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
