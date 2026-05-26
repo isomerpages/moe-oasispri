@@ -64,32 +64,17 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department &amp; CCA/guitar club 2.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.oasispri.moe.edu.sg/cca/visual-n-performing-arts/guitar-club/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department &amp; CCA/guitar club 2.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department &amp; CCA/drama3.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.oasispri.moe.edu.sg/cca/visual-n-performing-arts/drama/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department &amp; CCA/drama3.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department &amp; CCA/contemporary dance.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.oasispri.moe.edu.sg/cca/visual-n-performing-arts/contemporary-dance/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department &amp; CCA/contemporary dance.png"></a>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department &amp; CCA/guzheng3.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.oasispri.moe.edu.sg/cca/visual-n-performing-arts/guzheng/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department &amp; CCA/guzheng3.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department &amp; CCA/art club.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.oasispri.moe.edu.sg/cca/visual-n-performing-arts/visual-arts/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department &amp; CCA/art club.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
