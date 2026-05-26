@@ -215,8 +215,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sat 21 Mar</p>
-<p><em>As Saturday, 21 March 2026 is a Public Holiday, Monday, 23 March 2026 will be a designated day off-in-lieu for schools (i.e. Schools, including the General Office, Student Care Centres and KCare Centres, will be closed).</em>
+<p>Sat 21 Mar
+<br><em>As Saturday, 21 March 2026 is a Public Holiday, Monday, 23 March 2026 will be a designated day off-in-lieu for schools (i.e. Schools, including the General Office, Student Care Centres and KCare Centres, will be closed).</em>
 </p>
 </td>
 </tr>
@@ -253,8 +253,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sun 31 May</p>
-<p><em>Monday, 1 June 2026 will be a public holiday.</em>
+<p>Sun 31 May
+<br><em>Monday, 1 June 2026 will be a public holiday.</em>
 </p>
 </td>
 </tr>
@@ -264,8 +264,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sun 9 Aug</p>
-<p><em>Monday, 10 August 2026 will be a public holiday.</em>
+<p>Sun 9 Aug
+<br><em>Monday, 10 August 2026 will be a public holiday.</em>
 </p>
 </td>
 </tr>
@@ -275,8 +275,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sun 8 Nov</p>
-<p><em>Monday, 9 November 2026 will be a public holiday.</em>
+<p>Sun 8 Nov
+<br><em>Monday, 9 November 2026 will be a public holiday.</em>
 </p>
 </td>
 </tr>
