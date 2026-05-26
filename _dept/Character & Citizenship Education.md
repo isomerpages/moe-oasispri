@@ -37,7 +37,7 @@ with empathy, and contribute positively to the community through the following
 tiers:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Self- Leadership</p>
+<p>Self-Leadership</p>
 </li>
 <li>
 <p>Team Leadership</p>

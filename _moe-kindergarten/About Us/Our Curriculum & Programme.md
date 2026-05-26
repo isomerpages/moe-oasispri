@@ -8,7 +8,7 @@ third_nav_title: About Us
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Mkoasis/pic3.jpg">
 </div>
-<h4>Our Curriculum</h4>
+<h4><strong>Our Curriculum</strong></h4>
 <p>The MK curriculum is designed by preschool specialists to nurture children
 holistically to be confident, possess strong social skills and have a good
 foundation in literacy and numeracy.</p>
@@ -40,7 +40,7 @@ and Tamil – to encourage bilingualism in the early years and help lay a
 strong foundation for language learning in the later years MKs will work
 closely with their primary schools to smoothen and ease children's transition
 from Kindergarten to Primary 1 (P1).</p>
-<h4>Our Curriculum Goals</h4>
+<h4><strong>Our Curriculum Goals</strong></h4>
 <p>Our curriculum and programmes are based on the Nurturing Early Learners
 (NEL) Framework that guides the development of kindergarten programmes
 in Singapore.</p>
@@ -55,7 +55,7 @@ for specific activities.</p>
 learning activities that you and your child can engage in together. This
 will help you bond with your child and share the joy of their growth and
 learning.</p>
-<h4>Our Programmes</h4>
+<h4><strong>Our Programmes</strong></h4>
 <p>Our curriculum comprises 2 flagship programmes, the HI-Light Programme
 and Starlight Literacy Programme for English and Mother Tongue Language
 (MTL). In addition, each term at MK will conclude in a Weeks of Wonder

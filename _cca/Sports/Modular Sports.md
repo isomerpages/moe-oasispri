@@ -6,6 +6,7 @@ third_nav_title: Sports
 variant: tiptap
 ---
 <p><strong>7 days without sports makes one weak (week)!</strong>
+<br>
 </p>
 <p>Oasis Modular Sports Club was founded in 2020 to cater to the students
 with diverse interests in a variety of sports. Students who attend Modular
@@ -18,6 +19,6 @@ and other physical activities.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/modular%20sports%201.png">
 </div>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/zTE6mk94blY"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/zTE6mk94blY"></iframe>
 </div>
 <p></p>

@@ -21,6 +21,6 @@ to raise students’ awareness of art around Singapore.</p>
 </div>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/kiNM1iITXbM"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/kiNM1iITXbM"></iframe>
 </div>
 <p></p>

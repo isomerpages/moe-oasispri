@@ -9,10 +9,10 @@ variant: tiptap
 </div>
 <p><strong>Thinking artists confident in creating and expressing meaningful works</strong>
 </p>
-<h3>Goal of Oasis Arts Education</h3>
+<h3><strong>Goal of Oasis Arts Education</strong></h3>
 <p>Develop artistically literate students who participate actively and purposefully
 in the arts within and beyond school</p>
-<h3>Purpose for engaging in the arts:</h3>
+<h3><strong>Purpose for engaging in the arts:</strong></h3>
 <p><strong>The arts as&nbsp;communication</strong>
 </p>
 <p>To be able to express one’s own ideas creatively and confidently through
@@ -59,7 +59,8 @@ in all arts programmes – namely, Connecting, Creating &amp; Communicating.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ARTISTIC PROCESSES</p>
+<p><strong>ARTISTIC PROCESSES</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>CONNECTING</strong>
@@ -148,7 +149,7 @@ our students in their arts education development:</p>
 </tr>
 </tbody>
 </table>
-<h3>Key Programmes</h3>
+<h3><strong>Key Programmes</strong></h3>
 <p><strong>The Art Curriculum</strong>
 </p>
 <p>In line with MOE’s standards, the Art Education @Oasis aims to:</p>
@@ -197,7 +198,8 @@ following programmes are implemented in the curriculum:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P3</p>
+<p><strong>P3</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Life by the River (Interdisciplinary module)</p>
@@ -205,7 +207,8 @@ following programmes are implemented in the curriculum:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P4</p>
+<p><strong>P4</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Museum-based Learning</p>
@@ -213,7 +216,8 @@ following programmes are implemented in the curriculum:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P5</p>
+<p><strong>P5</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ceramics;
@@ -237,7 +241,7 @@ involvement in music</p>
 <p>Music lessons @Oasis studies music and its cultural contexts in different
 time and location, gives students the tools to access music technically
 and intuitively, and play several instruments. The 3 artistic processes
-– Connecting, Creating and Communicating – undergird the classroom pedagogy.
+- Connecting, Creating and Communicating - undergird the classroom pedagogy.
 Students are&nbsp;<em>connecting</em>&nbsp;by analyzing meaning and relating
 musical ideas to its context,&nbsp;<em>creating</em>&nbsp;by imagining
 and developing new musical ideas, and&nbsp;<em>communicating</em>&nbsp;by
@@ -269,7 +273,8 @@ the following programmes are implemented in the curriculum:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P2</p>
+<p><strong>P2</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Orff Instruments
@@ -278,7 +283,8 @@ the following programmes are implemented in the curriculum:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P3</p>
+<p><strong>P3</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Keyboard Mania (Beginner)</p>
@@ -286,7 +292,8 @@ the following programmes are implemented in the curriculum:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P4</p>
+<p><strong>P4</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ukulele</p>
@@ -294,7 +301,8 @@ the following programmes are implemented in the curriculum:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P5</p>
+<p><strong>P5</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Keyboard Pop (Intermediate);
@@ -303,7 +311,8 @@ the following programmes are implemented in the curriculum:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P6</p>
+<p><strong>P6</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Digital Music</p>
@@ -314,7 +323,7 @@ the following programmes are implemented in the curriculum:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Aesthetics/photo6.jpg">
 </div>
-<h3>Annual Arts Fest</h3>
+<h3><strong>Annual Arts Fest</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aesthetics/photo11.png">
 </div>
@@ -330,7 +339,7 @@ the following programmes are implemented in the curriculum:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aesthetics/photo14.png">
 </div>
-<h3>Achievements</h3>
+<h3><strong>Achievements</strong></h3>
 <p><strong>Students</strong>
 </p>
 <table style="minWidth: 75px">
@@ -359,8 +368,8 @@ the following programmes are implemented in the curriculum:</p>
 <p>SYF Art Presentation (Contemporary Dance)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Certificate of Distinction</p>
-<p>(Piece selected to perform at Civil Service Week Celebration SPARK at
+<p>Certificate of Distinction
+<br>(Piece selected to perform at Civil Service Week Celebration SPARK at
 ITE College Central)</p>
 </td>
 </tr>
@@ -388,8 +397,8 @@ ITE College Central)</p>
 <p>SYF Art Exhibition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Certificate of Recognition</p>
-<p>(Art piece selected for exhibition at Stamford Art Center with presentation
+<p>Certificate of Recognition
+<br>(Art piece selected for exhibition at Stamford Art Center with presentation
 to GOH)</p>
 </td>
 </tr>

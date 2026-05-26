@@ -68,7 +68,7 @@ world of books, igniting minds and hearts along the way.</p>
 </div>
 <h4><strong>Primary 4 Chinese Language Young Journalism Programme</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/RJ0ZDDV6AnA?si=FzyIKoqGIHNtwhWT&amp;start=4"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/RJ0ZDDV6AnA?si=FzyIKoqGIHNtwhWT&amp;start=4"></iframe>
 </div>
 <h4><strong>Establishing Partnership between OPS Primary 4 Chinese Language Journalists and Beijing Cuiwei Elementary School’s Journalists</strong></h4>
 <div class="isomer-image-wrapper">
@@ -165,7 +165,7 @@ in speaking their Mother Tongue language to an audience.</p>
 </div>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/CotsScoMO-A?si=1xXBRCnK9M4_AahT&amp;start=2"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/CotsScoMO-A?si=1xXBRCnK9M4_AahT&amp;start=2"></iframe>
 </div>
 <h3><strong>Mother Tongue Languages Showcase</strong></h3>
 <p>Discover the joy of learning the Mother Tongue language and culture at
@@ -174,15 +174,15 @@ literacy experience. They will also present programmes that develop them
 to become confident communicators who appreciate the beauty of their language
 and culture.</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WZprtgKPdLE"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WZprtgKPdLE"></iframe>
 </div>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/43iaTLKazbQ"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/43iaTLKazbQ"></iframe>
 </div>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/PRdvKKg_XMk"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/PRdvKKg_XMk"></iframe>
 </div>
 <h3><strong>Achievements</strong></h3>
 <table style="minWidth: 100px">

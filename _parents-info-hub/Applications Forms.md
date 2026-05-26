@@ -4,7 +4,7 @@ permalink: /parents-info-hub/applications-forms/
 variant: tiptap
 description: ""
 ---
-<h4><strong><u>Finance related</u></strong></h4>
+<h3><strong><u>Finance related</u></strong></h3>
 <h4><strong>1) MOE Financial Assistance Scheme 2026 (FAS)</strong></h4>
 <p>Please visit MOE's official website&nbsp;<a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
 more information.&nbsp;You may also access the e-FAS form, which is available
@@ -20,14 +20,14 @@ and wish to give consent to use the same GIRO arrangement to pay for the
 enrichment programme and school charges under School Bill, you may scan
 the QR code below or click <a href="https://go.gov.sg/moe-giro-option" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" src="/images/moe_giro_option.jpg">
+<img style="width: 25%;" height="auto" width="100%" src="/images/moe_giro_option.jpg">
 </div>
 <h4><strong>3) Giro Termination Form</strong></h4>
 <p>Click&nbsp;<a href="/files/4%20GIRO_Termination_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
 access the Giro Termination Form.
 <br>
 </p>
-<h4><strong><u>Student related</u></strong></h4>
+<h3><strong><u>Student related</u></strong></h3>
 <h4><strong>1) DigitalAccess@Home Scheme</strong></h4>
 <p>IMDA’s DigitalAccess@Home scheme offers subsidized home wi-fi and devices
 (laptops/tablets) to lower-income families.

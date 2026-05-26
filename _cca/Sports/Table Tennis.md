@@ -6,6 +6,7 @@ third_nav_title: Sports
 variant: tiptap
 ---
 <p><strong>Serve it, Spin it, Smash it, Love it!</strong>
+<br>
 </p>
 <p>Table Tennis in Oasis provides opportunities for students to develop their
 character and leadership quality through learning to cooperate with one
@@ -17,6 +18,6 @@ and humility.</p>
 </div>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/bKy4RZA8isw"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/bKy4RZA8isw"></iframe>
 </div>
 <p></p>

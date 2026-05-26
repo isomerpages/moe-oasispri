@@ -7,10 +7,10 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width:100%" height="auto" width="100%" src="/images/sciphoto1.png">
 </div>
-<h3>Department Goals</h3>
+<h3><strong>Department Goals</strong></h3>
 <p>To fuel a spirit of curiosity in our students to help them grow and become
 scientifically literate citizens in the world and for the world.</p>
-<h3>Our Approach</h3>
+<h3><strong>Our Approach</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width:50%" height="auto" width="100%" src="/images/sciapproach.png">
 </div>
@@ -41,7 +41,7 @@ and</p>
 <p>appreciate how science influences people and the environment.</p>
 </li>
 </ul>
-<h3>Key Programmes</h3>
+<h3><strong>Key Programmes</strong></h3>
 <p><strong>I.C.E. (Inquiry. Curiosity. Exploration) @ Recess</strong>
 </p>
 <p>In line with our Unique Oasis Learning Experiences on Discovery, the I.C.E.
@@ -61,7 +61,7 @@ our students to be confident and effective leaders.</p>
 </div>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/UNz8OsBttt4?si=M54pMM2nBNWyj_nz&amp;start=5"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/UNz8OsBttt4?si=M54pMM2nBNWyj_nz&amp;start=5"></iframe>
 </div>
 <p><strong>Place-based Learning at Garden Sanctuary</strong>
 </p>
@@ -139,8 +139,5 @@ concepts specially designed for this programme.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/e2k.png">
 </div>
 <p><strong>Joy of Learning Science</strong>
+<br><a href="https://youtu.be/JhKmgh99Ekg?feature=shared" rel="noopener noreferrer nofollow" target="_blank">Joy of Learning Science</a>
 </p>
-<p><a href="https://youtu.be/JhKmgh99Ekg?feature=shared" rel="noopener noreferrer nofollow" target="_blank">Joy of Learning Science</a>
-</p>
-<hr>
-<p></p>

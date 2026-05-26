@@ -6,6 +6,7 @@ third_nav_title: Sports
 variant: tiptap
 ---
 <p><strong>Teamwork makes the dream work!</strong>
+<br>
 </p>
 <p>Oasis Hockey CCA provides students opportunities for character and leadership
 development, while inculcating social and co-operative skills. Students
@@ -20,6 +21,6 @@ and who are respectful towards all.</p>
 <img style="width:100%" height="auto" width="100%" src="/images/hockey2.png">
 </div>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5YCAaTFEaPk"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5YCAaTFEaPk"></iframe>
 </div>
 <p></p>

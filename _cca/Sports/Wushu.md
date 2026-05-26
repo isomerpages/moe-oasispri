@@ -6,6 +6,7 @@ third_nav_title: Sports
 variant: tiptap
 ---
 <p><strong>Strength comes from overcoming obstacles you once thought you could not.</strong>
+<br>
 </p>
 <p>Oasis Wushu strives to encourage students to be confident and brave individuals.
 It also inspires students to gain a better understanding and appreciation
@@ -22,6 +23,6 @@ others and oneself.</p>
 </div>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/SleksTKqEnE"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/SleksTKqEnE"></iframe>
 </div>
 <p></p>
