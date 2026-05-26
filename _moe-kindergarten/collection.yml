@@ -2,7 +2,6 @@ collections:
   moe-kindergarten:
     output: true
     order:
-      - Our Partners.md
       - Our Vision, Mission & Values.md
       - Register for MK@Oasis.md
       - Our Team.md
