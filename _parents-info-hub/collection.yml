@@ -1,5 +1,5 @@
 collections:
-  info-hub:
+  parents-info-hub:
     output: true
     order:
       - Assessment Information.md
