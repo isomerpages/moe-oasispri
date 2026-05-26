@@ -23,7 +23,7 @@ are also not allowed to bring any weapon-like item which is used or intended
 to be used to cause harm to others.</p>
 </li>
 </ol>
-<h3>Attire and Grooming</h3>
+<h3><strong>Attire and Grooming</strong></h3>
 <p><strong><u>School Uniform</u></strong>
 </p>
 <ul>
