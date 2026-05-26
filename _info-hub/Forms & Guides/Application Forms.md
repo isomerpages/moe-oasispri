@@ -5,19 +5,15 @@ description: ""
 third_nav_title: Forms & Guides
 variant: tiptap
 ---
-<h3>MOE Financial Assistance Scheme 2026 (FAS)</h3>
+<h3><strong><u>Finance related</u></strong></h3>
+<h4><strong>1) MOE Financial Assistance Scheme 2026 (FAS)</strong></h4>
 <p>Please visit MOE's official website&nbsp;<a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
 more information.&nbsp;You may also access the e-FAS form, which is available
 on Parents Gateway (under Services tab &gt; Financial Assistance) or via
 <a href="https://form.gov.sg/68f6ebe3b483709b618276c7" rel="noopener nofollow" target="_blank">https://go.gov.sg/moe-efas</a>
 <br><em>(updated as of 29 October 2025)</em>
 </p>
-<h3>DigitalAccess@Home Scheme</h3>
-<p>IMDA’s DigitalAccess@Home scheme offers subsidized home wi-fi and devices
-(laptops/tablets) to lower-income families.</p>
-<p>For forms &amp; details, click <a href="https://eservice.imda.gov.sg/das/homepage" rel="noopener noreferrer nofollow" target="_blank">https://eservice.imda.gov.sg/das/homepage</a>
-</p>
-<h3>Application for eGIRO</h3>
+<h4><strong>2) Application for eGIRO</strong></h4>
 <p>Through Parents Gateway -&gt; Services tab "GIRO setup" or click <a href="https://www.moe.gov.sg/financial-matters/fees/egiro" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p>For DBS/POSB, OCBC, UOB, BOC, MayBank, HSBC and SCB.</p>
 <p>For parents who already have GIRO arrangement with MOE for school fees
@@ -27,9 +23,17 @@ the QR code below or click <a href="https://go.gov.sg/moe-giro-option" rel="noop
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" src="/images/moe_giro_option.jpg">
 </div>
-<h3>Giro Termination Form</h3>
+<h4><strong>3) Giro Termination Form</strong></h4>
 <p>Click&nbsp;<a href="/files/4%20GIRO_Termination_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
 access the Giro Termination Form.</p>
+<p></p>
+<p></p>
+<h3>DigitalAccess@Home Scheme</h3>
+<p>IMDA’s DigitalAccess@Home scheme offers subsidized home wi-fi and devices
+(laptops/tablets) to lower-income families.</p>
+<p>For forms &amp; details, click <a href="https://eservice.imda.gov.sg/das/homepage" rel="noopener noreferrer nofollow" target="_blank">https://eservice.imda.gov.sg/das/homepage</a>
+</p>
+<h3></h3>
 <h3>Group Personal Accident Insurance for Students</h3>
 <p>All students are covered under the GPA Insurance Plan which provides 24-hour
 worldwide accident coverage while they are at the school premises (including
