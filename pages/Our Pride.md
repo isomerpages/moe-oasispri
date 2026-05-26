@@ -517,4 +517,15 @@ years service in the service of the Government.</p>
 <p>&lt;center&gt;Mdm Valiamay d/o Sathiah&lt;/center&gt;</p>
 <p><strong>Staff Achievements 2019</strong>
 </p>
-<p></p>
+<p>### <strong>2019 National Day Awards</strong>
+</p>
+<p>The Commendation Medal is awarded to a person who has distinguished himself
+through commendable performance and conduct, or significant efficiency,
+competence and devotion to duty.</p>
+<p>The Long Service Medal is awarded to a person who is of irreproachable
+character and whom the President is satisfied has completed at least 25
+years service in the service of the Government.</p>
+<p>&lt;b&gt;&lt;center&gt;The Commendation Medal&lt;/center&gt;&lt;/b&gt;</p>
+<p>&lt;center&gt;Ms Tan Li Na&lt;/center&gt;</p>
+<p>&lt;b&gt;&lt;center&gt;The Long Service Medal&lt;/center&gt;&lt;/b&gt;</p>
+<p>&lt;center&gt;Mrs Ong-Chew Lu See&lt;/center&gt;</p>
