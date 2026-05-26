@@ -2,6 +2,7 @@ collections:
   moe-kindergarten:
     output: true
     order:
+      - Our Partners.md
       - MK Experience.md
       - About Us.md
       - Our Vision, Mission & Values.md
