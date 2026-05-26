@@ -4,7 +4,7 @@ permalink: /parents-info-hub/assessment-information/
 description: ""
 variant: tiptap
 ---
-<h3>Assessment Policy</h3>
+<h3><strong>Assessment Policy</strong></h3>
 <p><strong>A. Purpose and scope of assessment</strong>
 </p>
 <p>1. Assessment is the process of collecting, analysing and interpreting

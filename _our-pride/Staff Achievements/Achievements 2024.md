@@ -14,13 +14,11 @@ character and whom the President is satisfied has completed at least 25
 years service in the service of the Government.</p>
 <p></p>
 <p><strong>The Commendation Medal</strong>
-</p>
-<p>Mrs Sharon Teo</p>
-<p>Ms Pauline Ng</p>
+<br>Mrs Sharon Teo
+<br>Ms Pauline Ng</p>
 <p></p>
 <p><strong>The Long Service Medal</strong>
-</p>
-<p>Ms Lee Kai Sin</p>
+<br>Ms Lee Kai Sin</p>
 <p></p>
 <h4><strong>The 28<sup>th</sup> Global Chinese Conference on Computer in Education</strong></h4>
 <div class="isomer-image-wrapper">

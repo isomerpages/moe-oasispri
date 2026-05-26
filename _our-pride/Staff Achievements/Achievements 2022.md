@@ -14,30 +14,25 @@ character and whom the President is satisfied has completed at least 25
 years service in the service of the Government.</p>
 <p></p>
 <p><strong>The Public Administration Medal (Bronze)</strong>
-</p>
-<p>Mrs Josephine Tan</p>
+<br>Mrs Josephine Tan</p>
 <p></p>
 <p><strong>The Commendation Medal</strong>
-</p>
-<p>Mdm Ng Tze Ling</p>
+<br>Mdm Ng Tze Ling</p>
 <p></p>
 <p><strong>The Efficiency Medal</strong>
-</p>
-<p>Mdm Salwah binte Abdul Rahman Lajam</p>
+<br>Mdm Salwah binte Abdul Rahman Lajam</p>
 <p></p>
 <p><strong>The Long Service Medal</strong>
-</p>
-<p>Mr Alan Mui</p>
-<p>Ms Beryl Ng</p>
-<p>Ms Tan Li Na</p>
+<br>Mr Alan Mui
+<br>Ms Beryl Ng
+<br>Ms Tan Li Na</p>
 <h3><strong>MOE Service Excellence Award (MSEA)</strong></h3>
 <p>The MOE Service Excellence Award (MSEA) is a MOE-wide Award to encourage
 all MOE staff to continually and consistently serve both internal and external
 customers with excellent service.</p>
 <p></p>
 <p><strong>Platinum Award</strong>
-</p>
-<p>Mdm Salwah binte Abdul Rahman Lajam</p>
+<br>Mdm Salwah binte Abdul Rahman Lajam</p>
 <hr>
 <p><strong>Gold Award</strong>
 </p>

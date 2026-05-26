@@ -2,7 +2,6 @@
 title: Clubs & Societies
 permalink: /cca/clubs-n-societies/
 description: ""
-third_nav_title: Clubs & Societies
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">

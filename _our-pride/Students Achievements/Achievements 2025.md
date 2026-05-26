@@ -26,7 +26,8 @@ third_nav_title: Students Achievements
 </tr>
 <tr>
 <td rowspan="8" colspan="1">
-<p>CCA</p>
+<p><strong>CCA</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2025 Raffles Hockey Carnival</p>
@@ -104,7 +105,8 @@ third_nav_title: Students Achievements
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>Mathematics</p>
+<p><strong>Mathematics</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Singapore Mathematical Olympiad for Primary Schools 2025</p>
