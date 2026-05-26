@@ -4,7 +4,6 @@ collections:
     order:
       - Example Title.md
       - Department/.keep
-      - Department/English Language.md
       - Department/Mathematics.md
       - Department/Mother Tongue Languages.md
       - Department/Science.md
