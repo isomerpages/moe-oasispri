@@ -80,9 +80,9 @@ third_nav_title: School Life
 </td>
 <td rowspan="1" colspan="1">
 <p>(School Staff &amp; School Buses)
-<br>6.30 a.m. - 7.30 a.m.
-<br>8.00 a.m. - 9.00 a.m.
-<br>11.00 a.m. - 7.00 p.m.</p>
+<br>6.30am to 7.30am
+<br>8.00am to 9.00am
+<br>11.00am to 7.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>N.A.</p>
@@ -100,10 +100,10 @@ third_nav_title: School Life
 <p>N.A.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6.30 a.m. - 7.00 p.m.</p>
+<p>6.30am to 7.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6.30 a.m. - 7.00 p.m.</p>
+<p>6.30am to 7.00pm</p>
 </td>
 </tr>
 <tr>
@@ -115,12 +115,12 @@ third_nav_title: School Life
 <p>N.A.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7.00 a.m. - 7.30 a.m.
-<br>1.30 p.m. - 1.45 p.m.</p>
+<p>7.00am to 730am
+<br>1.30pm to 145pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7.00 a.m. - 7.30 a.m.
-<br>1.00 p.m. - 1.15 p.m.</p>
+<p>7.00am to 7.30am
+<br>1.00pm to 1.15pm</p>
 </td>
 </tr>
 <tr>
@@ -132,12 +132,12 @@ third_nav_title: School Life
 <p>N.A.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7.00 a.m. - 7.30 a.m.
-<br>1.30 p.m. - 1.45 p.m.</p>
+<p>7.00am to 7.30am
+<br>1.30pm to 1.45pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7.00 a.m. - 7.30 a.m.
-<br>1.00 p.m. - 1.15 p.m.</p>
+<p>7.00am to 7.30am
+<br>1.00pm to 1.15pm</p>
 </td>
 </tr>
 </tbody>
