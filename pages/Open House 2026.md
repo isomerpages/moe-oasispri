@@ -25,6 +25,6 @@ the power of partnership in shaping every child’s learning journey.</p>
 <p><strong>*</strong>Registration is required. Please scan the QR code to
 register.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Banner/qrcode.png">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Banner/qrcode.png">
 </div>
 <p></p>
