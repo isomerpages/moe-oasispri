@@ -2,7 +2,6 @@ collections:
   info-hub:
     output: true
     order:
-      - Our Events/.keep
       - Parents Info Hub/.keep
       - Parents Info Hub/Assessment Information.md
       - Parents Info Hub/School Hours.md
