@@ -47,7 +47,7 @@ Singa mascot. It was painted in gold with white and red colours to symbolise
 our national flag. There was also a ‘moving heart’ to imply our heroes’
 selfless contributions.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/student%20care%20centre%201.png">
+<img style="width: 25%;" height="auto" width="100%" src="/images/student%20care%20centre%201.png">
 </div>
 <h4><strong>2. Seed Kindness Fund (SKF)</strong></h4>
 <p>The theme for this year SKF is to appreciate our front line heroes, who
@@ -59,10 +59,10 @@ messages to our front line heroes. This project encouraged our children
 to be kind and considerate, and to heighten public awareness towards such
 acts of kindness.</p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/student%20care%20centre%202.png">
+<img style="width: 25%;" height="auto" width="100%" src="/images/student%20care%20centre%202.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/student%20care%20centre%202-1.png">
+<img style="width: 25%;" height="auto" width="100%" src="/images/student%20care%20centre%202-1.png">
 </div>
 <h4><strong>3. Outdoor Time</strong></h4>
 <p>Students look forward to outdoor time every afternoon. Students get to
@@ -74,17 +74,17 @@ in groups of five, observing 2 meters distance apart when in the field
 or indoor basketball court. Students thoroughly enjoyed themselves sweating
 it out and laughing it off with their friends.</p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/student%20care%20centre%203.png">
+<img style="width: 25%;" height="auto" width="100%" src="/images/student%20care%20centre%203.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/student%20care%20centre%203-1.png">
+<img style="width: 25%;" height="auto" width="100%" src="/images/student%20care%20centre%203-1.png">
 </div>
 <h4><strong>4. DIY Christmas Card Making</strong></h4>
 <p>This was part of our holiday programme where our students created their
 own Christmas cards. They exhibited their creativity and made some fantastic
 cards.</p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/student%20care%20centre%204.png">
+<img style="width: 25%;" height="auto" width="100%" src="/images/student%20care%20centre%204.png">
 </div>
 <h4><strong>5. Thematic Learning</strong></h4>
 <p>This school holiday season, we are encouraging the children to showcase
@@ -95,7 +95,7 @@ types of flowers and the different regions flowers grow in. We consolidated
 our learning with a craft activity. The students had a fun time designing,
 tracing, and cutting colour papers to create a beautiful flower.</p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/student%20care%20centre%205.png">
+<img style="width: 25%;" height="auto" width="100%" src="/images/student%20care%20centre%205.png">
 </div>
 <h4><strong>6. Craft Making Workshop</strong></h4>
 <p>During the December holidays, students were also taught how to create
@@ -113,7 +113,7 @@ such as caterpillars circling the flowerpot and butterflies perched on
 the flowers. The workshop was a great success, as it allowed children to
 learn about flowers and to hone their arts and craft skills.</p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/student%20care%20centre%207.png">
+<img style="width: 25%;" height="auto" width="100%" src="/images/student%20care%20centre%207.png">
 </div>
 <h4><strong>School Uniform Supplier</strong></h4>
 <h4><a href="https://www.khuniform.com/" rel="noopener noreferrer nofollow" target="_blank">KH Uniform Pte Ltd</a></h4>

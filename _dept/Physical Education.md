@@ -1,8 +1,7 @@
 ---
 title: Physical Education
-permalink: /our-curriculum/curriculum/physical-education/
+permalink: /dept/physical-education/
 description: ""
-third_nav_title: Department
 variant: markdown
 ---
 <img src="/images/PE.jpg" style="width100%">

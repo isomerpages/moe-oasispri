@@ -1,8 +1,7 @@
 ---
 title: Science
-permalink: /our-curriculum/curriculum/science/
+permalink: /dept/science/
 description: ""
-third_nav_title: Department
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">

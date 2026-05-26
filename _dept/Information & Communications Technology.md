@@ -1,8 +1,7 @@
 ---
 title: Information & Communications Technology
-permalink: /our-curriculum/curriculum/information-n-communications-technology/
+permalink: /dept/information-n-communications-technology/
 description: ""
-third_nav_title: Department
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">

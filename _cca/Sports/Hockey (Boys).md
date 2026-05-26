@@ -1,6 +1,6 @@
 ---
 title: Hockey (Boys)
-permalink: /our-curriculum/co-curricular-activities/sports/hockey/
+permalink: /cca/sports/hockey/
 description: ""
 third_nav_title: Sports
 variant: tiptap

@@ -1,9 +1,8 @@
 ---
 title: Social Studies
-permalink: /our-curriculum/curriculum/social-studies/
+permalink: /dept/social-studies/
 variant: tiptap
 description: ""
-third_nav_title: Department
 ---
 <p>Social Studies (SS) in Oasis Primary is aligned to the national curriculum
 and seeks to develop students to be informed, concerned and participative

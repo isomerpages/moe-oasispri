@@ -5,12 +5,7 @@ links:
   - title: Our Family
     collection: our-family
   - title: OPS Experience
-    url: /ops-experience/curriculum/
-    sublinks:
-      - title: Curriculum
-        url: /our-curriculum/curriculum/
-      - title: Co-Curriculum Activities
-        url: /our-curriculum/co-curricular-activities/
+    collection: ops-experience
   - title: Our Pride
     collection: our-pride
   - title: Parents Info-Hub

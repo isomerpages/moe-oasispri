@@ -1,8 +1,7 @@
 ---
 title: Mother Tongue Languages
-permalink: /our-curriculum/curriculum/mother-tongue-language/
+permalink: /dept/mother-tongue-language/
 description: ""
-third_nav_title: Department
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">

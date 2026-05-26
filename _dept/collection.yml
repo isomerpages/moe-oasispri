@@ -1,0 +1,14 @@
+collections:
+  dept:
+    output: true
+    order:
+      - English Language.md
+      - Mathematics.md
+      - Mother Tongue Languages.md
+      - Science.md
+      - Aesthetics.md
+      - Character & Citizenship Education.md
+      - Information & Communications Technology.md
+      - Physical Education.md
+      - Programme for Active Learning.md
+      - Social Studies.md

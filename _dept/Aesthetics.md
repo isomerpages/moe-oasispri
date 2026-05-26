@@ -1,8 +1,7 @@
 ---
 title: Aesthetics
-permalink: /our-curriculum/curriculum/aesthetics/
+permalink: /dept/aesthetics/
 description: ""
-third_nav_title: Department
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">

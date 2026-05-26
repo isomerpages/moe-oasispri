@@ -1,6 +1,6 @@
 ---
 title: Co Curricular Activities
-permalink: /our-curriculum/co-curricular-activities/
+permalink: /ops-experience/co-curricular-activities/
 description: ""
 variant: tiptap
 ---

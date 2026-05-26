@@ -1,6 +1,6 @@
 ---
 title: Modular Sports
-permalink: /our-curriculum/co-curricular-activities/sports/modular-sports/
+permalink: /cca/sports/modular-sports/
 description: ""
 third_nav_title: Sports
 variant: tiptap

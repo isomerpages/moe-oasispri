@@ -1,8 +1,7 @@
 ---
 title: Programme for Active Learning
-permalink: /our-curriculum/curriculum/programme-for-active-learning/
+permalink: /dept/programme-for-active-learning/
 description: ""
-third_nav_title: Department
 variant: markdown
 ---
 <img src="/images/PAL.jpg" style="width:100%">

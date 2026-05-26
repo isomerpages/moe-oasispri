@@ -1,8 +1,7 @@
 ---
 title: Mathematics
-permalink: /our-curriculum/curriculum/mathematics/
+permalink: /dept/mathematics/
 description: ""
-third_nav_title: Department
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">

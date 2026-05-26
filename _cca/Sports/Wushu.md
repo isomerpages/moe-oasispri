@@ -1,6 +1,6 @@
 ---
 title: Wushu
-permalink: /our-curriculum/co-curricular-activities/sports/wushu/
+permalink: /cca/sports/wushu/
 description: ""
 third_nav_title: Sports
 variant: tiptap

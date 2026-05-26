@@ -1,9 +1,9 @@
 ---
 title: Sports
-permalink: /our-curriculum/co-curricular-activities/sports/
-description: ""
-third_nav_title: Sports
+permalink: /sports/
 variant: tiptap
+description: ""
+third_nav_title: Co Curricular Activities
 ---
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" alt="badminton" src="/images/badminton.png">
@@ -16,8 +16,5 @@ variant: tiptap
 </div>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" alt="table tennis" src="/images/table%20tennis.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" alt="wushu" src="/images/wushu.png">
 </div>
 <p></p>

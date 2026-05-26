@@ -1,6 +1,6 @@
 ---
 title: Schedule 2026
-permalink: /our-curriculum/co-curricular-activities/schedule-2026/
+permalink: /ops-experience/co-curricular-activities/schedule-2026/
 description: ""
 variant: tiptap
 ---

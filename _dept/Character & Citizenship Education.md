@@ -1,8 +1,7 @@
 ---
 title: Character & Citizenship Education
-permalink: /our-curriculum/curriculum/character-n-citizenship-education/
+permalink: /dept/character-n-citizenship-education/
 description: ""
-third_nav_title: Department
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
