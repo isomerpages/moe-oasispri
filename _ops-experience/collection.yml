@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Department.md
-      - CCAs.md
+      - Co Curricular Activities.md
       - Co Curricular Activities/.keep
       - Co Curricular Activities/Sports.md
       - Co Curricular Activities/Clubs & Societies.md
