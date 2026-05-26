@@ -20,20 +20,11 @@ description: ""
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department &amp; CCA/sci.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.oasispri.moe.edu.sg/dept/science/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department &amp; CCA/sci.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aesthetics/photo4a.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.oasispri.moe.edu.sg/dept/aesthetics/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aesthetics/photo4a.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department &amp; CCA/CCE.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.oasispri.moe.edu.sg/dept/character-n-citizenship-education/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department &amp; CCA/CCE.png"></a>
 </td>
 </tr>
 <tr>
@@ -44,13 +35,21 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department &amp; CCA/PAL.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department &amp; CCA/physical education.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Social Studies/ss.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department &amp; CCA/PAL.png">
 </div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="2">
+<p></p>
 </td>
 </tr>
 </tbody>
