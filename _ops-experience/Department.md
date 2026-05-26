@@ -30,11 +30,11 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.oasispri.moe.edu.sg/dept/physical-education/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department &amp; CCA/physical education.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.oasispri.moe.edu.sg/dept/physical-education/"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Department &amp; CCA/physical education.png"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.oasispri.moe.edu.sg/dept/programme-for-active-learning/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department &amp; CCA/PAL.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.oasispri.moe.edu.sg/dept/programme-for-active-learning/"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Department &amp; CCA/PAL.png"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.oasispri.moe.edu.sg/dept/social-studies/"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Social Studies/ss.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.oasispri.moe.edu.sg/dept/social-studies/"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Social Studies/ss.png"></a>
 </td>
 </tr>
 </tbody>
