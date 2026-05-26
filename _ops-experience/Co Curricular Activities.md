@@ -39,20 +39,11 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department &amp; CCA/greenmakers6.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.oasispri.moe.edu.sg/cca/clubs-n-societies/green-makers/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department &amp; CCA/greenmakers6.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department &amp; CCA/ICT3.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.oasispri.moe.edu.sg/cca/clubs-n-societies/ict-club/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department &amp; CCA/ICT3.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department &amp; CCA/mediaclub3.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.oasispri.moe.edu.sg/cca/clubs-n-societies/media-club/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department &amp; CCA/mediaclub3.png"></a>
 </td>
 </tr>
 <tr>
