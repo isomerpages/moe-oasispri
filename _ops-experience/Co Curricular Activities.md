@@ -52,10 +52,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department &amp; CCA/scouts.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.oasispri.moe.edu.sg/cca/uniformed-groups/scouts/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department &amp; CCA/scouts.png"></a>
 </td>
 <td rowspan="1" colspan="2">
 <p></p>
