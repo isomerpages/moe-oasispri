@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/MTL.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Department &amp; CCA/MTL.jpg">
 </div>
 <p><strong>Confident &amp; eloquent speakers in the Mother Tongue Language</strong>
 </p>
