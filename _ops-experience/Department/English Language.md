@@ -138,7 +138,7 @@ messages. It also fosters creative thinking in our students.</p>
 <p><strong><u>Tongue Twisters Recitation</u></strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/me_hFQhwXEY?si=vZ-4qPcG1iEOQCO8"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/me_hFQhwXEY?si=vZ-4qPcG1iEOQCO8"></iframe>
 </div>
 <p><strong><u>Storybuzz</u></strong>
 </p>
@@ -181,7 +181,7 @@ messages. It also fosters creative thinking in our students.</p>
 <p><em>The BEAR programme allows students to cultivate good reading habits and build their confidence through Choral Reading and Tongue Twister recitations.</em>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/c_HNvYfrXjU?si=s7WFE9Z93Rk0p_aY"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/c_HNvYfrXjU?si=s7WFE9Z93Rk0p_aY"></iframe>
 </div>
 <p><strong><u>Learning Journey and Place-based Learning</u></strong>
 </p>
@@ -214,6 +214,6 @@ harmony within our vibrant school community. This fusion of festivities
 marks a memorable chapter for Oasis Primary, where learning and friendship
 thrive hand in hand.</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/U4xd-99bL_0?si=cJSaQr0T6DbtHdNX&amp;start=5"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/U4xd-99bL_0?si=cJSaQr0T6DbtHdNX&amp;start=5"></iframe>
 </div>
 <p></p>
