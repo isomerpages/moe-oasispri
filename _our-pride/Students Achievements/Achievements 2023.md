@@ -100,8 +100,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Junior Boys Singles
-<br>Tier 4 (1st)</p>
-<p>Junior Boys Doubles
+<br>Tier 4 (1st)
+<br>Junior Boys Doubles
 <br>Tier 4 (1st)</p>
 <p>Sportsmanship Award</p>
 </td>
