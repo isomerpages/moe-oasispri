@@ -2,6 +2,7 @@ collections:
   moe-kindergarten:
     output: true
     order:
+      - Info Hub/MK Forms.md
       - Info Hub/Register for MK@Oasis.md
       - Info Hub/.keep
       - Our Partners/Our Early Years Centre Partner.md
