@@ -36,7 +36,7 @@ description: ""
 </div>
 <h4><strong>Parents' Voices</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/01%20Salinah.jpg">
+<img style="width: 50%;" height="auto" width="100%" src="/images/01%20Salinah.jpg">
 </div>
 <p><strong>Salinah Binte Kasmadi</strong>
 </p>
@@ -45,7 +45,7 @@ introduction of their school values &amp; 7 Habits is a great way of building
 a strong foundation for our children. Keep up the good work in preparing
 my kids and others for their future.</p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/02%20Anna%20Koh.jpg">
+<img style="width: 50%;" height="auto" width="100%" src="/images/02%20Anna%20Koh.jpg">
 </div>
 <p><strong>Koh Shiang Phing, Anna</strong>
 </p>
@@ -57,7 +57,7 @@ passion, care, thoughtfulness, and hard work to help every child. All my
 and are always looking forward to go back to school after the holidays.
 Thumbs up for Oasis Pri Sch!</p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/07%20Susan%20Ng.jpg">
+<img style="width: 50%;" height="auto" width="100%" src="/images/07%20Susan%20Ng.jpg">
 </div>
 <p><strong>Susan Ng Siew Gek</strong>
 </p>
@@ -68,7 +68,7 @@ teaching methods. I am always happy when they come home sharing what they
 have learnt in school. Thank you Oasis Primary School for nurturing and
 developing both my boys during their formative primary school years.</p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/04%20Celsa.jpg">
+<img style="width: 50%;" height="auto" width="100%" src="/images/04%20Celsa.jpg">
 </div>
 <p><strong>Tow Celsa Galvez</strong>
 </p>
@@ -87,7 +87,7 @@ Principal in the school. She is always present in every meeting I attended.
 Mrs Ong also provided updates on how can parents can partner school so
 that we can work together in the best interest of our child.</p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/03%20Rebekah.jpg">
+<img style="width: 50%;" height="auto" width="100%" src="/images/03%20Rebekah.jpg">
 </div>
 <p><strong>Rebekah Seragih</strong>
 </p>
@@ -109,7 +109,7 @@ gestures" as it might seem but these little gestures have given us the
 assurance that our son is in the good hands of all the teachers teaching
 him. We appreciate the teachers of Oasis and their dedication!!</p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/06%20Elaine%20Ng.jpg">
+<img style="width: 50%;" height="auto" width="100%" src="/images/06%20Elaine%20Ng.jpg">
 </div>
 <p><strong>Elaine Ng</strong>
 </p>
@@ -120,7 +120,7 @@ it was tough for everyone. A special shoutout to Mrs Nathan as I can feel
 her additional effort put in in lesson preparations and ensuring students
 under her charge are able to catch up and coping well.</p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/05%20Melanie%20Nyam.jpg">
+<img style="width: 50%;" height="auto" width="100%" src="/images/05%20Melanie%20Nyam.jpg">
 </div>
 <p><strong>Melanie Nyam</strong>
 </p>
@@ -134,7 +134,7 @@ favourite chicken rice which he was eyeing during his recess break! Aiden
 always speaks fondly of all his teachers and had told me that there is
 no other school he would like to go to than OPS!</p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/08%20Siti%20Jamburi.jpg">
+<img style="width: 50%;" height="auto" width="100%" src="/images/08%20Siti%20Jamburi.jpg">
 </div>
 <p><strong>Siti Munah Jamburi</strong>
 </p>
@@ -144,7 +144,7 @@ between teachers and parents is strong and we are updated regularly, especially
 those in the Parent Support Group (PSG). I am glad to volunteer in the
 PSG and I look forward to be involved again when the opportunity arises!</p>
 <div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/09%20Lew%20Pei%20Lin.jpg">
+<img style="width: 50%;" height="auto" width="100%" src="/images/09%20Lew%20Pei%20Lin.jpg">
 </div>
 <p><strong>Lew Pei Lin</strong>
 </p>
@@ -158,7 +158,7 @@ observed her growth and we are especially grateful to Miss Chew of 2019/2020
 to build a good foundation on them.</p>
 <p>Looking forward to many more fruitful years at Oasis Primary School.</p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/10%20Eileen%20Tay.jpg">
+<img style="width: 50%;" height="auto" width="100%" src="/images/10%20Eileen%20Tay.jpg">
 </div>
 <p><strong>Eileen Tay</strong>
 </p>
@@ -172,7 +172,7 @@ even though she has never stepped foot into a school till Day 1 in Primary
 1. For this, I am very grateful to all the staff from the OPS Family, especially
 to all the teachers who have guided her over the last 2 years.</p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/11%20Amy%20Hoi.jpg">
+<img style="width: 50%;" height="auto" width="100%" src="/images/11%20Amy%20Hoi.jpg">
 </div>
 <p><strong>Hoi Yun Ying Amy</strong>
 </p>
@@ -188,7 +188,7 @@ in the children, such as being kind to each other in words and actions
 and sharing with each other. I feel very blessed that Evan is growing in
 Oasis. Oasis Primary is more than just a school, it is a part of our family.</p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/12%20Debashis%20Ghosh.jpg">
+<img style="width: 50%;" height="auto" width="100%" src="/images/12%20Debashis%20Ghosh.jpg">
 </div>
 <p><strong>Debashis Aloknath Ghosh</strong>
 </p>
@@ -206,7 +206,7 @@ progress to me frequently.
 that this is the right place for his schooling at a young and impressionable
 age.</p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/13%20Siti%20Fadhilah.jpg">
+<img style="width: 50%;" height="auto" width="100%" src="/images/13%20Siti%20Fadhilah.jpg">
 </div>
 <p><strong>Siti Fadhilah</strong>
 </p>
