@@ -465,11 +465,35 @@ Schools
 </tbody>
 </table>
 <p></p>
-<p>Staff Achievements 2022</p>
+<p><strong>Staff Achievements 2021</strong>
+</p>
+<p>### <strong>2021 National Day Awards</strong>
+</p>
+<p>The Commendation Medal is awarded to a person who has distinguished himself
+through commendable performance and conduct, or significant efficiency,
+competence and devotion to duty.</p>
+<p>The Long Service Medal is awarded to a person who is of irreproachable
+character and whom the President is satisfied has completed at least 25
+years service in the service of the Government.</p>
+<p>&lt;b&gt;&lt;center&gt;The Commendation Medal&lt;/center&gt;&lt;/b&gt;</p>
+<p>&lt;center&gt;Ms Lee Kai Sin&lt;/center&gt;</p>
+<p>&lt;b&gt;&lt;center&gt;The Long Service Medal&lt;/center&gt;&lt;/b&gt;</p>
+<p>&lt;center&gt;Mrs Lee Shi Lin&lt;/center&gt;</p>
+<p>### <strong>MOE Service Excellence Award (MSEA)</strong>
+</p>
+<p>The MOE Service Excellence Award (MSEA) is a MOE-wide Award to encourage
+all MOE staff to continually and consistently serve both internal and external
+customers with excellent service.</p>
+<p>&lt;b&gt;&lt;center&gt;Gold Award&lt;/center&gt;&lt;/b&gt;</p>
+<p>&lt;center&gt;Salwah binte Abdul Rahman Lajam&lt;/center&gt;</p>
+<p>&lt;b&gt;&lt;center&gt;Silver Award &lt;/center&gt;&lt;/b&gt;</p>
+<p>&lt;p&gt;&lt;/p&gt;&lt;center&gt;Fong Zhen Hsiung Pierre &lt;br&gt;</p>
+<p>Sharon Teo Jia Mei &lt;br&gt;</p>
+<p>Asher Mey See &lt;br&gt;</p>
+<p>Noorwanis Binte Amir Noordin&lt;/center&gt;&lt;p&gt;&lt;/p&gt;</p>
+<p><strong>Staff Achievements 2020</strong>
+</p>
 <p></p>
-<p>Staff Achievements 2021</p>
-<p></p>
-<p>Staff Achievements 2020</p>
-<p></p>
-<p>Staff Achievements 2019</p>
+<p><strong>Staff Achievements 2019</strong>
+</p>
 <p></p>
