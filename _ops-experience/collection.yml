@@ -1,5 +1,5 @@
 collections:
-  our-curriculum:
+  ops-experience:
     output: true
     order:
       - Place Based Learning.md
