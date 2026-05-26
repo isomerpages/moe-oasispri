@@ -33,8 +33,8 @@ third_nav_title: Students Achievements
 <p>2025 Raffles Hockey Carnival</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P6 (2nd Runner Up) &amp;</p>
-<p>P5 (1st Place)</p>
+<p>P6 (2nd Runner Up) &amp;
+<br>P5 (1st Place)</p>
 </td>
 </tr>
 <tr>
