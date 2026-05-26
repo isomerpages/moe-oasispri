@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Place Based Learning.md
       - Oasis Learning Experiences.md
       - Learning for Life Programme.md
       - Environmental Sustainability Education.md
