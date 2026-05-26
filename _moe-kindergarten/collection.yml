@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - About Us/.keep
-      - Our Vision, Mission & Values.md
       - Register for MK@Oasis.md
       - Our Team.md
       - Our Curriculum & Programme.md
