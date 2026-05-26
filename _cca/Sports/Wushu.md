@@ -6,7 +6,8 @@ third_nav_title: Sports
 variant: tiptap
 ---
 <p><strong>Strength comes from overcoming obstacles you once thought you could not.</strong>
-<br>Oasis Wushu strives to encourage students to be confident and brave individuals.
+</p>
+<p>Oasis Wushu strives to encourage students to be confident and brave individuals.
 It also inspires students to gain a better understanding and appreciation
 towards Wushu and Chinese culture. Wushu is considered a “performing sport”,
 consisting elements that are characteristic to both sports and performing
