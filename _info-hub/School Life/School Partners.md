@@ -84,8 +84,7 @@ No: 65099557 / 96376416
 </td>
 <td rowspan="2" colspan="1">
 <p><a href="http://btntan.com/" rel="noopener noreferrer nofollow" target="_blank">BT &amp; Tan Transport Pte Ltd</a>
-</p>
-<p>Contact Person: Ms May&nbsp; / Ms Samantha
+<br>Contact Person: Ms May&nbsp; / Ms Samantha
 <br>Tel No: 64837260 (Main Office) / 84841266
 <br>Email:
 <br>1) <a href="mailto:sch2@btntan.com" rel="noopener noreferrer nofollow" target="_blank">sch2@btntan.com</a> (Operation)
