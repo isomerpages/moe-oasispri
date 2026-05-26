@@ -17,34 +17,34 @@ communicate confidently, effectively, and sensitively, and collaborate
 with others to work towards shared goals.</p>
 <p>Therefore, Oasians <strong>ACE</strong> as <strong>Empathetic Communicators</strong>,
 as they are able to:</p>
-<p><strong>A: <u>A</u>ctively</strong> listen to different perspectives</p>
-<p><strong>C: <u>C</u>ommunicate</strong> confidently and sensitively while
-collaborating</p>
-<p><strong>E: <u>E</u>mbody </strong>cultural awareness and foster inclusivity</p>
+<p><strong>A: <u>A</u>ctively</strong> listen to different perspectives
+<br><strong>C: <u>C</u>ommunicate</strong> confidently and sensitively while
+collaborating
+<br><strong>E: <u>E</u>mbody </strong>cultural awareness and foster inclusivity</p>
 <p><strong>(ii)&nbsp; &nbsp;Discerning readers </strong>possess broad worldviews
 by staying well-informed and self-directed in their use of information.
 They are able to distinguish fact from falsehood by processing and evaluating
 information critically.</p>
 <p>Oasians are <strong>WISE</strong>  <strong>Discerning Readers</strong>, as
 they are:</p>
-<p><strong>W: <u>W</u>ell-informed</strong> and self-directed</p>
-<p><strong>I: <u>I</u>nformation</strong> processors and evaluators</p>
-<p><strong>S: <u>S</u>killed</strong> at discerning according to purpose,
-audience, context, and culture (PACC)</p>
-<p><strong>E: <u>E</u>xperts</strong> at distinguishing fact from falsehood</p>
+<p><strong>W: <u>W</u>ell-informed</strong> and self-directed
+<br><strong>I: <u>I</u>nformation</strong> processors and evaluators
+<br><strong>S: <u>S</u>killed</strong> at discerning according to purpose,
+audience, context, and culture (PACC)
+<br><strong>E: <u>E</u>xperts</strong> at distinguishing fact from falsehood</p>
 <p><strong>(iii)&nbsp;&nbsp; Creative inquirers</strong> explore and evaluate
 real-world issues and multiple perspectives, as well as gather and synthesise
 information from diverse print, non-print, and digital sources.</p>
 <p>Therefore, Oasians are inquirers as they:</p>
-<p><strong>I: <u>I</u>nvestigate</strong> real-world issues and multiple perspectives</p>
-<p><strong>N: <u>N</u>avigate</strong> diverse print, non-print, and digital
-sources</p>
-<p><strong>Q: <u>Q</u>uestion</strong> and critically assessing information</p>
-<p><strong>U: <u>U</u>tilise </strong>gathered information effectively</p>
-<p><strong>I: <u>I</u>ntegrate</strong> knowledge from various sources</p>
-<p><strong>R: <u>R</u>eflect </strong>on and evaluate gathered information</p>
-<p><strong>E: <u>E</u>xplore</strong> solutions through collaboration</p>
-<p><strong>R: <u>R</u>esolve</strong> challenges in familiar or new contexts</p>
+<p><strong>I: <u>I</u>nvestigate</strong> real-world issues and multiple perspectives
+<br><strong>N: <u>N</u>avigate</strong> diverse print, non-print, and digital
+sources
+<br><strong>Q: <u>Q</u>uestion</strong> and critically assessing information
+<br><strong>U: <u>U</u>tilise </strong>gathered information effectively
+<br><strong>I: <u>I</u>ntegrate</strong> knowledge from various sources
+<br><strong>R: <u>R</u>eflect </strong>on and evaluate gathered information
+<br><strong>E: <u>E</u>xplore</strong> solutions through collaboration
+<br><strong>R: <u>R</u>esolve</strong> challenges in familiar or new contexts</p>
 <h4><strong>Our Approach:</strong></h4>
 <p>Oasians will establish a strong foundation in the English language through
 experiences of <strong>Discovery</strong>, <strong>Imagination</strong>,
@@ -55,21 +55,18 @@ the language effectively.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/English Language/dlc.png">
 </div>
 <p><strong>Discovery:</strong>
-</p>
-<p>Students’ spirit of inquisitiveness and curiosity will be piqued through
+<br>Students’ spirit of inquisitiveness and curiosity will be piqued through
 the discovery of content from the various reading materials and genres.</p>
 <p>Students’ competencies in communication, contribution, creativity, and
 creation&nbsp;&nbsp; will be developed through the reinforcement and extension
 of language skills such as (i) reading and viewing and (ii) speaking and
 representing.</p>
 <p><strong>Imagination:</strong>
-</p>
-<p>Students’ interest in the English language will be ignited through various
+<br>Students’ interest in the English language will be ignited through various
 literacy and literary programs. These programs provide students with opportunities
 to express their ideas creatively and be inventive in their thinking.</p>
 <p><strong>Change-making:</strong>
-</p>
-<p>Students’ sense of agency and advocacy will be invoked through specially
+<br>Students’ sense of agency and advocacy will be invoked through specially
 curated activities, such as writing notes for their pen pals from other
 schools and communicating effectively with their friends from other countries.</p>
 <div class="isomer-image-wrapper">
@@ -191,8 +188,7 @@ messages. It also fosters creative thinking in our students.</p>
 </p>
 <h4><strong>Key Event 2024</strong></h4>
 <p><strong>Oasis in the World</strong>
-</p>
-<p>Literature Festival cum International Friendship Day 2024</p>
+<br>Literature Festival cum International Friendship Day 2024</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/English Language/Lit Fest/p2top4cover.png">
 </div>
