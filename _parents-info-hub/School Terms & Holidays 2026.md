@@ -4,7 +4,7 @@ permalink: /parents-info-hub/school-terms-n-holidays/
 description: ""
 variant: tiptap
 ---
-<h3>School Calendar 2026</h3>
+<h3><strong>School Calendar 2026</strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -73,7 +73,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3>School Vacation 2026</h3>
+<h3><strong>School Vacation 2026</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -129,7 +129,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3>Scheduled School Holidays 2026</h3>
+<h3><strong>Scheduled School Holidays 2026</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -175,7 +175,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3>Public Holidays 2026</h3>
+<h3><strong>Public Holidays 2026</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
