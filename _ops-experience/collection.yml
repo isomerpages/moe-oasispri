@@ -2,8 +2,6 @@ collections:
   ops-experience:
     output: true
     order:
-      - CCAs/Co Curricular Activities.md
-      - CCAs/.keep
       - Department/.keep
       - Department/Curriculum.md
       - Department/English Language.md
@@ -19,4 +17,6 @@ collections:
       - Learning for Life Programme.md
       - Schedule 2026.md
       - Achievements.md
+      - CCAs/.keep
+      - CCAs/Co Curricular Activities.md
       - Students' Info Hub.md
