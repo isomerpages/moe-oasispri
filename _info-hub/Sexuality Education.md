@@ -4,8 +4,7 @@ permalink: /info-hub/parents-info-hub/sexuality-education/
 description: ""
 variant: tiptap
 ---
-<h4><strong>OASIS PRIMARY SCHOOL</strong></h4>
-<h4><strong>MOE Sexuality Education in Schools</strong></h4>
+<h4><strong>OASIS PRIMARY SCHOOL</strong><br><strong>MOE Sexuality Education in Schools</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>Sexuality Education (SEd) in schools aims to enable students to understand
