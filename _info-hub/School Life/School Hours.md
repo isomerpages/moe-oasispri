@@ -22,29 +22,29 @@ third_nav_title: School Life
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Monday, Tuesday, Thursday &amp; Friday</strong>
+<p><strong>Mondays and Thursdays</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7.30 a.m. - 1.30 p.m.</p>
+<p>7.30am to 1.00pm</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Wednesday</strong>
+<p><strong>Tuesdays, Wednesdays &amp; Fridays</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7.30 a.m. - 1.00 p.m.</p>
+<p>7.30am to 1.30pm</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Tuesday &amp; Friday (CCA)</strong>
+<p><strong>Tuesdays &amp; Fridays (CCA)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.00 p.m. - 4.00 p.m.</p>
+<p>2.00pm to 4.00pm</p>
 </td>
 </tr>
 </tbody>
