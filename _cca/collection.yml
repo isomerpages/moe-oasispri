@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Sports/.keep
-      - Sports/Sports.md
       - Sports/Badminton.md
       - Sports/Hockey (Boys).md
       - Sports/Modular Sports.md
