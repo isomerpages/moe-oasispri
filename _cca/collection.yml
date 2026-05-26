@@ -2,7 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - Schedule 2026.md
       - Sports/.keep
       - Sports/Sports.md
       - Sports/Badminton.md
