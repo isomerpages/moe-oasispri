@@ -44,5 +44,4 @@ description: ""
 </tr>
 </tbody>
 </table>
-<hr>
 <p></p>
