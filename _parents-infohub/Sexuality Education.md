@@ -72,8 +72,8 @@ on the scope of Sexuality Education in the school curriculum.</p>
 </li>
 <li>
 <p>The subjects that incorporate topics on sexuality include:</p>
-<p>a. Science</p>
-<p>b. Character and Citizenship Education (CCE)</p>
+<p>a. Science
+<br>b. Character and Citizenship Education (CCE)</p>
 </li>
 </ol>
 <h4><strong>Sexuality Education Lessons</strong></h4>
@@ -118,7 +118,7 @@ from sexuality-related risks.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>CCE(FTGP) THEME</p>
+<p>CCE (FTGP) THEME</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>LESSON TITLE / DURATION</p>
@@ -179,7 +179,6 @@ affected, even when oneâ€™s body is experiencing changes due to puberty.</p>
 <p></p>
 <p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
 </p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2 Week 5</p>
@@ -199,7 +198,6 @@ own responses when they encounter pornography by applying the strategy <strong>â
 <p></p>
 <p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
 </p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2 Week 6</p>
@@ -218,7 +216,6 @@ and how to seek help for themselves and their friends.</p>
 <p></p>
 <p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
 </p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2 Week 7</p>
@@ -241,7 +238,7 @@ and how to seek help for themselves and their friends.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>CCE(FTGP) THEME</p>
+<p>CCE (FTGP) THEME</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>LESSON TITLE / DURATION</p>
@@ -300,7 +297,6 @@ experiencing feelings of infatuation is part of growing up and becoming
 infatuated with someone does not mean that they should be involved in a
 romantic relationship. Instead, they should focus on building strong and
 healthy friendships with their circles of friends.</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 1 Week 9</p>
@@ -318,7 +314,6 @@ arising from infatuation and recognise the importance of respecting the
 boundaries of any relationship. They will also recognise the negative impact
 of teasing their peers who may be experiencing the feelings of infatuation
 and learn to behave maturely towards each other.</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 1 Week 10</p>
