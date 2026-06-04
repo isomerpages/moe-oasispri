@@ -92,10 +92,10 @@ in life.</p>
 at the school’s TLiM pillars to strengthen their understanding of the 7
 habits through interactive activities and manipulatives.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/cce_photo11a.png">
+<img style="width: 50%;" height="auto" width="100%" src="/images/cce_photo11a.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/cce_photo11b.PNG">
+<img style="width: 50%;" height="auto" width="100%" src="/images/cce_photo11b.PNG">
 </div>
 <h5><strong>TLiM Celebrations</strong></h5>
 <p>During TLiM Celebrations, students will carry out various activities to
@@ -159,15 +159,15 @@ Jing Hang
 Albar
 <br><strong>Sub-area 3</strong>&nbsp;- Lim Pei Yu Trina</p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/LLP/prefect1.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/LLP/prefect1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/LLP/prefect2.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/LLP/prefect2.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/LLP/prefect3.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/LLP/prefect3.jpg">
 </div>
 <h5><strong>Changemaker Projects</strong></h5>
 <p>Our P4 prefects exhibited their critical and creative thinking skills
@@ -180,15 +180,15 @@ limited resources and time, the P4 prefects were able to put up an amazing
 concert successfully to celebrate the joyous day!</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/LLP/changemaker1.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/LLP/changemaker1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/LLP/changemaker2.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/LLP/changemaker2.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/LLP/changemaker3.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/LLP/changemaker3.jpg">
 </div>
 <h5><strong>P5 &amp; P6 Sub-area 1 Prefects Changemaker Project 2023 - Fake or Real</strong></h5>
 <p>Technology becomes part of our lives as society progresses and people
@@ -205,15 +205,15 @@ understanding.</p>
 <p>This project clinched the Silver Award in the National Cyberwellness Advocacy
 Challenge 2024.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/LLP/area1.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/LLP/area1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/LLP/area2.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/LLP/area2.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/LLP/area3.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/LLP/area3.jpg">
 </div>
 <h5><strong>P5 &amp; P6 Sub-area 2 Prefects Changemaker Project 2023 - Trash To Treasure</strong></h5>
 <p>Our sub-area 2 prefects noticed that every year, old or unwanted clothing
@@ -239,23 +239,23 @@ teach the pre-schoolers how they can upcycle their old t-shirts.</p>
 <p>This project clinched the Silver Award in the National Youth Upcycling
 Movement 2023.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/LLP/area_2.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/LLP/area_2.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/LLP/area2b.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/LLP/area2b.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/LLP/area2c.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/LLP/area2c.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/LLP/area2d.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/LLP/area2d.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/LLP/area2e.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/LLP/area2e.jpg">
 </div>
 <h5><strong>P5 &amp; P6 Sub-area 3 Prefects Changemaker Project - A Healthier Me!</strong></h5>
 <p>Our Sub-area 3 Holistic Wellbeing prefects realised that creating awareness
@@ -279,27 +279,27 @@ as difficult as they thought.</p>
 <p>This project achieved the Unity Award in the 14<sup>th</sup> Design For
 Change - Be The Change competition.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/LLP/area_3a.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/LLP/area_3a.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/LLP/area_3b.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/LLP/area_3b.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/LLP/area_3c.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/LLP/area_3c.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/LLP/area_3d.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/LLP/area_3d.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/LLP/area_3e.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/LLP/area_3e.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/LLP/area_3f.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/LLP/area_3f.jpg">
 </div>
 <h5><strong>Achievements</strong></h5>
 <table style="minWidth: 50px">
