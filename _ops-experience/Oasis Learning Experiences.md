@@ -17,14 +17,14 @@ Literature is Alive, Health Funanza, school camps and Student Leadership
 programmes.</p>
 <h4><strong>Championing Changemaking</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/learning%20experience%201.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/learning%20experience%201.png">
 </div>
 <h4><strong>Deepening Discoveries</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/learning%20experience%202.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/learning%20experience%202.png">
 </div>
 <h4><strong>Igniting Imagination</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/learning%20experience%203.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/learning%20experience%203.png">
 </div>
 <p></p>
