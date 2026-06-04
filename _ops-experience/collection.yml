@@ -2,6 +2,7 @@ collections:
   ops-experience:
     output: true
     order:
+      - Oasis Learning Experiences.md
       - Learning for Life Programme.md
       - Curriculum.md
       - Co Curricular Activities.md
