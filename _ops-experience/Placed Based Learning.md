@@ -12,7 +12,7 @@ of technology; facilitates enriched and collaborative learning for students
 to make connections within the school community and beyond. It also promotes
 student agency that engages them with the community through inquiry and
 authentic learning experiences.</p>
-<p>Placed-based Learning is grounded within three phases – school, neighbourhood
+<p>Placed-based Learning is grounded within three phases - school, neighbourhood
 and community.</p>
 <table style="minWidth: 75px">
 <colgroup>
