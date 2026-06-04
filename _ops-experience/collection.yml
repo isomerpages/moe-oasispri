@@ -2,5 +2,5 @@ collections:
   ops-experience:
     output: true
     order:
-      - Department.md
+      - Curriculum.md
       - Co Curricular Activities.md
