@@ -14,6 +14,6 @@ Primary School.</p>
 <p><a href="https://www.youtube.com/watch?v=0JFsOF0ovAs" rel="noopener nofollow" target="_blank">Video on Environmental Sustainability</a>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/sustainability_challenge_2024.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/sustainability_challenge_2024.jpg">
 </div>
 <p></p>
