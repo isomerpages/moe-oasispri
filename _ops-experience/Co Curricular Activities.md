@@ -4,7 +4,6 @@ permalink: /co-curricular-activities/
 variant: tiptap
 description: ""
 ---
-<hr>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -83,5 +82,4 @@ description: ""
 </tr>
 </tbody>
 </table>
-<hr>
 <p></p>

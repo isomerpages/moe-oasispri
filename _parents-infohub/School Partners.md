@@ -1,6 +1,6 @@
 ---
 title: School Partners
-permalink: /parents-info-hub/school-partners/
+permalink: /parents-infohub/school-partners/
 description: ""
 variant: tiptap
 ---

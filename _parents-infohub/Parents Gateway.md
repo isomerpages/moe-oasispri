@@ -1,6 +1,6 @@
 ---
 title: Parents Gateway
-permalink: /parents-info-hub/parents-gateway/
+permalink: /parents-infohub/parents-gateway/
 variant: tiptap
 description: ""
 ---

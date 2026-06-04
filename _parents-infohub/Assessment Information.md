@@ -1,6 +1,6 @@
 ---
 title: Assessment Information
-permalink: /parents-info-hub/assessment-information/
+permalink: /parents-infohub/assessment-information/
 description: ""
 variant: tiptap
 ---

@@ -1,6 +1,6 @@
 ---
 title: School Hours
-permalink: /parents-info-hub/school-hours/
+permalink: /parents-infohub/school-hours/
 description: ""
 variant: tiptap
 ---

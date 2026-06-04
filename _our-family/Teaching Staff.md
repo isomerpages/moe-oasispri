@@ -77,7 +77,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Ms Cassandra Goh, Mdm Ivy Choi</p>
+<p>Ms Cassandra Goh</p>
 </td>
 </tr>
 <tr>

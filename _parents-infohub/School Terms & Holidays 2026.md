@@ -1,6 +1,6 @@
 ---
 title: School Terms & Holidays 2026
-permalink: /parents-info-hub/school-terms-n-holidays/
+permalink: /parents-infohub/school-terms-n-holidays/
 description: ""
 variant: tiptap
 ---

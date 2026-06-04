@@ -1,6 +1,6 @@
 ---
 title: Applications Forms
-permalink: /parents-info-hub/applications-forms/
+permalink: /parents-infohub/applications-forms/
 variant: tiptap
 description: ""
 ---
