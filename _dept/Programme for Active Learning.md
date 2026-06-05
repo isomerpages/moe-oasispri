@@ -31,6 +31,6 @@ is a term-long series of weekly lessons that are age-appropriate and contextuali
 in different learning domains to enable student to espouse socio-emotional
 competencies such as respecting others and responsible decision making.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PAL%20Modules.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/PAL%20Modules.png">
 </div>
 <p></p>
