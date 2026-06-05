@@ -5,4 +5,3 @@ description: ""
 variant: tiptap
 ---
 <p></p>
-<p></p>
