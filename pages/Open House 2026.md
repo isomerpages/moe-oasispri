@@ -7,7 +7,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Banner/openhousee_brochure2026.png">
 </div>
-<h4><strong>Open House 2026</strong><br></h4>
+<h4><strong>Open House 2026</strong></h4>
 <p>Join us at our Open House to learn more about our school programmes and
 what we offer our K2 prospective students and parents.
 <br>
