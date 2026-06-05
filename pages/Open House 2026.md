@@ -18,8 +18,8 @@ what we offer our K2 prospective students and parents.
 <p><strong>Fireside Chat</strong>*
 <br>Join the dialogue with School Leaders on our vision for learning and <em>changemaking</em>,
 featuring student leaders and insights from our Parent Support Group on
-the power of partnership in shaping every child’s learning journey.</p>
-<p><strong>3.10pm - 3.30pm</strong>
+the power of partnership in shaping every child’s learning journey.
+<br><strong>3.10pm - 3.30pm</strong>
 <br><strong>4.00pm - 4.20pm</strong>
 </p>
 <p><strong>*</strong>Registration required. Please scan the QR code to register.</p>
