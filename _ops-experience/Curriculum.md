@@ -1,6 +1,6 @@
 ---
-title: Department
-permalink: /department/
+title: Curriculum
+permalink: /curriculum/
 variant: tiptap
 description: ""
 ---

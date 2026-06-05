@@ -210,6 +210,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Head of Department (Physical Education)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Jennifer Yeo</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Subject Head (Physical Education &amp; Co-Curricular Activities)</strong>
 </p>
 </td>
