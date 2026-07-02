@@ -86,7 +86,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Ms Ong Wei Peng, Ms April Chua</p>
+<p>Mrs Ada Chung, Mdm Evon Tan</p>
 </td>
 </tr>
 <tr>
@@ -104,7 +104,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Ms Beryl Ng</p>
+<p>Ms Beryl Ng, Mdm Yong Jui Lin, Ms Teoh Hooi Huang</p>
 </td>
 </tr>
 <tr>
@@ -201,7 +201,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Ms Teo Mei Geok, Mdm Nurmah, Mdm Lu Jing</p>
+<p>Mdm Nurmah, Mdm Lu Jing, Mdm Wang Yuwei</p>
 </td>
 </tr>
 <tr>
@@ -271,7 +271,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mrs Chia Wan Yu, Ms Zheng Rui, Mdm Ng Guek Hua</p>
+<p>Mrs Chia Wan Yu, Ms Zheng Rui, Ms Wang Xiaomin</p>
 </td>
 </tr>
 <tr>
@@ -359,7 +359,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Ms Siti Liyana, Mr Yeo Yungsen, Ms Christina</p>
+<p>Ms Siti Liyana, Mr Yeo Yungsen, Mdm Daylili Koh</p>
 </td>
 </tr>
 <tr>
@@ -377,7 +377,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Ms Goh Wan Yu, Mrs Madeline Chew</p>
+<p>Ms Goh Wan Yu, Mdm Syahirah, Ms Christina</p>
 </td>
 </tr>
 <tr>
@@ -386,7 +386,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mrs Ann Tan</p>
+<p>Mrs Ann Tan, Mdm Celeste Yap</p>
 </td>
 </tr>
 <tr>
@@ -395,7 +395,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Ms Ng Choon Tee, Mdm Safiah, Mdm Koh Peiling</p>
+<p>Ms Ng Choon Tee, Mdm Safiah</p>
 </td>
 </tr>
 <tr>
