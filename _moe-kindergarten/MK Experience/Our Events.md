@@ -28,7 +28,7 @@ to Primary&nbsp;<strong><em>1</em></strong>&nbsp;(P1).</p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/hcxMR0E7BIk?si=PcmOc2goY3wil8DJ"></iframe>
 </div>
-<h4><strong>Special Events in Semester Two 2025</strong></h4>
+<h4><strong>Special Events in Semester Two 2026</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mkoasis/Our Events 2025/1__Earth_Week_2025.png">
 </div>
