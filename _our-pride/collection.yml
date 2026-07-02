@@ -4,12 +4,8 @@ collections:
     order:
       - In the News/.keep
       - In the News/Minister Visit.md
-      - Students Achievements/.keep
-      - Students Achievements/Achievements 2025.md
-      - Students Achievements/Achievements 2024.md
-      - Students Achievements/Achievements 2023.md
-      - Staff Achievements/.keep
-      - Staff Achievements/Achievements 2024.md
-      - Staff Achievements/Achievements 2023.md
-      - Staff Achievements/Achievements 2022.md
+      - Staff Achievement/.keep
+      - Staff Achievement/2023 to 2026.md
+      - Students Achievement/.keep
+      - Students Achievement/2023 to 2026.md
       - Parents' Voices.md
