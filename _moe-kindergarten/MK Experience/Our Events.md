@@ -30,16 +30,19 @@ to Primary&nbsp;<strong><em>1</em></strong>&nbsp;(P1).</p>
 </div>
 <h4><strong>Special Events in Semester One 2026</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Mkoasis/Our Events 2025/Book_Week_2026.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Mkoasis/Our Events 2025/1.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Mkoasis/Our Events 2025/CNY_POSTER.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mkoasis/Our Events 2025/2.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Mkoasis/Our Events 2025/Dragon_Boat__Festival_2026.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Mkoasis/Our Events 2025/3.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Mkoasis/Our Events 2025/TTD_2026_Poster___faces_covered.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Mkoasis/Our Events 2025/4.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Mkoasis/Our Events 2025/5.png">
 </div>
 <h4><strong>Special Events in Semester One 2025</strong></h4>
 <div class="isomer-image-wrapper">
