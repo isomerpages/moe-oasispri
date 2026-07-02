@@ -1,0 +1,205 @@
+---
+title: Achievements 2024
+permalink: /our-pride/students-achievements/achievements-2024/
+variant: tiptap
+description: ""
+third_nav_title: Student Achievements
+---
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Department</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Competition</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Award</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="15" colspan="1">
+<p><strong>CCA</strong>
+</p>
+<p><strong><br></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF Arts Presentation - Contemporary Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SYF Arts Presentation - Guitar Ensemble</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SYF Arts Presentation - Guzheng Ensemble</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024 NSG Hockey (Junior 1 - P4)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tier 1 - National Champions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024 NSG Hockey (Junior 2 - P5)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tier 1 - National Champions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024 NSG Hockey Seniors</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tier 1 - 4th placing</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024 Raffles Institution Hockey Carnival - P5s</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st placing</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>AKELA Award Interview for the P6 Senior Sixers Cub Scouts</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>17 Award Recipients</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Primary Schools Sport Climbing Championships (NPSSCC) 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Junior Girls Division (Speed)
+<br>8th placing</p>
+<p>Junior Boys Division (Speed)
+<br>4th placing</p>
+<p>Senior Boys Division (Speed)
+<br>4th placing
+<br>8th placing</p>
+<p>Junior Girls Division (Bouldering)
+<br>7th placing</p>
+<p>Junior Boys Division (Speed)
+<br>6th placing</p>
+<p>Junior Boys Division (Top Rope)
+<br>4th placing</p>
+<p>Novice Division Silver Achievement Pins Bronze Achievement Pins</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>“We Love Our Planet” Storytelling Contest 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 5 Finalist Award
+<br>• Nathaniel Navin Raj
+<br>(5 Loyalty)
+<br>Merit Award</p>
+<p>• Izz Rayyan Bin Muhammad Taib
+<br>(6 Resilience)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Primary Games Creation and Coding Competition 2024 (NPGC3 2024)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>IDE2024 Competition IDE Sumobot</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024 D Show (Dance Exchange) @ Yu Neng Primary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024 SYF Celebrations @ Gardens by the Bay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024 Public Service Week (PSW) Opening Event @ ITE AMK</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p><strong>Mathematics</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Mathematical Olympiad for Primary Schools 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze Award (3)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Mathematical Olympiad of Singapore 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze Award (7)
+<br>Honourable Mention (16)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Raffles Institution Primary Mathematics World Contest 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction (4)
+<br>Merit Award (8)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
