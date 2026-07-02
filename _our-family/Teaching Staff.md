@@ -201,7 +201,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Ms Teo Mei Geok, Mdm Nurmah, Mdm Lu Jing</p>
+<p>Mdm Nurmah, Mdm Lu Jing, Mdm Wang Yuwei</p>
 </td>
 </tr>
 <tr>
