@@ -5,6 +5,22 @@ variant: tiptap
 description: ""
 third_nav_title: MK Experience
 ---
+<h4><strong>Special Events in Semester One 2026</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Mkoasis/Our Events 2025/1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mkoasis/Our Events 2025/2.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Mkoasis/Our Events 2025/3.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Mkoasis/Our Events 2025/4.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Mkoasis/Our Events 2025/5.png">
+</div>
 <h4><strong>On-going Transition to P1 Programme in MK@Oasis</strong></h4>
 <p><strong><em>The transition from preschool to primary school is one of the largest and most important changes children have to encounter &amp; manage at that age.</em></strong>
 <br><em>Fabian &amp; Dunlop, 2006</em>
@@ -27,34 +43,5 @@ in planned (structured) activities and routines.</p>
 to Primary&nbsp;<strong><em>1</em></strong>&nbsp;(P1).</p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/hcxMR0E7BIk?si=PcmOc2goY3wil8DJ"></iframe>
-</div>
-<h4><strong>Special Events in Semester One 2026</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Mkoasis/Our Events 2025/1.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mkoasis/Our Events 2025/2.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Mkoasis/Our Events 2025/3.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Mkoasis/Our Events 2025/4.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Mkoasis/Our Events 2025/5.png">
-</div>
-<h4><strong>Special Events in Semester One 2025</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Mkoasis/Our Events 2025/ourevents1.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mkoasis/Our Events 2025/ourevents2.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mkoasis/Our Events 2025/ourevents3.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mkoasis/Our Events 2025/ourevents4.png">
 </div>
 <p></p>
