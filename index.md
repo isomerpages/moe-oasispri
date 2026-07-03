@@ -23,6 +23,7 @@ sections:
       button: Click here
       url: https://online.fliphtml5.com/cjnla/slbu/
       alt: Image alt text
+      image: /images/Banner/ops_chinese_publication.jpg
   - infopic:
       id: infopic
       button: Click here
