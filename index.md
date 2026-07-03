@@ -18,7 +18,7 @@ sections:
       button: Click here
       url: /open-house-2026/
   - infopic:
-      title: OPS Chinese Publicatiom 2025-2026
+      title: OPS Chinese Publication 2025-2026
       id: infopic
       button: Click here
       url: https://online.fliphtml5.com/cjnla/slbu/
