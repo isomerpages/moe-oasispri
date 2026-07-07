@@ -359,7 +359,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Ms Siti Liyana, Mr Yeo Yungsen, Mdm Daylili Koh</p>
+<p>Ms Siti Liyana, Mr Yeo Yungsen, Mdm Daylily Koh</p>
 </td>
 </tr>
 <tr>
