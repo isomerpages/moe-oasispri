@@ -77,7 +77,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Ms Cassandra Goh</p>
+<p>Mrs Ada Chung, Mdm Evon Tan</p>
 </td>
 </tr>
 <tr>
@@ -86,7 +86,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mrs Ada Chung, Mdm Evon Tan</p>
+<p>Ms Ong Wei Peng, Ms April Chua Hui Lee</p>
 </td>
 </tr>
 <tr>
